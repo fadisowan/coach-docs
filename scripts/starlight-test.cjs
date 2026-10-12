@@ -48,7 +48,7 @@ const server = remote ? null : http.createServer((req,res) => {
       assert.ok(anchors,'TOC '+slug);
     }
     await page.goto(base+'components/');
-    assert.equal(await page.locator('.component-card').count(),48);
+    assert.equal(await page.locator('.component-card').count(),47);
     await page.screenshot({path:'../coach-components-mobile.png'});
     await page.locator('.component-card').first().locator('img').click();
     assert.ok(page.url().includes('01-coach-hero'));
@@ -78,6 +78,6 @@ const server = remote ? null : http.createServer((req,res) => {
     await page.goto(base+'docs/01-colors/');
     await page.screenshot({path:'../starlight-dark.png'});
     assert.deepEqual(errors,[]);
-    console.log(JSON.stringify({base,pages:64,components:48,settingsAndShared:13,decodedImages:assets.length,missingImages:0,searchArabic:true,searchSettingId:true,mobileOverflow:false,lightbox:true,consoleErrors:errors}));
+    console.log(JSON.stringify({base,pages:63,components:47,settingsAndShared:13,decodedImages:assets.length,missingImages:0,searchArabic:true,searchSettingId:true,mobileOverflow:false,lightbox:true,consoleErrors:errors}));
   }finally{await browser.close();server?.close();}
 })().catch(error=>{console.error(error);server?.close();process.exitCode=1;});

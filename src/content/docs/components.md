@@ -1,10 +1,10 @@
 ---
 title: "كل مكوّنات ثيم كوتش"
-description: "تصفّح المكوّنات الـ٤٨ كاملة. اختر المكوّن لمشاهدة شرح إعداداته وصور الكمبيوتر والجوال."
+description: "تصفّح المكوّنات الـ٤٧ كاملة. اختر المكوّن لمشاهدة شرح إعداداته وصور الكمبيوتر والجوال."
 editUrl: false
 ---
 
-تصفّح المكوّنات الـ٤٨ كاملة. اختر المكوّن لمشاهدة شرح إعداداته وصور الكمبيوتر والجوال.
+تصفّح المكوّنات الـ٤٧ كاملة. اختر المكوّن لمشاهدة شرح إعداداته وصور الكمبيوتر والجوال.
 
 <div class="component-catalog">
 <a class="component-card" href="/coach-docs/docs/01-coach-hero/"><img src="/coach-docs/assets/sections/01-coach-hero/00-desktop.webp" alt="معاينة واجهة · ترحيب المدرّب" loading="lazy" decoding="async"/><strong>واجهة · ترحيب المدرّب</strong><span>ترحيب شخصي أول الصفحة: صورتك داخل قوس، وشارة وعنوان ونبذة، وزر وفيديو، وثلاثة أرقام، وبطاقة تقييم وبطاقة برنامجك الأكثر طلباً.</span><small>عرض الشرح والإعدادات ←</small></a>
@@ -34,7 +34,6 @@ editUrl: false
 <a class="component-card" href="/coach-docs/docs/25-coach-audience/"><img src="/coach-docs/assets/sections/25-coach-audience/00-desktop.webp" alt="معاينة دورة · لمن هذا البرنامج" loading="lazy" decoding="async"/><strong>دورة · لمن هذا البرنامج</strong><span>بطاقات تصف من يناسبه برنامجك: صورة وعنوان وسطر لكل فئة.</span><small>عرض الشرح والإعدادات ←</small></a>
 <a class="component-card" href="/coach-docs/docs/26-coach-book-shelf/"><img src="/coach-docs/assets/sections/26-coach-book-shelf/00-desktop.webp" alt="معاينة كتب · رفّ الكتب" loading="lazy" decoding="async"/><strong>كتب · رفّ الكتب</strong><span>كتبك واقفة على رف من منتجات متجرك، بأسعارها وزر الإضافة.</span><small>عرض الشرح والإعدادات ←</small></a>
 <a class="component-card" href="/coach-docs/docs/27-coach-book-toc/"><img src="/coach-docs/assets/sections/27-coach-book-toc/00-desktop.webp" alt="معاينة كتب · فهرس الكتاب" loading="lazy" decoding="async"/><strong>كتب · فهرس الكتاب</strong><span>فصول كتابك بأرقام صفحاتها، مع الكتاب بغلافه وسعره وزر إضافته، وزر لقراءة العيّنة. ويمكن فتح مقتطف من الفصول المجانية داخل الصفحة.</span><small>عرض الشرح والإعدادات ←</small></a>
-<a class="component-card" href="/coach-docs/docs/28-coach-book-quotes/"><img src="/coach-docs/assets/sections/28-coach-book-quotes/00-desktop.webp" alt="معاينة كتب · اقتباسات من الكتاب" loading="lazy" decoding="async"/><strong>كتب · اقتباسات من الكتاب</strong><span>جمل من صفحات كتابك في بطاقات، مع الفصل والصفحة.</span><small>عرض الشرح والإعدادات ←</small></a>
 <a class="component-card" href="/coach-docs/docs/29-coach-audio-sample/"><img src="/coach-docs/assets/sections/29-coach-audio-sample/00-desktop.webp" alt="معاينة كتب · عيّنة صوتية" loading="lazy" decoding="async"/><strong>كتب · عيّنة صوتية</strong><span>كتاب واحد بعيّنة صوتية يسمعها الزائر في الصفحة، بصورته ومزاياه وسعره وزر إضافته.</span><small>عرض الشرح والإعدادات ←</small></a>
 <a class="component-card" href="/coach-docs/docs/30-coach-book-series/"><img src="/coach-docs/assets/sections/30-coach-book-series/00-desktop.webp" alt="معاينة كتب · سلسلة الكتب" loading="lazy" decoding="async"/><strong>كتب · سلسلة الكتب</strong><span>كتب السلسلة بالترتيب بصورها وأسعارها، وبطاقة «السلسلة كاملة» بتوفيرها الحقيقي من منتج المجموعة.</span><small>عرض الشرح والإعدادات ←</small></a>
 <a class="component-card" href="/coach-docs/docs/31-coach-bundle/"><img src="/coach-docs/assets/sections/31-coach-bundle/00-desktop.webp" alt="معاينة عروض · يُشترى معاً" loading="lazy" decoding="async"/><strong>عروض · يُشترى معاً</strong><span>منتجان أو ثلاثة جنباً إلى جنب بمجموع أسعارها، وزر يضيفها كلها للسلة. للخصم فعّل عرض «اشترِ معاً» في سلة.</span><small>عرض الشرح والإعدادات ←</small></a>

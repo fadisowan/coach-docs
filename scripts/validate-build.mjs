@@ -3,8 +3,9 @@ import path from 'node:path';
 import assert from 'node:assert/strict';
 import { createHash } from 'node:crypto';
 const nav = JSON.parse(fs.readFileSync('data.json', 'utf8'));
+const retired = JSON.parse(fs.readFileSync('retired-components.json','utf8')).map(entry=>entry.slug);
 const inventory = JSON.parse(fs.readFileSync('source-docs/manifest.json','utf8'));
-assert.deepEqual(inventory.units.map(unit=>unit.folder.split('/').at(-1)).sort(), nav.map(entry=>entry.slug).sort(), 'All original documentation units must be published');
+assert.deepEqual(inventory.units.map(unit=>unit.folder.split('/').at(-1)).filter(slug=>!retired.includes(slug)).sort(), nav.map(entry=>entry.slug).sort(), 'All original documentation units must be published');
 const files = ['index.html', '404.html', 'components/index.html', 'settings/index.html', ...nav.map(entry => `docs/${entry.slug}/index.html`)];
 let links = 0, images = 0;
 const referencedAssets = new Set();
@@ -31,7 +32,7 @@ const hash = file => createHash('sha256').update(fs.readFileSync(file)).digest('
 const assets = fs.readdirSync('assets', {recursive:true}).filter(file => file.endsWith('.webp'));
 for (const file of assets) {
   assert.equal(hash(path.join('assets',file)), hash(path.join('dist/assets',file)), file);
-  assert.ok(referencedAssets.has('assets/'+file.replaceAll('\\','/')), `Original image is not displayed anywhere: ${file}`);
+  assert.ok(retired.some(slug=>file.replaceAll('\\','/').startsWith('sections/'+slug+'/')) || referencedAssets.has('assets/'+file.replaceAll('\\','/')), `Original image is not displayed anywhere: ${file}`);
 }
 const flatten = fields => fields.flatMap(field => [field, ...flatten(field.item_fields || [])]);
 let manifestPairs=0, manifestFields=0;
@@ -53,8 +54,9 @@ for (const entry of nav) {
   }
   for(const [url,count] of expected) assert.ok(html.split(`src="${url}"`).length-1>=count,`${entry.slug}: incomplete image mapping ${url}`);
 }
-assert.equal(nav.filter(entry=>entry.category==='مكوّنات الصفحة الرئيسية').length,48);
-assert.equal((fs.readFileSync('dist/components/index.html','utf8').match(/class="component-card"/g)||[]).length,48);
+assert.equal(nav.filter(entry=>entry.category==='مكوّنات الصفحة الرئيسية').length,47);
+assert.equal((fs.readFileSync('dist/components/index.html','utf8').match(/class="component-card"/g)||[]).length,47);
 assert.equal((fs.readFileSync('dist/settings/index.html','utf8').match(/class="component-card"/g)||[]).length,13);
+for(const slug of retired) assert.ok(!fs.existsSync(`dist/docs/${slug}/index.html`),'Retired page must not be published');
 assert.ok(fs.existsSync('dist/pagefind/pagefind.js'), 'Missing full text search index');
-console.log(JSON.stringify({builtPages:files.length,internalReferences:links,imageReferences:images,preservedOriginalImages:assets.length,manifestFields,manifestPairs,missingImages:0,components:48}));
+console.log(JSON.stringify({builtPages:files.length,internalReferences:links,imageReferences:images,preservedOriginalImages:assets.length,manifestFields,manifestPairs,missingImages:0,components:47}));

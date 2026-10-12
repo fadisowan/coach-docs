@@ -23,7 +23,7 @@ npm run preview
 - `src/content/docs/index.mdx`: الصفحة الرئيسية.
 - `src/content/docs/docs/*.md`: الشروحات الـ٦١، قابلة للتحرير مباشرة.
 - `src/content/docs/404.md`: صفحة الخطأ العربية.
-- `src/content/docs/components.md`: فهرس مرئي للمكوّنات الـ٤٨ كلها.
+- `src/content/docs/components.md`: فهرس مرئي للمكوّنات الـ٤٧ كلها.
 - `src/content/docs/settings.md`: فهرس الإعدادات العامة والخيارات المشتركة.
 - `source-docs/`: ملفات README وmanifest الأصلية للحزم الخمس؛ تعتمد مطابقة الصور على manifest لأن بعض روابط README تستخدم أسماء بديلة غير موجودة.
 - `src/styles/custom.css`: الهوية وتنسيق المقالات والصور والجوال.
@@ -51,3 +51,5 @@ GitHub Pages مضبوط على GitHub Actions. كل Push إلى `main` يشغّ�
 جرت مطابقة الإعدادات الـ٨١٩ وأزواج اللوحات والنتائج الـ١٠٠٠ مع ملفات المصدر. بعض الإعدادات تشترك في معاينة مرجعية يحدّدها manifest؛ تُعرض ملاحظة أسفل المعاينة المشتركة دون اختلاق لقطة جديدة أو حذف الشرح الأصلي. تفاصيل التغطية في `image-coverage.json`.
 
 `scripts/restore-manifest-images.mjs` أداة تصحيح الاستيراد الأولي، وليست جزءًا من البناء المعتاد. `scripts/create-catalogs.mjs` يعيد توليد صفحات الفهارس من ملفات المصدر.
+
+مكوّن «كتب · اقتباسات من الكتاب» ملغى من الموقع والقوائم والبحث؛ ملفه محفوظ في `archived/` إلى حين توفير البديل. قائمة المكوّنات الملغاة في `retired-components.json`.

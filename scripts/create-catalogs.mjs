@@ -2,7 +2,7 @@ import fs from 'node:fs';
 const nav=JSON.parse(fs.readFileSync('data.json','utf8'));
 const escape=text=>text.replaceAll('&','&amp;').replaceAll('"','&quot;').replaceAll('<','&lt;');
 for (const [slug,title,category,description] of [
-  ['components','كل مكوّنات ثيم كوتش','مكوّنات الصفحة الرئيسية','تصفّح المكوّنات الـ٤٨ كاملة. اختر المكوّن لمشاهدة شرح إعداداته وصور الكمبيوتر والجوال.'],
+  ['components','كل مكوّنات ثيم كوتش','مكوّنات الصفحة الرئيسية','تصفّح المكوّنات الـ٤٧ كاملة. اختر المكوّن لمشاهدة شرح إعداداته وصور الكمبيوتر والجوال.'],
   ['settings','الإعدادات العامة والخيارات المشتركة',null,'كل إعدادات الثيم في مكان واحد: الهوية والحركة والتنقل والمنتجات، بالإضافة إلى الخيارات المشتركة بين الأقسام.']
 ]) {
   const entries=nav.filter(entry=>category?entry.category===category:entry.category!=='مكوّنات الصفحة الرئيسية');
