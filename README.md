@@ -1,30 +1,46 @@
-# Coach Docs — دليل ثيم كوتش
+# دليل كوتش — Astro Starlight
 
-موقع توثيق عربي RTL ثابت، يحتوي على جميع ملفات README الخاصة بالأقسام والإعدادات والصور الأصلية.
+التوثيق العربي لثيم Coach على منصة سلة، مبني باستخدام Astro وStarlight مع RTL وبحث Pagefind محلي.
 
-## النشر على GitHub Pages
+الموقع: https://fadisowan.github.io/coach-docs/
 
-1. ارفع **محتويات هذا المجلد** إلى جذر المستودع `fadisowan/coach-docs` (وليس الملف المضغوط).
-2. GitHub → Settings → Pages → Build and deployment → Source: **GitHub Actions**.
-3. ينفّذ `.github/workflows/pages.yml` التحقق ثم ينشر الملفات العامة تلقائيًا عند الدفع إلى `main`.
-4. انتظر نجاح عملية النشر وتحقق من `https://fadisowan.github.io/coach-docs/`.
+## التطوير والبناء
 
-> جميع الروابط مبنية على المسار `/coach-docs/`. عند تغيير اسم المستودع، يجب تعديل المسارات في ملفات HTML و`COACH_BASE`.
+يتطلب Node.js 24 أو إصدارًا متوافقًا مع Astro.
 
-## محتوى المشروع
+```sh
+npm ci
+npm run dev
+npm run build
+node scripts/validate-build.mjs
+npm run preview
+```
 
-- `index.html`: الفهرس
-- `docs/`: صفحة مستقلة لكل مكوّن وإعداد
-- `assets/`: صور WebP الأصلية منفصلة
-- `style.css`, `app.js`: التصميم والبحث والتنقل وتكبير الصور
+افتح المسار `/coach-docs/` من خادم التطوير أو المعاينة.
 
-لا يحتوي هذا المشروع على كود الثيم التجاري أو ملفات ZIP الأصلية.
+## تحرير المحتوى
 
-## التحقق والصور الأصلية
+- `src/content/docs/index.mdx`: الصفحة الرئيسية.
+- `src/content/docs/docs/*.md`: الشروحات الـ٦١، قابلة للتحرير مباشرة.
+- `src/content/docs/404.md`: صفحة الخطأ العربية.
+- `src/styles/custom.css`: الهوية وتنسيق المقالات والصور والجوال.
+- `astro.config.mjs`: RTL والعربية والقائمة ومسار GitHub Pages.
+- `assets/`: الصور الأصلية؛ تُنسخ إلى `public/assets/` عند البناء دون تغيير.
+- `docs/` وملفات HTML وCSS القديمة محفوظة كمرجع أصلي ولا تُنشر مع Starlight.
+- `scripts/migrate-starlight.mjs`: أداة الاستيراد الأولي من HTML؛ لا تعمل أثناء البناء حتى لا تستبدل تحرير Markdown لاحقًا.
 
-- ٦٢ صفحة، منها ٦١ صفحة توثيق، و١٥٨٥ صورة أصلية محفوظة دون تغيير.
-- تحتوي الحزمة الأصلية على ٢٤٦ موضعًا لصورة غير مرفقة ضمن ٢٣٦ صفًا. أبقينا التنبيهات الأصلية دون اختلاق صور بديلة؛ التفاصيل في `missing-images.json`.
-- `node scripts/validate.mjs`: يفحص العربية وRTL ومسارات الصفحات وملفات الصور وفهرس البحث. ينفّذ تلقائيًا قبل كل نشر.
-- `node scripts/prepare.mjs`: يحدّث التحسينات وفهرس البحث والتقرير بعد تعديل المحتوى.
-- `node scripts/browser-test.cjs`: يفحص البحث والتنقل وتكبير الصور وجميع الصفحات بعرض الجوال، ويفك ترميز كل الصور فعليًا. يتطلب Playwright ومتصفح Edge؛ يمكن تحديد مسار حزمة Playwright عبر `PLAYWRIGHT_PATH`.
-- لاختبار النسخة المنشورة: `node scripts/browser-test.cjs https://fadisowan.github.io/coach-docs/`.
+## النشر
+
+GitHub Pages مضبوط على GitHub Actions. كل Push إلى `main` يشغّل `.github/workflows/pages.yml` لتثبيت الحزم بملف القفل، وبناء Starlight وفهرس البحث، وفحص الروابط والصور، ونشر `dist/`.
+
+يحافظ الموقع على روابط `/coach-docs/docs/<slug>/` السابقة.
+
+## التحقق والمحتوى الأصلي
+
+- `node scripts/validate.mjs`: يفحص ملفات المصدر الأصلية.
+- `node scripts/validate-build.mjs`: يفحص العربية وRTL وكل المراجع الداخلية والمراسي في النسخة المبنية، ويقارن بصمات الصور الأصلية مع الناتج.
+- `node scripts/starlight-test.cjs`: اختبار متصفح محلي للبحث بالعربية وبمعرّف الإعداد، والتنقل وتكبير الصور والجوال وفك ترميز جميع الصور.
+- `node scripts/starlight-test.cjs https://fadisowan.github.io/coach-docs/`: الاختبار نفسه على الموقع المنشور.
+- اختبار المتصفح يحتاج Playwright وEdge على Windows؛ يمكن تحديد مسار حزمة Playwright عبر `PLAYWRIGHT_PATH`.
+
+حُفظت الصور الأصلية الـ١٥٨٥ والشروحات جميعها. الحزمة الأصلية تفتقد صورًا في ٢٤٦ موضعًا ضمن ٢٣٦ صفًا؛ تبقى تنبيهاتها واضحة، وتفاصيلها في `missing-images.json`. لم تُختلق صور بديلة ولم يُحذف شرح أصلي.
