@@ -1,0 +1,693 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="ar"><head><meta charset="utf-8"/><meta content="width=device-width,initial-scale=1" name="viewport"/><meta content="دليل استخدام ثيم كوتش لمنصة سلة: واجهة · ترحيب المدرّب" name="description"/><title>واجهة · ترحيب المدرّب | دليل كوتش</title><link href="/coach-docs/style.css" rel="stylesheet"/></head><body><a class="skip-link" href="#main-content">تجاوز إلى المحتوى</a><header class="top"><div style="display:flex;align-items:center;gap:14px"><button class="mobilemenu" id="menu">☰ القائمة</button><a class="brand" href="/coach-docs/">✦ كوتش <em>الدليل</em></a></div><div class="topright"><span>توثيق ثيم كوتش</span><span class="pill">الإصدار 1.55.1</span></div></header><div class="layout"><aside><input aria-label="بحث في التوثيق" class="search" id="search" placeholder="ابحث عن مكوّن أو إعداد…"/><nav class="nav" id="sidebar-nav"></nav></aside><main class="main" id="main-content"><div class="crumb"><a href="/coach-docs/">الرئيسية</a> / مكوّنات الصفحة الرئيسية</div><span class="pill">مكوّنات الصفحة الرئيسية</span><div class="article"><h1>واجهة · ترحيب المدرّب</h1>
+<p>اسمه في المتجر الإنجليزي: <em>Hero · Coach welcome</em> · مساره <code>home.coach-hero</code></p>
+<p><strong>ما يعرضه:</strong> ترحيب شخصي أول الصفحة: صورتك داخل قوس، وشارة وعنوان ونبذة، وزر وفيديو، وثلاثة أرقام، وبطاقة تقييم وبطاقة برنامجك الأكثر طلباً.</p>
+<p><strong>متى تضيفه:</strong> أول قسم في الرئيسية لمدرّب يقدّم نفسه بصورته.</p>
+<table>
+<thead>
+<tr>
+<th>كمبيوتر (1440)</th>
+<th>جوال (390)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img alt="معاينة النتيجة — واجهة · ترحيب المدرّب" src="/coach-docs/assets/sections/01-coach-hero/00-desktop.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة الجوال — واجهة · ترحيب المدرّب" src="/coach-docs/assets/sections/01-coach-hero/00-mobile.webp" loading="lazy" decoding="async"/></td>
+</tr>
+</tbody>
+</table>
+<p>خيارات مشتركة في هذا القسم، مشروحة مرة واحدة في <code>../../01-shared/</code>: «حجم العنوان»، «المسافة العلوية (بكسل)»، «المسافة السفلية (بكسل)».</p>
+<details><summary>من دليل التاجر</summary>
+<p>ترحيب شخصي بصورتك داخل قوس: العنوان والنبذة، وزر برامجك وزر فيديو، وثلاثة أرقام، وبطاقة تقييم، وبطاقة داكنة لبرنامجك الأكثر مبيعاً.</p>
+<ul>
+<li><strong>أهم الإعدادات:</strong> «صورتك» طولية (٨٠٠×١٠٠٠ بكسل تقريباً)، والأفضل بخلفية شفافة أو فاتحة. «البرنامج في البطاقة الداكنة» يقرأ الاسم والسعر والرابط من المنتج؛ بدونه لا تظهر البطاقة. «رابط الفيديو» (YouTube أو Vimeo أو ملف MP4) يفتح في نافذة فوق الصفحة؛ فارغاً يختفي زر الفيديو.</li>
+<li><strong>الزر والحركة:</strong> «رابط الزر الأساسي» فارغاً يأخذ الزائر إلى قسم «متجر · كل المنتجات بتبويبات»، أو إلى أول قسم يعرض منتجات إن لم يكن موجوداً. «حركة خفيفة للبطاقات» (مفعّلة): بطاقة التقييم تطفو ببطء، والبطاقة الداكنة تميل نحو مؤشر الفأرة على الحاسوب. الميل للحاسوب فقط، ولا حركة لمن فعّل «تقليل الحركة» أو أطفأ «التأثيرات المتحركة».</li>
+<li><strong>الخلفية:</strong> «خلفية القسم»: «بدون خلفية (كما هو)» (الافتراضي)، أو «صورة بطبقة من لون الثيم» (تظهر «صورة الخلفية» و«قوة طبقة اللون فوق الصورة»)، أو «خلفية متحركة بالألوان» (معها «الحركة على الجوال أيضاً» و«يتبع مؤشر الفأرة» و«صورة خلفية ثابتة (اختيارية)» تظهر تحت الحركة وعلى الجوال). مع الصورة أو الحركة يصير القسم بعرض الشاشة بنصوص بيضاء.</li>
+<li><strong>نصيحة:</strong> استبدل «سطر الترحيب» الافتراضي «أهلاً، أنا د. لمى.» باسمك، واكتب في «الأرقام تحت الأزرار» و«التقييم» أرقامك الحقيقية فقط، وعدّل «شارة التوفّر» أو امسحها.</li>
+</ul>
+</details>
+<h2>الإعدادات بترتيبها في اللوحة</h2>
+<h3>«شارة التوفّر»</h3>
+<ul>
+<li><strong>النوع:</strong> نص بسطر واحد · <strong>الافتراضي:</strong> متاحة لاستشارات جديدة هذا الشهر · المعرّف <code>badge</code></li>
+<li><strong>ماذا يفعل:</strong> شارة صغيرة بنقطة فوق العنوان، مثل «متاحة لاستشارات جديدة».</li>
+<li><strong>متى تستعمله:</strong> لخبر قصير: مواعيد متاحة، أو دفعة جديدة.</li>
+<li><strong>حين يكون فارغاً:</strong> فارغة باللغتين لا تظهر.</li>
+<li>شرحه تحت الحقل في المحرّر: فارغة لا تظهر.</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>اللوحة (نسخة مطابقة)</th>
+<th>النتيجة</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img alt="لوحة إعدادات — «شارة التوفّر»" src="/coach-docs/assets/sections/01-coach-hero/01-badge-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — «شارة التوفّر»" src="/coach-docs/assets/sections/01-coach-hero/01-badge-result.webp" loading="lazy" decoding="async"/></td>
+<td>مكانه في القسم محاط بإطار برتقالي</td>
+</tr>
+</tbody>
+</table>
+<h3>«سطر الترحيب»</h3>
+<ul>
+<li><strong>النوع:</strong> نص بسطر واحد · <strong>الافتراضي:</strong> أهلاً، أنا د. لمى. · المعرّف <code>greeting</code></li>
+<li><strong>ماذا يفعل:</strong> أول سطر في العنوان الكبير، بلون النص، مثل «أهلاً، أنا د. لمى».</li>
+<li><strong>متى تستعمله:</strong> لتقديم نفسك باسمك.</li>
+<li><strong>حين يكون فارغاً:</strong> فارغاً يبقى سطر «العنوان» وحده.</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>اللوحة (نسخة مطابقة)</th>
+<th>النتيجة</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img alt="لوحة إعدادات — «سطر الترحيب»" src="/coach-docs/assets/sections/01-coach-hero/02-greeting-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — «سطر الترحيب»" src="/coach-docs/assets/sections/01-coach-hero/02-greeting-result.webp" loading="lazy" decoding="async"/></td>
+<td>مكانه في القسم محاط بإطار برتقالي</td>
+</tr>
+</tbody>
+</table>
+<h3>«العنوان (باللون الأساسي)»</h3>
+<ul>
+<li><strong>النوع:</strong> نص بسطر واحد · <strong>الافتراضي:</strong> أساعدك تصنع مستقبلك المهني · المعرّف <code>title</code></li>
+<li><strong>ماذا يفعل:</strong> بقية العنوان الكبير، باللون الأساسي، تحت سطر الترحيب.</li>
+<li><strong>متى تستعمله:</strong> ما تساعد فيه متابعيك، في جملة.</li>
+<li><strong>حين يكون فارغاً:</strong> فارغاً يبقى سطر الترحيب وحده. وإن فرغ الاثنان لا يظهر عنوان.</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>اللوحة (نسخة مطابقة)</th>
+<th>النتيجة</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img alt="لوحة إعدادات — «العنوان (باللون الأساسي)»" src="/coach-docs/assets/sections/01-coach-hero/03-title-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — «العنوان (باللون الأساسي)»" src="/coach-docs/assets/sections/01-coach-hero/03-title-result.webp" loading="lazy" decoding="async"/></td>
+<td>مكانه في القسم محاط بإطار برتقالي</td>
+</tr>
+</tbody>
+</table>
+<h3>«النبذة»</h3>
+<ul>
+<li><strong>النوع:</strong> نص بعدة أسطر · <strong>الافتراضي:</strong> مدرّبة معتمدة ساعدت أكثر من ١٢ ألف متعلّم على تطوير مهاراتهم عبر دورات مسجّلة، كتب، وموارد رقمية، وجلسات استشارية فردية. · المعرّف <code>description</code></li>
+<li><strong>ماذا يفعل:</strong> نبذة قصيرة عنك تحت العنوان.</li>
+<li><strong>متى تستعمله:</strong> لخبرتك وما تقدّمه في سطرين.</li>
+<li><strong>حين يكون فارغاً:</strong> فارغة باللغتين لا تظهر.</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>اللوحة (نسخة مطابقة)</th>
+<th>النتيجة</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img alt="لوحة إعدادات — «النبذة»" src="/coach-docs/assets/sections/01-coach-hero/04-description-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — «النبذة»" src="/coach-docs/assets/sections/01-coach-hero/04-description-result.webp" loading="lazy" decoding="async"/></td>
+<td>مكانه في القسم محاط بإطار برتقالي</td>
+</tr>
+</tbody>
+</table>
+<h3>«نص الزر الأساسي»</h3>
+<ul>
+<li><strong>النوع:</strong> نص بسطر واحد · <strong>الافتراضي:</strong> تصفّح برامجي · المعرّف <code>primary_label</code></li>
+<li><strong>ماذا يفعل:</strong> نص الزر الأساسي تحت النبذة.</li>
+<li><strong>متى تستعمله:</strong> لأهم إجراء: تصفّح البرامج أو الحجز.</li>
+<li><strong>حين يكون فارغاً:</strong> فارغاً يُخفى الزر.</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>اللوحة (نسخة مطابقة)</th>
+<th>النتيجة</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img alt="لوحة إعدادات — «نص الزر الأساسي»" src="/coach-docs/assets/sections/01-coach-hero/05-primary_label-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — «نص الزر الأساسي»" src="/coach-docs/assets/sections/01-coach-hero/05-primary_label-result.webp" loading="lazy" decoding="async"/></td>
+<td>مكانه في القسم محاط بإطار برتقالي</td>
+</tr>
+</tbody>
+</table>
+<h3>«رابط الزر الأساسي»</h3>
+<ul>
+<li><strong>النوع:</strong> رابط (منتج أو تصنيف أو صفحة أو رابط آخر) · <strong>الافتراضي:</strong> بلا رابط · المعرّف <code>primary_link</code></li>
+<li><strong>ماذا يفعل:</strong> إلى أين يذهب الزر الأساسي، والضغط على صورتك أيضاً.</li>
+<li><strong>متى تستعمله:</strong> لصفحة برنامجك أو تصنيف دوراتك.</li>
+<li><strong>حين يكون فارغاً:</strong> بدونه ينزل إلى «متجر · كل المنتجات بتبويبات» إن وُجد، وإلا إلى أول قسم منتجات في الصفحة؛ وإن لم يوجد أي منهما يُخفى الزر عن الزوار.</li>
+<li>شرحه تحت الحقل في المحرّر: بدونه ينزل إلى قسم «متجر · كل المنتجات بتبويبات» إن وُجد.</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>اللوحة (نسخة مطابقة)</th>
+<th>النتيجة</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img alt="لوحة إعدادات — «رابط الزر الأساسي»" src="/coach-docs/assets/sections/01-coach-hero/06-primary_link-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — «رابط الزر الأساسي»" src="/coach-docs/assets/sections/01-coach-hero/00-desktop.webp" loading="lazy" decoding="async"/></td>
+<td>النتيجة: القسم بالقيمة الافتراضية</td>
+</tr>
+</tbody>
+</table>
+<h3>«نص زر الفيديو»</h3>
+<ul>
+<li><strong>النوع:</strong> نص بسطر واحد · <strong>الافتراضي:</strong> شاهد رسالتي · المعرّف <code>video_label</code></li>
+<li><strong>ماذا يفعل:</strong> نص زر الفيديو بجانب الزر الأساسي، بأيقونة تشغيل.</li>
+<li><strong>متى تستعمله:</strong> لرسالة ترحيب مصوّرة.</li>
+<li><strong>حين يكون فارغاً:</strong> فارغاً لا يظهر زر الفيديو، حتى مع الرابط.</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>اللوحة (نسخة مطابقة)</th>
+<th>النتيجة</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img alt="لوحة إعدادات — «نص زر الفيديو»" src="/coach-docs/assets/sections/01-coach-hero/07-video_label-panel.webp" loading="lazy" decoding="async"/></td>
+<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td>مكانه في القسم محاط بإطار برتقالي</td>
+</tr>
+</tbody>
+</table>
+<h3>«رابط الفيديو»</h3>
+<ul>
+<li><strong>النوع:</strong> نص بسطر واحد · <strong>الافتراضي:</strong> فارغ · المعرّف <code>video_url</code></li>
+<li><strong>ماذا يفعل:</strong> رابط الفيديو الذي يفتحه الزر في نافذة: YouTube أو Vimeo أو ملف MP4.</li>
+<li><strong>متى تستعمله:</strong> إن كان عندك فيديو تعريفي قصير.</li>
+<li><strong>حين يكون فارغاً:</strong> فارغاً لا يظهر زر الفيديو.</li>
+<li>شرحه تحت الحقل في المحرّر: YouTube أو Vimeo أو MP4؛ فارغاً يُخفى الزر.</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>اللوحة (نسخة مطابقة)</th>
+<th>النتيجة</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img alt="لوحة إعدادات — «رابط الفيديو»" src="/coach-docs/assets/sections/01-coach-hero/08-video_url-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — «رابط الفيديو»" src="/coach-docs/assets/sections/01-coach-hero/00-desktop.webp" loading="lazy" decoding="async"/></td>
+<td>النتيجة: القسم بالقيمة الافتراضية</td>
+</tr>
+</tbody>
+</table>
+<h3>«الأرقام تحت الأزرار»</h3>
+<ul>
+<li><strong>النوع:</strong> عناصر متكررة (تضيفها وتحذفها وترتّبها) · <strong>الافتراضي:</strong> 3 عناصر جاهزة · المعرّف <code>stats</code></li>
+<li><strong>ماذا يفعل:</strong> حتى ثلاثة أرقام تحت الأزرار، لكل رقم سطر وصف.</li>
+<li><strong>متى تستعمله:</strong> لإنجازات تُقاس: عدد المتعلّمين، والدروس، والكتب.</li>
+<li><strong>حين يكون فارغاً:</strong> بلا عناصر لا يظهر صف الأرقام. والعنصر بلا رقم لا يظهر.</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>اللوحة (نسخة مطابقة)</th>
+<th>النتيجة</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img alt="لوحة إعدادات — «الأرقام تحت الأزرار»" src="/coach-docs/assets/sections/01-coach-hero/09-stats-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — «الأرقام تحت الأزرار»" src="/coach-docs/assets/sections/01-coach-hero/09-stats-result.webp" loading="lazy" decoding="async"/></td>
+<td>أول عنصر محاط بإطار برتقالي</td>
+</tr>
+</tbody>
+</table>
+<h4>«الرقم»</h4>
+<ul>
+<li><strong>النوع:</strong> نص بسطر واحد · <strong>الافتراضي:</strong> فارغ · المعرّف <code>stats.value</code></li>
+<li><strong>ماذا يفعل:</strong> الرقم بخط كبير، مثل «+١٢ ألف».</li>
+<li><strong>حين يكون فارغاً:</strong> العنصر بلا رقم لا يظهر.</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>اللوحة (نسخة مطابقة)</th>
+<th>النتيجة</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img alt="لوحة إعدادات — «الأرقام تحت الأزرار»" src="/coach-docs/assets/sections/01-coach-hero/09-stats-value-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — «الأرقام تحت الأزرار»" src="/coach-docs/assets/sections/01-coach-hero/09-stats-result.webp" loading="lazy" decoding="async"/></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h4>«الوصف»</h4>
+<ul>
+<li><strong>النوع:</strong> نص بسطر واحد · <strong>الافتراضي:</strong> فارغ · المعرّف <code>stats.label</code></li>
+<li><strong>ماذا يفعل:</strong> سطر صغير تحت الرقم.</li>
+<li><strong>حين يكون فارغاً:</strong> فارغاً يظهر الرقم وحده.</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>اللوحة (نسخة مطابقة)</th>
+<th>النتيجة</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img alt="لوحة إعدادات — «الأرقام تحت الأزرار»" src="/coach-docs/assets/sections/01-coach-hero/09-stats-label-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — «الأرقام تحت الأزرار»" src="/coach-docs/assets/sections/01-coach-hero/09-stats-result.webp" loading="lazy" decoding="async"/></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h3>«التقييم»</h3>
+<ul>
+<li><strong>النوع:</strong> نص بسطر واحد · <strong>الافتراضي:</strong> ٤٫٩ من ٥ · المعرّف <code>rating_value</code></li>
+<li><strong>ماذا يفعل:</strong> التقييم في بطاقة بيضاء بنجمة بجانب صورتك، مثل «٤٫٩ من ٥».</li>
+<li><strong>متى تستعمله:</strong> إن كان لديك تقييم حقيقي تفخر به.</li>
+<li><strong>حين يكون فارغاً:</strong> فارغاً تُخفى بطاقة التقييم كلها.</li>
+<li>شرحه تحت الحقل في المحرّر: فارغاً تُخفى بطاقة التقييم.</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>اللوحة (نسخة مطابقة)</th>
+<th>النتيجة</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img alt="لوحة إعدادات — «التقييم»" src="/coach-docs/assets/sections/01-coach-hero/10-rating_value-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — «التقييم»" src="/coach-docs/assets/sections/01-coach-hero/10-rating_value-result.webp" loading="lazy" decoding="async"/></td>
+<td>مكانه في القسم محاط بإطار برتقالي</td>
+</tr>
+</tbody>
+</table>
+<h3>«تحت التقييم»</h3>
+<ul>
+<li><strong>النوع:</strong> نص بسطر واحد · <strong>الافتراضي:</strong> +٣٬٤٠٠ تقييم · المعرّف <code>rating_label</code></li>
+<li><strong>ماذا يفعل:</strong> سطر تحت التقييم، مثل عدد التقييمات.</li>
+<li><strong>متى تستعمله:</strong> ليعرف الزائر على كم تقييم بُني الرقم.</li>
+<li><strong>حين يكون فارغاً:</strong> فارغاً يظهر التقييم وحده.</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>اللوحة (نسخة مطابقة)</th>
+<th>النتيجة</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img alt="لوحة إعدادات — «تحت التقييم»" src="/coach-docs/assets/sections/01-coach-hero/11-rating_label-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — «تحت التقييم»" src="/coach-docs/assets/sections/01-coach-hero/11-rating_label-result.webp" loading="lazy" decoding="async"/></td>
+<td>مكانه في القسم محاط بإطار برتقالي</td>
+</tr>
+</tbody>
+</table>
+<h3>«البرنامج في البطاقة الداكنة»</h3>
+<ul>
+<li><strong>النوع:</strong> اختيار منتج من متجرك · <strong>الافتراضي:</strong> لا شيء — يختاره التاجر · المعرّف <code>featured_product</code></li>
+<li><strong>ماذا يفعل:</strong> منتج يظهر في البطاقة الداكنة بجانب صورتك: اسمه وسعره من المنتج، والضغط عليها يفتحه.</li>
+<li><strong>متى تستعمله:</strong> لبرنامجك الأكثر طلباً.</li>
+<li><strong>حين يكون فارغاً:</strong> بدونه لا تظهر البطاقة عند الزوار، وفي المحرّر ملاحظة تطلب اختياره.</li>
+<li>شرحه تحت الحقل في المحرّر: الاسم والسعر من المنتج؛ بدونه لا تظهر البطاقة.</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>اللوحة (نسخة مطابقة)</th>
+<th>النتيجة</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img alt="لوحة إعدادات — «البرنامج في البطاقة الداكنة»" src="/coach-docs/assets/sections/01-coach-hero/12-featured_product-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — «البرنامج في البطاقة الداكنة»" src="/coach-docs/assets/sections/01-coach-hero/00-desktop.webp" loading="lazy" decoding="async"/></td>
+<td>النتيجة: القسم بالقيمة الافتراضية</td>
+</tr>
+</tbody>
+</table>
+<h3>«السطر فوق اسم البرنامج»</h3>
+<ul>
+<li><strong>النوع:</strong> نص بسطر واحد · <strong>الافتراضي:</strong> البرنامج الأكثر طلباً · المعرّف <code>featured_label</code></li>
+<li><strong>ماذا يفعل:</strong> سطر صغير فوق اسم المنتج في البطاقة الداكنة.</li>
+<li><strong>متى تستعمله:</strong> مثل «البرنامج الأكثر طلباً» أو «جديد».</li>
+<li><strong>حين يكون فارغاً:</strong> فارغاً يظهر الاسم والسعر وحدهما.</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>اللوحة (نسخة مطابقة)</th>
+<th>النتيجة</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img alt="لوحة إعدادات — «السطر فوق اسم البرنامج»" src="/coach-docs/assets/sections/01-coach-hero/13-featured_label-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — «السطر فوق اسم البرنامج»" src="/coach-docs/assets/sections/01-coach-hero/13-featured_label-result.webp" loading="lazy" decoding="async"/></td>
+<td>مكانه في القسم محاط بإطار برتقالي</td>
+</tr>
+</tbody>
+</table>
+<h3>«حركة خفيفة للبطاقات»</h3>
+<ul>
+<li><strong>النوع:</strong> مفتاح تشغيل وإطفاء · <strong>الافتراضي:</strong> مفعّل · المعرّف <code>motion</code></li>
+<li><strong>ماذا يفعل:</strong> بطاقة التقييم تطفو بهدوء، والبطاقة الداكنة تميل مع الفأرة على الكمبيوتر.</li>
+<li><strong>متى تستعمله:</strong> اتركه مفعّلاً لواجهة حيّة.</li>
+<li><strong>حين يكون فارغاً:</strong> مطفأ: البطاقتان ثابتتان.</li>
+<li>شرحه تحت الحقل في المحرّر: تطفو بطاقة التقييم، وتميل الداكنة مع الفأرة على الحاسوب.</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>اللوحة (نسخة مطابقة)</th>
+<th>النتيجة</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img alt="لوحة إعدادات — «حركة خفيفة للبطاقات»" src="/coach-docs/assets/sections/01-coach-hero/14-motion-panel.webp" loading="lazy" decoding="async"/></td>
+<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td>النتيجة بعد إطفائه (الافتراضي مفعّل)</td>
+</tr>
+</tbody>
+</table>
+<h3>«صورتك»</h3>
+<ul>
+<li><strong>النوع:</strong> صورة ترفعها · <strong>الافتراضي:</strong> بلا صورة · المعرّف <code>image</code></li>
+<li><strong>ماذا يفعل:</strong> صورتك داخل القوس، طولية نحو ٨٠٠×١٠٠٠ بخلفية شفافة أو فاتحة. الضغط عليها كالزر الأساسي.</li>
+<li><strong>متى تستعمله:</strong> دائماً: صورة واضحة لك.</li>
+<li><strong>حين يكون فارغاً:</strong> بدونها يبقى القوس بخطوط مائلة بلون الثيم.</li>
+<li>شرحه تحت الحقل في المحرّر: طولية نحو ٨٠٠×١٠٠٠ بخلفية شفافة أو فاتحة.</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>اللوحة (نسخة مطابقة)</th>
+<th>النتيجة</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img alt="لوحة إعدادات — «صورتك»" src="/coach-docs/assets/sections/01-coach-hero/15-image-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — «صورتك»" src="/coach-docs/assets/sections/01-coach-hero/15-image-result.webp" loading="lazy" decoding="async"/></td>
+<td>النتيجة بصورة تجريبية</td>
+</tr>
+</tbody>
+</table>
+<h3>«التوقيع المرسوم بجانب الصورة»</h3>
+<ul>
+<li><strong>النوع:</strong> مفتاح تشغيل وإطفاء · <strong>الافتراضي:</strong> مفعّل · المعرّف <code>show_signature</code></li>
+<li><strong>ماذا يفعل:</strong> خط يد مرسوم بجانب الصورة كأنه توقيع.</li>
+<li><strong>متى تستعمله:</strong> للمسة شخصية؛ أطفئه إن تزاحم مع صورتك.</li>
+<li><strong>حين يكون فارغاً:</strong> مطفأ: بلا توقيع.</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>اللوحة (نسخة مطابقة)</th>
+<th>النتيجة</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img alt="لوحة إعدادات — «التوقيع المرسوم بجانب الصورة»" src="/coach-docs/assets/sections/01-coach-hero/16-show_signature-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — «التوقيع المرسوم بجانب الصورة»" src="/coach-docs/assets/sections/01-coach-hero/16-show_signature-off-result.webp" loading="lazy" decoding="async"/></td>
+<td>النتيجة بعد إطفائه (الافتراضي مفعّل)</td>
+</tr>
+</tbody>
+</table>
+<h3>«خلفية القسم»</h3>
+<ul>
+<li><strong>النوع:</strong> قائمة منسدلة · <strong>الافتراضي:</strong> بدون خلفية (كما هو) · المعرّف <code>fx_background</code></li>
+<li><strong>ماذا يفعل:</strong> ما خلف الواجهة: بدون، أو صورة عليها طبقة من لون الثيم، أو خلفية متحركة بألوان الثيم. مع الصورة أو الحركة تمتد الخلفية بعرض الشاشة وتصير النصوص بيضاء.</li>
+<li><strong>متى تستعمله:</strong> «صورة» لمكان تدريبك، و«متحركة» لواجهة لافتة.</li>
+<li>شرحه تحت الحقل في المحرّر: مع الصورة أو الحركة: بعرض الشاشة ونصوص بيضاء (داكنة مع «فاتح»).</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>اللوحة (نسخة مطابقة)</th>
+<th>النتيجة</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img alt="لوحة إعدادات — «خلفية القسم»" src="/coach-docs/assets/sections/01-coach-hero/17-fx_background-none-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — «خلفية القسم»" src="/coach-docs/assets/sections/01-coach-hero/17-fx_background-none-result.webp" loading="lazy" decoding="async"/></td>
+<td>«بدون خلفية (كما هو)»</td>
+</tr>
+<tr>
+<td><img alt="لوحة إعدادات — «خلفية القسم»" src="/coach-docs/assets/sections/01-coach-hero/17-fx_background-image-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — «خلفية القسم»" src="/coach-docs/assets/sections/01-coach-hero/17-fx_background-image-result.webp" loading="lazy" decoding="async"/></td>
+<td>«صورة بطبقة من لون الثيم»</td>
+</tr>
+<tr>
+<td><img alt="لوحة إعدادات — «خلفية القسم»" src="/coach-docs/assets/sections/01-coach-hero/17-fx_background-motion-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — «خلفية القسم»" src="/coach-docs/assets/sections/01-coach-hero/17-fx_background-motion-result.webp" loading="lazy" decoding="async"/></td>
+<td>«خلفية متحركة بالألوان»</td>
+</tr>
+</tbody>
+</table>
+<h3>«صورة الخلفية»</h3>
+<ul>
+<li><strong>النوع:</strong> صورة ترفعها · <strong>الافتراضي:</strong> بلا صورة · المعرّف <code>bg_image</code></li>
+<li><strong>ماذا يفعل:</strong> الصورة خلف الواجهة، عريضة (١٦٠٠×٩٠٠ فأكبر).</li>
+<li><strong>متى تستعمله:</strong> صورة هادئة بلا تفاصيل كثيرة خلف النص.</li>
+<li><strong>حين يكون فارغاً:</strong> بدونها تظهر ألوان الثيم.</li>
+<li><strong>يظهر في اللوحة فقط حين:</strong> «خلفية القسم» هو «صورة بطبقة من لون الثيم»</li>
+<li>شرحه تحت الحقل في المحرّر: عريضة (1600×900 فأكبر)؛ بدونها تظهر ألوان الثيم.</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>اللوحة (نسخة مطابقة)</th>
+<th>النتيجة</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img alt="لوحة إعدادات — «صورة الخلفية»" src="/coach-docs/assets/sections/01-coach-hero/18-bg_image-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — «صورة الخلفية»" src="/coach-docs/assets/sections/01-coach-hero/18-bg_image-result.webp" loading="lazy" decoding="async"/></td>
+<td>النتيجة بصورة تجريبية</td>
+</tr>
+</tbody>
+</table>
+<h3>«قوة طبقة اللون فوق الصورة»</h3>
+<ul>
+<li><strong>النوع:</strong> قائمة منسدلة · <strong>الافتراضي:</strong> متوسطة · المعرّف <code>bg_overlay</code></li>
+<li><strong>ماذا يفعل:</strong> قوة طبقة اللون فوق صورة الخلفية: خفيفة أو متوسطة أو قوية.</li>
+<li><strong>متى تستعمله:</strong> «قوية» للصور الفاتحة حتى تبقى النصوص البيضاء مقروءة.</li>
+<li><strong>يظهر في اللوحة فقط حين:</strong> «خلفية القسم» هو «صورة بطبقة من لون الثيم»</li>
+<li>شرحه تحت الحقل في المحرّر: «قوية» للصور الفاتحة.</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>اللوحة (نسخة مطابقة)</th>
+<th>النتيجة</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img alt="لوحة إعدادات — «قوة طبقة اللون فوق الصورة»" src="/coach-docs/assets/sections/01-coach-hero/19-bg_overlay-light-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — «قوة طبقة اللون فوق الصورة»" src="/coach-docs/assets/sections/01-coach-hero/19-bg_overlay-light-result.webp" loading="lazy" decoding="async"/></td>
+<td>«خفيفة»</td>
+</tr>
+<tr>
+<td><img alt="لوحة إعدادات — «قوة طبقة اللون فوق الصورة»" src="/coach-docs/assets/sections/01-coach-hero/19-bg_overlay-medium-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — «قوة طبقة اللون فوق الصورة»" src="/coach-docs/assets/sections/01-coach-hero/19-bg_overlay-medium-result.webp" loading="lazy" decoding="async"/></td>
+<td>«متوسطة»</td>
+</tr>
+<tr>
+<td><img alt="لوحة إعدادات — «قوة طبقة اللون فوق الصورة»" src="/coach-docs/assets/sections/01-coach-hero/19-bg_overlay-strong-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — «قوة طبقة اللون فوق الصورة»" src="/coach-docs/assets/sections/01-coach-hero/19-bg_overlay-strong-result.webp" loading="lazy" decoding="async"/></td>
+<td>«قوية»</td>
+</tr>
+</tbody>
+</table>
+<h3>«ألوان الخلفية المتحركة»</h3>
+<ul>
+<li><strong>النوع:</strong> قائمة منسدلة · <strong>الافتراضي:</strong> ألوان الثيم · المعرّف <code>fx_palette</code></li>
+<li><strong>ماذا يفعل:</strong> ألوان الخلفية المتحركة: ألوان الثيم، أو ليلي، أو دافئ، أو فاتح بنصوص داكنة.</li>
+<li><strong>متى تستعمله:</strong> اختر ما يناسب هوية متجرك.</li>
+<li><strong>يظهر في اللوحة فقط حين:</strong> «خلفية القسم» هو «خلفية متحركة بالألوان»</li>
+<li>شرحه تحت الحقل في المحرّر: «فاتح» تدرّج فاتح بنصوص داكنة.</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>اللوحة (نسخة مطابقة)</th>
+<th>النتيجة</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img alt="لوحة إعدادات — «ألوان الخلفية المتحركة»" src="/coach-docs/assets/sections/01-coach-hero/20-fx_palette-theme-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — «ألوان الخلفية المتحركة»" src="/coach-docs/assets/sections/01-coach-hero/20-fx_palette-theme-result.webp" loading="lazy" decoding="async"/></td>
+<td>«ألوان الثيم»</td>
+</tr>
+<tr>
+<td><img alt="لوحة إعدادات — «ألوان الخلفية المتحركة»" src="/coach-docs/assets/sections/01-coach-hero/20-fx_palette-night-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — «ألوان الخلفية المتحركة»" src="/coach-docs/assets/sections/01-coach-hero/20-fx_palette-night-result.webp" loading="lazy" decoding="async"/></td>
+<td>«ليلي»</td>
+</tr>
+<tr>
+<td><img alt="لوحة إعدادات — «ألوان الخلفية المتحركة»" src="/coach-docs/assets/sections/01-coach-hero/20-fx_palette-warm-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — «ألوان الخلفية المتحركة»" src="/coach-docs/assets/sections/01-coach-hero/20-fx_palette-warm-result.webp" loading="lazy" decoding="async"/></td>
+<td>«دافئ»</td>
+</tr>
+<tr>
+<td><img alt="لوحة إعدادات — «ألوان الخلفية المتحركة»" src="/coach-docs/assets/sections/01-coach-hero/20-fx_palette-light-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — «ألوان الخلفية المتحركة»" src="/coach-docs/assets/sections/01-coach-hero/20-fx_palette-light-result.webp" loading="lazy" decoding="async"/></td>
+<td>«فاتح»</td>
+</tr>
+</tbody>
+</table>
+<h3>«الحركة على الجوال أيضاً»</h3>
+<ul>
+<li><strong>النوع:</strong> مفتاح تشغيل وإطفاء · <strong>الافتراضي:</strong> مطفأ · المعرّف <code>fx_phone</code></li>
+<li><strong>ماذا يفعل:</strong> تشغيل الخلفية المتحركة على الجوال أيضاً.</li>
+<li><strong>متى تستعمله:</strong> إن كانت الحركة جزءاً مهماً من هويتك.</li>
+<li><strong>حين يكون فارغاً:</strong> مطفأ (الافتراضي): ثابتة على الجوال، فالصفحة أخف.</li>
+<li><strong>يظهر في اللوحة فقط حين:</strong> «خلفية القسم» هو «خلفية متحركة بالألوان»</li>
+<li>شرحه تحت الحقل في المحرّر: مطفأة: ثابتة على الجوال، فالصفحة أخف.</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>اللوحة (نسخة مطابقة)</th>
+<th>النتيجة</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img alt="لوحة إعدادات — «الحركة على الجوال أيضاً»" src="/coach-docs/assets/sections/01-coach-hero/21-fx_phone-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — «الحركة على الجوال أيضاً»" src="/coach-docs/assets/sections/01-coach-hero/21-fx_phone-on-result.webp" loading="lazy" decoding="async"/></td>
+<td>النتيجة بعد تفعيله (الافتراضي مطفأ)</td>
+</tr>
+</tbody>
+</table>
+<h3>«سرعة الحركة»</h3>
+<ul>
+<li><strong>النوع:</strong> قائمة منسدلة · <strong>الافتراضي:</strong> متوسطة · المعرّف <code>fx_speed</code></li>
+<li><strong>ماذا يفعل:</strong> سرعة الخلفية المتحركة: هادئة أو متوسطة أو أسرع.</li>
+<li><strong>متى تستعمله:</strong> «هادئة» لمتجر هادئ الطابع.</li>
+<li><strong>يظهر في اللوحة فقط حين:</strong> «خلفية القسم» هو «خلفية متحركة بالألوان»</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>اللوحة (نسخة مطابقة)</th>
+<th>النتيجة</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img alt="لوحة إعدادات — «سرعة الحركة»" src="/coach-docs/assets/sections/01-coach-hero/22-fx_speed-slow-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — «سرعة الحركة»" src="/coach-docs/assets/sections/01-coach-hero/22-fx_speed-slow-result.webp" loading="lazy" decoding="async"/></td>
+<td>«هادئة»</td>
+</tr>
+<tr>
+<td><img alt="لوحة إعدادات — «سرعة الحركة»" src="/coach-docs/assets/sections/01-coach-hero/22-fx_speed-normal-panel.webp" loading="lazy" decoding="async"/></td>
+<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td>«متوسطة»</td>
+</tr>
+<tr>
+<td><img alt="لوحة إعدادات — «سرعة الحركة»" src="/coach-docs/assets/sections/01-coach-hero/22-fx_speed-fast-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — «سرعة الحركة»" src="/coach-docs/assets/sections/01-coach-hero/22-fx_speed-fast-result.webp" loading="lazy" decoding="async"/></td>
+<td>«أسرع»</td>
+</tr>
+</tbody>
+</table>
+<h3>«يتبع مؤشر الفأرة»</h3>
+<ul>
+<li><strong>النوع:</strong> مفتاح تشغيل وإطفاء · <strong>الافتراضي:</strong> مفعّل · المعرّف <code>fx_mouse</code></li>
+<li><strong>ماذا يفعل:</strong> ضوء خفيف في الخلفية المتحركة يتبع الفأرة على الكمبيوتر.</li>
+<li><strong>متى تستعمله:</strong> اتركه مفعّلاً لتفاعل أوضح.</li>
+<li><strong>حين يكون فارغاً:</strong> مطفأ: الحركة وحدها بلا ضوء يتبع الفأرة.</li>
+<li><strong>يظهر في اللوحة فقط حين:</strong> «خلفية القسم» هو «خلفية متحركة بالألوان»</li>
+<li>شرحه تحت الحقل في المحرّر: ضوء خفيف على الحاسوب.</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>اللوحة (نسخة مطابقة)</th>
+<th>النتيجة</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img alt="لوحة إعدادات — «يتبع مؤشر الفأرة»" src="/coach-docs/assets/sections/01-coach-hero/23-fx_mouse-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — «يتبع مؤشر الفأرة»" src="/coach-docs/assets/sections/01-coach-hero/23-fx_mouse-off-result.webp" loading="lazy" decoding="async"/></td>
+<td>النتيجة بعد إطفائه (الافتراضي مفعّل)</td>
+</tr>
+</tbody>
+</table>
+<h3>«صورة خلفية ثابتة (اختيارية)»</h3>
+<ul>
+<li><strong>النوع:</strong> صورة ترفعها · <strong>الافتراضي:</strong> بلا صورة · المعرّف <code>fx_poster</code></li>
+<li><strong>ماذا يفعل:</strong> صورة ثابتة تحت الخلفية المتحركة، تظهر على الجوال وحين تتوقف الحركة.</li>
+<li><strong>متى تستعمله:</strong> إن أردت صورة بدل الألوان الثابتة على الجوال.</li>
+<li><strong>حين يكون فارغاً:</strong> بدونها تثبت الألوان على الجوال.</li>
+<li><strong>يظهر في اللوحة فقط حين:</strong> «خلفية القسم» هو «خلفية متحركة بالألوان»</li>
+<li>شرحه تحت الحقل في المحرّر: تحت الحركة وعلى الجوال؛ بدونها تثبت الألوان.</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>اللوحة (نسخة مطابقة)</th>
+<th>النتيجة</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img alt="لوحة إعدادات — «صورة خلفية ثابتة (اختيارية)»" src="/coach-docs/assets/sections/01-coach-hero/24-fx_poster-panel.webp" loading="lazy" decoding="async"/></td>
+<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td>النتيجة بصورة تجريبية</td>
+</tr>
+</tbody>
+</table>
+<hr/>
+<blockquote>
+<p>ملاحظات البناء: لم يُعثر على النص لتمييزه: 00-desktop.webp</p>
+</blockquote>
+</div><div class="note">صور اللوحة هي نسخ مرسومة مطابقة لإعدادات الثيم وليست لقطات مباشرة من محرّر سلة؛ صور النتيجة من معاينة الثيم.</div><p><a href="/coach-docs/">← العودة إلى الفهرس</a></p><footer class="foot">دليل كوتش — توثيق ثيم كوتش لمنصة سلة</footer></main><div class="toc"><strong>في هذه الصفحة</strong><div id="toc-links"></div></div></div><div aria-label="تكبير الصورة" class="lightbox" role="dialog"><button aria-label="إغلاق">إغلاق ✕</button><img alt="صورة مكبرة"/></div><script>window.COACH_BASE="/coach-docs/";window.COACH_SLUG="01-coach-hero";window.COACH_NAV=[{"slug": "01-colors", "title": "١ · الهوية — الألوان، شكل الكلمات المميّزة، والخط", "category": "الإعدادات العامة"}, {"slug": "02-motion", "title": "٢ · الحركة والتأثيرات — حركة الأقسام، خلفية الصفحة، المؤشر، وطيران المنتج", "category": "الإعدادات العامة"}, {"slug": "03-announcement", "title": "٣ · الشريط الإعلاني — نص وكود خصم وعدّاد أعلى كل الصفحات", "category": "الإعدادات العامة"}, {"slug": "04-header", "title": "٤ · الهيدر — الشكل والتثبيت والبحث والقائمة وزر الحجز وشريط الجوال السفلي", "category": "الإعدادات العامة"}, {"slug": "05-cart", "title": "٥ · السلة — الجانبية والمصغّرة وما يحدث بعد الإضافة", "category": "الإعدادات العامة"}, {"slug": "06-card", "title": "٦ · بطاقة المنتج — شكل الصورة، أشكال الأنواع، نسبة الخصم، وسم النوع و«أعلمني»", "category": "الإعدادات العامة"}, {"slug": "07-product", "title": "٧ · صفحة المنتج — الملاحظة و«يُشترى معاً» والصور والزر الثابت", "category": "الإعدادات العامة"}, {"slug": "08-listing", "title": "٨ · صفحات التصنيفات والبحث — رأس التصنيف بصورته ومسار التنقل", "category": "الإعدادات العامة"}, {"slug": "09-whatsapp", "title": "٩ · أزرار الشاشة — واتساب العائم، العودة للأعلى، وشاشة التحميل", "category": "الإعدادات العامة"}, {"slug": "10-footer", "title": "١٠ · الفوتر — العنوان الكبير، النبذة، بطاقة الدعوة، واسم المتجر", "category": "الإعدادات العامة"}, {"slug": "11-exit", "title": "١١ · نافذة العرض المنبثقة — عرض بكود خصم يظهر بعد ثوانٍ، مرة في كل زيارة", "category": "الإعدادات العامة"}, {"slug": "12-raed", "title": "١٢ · أقسام سلة الجاهزة — لأقسام رائد إن أضفتها للرئيسية", "category": "الإعدادات العامة"}, {"slug": "01-shared", "title": "الخيارات المشتركة بين الأقسام", "category": "الخيارات المشتركة"}, {"slug": "01-coach-hero", "title": "واجهة · ترحيب المدرّب", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "02-coach-hero-media", "title": "واجهة · فيديو وصور (٦ أشكال)", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "03-coach-hero-window", "title": "واجهة · نافذة القوس", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "04-coach-marquee", "title": "عام · شريط نصي متحرك", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "05-coach-press", "title": "ثقة · ظهرتُ في", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "06-coach-about", "title": "المدرّب · تعرّف عليّ", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "07-coach-trainers", "title": "المدرّب · فريق التدريب", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "08-coach-podcast", "title": "المدرّب · البودكاست", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "09-coach-shop", "title": "متجر · كل المنتجات بتبويبات", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "10-coach-consult-plans", "title": "استشارات · باقات الجلسات الفردية", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "11-coach-offer-banner", "title": "عروض · بانر عرض (٣ أشكال)", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "12-coach-steps", "title": "عام · خطوات البداية", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "13-coach-reviews", "title": "ثقة · قصص نجاح المتعلّمين", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "14-coach-faq", "title": "عام · الأسئلة الشائعة", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "15-coach-blog", "title": "عام · من المدوّنة", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "16-coach-stats", "title": "ثقة · شريط الأرقام", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "17-coach-curriculum", "title": "دورة · منهج الدورة", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "18-coach-book-formats", "title": "كتب · الكتاب بصيغ متعددة", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "19-coach-product-finder", "title": "تحويل · اختبار «ما البرنامج المناسب لي؟»", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "20-coach-learning-path", "title": "دورة · مسار التعلّم", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "21-coach-program", "title": "دورة · البرنامج بمراحله", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "22-coach-live-event", "title": "استشارات · لقاء مباشر قادم", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "23-coach-hero-book", "title": "واجهة · إطلاق كتاب", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "24-coach-outcomes", "title": "دورة · ماذا ستتعلّم", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "25-coach-audience", "title": "دورة · لمن هذا البرنامج", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "26-coach-book-shelf", "title": "كتب · رفّ الكتب", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "27-coach-book-toc", "title": "كتب · فهرس الكتاب", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "28-coach-book-quotes", "title": "كتب · اقتباسات من الكتاب", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "29-coach-audio-sample", "title": "كتب · عيّنة صوتية", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "30-coach-book-series", "title": "كتب · سلسلة الكتب", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "31-coach-bundle", "title": "عروض · يُشترى معاً", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "32-coach-delivery", "title": "عام · كيف يصلك المنتج", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "33-coach-guarantee", "title": "ثقة · ضمان الاسترجاع", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "34-coach-carousel", "title": "متجر · شريط منتجات متحرّك", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "35-coach-ranked", "title": "متجر · الأكثر مبيعاً", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "36-coach-spotlight", "title": "متجر · المنتج المميّز", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "37-coach-shelf-3d", "title": "متجر · رف ثلاثي الأبعاد", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "38-coach-reveal", "title": "متجر · بطاقات بمعاينة", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "39-coach-spines", "title": "كتب · رفّ تفاعلي بالكعوب", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "40-coach-free-guide", "title": "تحويل · الدليل المجاني", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "41-coach-booklet", "title": "كتب · كتيّب يقلّب", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "42-coach-reels", "title": "عام · مقاطع فيديو قصيرة", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "43-coach-departments", "title": "متجر · أقسام المتجر", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "44-coach-categories", "title": "متجر · التصنيفات بالصور (٦ أشكال)", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "45-coach-cta", "title": "تحويل · دعوة للإجراء (٦ أشكال)", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "46-coach-final-cta", "title": "تحويل · دعوة أخيرة بكلمات متحركة", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "47-coach-living-word", "title": "قصة التحوّل · الكلمة الحيّة", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "48-brands", "title": "الماركات التجارية", "category": "مكوّنات الصفحة الرئيسية"}];</script><script src="/coach-docs/app.js"></script></body></html>

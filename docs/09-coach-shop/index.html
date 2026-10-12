@@ -1,0 +1,663 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="ar"><head><meta charset="utf-8"/><meta content="width=device-width,initial-scale=1" name="viewport"/><meta content="دليل استخدام ثيم كوتش لمنصة سلة: متجر · كل المنتجات بتبويبات" name="description"/><title>متجر · كل المنتجات بتبويبات | دليل كوتش</title><link href="/coach-docs/style.css" rel="stylesheet"/></head><body><a class="skip-link" href="#main-content">تجاوز إلى المحتوى</a><header class="top"><div style="display:flex;align-items:center;gap:14px"><button class="mobilemenu" id="menu">☰ القائمة</button><a class="brand" href="/coach-docs/">✦ كوتش <em>الدليل</em></a></div><div class="topright"><span>توثيق ثيم كوتش</span><span class="pill">الإصدار 1.55.1</span></div></header><div class="layout"><aside><input aria-label="بحث في التوثيق" class="search" id="search" placeholder="ابحث عن مكوّن أو إعداد…"/><nav class="nav" id="sidebar-nav"></nav></aside><main class="main" id="main-content"><div class="crumb"><a href="/coach-docs/">الرئيسية</a> / مكوّنات الصفحة الرئيسية</div><span class="pill">مكوّنات الصفحة الرئيسية</span><div class="article"><h1>متجر · كل المنتجات بتبويبات</h1>
+<p>اسمه في المتجر الإنجليزي: <em>Shop · Everything in tabs</em> · مساره <code>home.coach-shop</code></p>
+<p><strong>ما يعرضه:</strong> شبكة منتجاتك بتبويبات حسب النوع (دورات، كتب، منتجات رقمية…) من تصنيفات سلة، ببطاقة تناسب كل نوع.</p>
+<p><strong>متى تضيفه:</strong> القسم الرئيسي لعرض كل ما تبيعه في مكان واحد.</p>
+<table>
+<thead>
+<tr>
+<th>كمبيوتر (1440)</th>
+<th>جوال (390)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img alt="معاينة النتيجة — متجر · كل المنتجات بتبويبات" src="/coach-docs/assets/sections/09-coach-shop/00-desktop.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة الجوال — متجر · كل المنتجات بتبويبات" src="/coach-docs/assets/sections/09-coach-shop/00-mobile.webp" loading="lazy" decoding="async"/></td>
+</tr>
+</tbody>
+</table>
+<p>خيارات مشتركة في هذا القسم، مشروحة مرة واحدة في <code>../../01-shared/</code>: «محاذاة العنوان والوصف»، «حجم العنوان»، «خلفية القسم»، «لون الخلفية المخصص»، «صورة خلفية القسم»، «قوة طبقة اللون فوق الصورة»، «تمديد الخلفية بعرض الشاشة»، «المسافة العلوية (بكسل)»، «المسافة السفلية (بكسل)».</p>
+<details><summary>من دليل التاجر</summary>
+<p>شبكة منتجاتك بتبويبات حسب النوع، ببطاقة تناسب كل نوع: غلاف كتاب، أو صورة دورة، أو ملف تحميل. المنتجات من تصنيفات سلة مباشرة.</p>
+<ul>
+<li><strong>التبويبات:</strong> حتى ٤ تبويبات؛ الافتراضية «الدورات» و«الكتب» و«المنتجات الرقمية». لكل تبويب «اسم التبويب» و«التصنيفات» و«شكل البطاقات» («تلقائي (حسب نوع المنتج)» أو دورة أو كتاب أو منتج رقمي أو استشارة). كل منتج جديد في التصنيفات المختارة يظهر في التبويب وحده.</li>
+<li><strong>الربط التلقائي:</strong> تبويب بلا تصنيفات يُربط بتصنيف متجرك الذي يحمل الاسم نفسه، ولا يهم وجود «ال». والتبويب الذي لا يجد تصنيفاً لا يظهر. ويسمّي لك المحرّر في ملاحظة كل تبويب لم تختر له تصنيفات.</li>
+<li><strong>الشبكة:</strong> «إظهار تبويب «الكل» أولاً» يعرض كل منتجات المتجر، الأحدث أولاً، باسم من «اسم تبويب «الكل»». «عدد المنتجات» لكل تبويب من ٢ إلى ١٢ (الافتراضي ٦). «عدد المنتجات بجانب اسم كل تبويب» مفعّل.</li>
+<li><strong>البطاقات والحركة:</strong> «شكل البطاقات في هذا القسم»: «كما في إعدادات الثيم (٦ · بطاقة المنتج)» (الافتراضي) أو «عادية لكل المنتجات». و«حركة تبديل التبويب»: «بلا حركة» (الافتراضي) أو «دخول تباعاً» أو «إعادة ترتيب سلسة».</li>
+</ul>
+</details>
+<h2>الإعدادات بترتيبها في اللوحة</h2>
+<h3>«شكل البطاقات في هذا القسم»</h3>
+<ul>
+<li><strong>النوع:</strong> قائمة منسدلة · <strong>الافتراضي:</strong> كما في إعدادات الثيم (٦ · بطاقة المنتج) · المعرّف <code>card_style</code></li>
+<li><strong>ماذا يفعل:</strong> شكل البطاقات: كما في «تخصيص الثيم ← ٦ · بطاقة المنتج»، أو عادية لكل المنتجات (صورة كاملة والسعر بجانب الزر).</li>
+<li><strong>متى تستعمله:</strong> «عادية» إن أردت كل البطاقات بشكل واحد هنا.</li>
+<li>شرحه تحت الحقل في المحرّر: عادية: صورة كاملة والسعر بجانب الزر، لكل الأنواع.</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>اللوحة (نسخة مطابقة)</th>
+<th>النتيجة</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img alt="لوحة إعدادات — «شكل البطاقات في هذا القسم»" src="/coach-docs/assets/sections/09-coach-shop/01-card_style-theme-panel.webp" loading="lazy" decoding="async"/></td>
+<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td>«كما في إعدادات الثيم (٦ · بطاقة المنتج)»</td>
+</tr>
+<tr>
+<td><img alt="لوحة إعدادات — «شكل البطاقات في هذا القسم»" src="/coach-docs/assets/sections/09-coach-shop/01-card_style-plain-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — «شكل البطاقات في هذا القسم»" src="/coach-docs/assets/sections/09-coach-shop/01-card_style-plain-result.webp" loading="lazy" decoding="async"/></td>
+<td>«عادية لكل المنتجات»</td>
+</tr>
+</tbody>
+</table>
+<h3>«العنوان الصغير (فوق العنوان)»</h3>
+<ul>
+<li><strong>النوع:</strong> نص بسطر واحد · <strong>الافتراضي:</strong> برامجي · المعرّف <code>eyebrow</code></li>
+<li><strong>ماذا يفعل:</strong> سطر صغير فوق العنوان. ما تكتبه بعد العلامة | يظهر بجانبه كلمةً لاتينية، مثل «كتب | BOOKS».</li>
+<li><strong>متى تستعمله:</strong> لتسمية القسم بكلمة أو كلمتين قبل العنوان.</li>
+<li><strong>حين يكون فارغاً:</strong> فارغاً باللغتين لا يظهر.</li>
+<li>شرحه تحت الحقل في المحرّر: مثال: كتب | BOOKS</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>اللوحة (نسخة مطابقة)</th>
+<th>النتيجة</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img alt="لوحة إعدادات — «العنوان الصغير (فوق العنوان)»" src="/coach-docs/assets/sections/09-coach-shop/02-eyebrow-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — «العنوان الصغير (فوق العنوان)»" src="/coach-docs/assets/sections/09-coach-shop/02-eyebrow-result.webp" loading="lazy" decoding="async"/></td>
+<td>مكانه في القسم محاط بإطار برتقالي</td>
+</tr>
+</tbody>
+</table>
+<h3>«العنوان»</h3>
+<ul>
+<li><strong>النوع:</strong> نص بسطر واحد · <strong>الافتراضي:</strong> كل ما أقدّمه، في [[مكان واحد]] · المعرّف <code>title</code></li>
+<li><strong>ماذا يفعل:</strong> عنوان القسم. ضع كلمة بين [[ ]] لتظهر مميّزة بالشكل المختار في «تخصيص الثيم».</li>
+<li><strong>متى تستعمله:</strong> جملة قصيرة تقول ما يجده الزائر في القسم.</li>
+<li><strong>حين يكون فارغاً:</strong> فارغاً باللغتين لا يظهر. إن مسحته بالعربية وحدها ظهر النص الإنجليزي.</li>
+<li>شرحه تحت الحقل في المحرّر: فارغاً باللغتين يُخفى. [[كلمة]] بلون المتجر.</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>اللوحة (نسخة مطابقة)</th>
+<th>النتيجة</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img alt="لوحة إعدادات — «العنوان»" src="/coach-docs/assets/sections/09-coach-shop/03-title-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — «العنوان»" src="/coach-docs/assets/sections/09-coach-shop/03-title-result.webp" loading="lazy" decoding="async"/></td>
+<td>مكانه في القسم محاط بإطار برتقالي</td>
+</tr>
+</tbody>
+</table>
+<h3>«الوصف»</h3>
+<ul>
+<li><strong>النوع:</strong> نص بعدة أسطر · <strong>الافتراضي:</strong> دورات مسجّلة، كتب، وموارد رقمية جاهزة للتحميل. · المعرّف <code>description</code></li>
+<li><strong>ماذا يفعل:</strong> سطر أو سطران تحت العنوان.</li>
+<li><strong>متى تستعمله:</strong> لتوضيح العنوان إن احتاج.</li>
+<li><strong>حين يكون فارغاً:</strong> فارغاً باللغتين لا يظهر.</li>
+<li>شرحه تحت الحقل في المحرّر: فارغاً باللغتين يُخفى.</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>اللوحة (نسخة مطابقة)</th>
+<th>النتيجة</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img alt="لوحة إعدادات — «الوصف»" src="/coach-docs/assets/sections/09-coach-shop/04-description-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — «الوصف»" src="/coach-docs/assets/sections/09-coach-shop/04-description-result.webp" loading="lazy" decoding="async"/></td>
+<td>مكانه في القسم محاط بإطار برتقالي</td>
+</tr>
+</tbody>
+</table>
+<h3>«إظهار تبويب «الكل» أولاً»</h3>
+<ul>
+<li><strong>النوع:</strong> مفتاح تشغيل وإطفاء · <strong>الافتراضي:</strong> مفعّل · المعرّف <code>show_all</code></li>
+<li><strong>ماذا يفعل:</strong> تبويب «الكل» أولاً، فيه منتجات التبويبات كلها معاً.</li>
+<li><strong>متى تستعمله:</strong> اتركه مفعّلاً ليرى الزائر كل شيء من أول نظرة.</li>
+<li><strong>حين يكون فارغاً:</strong> مطفأ: يبدأ القسم بأول تبويب.</li>
+<li>شرحه تحت الحقل في المحرّر: منتجات التبويبات كلها معاً.</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>اللوحة (نسخة مطابقة)</th>
+<th>النتيجة</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img alt="لوحة إعدادات — «إظهار تبويب «الكل» أولاً»" src="/coach-docs/assets/sections/09-coach-shop/05-show_all-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — «إظهار تبويب «الكل» أولاً»" src="/coach-docs/assets/sections/09-coach-shop/05-show_all-off-result.webp" loading="lazy" decoding="async"/></td>
+<td>النتيجة بعد إطفائه (الافتراضي مفعّل)</td>
+</tr>
+</tbody>
+</table>
+<h3>«اسم تبويب «الكل»»</h3>
+<ul>
+<li><strong>النوع:</strong> نص بسطر واحد · <strong>الافتراضي:</strong> الكل · المعرّف <code>all_label</code></li>
+<li><strong>ماذا يفعل:</strong> اسم تبويب «الكل».</li>
+<li><strong>متى تستعمله:</strong> إن أردت اسماً آخر مثل «كل البرامج».</li>
+<li><strong>حين يكون فارغاً:</strong> فارغاً يظهر «الكل».</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>اللوحة (نسخة مطابقة)</th>
+<th>النتيجة</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img alt="لوحة إعدادات — «اسم تبويب «الكل»»" src="/coach-docs/assets/sections/09-coach-shop/06-all_label-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — «اسم تبويب «الكل»»" src="/coach-docs/assets/sections/09-coach-shop/06-all_label-result.webp" loading="lazy" decoding="async"/></td>
+<td>مكانه في القسم محاط بإطار برتقالي</td>
+</tr>
+</tbody>
+</table>
+<h3>«عدد المنتجات بجانب اسم كل تبويب»</h3>
+<ul>
+<li><strong>النوع:</strong> مفتاح تشغيل وإطفاء · <strong>الافتراضي:</strong> مفعّل · المعرّف <code>show_counts</code></li>
+<li><strong>ماذا يفعل:</strong> عدد المنتجات بجانب اسم كل تبويب.</li>
+<li><strong>متى تستعمله:</strong> اتركه مفعّلاً إن كانت تبويباتك متقاربة العدد.</li>
+<li><strong>حين يكون فارغاً:</strong> مطفأ: الأسماء بلا أرقام.</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>اللوحة (نسخة مطابقة)</th>
+<th>النتيجة</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img alt="لوحة إعدادات — «عدد المنتجات بجانب اسم كل تبويب»" src="/coach-docs/assets/sections/09-coach-shop/07-show_counts-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — «عدد المنتجات بجانب اسم كل تبويب»" src="/coach-docs/assets/sections/09-coach-shop/07-show_counts-off-result.webp" loading="lazy" decoding="async"/></td>
+<td>النتيجة بعد إطفائه (الافتراضي مفعّل)</td>
+</tr>
+</tbody>
+</table>
+<h3>«اسم التبويب»</h3>
+<ul>
+<li><strong>النوع:</strong> نص بسطر واحد · <strong>الافتراضي:</strong> الدورات · المعرّف <code>tab1_label</code></li>
+<li><strong>ماذا يفعل:</strong> اسم التبويب الأول.</li>
+<li><strong>متى تستعمله:</strong> اسم نوع منتجاتك، مثل «الدورات».</li>
+<li><strong>حين يكون فارغاً:</strong> فارغاً لا يظهر التبويب.</li>
+<li>شرحه تحت الحقل في المحرّر: بلا تصنيفات: تصنيف متجرك الذي يحمل اسمه، وإلا لا يظهر.</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>اللوحة (نسخة مطابقة)</th>
+<th>النتيجة</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img alt="لوحة إعدادات — «اسم التبويب»" src="/coach-docs/assets/sections/09-coach-shop/08-tab1_label-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — «اسم التبويب»" src="/coach-docs/assets/sections/09-coach-shop/08-tab1_label-result.webp" loading="lazy" decoding="async"/></td>
+<td>مكانه في القسم محاط بإطار برتقالي</td>
+</tr>
+</tbody>
+</table>
+<h3>«التصنيفات»</h3>
+<ul>
+<li><strong>النوع:</strong> اختيار تصنيف أو أكثر من متجرك · <strong>الافتراضي:</strong> لا شيء — يختاره التاجر · المعرّف <code>tab1_categories</code></li>
+<li><strong>ماذا يفعل:</strong> تصنيفات سلة التي تأتي منها منتجات التبويب. منتجاتها الجديدة تظهر تلقائياً.</li>
+<li><strong>متى تستعمله:</strong> اختر تصنيف الدورات مثلاً.</li>
+<li><strong>حين يكون فارغاً:</strong> بدونها يُبحث عن تصنيف في متجرك يحمل اسم التبويب، وإن لم يوجد لا يظهر التبويب.</li>
+<li>شرحه تحت الحقل في المحرّر: منتجاتها الجديدة تظهر تلقائياً.</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>اللوحة (نسخة مطابقة)</th>
+<th>النتيجة</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img alt="لوحة إعدادات — «التصنيفات»" src="/coach-docs/assets/sections/09-coach-shop/09-tab1_categories-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — «التصنيفات»" src="/coach-docs/assets/sections/09-coach-shop/00-desktop.webp" loading="lazy" decoding="async"/></td>
+<td>النتيجة: القسم بالقيمة الافتراضية</td>
+</tr>
+</tbody>
+</table>
+<h3>«شكل البطاقات»</h3>
+<ul>
+<li><strong>النوع:</strong> قائمة منسدلة · <strong>الافتراضي:</strong> دورة · المعرّف <code>tab1_kind</code></li>
+<li><strong>ماذا يفعل:</strong> شكل البطاقات في هذا التبويب: تلقائي حسب نوع المنتج، أو دورة، أو كتاب، أو منتج رقمي، أو استشارة.</li>
+<li><strong>متى تستعمله:</strong> اختر النوع الذي يناسب منتجات التبويب.</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>اللوحة (نسخة مطابقة)</th>
+<th>النتيجة</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img alt="لوحة إعدادات — «شكل البطاقات»" src="/coach-docs/assets/sections/09-coach-shop/10-tab1_kind-auto-panel.webp" loading="lazy" decoding="async"/></td>
+<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td>«تلقائي (حسب نوع المنتج)»</td>
+</tr>
+<tr>
+<td><img alt="لوحة إعدادات — «شكل البطاقات»" src="/coach-docs/assets/sections/09-coach-shop/10-tab1_kind-course-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — «شكل البطاقات»" src="/coach-docs/assets/sections/09-coach-shop/10-tab1_kind-course-result.webp" loading="lazy" decoding="async"/></td>
+<td>«دورة»</td>
+</tr>
+<tr>
+<td><img alt="لوحة إعدادات — «شكل البطاقات»" src="/coach-docs/assets/sections/09-coach-shop/10-tab1_kind-book-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — «شكل البطاقات»" src="/coach-docs/assets/sections/09-coach-shop/10-tab1_kind-book-result.webp" loading="lazy" decoding="async"/></td>
+<td>«كتاب»</td>
+</tr>
+<tr>
+<td><img alt="لوحة إعدادات — «شكل البطاقات»" src="/coach-docs/assets/sections/09-coach-shop/10-tab1_kind-digital-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — «شكل البطاقات»" src="/coach-docs/assets/sections/09-coach-shop/10-tab1_kind-digital-result.webp" loading="lazy" decoding="async"/></td>
+<td>«منتج رقمي (تحميل فوري)»</td>
+</tr>
+<tr>
+<td><img alt="لوحة إعدادات — «شكل البطاقات»" src="/coach-docs/assets/sections/09-coach-shop/10-tab1_kind-service-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — «شكل البطاقات»" src="/coach-docs/assets/sections/09-coach-shop/10-tab1_kind-service-result.webp" loading="lazy" decoding="async"/></td>
+<td>«استشارة»</td>
+</tr>
+</tbody>
+</table>
+<h3>«اسم التبويب»</h3>
+<ul>
+<li><strong>النوع:</strong> نص بسطر واحد · <strong>الافتراضي:</strong> الكتب · المعرّف <code>tab2_label</code></li>
+<li><strong>ماذا يفعل:</strong> اسم التبويب الثاني.</li>
+<li><strong>متى تستعمله:</strong> مثل «الكتب».</li>
+<li><strong>حين يكون فارغاً:</strong> فارغاً لا يظهر التبويب.</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>اللوحة (نسخة مطابقة)</th>
+<th>النتيجة</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img alt="لوحة إعدادات — «اسم التبويب»" src="/coach-docs/assets/sections/09-coach-shop/11-tab2_label-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — «اسم التبويب»" src="/coach-docs/assets/sections/09-coach-shop/11-tab2_label-result.webp" loading="lazy" decoding="async"/></td>
+<td>مكانه في القسم محاط بإطار برتقالي</td>
+</tr>
+</tbody>
+</table>
+<h3>«التصنيفات»</h3>
+<ul>
+<li><strong>النوع:</strong> اختيار تصنيف أو أكثر من متجرك · <strong>الافتراضي:</strong> لا شيء — يختاره التاجر · المعرّف <code>tab2_categories</code></li>
+<li><strong>ماذا يفعل:</strong> تصنيفات التبويب الثاني. منتجاتها الجديدة تظهر تلقائياً.</li>
+<li><strong>متى تستعمله:</strong> اختر تصنيف الكتب مثلاً.</li>
+<li><strong>حين يكون فارغاً:</strong> بدونها يُبحث عن تصنيف يحمل اسم التبويب، وإن لم يوجد لا يظهر التبويب.</li>
+<li>شرحه تحت الحقل في المحرّر: منتجاتها الجديدة تظهر تلقائياً.</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>اللوحة (نسخة مطابقة)</th>
+<th>النتيجة</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img alt="لوحة إعدادات — «التصنيفات»" src="/coach-docs/assets/sections/09-coach-shop/12-tab2_categories-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — «التصنيفات»" src="/coach-docs/assets/sections/09-coach-shop/00-desktop.webp" loading="lazy" decoding="async"/></td>
+<td>النتيجة: القسم بالقيمة الافتراضية</td>
+</tr>
+</tbody>
+</table>
+<h3>«شكل البطاقات»</h3>
+<ul>
+<li><strong>النوع:</strong> قائمة منسدلة · <strong>الافتراضي:</strong> كتاب · المعرّف <code>tab2_kind</code></li>
+<li><strong>ماذا يفعل:</strong> شكل البطاقات في التبويب الثاني.</li>
+<li><strong>متى تستعمله:</strong> اختر النوع الذي يناسب منتجاته.</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>اللوحة (نسخة مطابقة)</th>
+<th>النتيجة</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img alt="لوحة إعدادات — «شكل البطاقات»" src="/coach-docs/assets/sections/09-coach-shop/13-tab2_kind-auto-panel.webp" loading="lazy" decoding="async"/></td>
+<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td>«تلقائي (حسب نوع المنتج)»</td>
+</tr>
+<tr>
+<td><img alt="لوحة إعدادات — «شكل البطاقات»" src="/coach-docs/assets/sections/09-coach-shop/13-tab2_kind-course-panel.webp" loading="lazy" decoding="async"/></td>
+<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td>«دورة»</td>
+</tr>
+<tr>
+<td><img alt="لوحة إعدادات — «شكل البطاقات»" src="/coach-docs/assets/sections/09-coach-shop/13-tab2_kind-book-panel.webp" loading="lazy" decoding="async"/></td>
+<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td>«كتاب»</td>
+</tr>
+<tr>
+<td><img alt="لوحة إعدادات — «شكل البطاقات»" src="/coach-docs/assets/sections/09-coach-shop/13-tab2_kind-digital-panel.webp" loading="lazy" decoding="async"/></td>
+<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td>«منتج رقمي (تحميل فوري)»</td>
+</tr>
+<tr>
+<td><img alt="لوحة إعدادات — «شكل البطاقات»" src="/coach-docs/assets/sections/09-coach-shop/13-tab2_kind-service-panel.webp" loading="lazy" decoding="async"/></td>
+<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td>«استشارة»</td>
+</tr>
+</tbody>
+</table>
+<h3>«اسم التبويب»</h3>
+<ul>
+<li><strong>النوع:</strong> نص بسطر واحد · <strong>الافتراضي:</strong> الموارد الرقمية · المعرّف <code>tab3_label</code></li>
+<li><strong>ماذا يفعل:</strong> اسم التبويب الثالث.</li>
+<li><strong>متى تستعمله:</strong> مثل «الموارد الرقمية».</li>
+<li><strong>حين يكون فارغاً:</strong> فارغاً لا يظهر التبويب.</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>اللوحة (نسخة مطابقة)</th>
+<th>النتيجة</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img alt="لوحة إعدادات — «اسم التبويب»" src="/coach-docs/assets/sections/09-coach-shop/14-tab3_label-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — «اسم التبويب»" src="/coach-docs/assets/sections/09-coach-shop/14-tab3_label-result.webp" loading="lazy" decoding="async"/></td>
+<td>مكانه في القسم محاط بإطار برتقالي</td>
+</tr>
+</tbody>
+</table>
+<h3>«التصنيفات»</h3>
+<ul>
+<li><strong>النوع:</strong> اختيار تصنيف أو أكثر من متجرك · <strong>الافتراضي:</strong> لا شيء — يختاره التاجر · المعرّف <code>tab3_categories</code></li>
+<li><strong>ماذا يفعل:</strong> تصنيفات التبويب الثالث. منتجاتها الجديدة تظهر تلقائياً.</li>
+<li><strong>متى تستعمله:</strong> اختر تصنيف المنتجات الرقمية مثلاً.</li>
+<li><strong>حين يكون فارغاً:</strong> بدونها يُبحث عن تصنيف يحمل اسم التبويب، وإن لم يوجد لا يظهر التبويب.</li>
+<li>شرحه تحت الحقل في المحرّر: منتجاتها الجديدة تظهر تلقائياً.</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>اللوحة (نسخة مطابقة)</th>
+<th>النتيجة</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img alt="لوحة إعدادات — «التصنيفات»" src="/coach-docs/assets/sections/09-coach-shop/15-tab3_categories-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — «التصنيفات»" src="/coach-docs/assets/sections/09-coach-shop/00-desktop.webp" loading="lazy" decoding="async"/></td>
+<td>النتيجة: القسم بالقيمة الافتراضية</td>
+</tr>
+</tbody>
+</table>
+<h3>«شكل البطاقات»</h3>
+<ul>
+<li><strong>النوع:</strong> قائمة منسدلة · <strong>الافتراضي:</strong> منتج رقمي (تحميل فوري) · المعرّف <code>tab3_kind</code></li>
+<li><strong>ماذا يفعل:</strong> شكل البطاقات في التبويب الثالث.</li>
+<li><strong>متى تستعمله:</strong> اختر النوع الذي يناسب منتجاته.</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>اللوحة (نسخة مطابقة)</th>
+<th>النتيجة</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img alt="لوحة إعدادات — «شكل البطاقات»" src="/coach-docs/assets/sections/09-coach-shop/16-tab3_kind-auto-panel.webp" loading="lazy" decoding="async"/></td>
+<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td>«تلقائي (حسب نوع المنتج)»</td>
+</tr>
+<tr>
+<td><img alt="لوحة إعدادات — «شكل البطاقات»" src="/coach-docs/assets/sections/09-coach-shop/16-tab3_kind-course-panel.webp" loading="lazy" decoding="async"/></td>
+<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td>«دورة»</td>
+</tr>
+<tr>
+<td><img alt="لوحة إعدادات — «شكل البطاقات»" src="/coach-docs/assets/sections/09-coach-shop/16-tab3_kind-book-panel.webp" loading="lazy" decoding="async"/></td>
+<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td>«كتاب»</td>
+</tr>
+<tr>
+<td><img alt="لوحة إعدادات — «شكل البطاقات»" src="/coach-docs/assets/sections/09-coach-shop/16-tab3_kind-digital-panel.webp" loading="lazy" decoding="async"/></td>
+<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td>«منتج رقمي (تحميل فوري)»</td>
+</tr>
+<tr>
+<td><img alt="لوحة إعدادات — «شكل البطاقات»" src="/coach-docs/assets/sections/09-coach-shop/16-tab3_kind-service-panel.webp" loading="lazy" decoding="async"/></td>
+<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td>«استشارة»</td>
+</tr>
+</tbody>
+</table>
+<h3>«اسم التبويب»</h3>
+<ul>
+<li><strong>النوع:</strong> نص بسطر واحد · <strong>الافتراضي:</strong> فارغ · المعرّف <code>tab4_label</code></li>
+<li><strong>ماذا يفعل:</strong> اسم تبويب رابع اختياري.</li>
+<li><strong>متى تستعمله:</strong> لنوع إضافي، مثل «ورش العمل».</li>
+<li><strong>حين يكون فارغاً:</strong> فارغاً (الافتراضي) لا يظهر التبويب.</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>اللوحة (نسخة مطابقة)</th>
+<th>النتيجة</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img alt="لوحة إعدادات — «اسم التبويب»" src="/coach-docs/assets/sections/09-coach-shop/17-tab4_label-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — «اسم التبويب»" src="/coach-docs/assets/sections/09-coach-shop/17-tab4_label-result.webp" loading="lazy" decoding="async"/></td>
+<td>النتيجة بنص تجريبي «مثال لنصّك هنا»</td>
+</tr>
+</tbody>
+</table>
+<h3>«التصنيفات»</h3>
+<ul>
+<li><strong>النوع:</strong> اختيار تصنيف أو أكثر من متجرك · <strong>الافتراضي:</strong> لا شيء — يختاره التاجر · المعرّف <code>tab4_categories</code></li>
+<li><strong>ماذا يفعل:</strong> تصنيفات التبويب الرابع.</li>
+<li><strong>متى تستعمله:</strong> مع اسم التبويب الرابع.</li>
+<li><strong>حين يكون فارغاً:</strong> بدونها يُبحث عن تصنيف يحمل اسم التبويب، وإن لم يوجد لا يظهر.</li>
+<li>شرحه تحت الحقل في المحرّر: منتجاتها الجديدة تظهر تلقائياً.</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>اللوحة (نسخة مطابقة)</th>
+<th>النتيجة</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img alt="لوحة إعدادات — «التصنيفات»" src="/coach-docs/assets/sections/09-coach-shop/18-tab4_categories-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — «التصنيفات»" src="/coach-docs/assets/sections/09-coach-shop/00-desktop.webp" loading="lazy" decoding="async"/></td>
+<td>النتيجة: القسم بالقيمة الافتراضية</td>
+</tr>
+</tbody>
+</table>
+<h3>«شكل البطاقات»</h3>
+<ul>
+<li><strong>النوع:</strong> قائمة منسدلة · <strong>الافتراضي:</strong> تلقائي (حسب نوع المنتج) · المعرّف <code>tab4_kind</code></li>
+<li><strong>ماذا يفعل:</strong> شكل البطاقات في التبويب الرابع.</li>
+<li><strong>متى تستعمله:</strong> «تلقائي» يكفي غالباً.</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>اللوحة (نسخة مطابقة)</th>
+<th>النتيجة</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img alt="لوحة إعدادات — «شكل البطاقات»" src="/coach-docs/assets/sections/09-coach-shop/19-tab4_kind-auto-panel.webp" loading="lazy" decoding="async"/></td>
+<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td>«تلقائي (حسب نوع المنتج)»</td>
+</tr>
+<tr>
+<td><img alt="لوحة إعدادات — «شكل البطاقات»" src="/coach-docs/assets/sections/09-coach-shop/19-tab4_kind-course-panel.webp" loading="lazy" decoding="async"/></td>
+<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td>«دورة»</td>
+</tr>
+<tr>
+<td><img alt="لوحة إعدادات — «شكل البطاقات»" src="/coach-docs/assets/sections/09-coach-shop/19-tab4_kind-book-panel.webp" loading="lazy" decoding="async"/></td>
+<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td>«كتاب»</td>
+</tr>
+<tr>
+<td><img alt="لوحة إعدادات — «شكل البطاقات»" src="/coach-docs/assets/sections/09-coach-shop/19-tab4_kind-digital-panel.webp" loading="lazy" decoding="async"/></td>
+<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td>«منتج رقمي (تحميل فوري)»</td>
+</tr>
+<tr>
+<td><img alt="لوحة إعدادات — «شكل البطاقات»" src="/coach-docs/assets/sections/09-coach-shop/19-tab4_kind-service-panel.webp" loading="lazy" decoding="async"/></td>
+<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td>«استشارة»</td>
+</tr>
+</tbody>
+</table>
+<h3>«عدد المنتجات»</h3>
+<ul>
+<li><strong>النوع:</strong> رقم · <strong>الافتراضي:</strong> 6 · المعرّف <code>limit</code></li>
+<li><strong>ماذا يفعل:</strong> عدد المنتجات في كل تبويب، من ٢ إلى ١٢.</li>
+<li><strong>متى تستعمله:</strong> ٦ تملأ صفّين على الكمبيوتر.</li>
+<li><strong>حين يكون فارغاً:</strong> رقم خارج ٢–١٢ يرجع إلى ٦.</li>
+<li>شرحه تحت الحقل في المحرّر: لكل تبويب.</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>اللوحة (نسخة مطابقة)</th>
+<th>النتيجة</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img alt="لوحة إعدادات — «عدد المنتجات»" src="/coach-docs/assets/sections/09-coach-shop/20-limit-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — «عدد المنتجات»" src="/coach-docs/assets/sections/09-coach-shop/00-desktop.webp" loading="lazy" decoding="async"/></td>
+<td>النتيجة: القسم بالقيمة الافتراضية</td>
+</tr>
+</tbody>
+</table>
+<h3>«نص زر الإضافة للسلة»</h3>
+<ul>
+<li><strong>النوع:</strong> نص بسطر واحد · <strong>الافتراضي:</strong> أضف للسلة · المعرّف <code>button_label</code></li>
+<li><strong>ماذا يفعل:</strong> نص زر الإضافة في كل بطاقة.</li>
+<li><strong>متى تستعمله:</strong> إن أردت نصاً آخر مثل «اشترك».</li>
+<li><strong>حين يكون فارغاً:</strong> فارغاً يظهر «أضف للسلة».</li>
+<li>شرحه تحت الحقل في المحرّر: فارغاً يظهر «أضف للسلة».</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>اللوحة (نسخة مطابقة)</th>
+<th>النتيجة</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img alt="لوحة إعدادات — «نص زر الإضافة للسلة»" src="/coach-docs/assets/sections/09-coach-shop/21-button_label-panel.webp" loading="lazy" decoding="async"/></td>
+<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td>مكانه في القسم محاط بإطار برتقالي</td>
+</tr>
+</tbody>
+</table>
+<h3>«حركة تبديل التبويب»</h3>
+<ul>
+<li><strong>النوع:</strong> قائمة منسدلة · <strong>الافتراضي:</strong> بلا حركة · المعرّف <code>tab_motion</code></li>
+<li><strong>ماذا يفعل:</strong> حركة البطاقات عند تبديل التبويب: بلا حركة، أو دخول تباعاً، أو إعادة ترتيب سلسة ينزلق فيها المشترك لمكانه.</li>
+<li><strong>متى تستعمله:</strong> «إعادة ترتيب» لتبديل ناعم. تتوقف مع إطفاء «التأثيرات المتحركة».</li>
+<li>شرحه تحت الحقل في المحرّر: إعادة الترتيب: المشترك ينزلق لمكانه. يوقفها «التأثيرات المتحركة».</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>اللوحة (نسخة مطابقة)</th>
+<th>النتيجة</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img alt="لوحة إعدادات — «حركة تبديل التبويب»" src="/coach-docs/assets/sections/09-coach-shop/22-tab_motion-none-panel.webp" loading="lazy" decoding="async"/></td>
+<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td>«بلا حركة»</td>
+</tr>
+<tr>
+<td><img alt="لوحة إعدادات — «حركة تبديل التبويب»" src="/coach-docs/assets/sections/09-coach-shop/22-tab_motion-stagger-panel.webp" loading="lazy" decoding="async"/></td>
+<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td>«دخول تباعاً»</td>
+</tr>
+<tr>
+<td><img alt="لوحة إعدادات — «حركة تبديل التبويب»" src="/coach-docs/assets/sections/09-coach-shop/22-tab_motion-flip-panel.webp" loading="lazy" decoding="async"/></td>
+<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td>«إعادة ترتيب سلسة»</td>
+</tr>
+</tbody>
+</table>
+<h3>«دخول البطاقات تباعاً (الإعداد السابق)»</h3>
+<ul>
+<li><strong>النوع:</strong> مفتاح تشغيل وإطفاء · <strong>الافتراضي:</strong> مطفأ · المعرّف <code>tab_stagger</code></li>
+<li><strong>ماذا يفعل:</strong> إعداد قديم للأقسام المضافة قبل «حركة تبديل التبويب»، ولا يظهر في اللوحة.</li>
+<li><strong>متى تستعمله:</strong> لا تحتاجه: استعمل «حركة تبديل التبويب».</li>
+<li><strong>حين يكون فارغاً:</strong> مطفأ: بلا حركة في الأقسام القديمة.</li>
+<li><strong>يظهر في اللوحة فقط حين:</strong> «حركة تبديل التبويب» هو «legacy»</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>اللوحة (نسخة مطابقة)</th>
+<th>النتيجة</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img alt="لوحة إعدادات — «دخول البطاقات تباعاً (الإعداد السابق)»" src="/coach-docs/assets/sections/09-coach-shop/23-tab_stagger-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — «دخول البطاقات تباعاً (الإعداد السابق)»" src="/coach-docs/assets/sections/09-coach-shop/23-tab_stagger-on-result.webp" loading="lazy" decoding="async"/></td>
+<td>النتيجة بعد تفعيله (الافتراضي مطفأ)</td>
+</tr>
+</tbody>
+</table>
+</div><div class="note">صور اللوحة هي نسخ مرسومة مطابقة لإعدادات الثيم وليست لقطات مباشرة من محرّر سلة؛ صور النتيجة من معاينة الثيم.</div><p><a href="/coach-docs/">← العودة إلى الفهرس</a></p><footer class="foot">دليل كوتش — توثيق ثيم كوتش لمنصة سلة</footer></main><div class="toc"><strong>في هذه الصفحة</strong><div id="toc-links"></div></div></div><div aria-label="تكبير الصورة" class="lightbox" role="dialog"><button aria-label="إغلاق">إغلاق ✕</button><img alt="صورة مكبرة"/></div><script>window.COACH_BASE="/coach-docs/";window.COACH_SLUG="09-coach-shop";window.COACH_NAV=[{"slug": "01-colors", "title": "١ · الهوية — الألوان، شكل الكلمات المميّزة، والخط", "category": "الإعدادات العامة"}, {"slug": "02-motion", "title": "٢ · الحركة والتأثيرات — حركة الأقسام، خلفية الصفحة، المؤشر، وطيران المنتج", "category": "الإعدادات العامة"}, {"slug": "03-announcement", "title": "٣ · الشريط الإعلاني — نص وكود خصم وعدّاد أعلى كل الصفحات", "category": "الإعدادات العامة"}, {"slug": "04-header", "title": "٤ · الهيدر — الشكل والتثبيت والبحث والقائمة وزر الحجز وشريط الجوال السفلي", "category": "الإعدادات العامة"}, {"slug": "05-cart", "title": "٥ · السلة — الجانبية والمصغّرة وما يحدث بعد الإضافة", "category": "الإعدادات العامة"}, {"slug": "06-card", "title": "٦ · بطاقة المنتج — شكل الصورة، أشكال الأنواع، نسبة الخصم، وسم النوع و«أعلمني»", "category": "الإعدادات العامة"}, {"slug": "07-product", "title": "٧ · صفحة المنتج — الملاحظة و«يُشترى معاً» والصور والزر الثابت", "category": "الإعدادات العامة"}, {"slug": "08-listing", "title": "٨ · صفحات التصنيفات والبحث — رأس التصنيف بصورته ومسار التنقل", "category": "الإعدادات العامة"}, {"slug": "09-whatsapp", "title": "٩ · أزرار الشاشة — واتساب العائم، العودة للأعلى، وشاشة التحميل", "category": "الإعدادات العامة"}, {"slug": "10-footer", "title": "١٠ · الفوتر — العنوان الكبير، النبذة، بطاقة الدعوة، واسم المتجر", "category": "الإعدادات العامة"}, {"slug": "11-exit", "title": "١١ · نافذة العرض المنبثقة — عرض بكود خصم يظهر بعد ثوانٍ، مرة في كل زيارة", "category": "الإعدادات العامة"}, {"slug": "12-raed", "title": "١٢ · أقسام سلة الجاهزة — لأقسام رائد إن أضفتها للرئيسية", "category": "الإعدادات العامة"}, {"slug": "01-shared", "title": "الخيارات المشتركة بين الأقسام", "category": "الخيارات المشتركة"}, {"slug": "01-coach-hero", "title": "واجهة · ترحيب المدرّب", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "02-coach-hero-media", "title": "واجهة · فيديو وصور (٦ أشكال)", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "03-coach-hero-window", "title": "واجهة · نافذة القوس", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "04-coach-marquee", "title": "عام · شريط نصي متحرك", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "05-coach-press", "title": "ثقة · ظهرتُ في", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "06-coach-about", "title": "المدرّب · تعرّف عليّ", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "07-coach-trainers", "title": "المدرّب · فريق التدريب", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "08-coach-podcast", "title": "المدرّب · البودكاست", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "09-coach-shop", "title": "متجر · كل المنتجات بتبويبات", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "10-coach-consult-plans", "title": "استشارات · باقات الجلسات الفردية", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "11-coach-offer-banner", "title": "عروض · بانر عرض (٣ أشكال)", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "12-coach-steps", "title": "عام · خطوات البداية", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "13-coach-reviews", "title": "ثقة · قصص نجاح المتعلّمين", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "14-coach-faq", "title": "عام · الأسئلة الشائعة", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "15-coach-blog", "title": "عام · من المدوّنة", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "16-coach-stats", "title": "ثقة · شريط الأرقام", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "17-coach-curriculum", "title": "دورة · منهج الدورة", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "18-coach-book-formats", "title": "كتب · الكتاب بصيغ متعددة", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "19-coach-product-finder", "title": "تحويل · اختبار «ما البرنامج المناسب لي؟»", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "20-coach-learning-path", "title": "دورة · مسار التعلّم", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "21-coach-program", "title": "دورة · البرنامج بمراحله", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "22-coach-live-event", "title": "استشارات · لقاء مباشر قادم", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "23-coach-hero-book", "title": "واجهة · إطلاق كتاب", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "24-coach-outcomes", "title": "دورة · ماذا ستتعلّم", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "25-coach-audience", "title": "دورة · لمن هذا البرنامج", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "26-coach-book-shelf", "title": "كتب · رفّ الكتب", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "27-coach-book-toc", "title": "كتب · فهرس الكتاب", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "28-coach-book-quotes", "title": "كتب · اقتباسات من الكتاب", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "29-coach-audio-sample", "title": "كتب · عيّنة صوتية", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "30-coach-book-series", "title": "كتب · سلسلة الكتب", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "31-coach-bundle", "title": "عروض · يُشترى معاً", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "32-coach-delivery", "title": "عام · كيف يصلك المنتج", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "33-coach-guarantee", "title": "ثقة · ضمان الاسترجاع", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "34-coach-carousel", "title": "متجر · شريط منتجات متحرّك", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "35-coach-ranked", "title": "متجر · الأكثر مبيعاً", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "36-coach-spotlight", "title": "متجر · المنتج المميّز", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "37-coach-shelf-3d", "title": "متجر · رف ثلاثي الأبعاد", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "38-coach-reveal", "title": "متجر · بطاقات بمعاينة", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "39-coach-spines", "title": "كتب · رفّ تفاعلي بالكعوب", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "40-coach-free-guide", "title": "تحويل · الدليل المجاني", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "41-coach-booklet", "title": "كتب · كتيّب يقلّب", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "42-coach-reels", "title": "عام · مقاطع فيديو قصيرة", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "43-coach-departments", "title": "متجر · أقسام المتجر", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "44-coach-categories", "title": "متجر · التصنيفات بالصور (٦ أشكال)", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "45-coach-cta", "title": "تحويل · دعوة للإجراء (٦ أشكال)", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "46-coach-final-cta", "title": "تحويل · دعوة أخيرة بكلمات متحركة", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "47-coach-living-word", "title": "قصة التحوّل · الكلمة الحيّة", "category": "مكوّنات الصفحة الرئيسية"}, {"slug": "48-brands", "title": "الماركات التجارية", "category": "مكوّنات الصفحة الرئيسية"}];</script><script src="/coach-docs/app.js"></script></body></html>
