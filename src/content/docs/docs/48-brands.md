@@ -60,8 +60,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-  <td><img src="/coach-docs/assets/sections/48-brands/01-title-panel.webp" alt="" /></td>
-  <td><img src="/coach-docs/assets/sections/48-brands/01-title-result.webp" alt="" /></td>
+  <td><img alt="لوحة إعدادات — العنوان" src="/coach-docs/assets/sections/48-brands/01-title-panel.webp" loading="lazy" decoding="async"/></td>
+  <td><img alt="معاينة النتيجة — العنوان" src="/coach-docs/assets/sections/48-brands/01-title-result.webp" loading="lazy" decoding="async"/></td>
   <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -87,8 +87,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-  <td><img src="/coach-docs/assets/sections/48-brands/02-brands-panel.webp" alt="" /></td>
-  <td><img src="/coach-docs/assets/sections/48-brands/00-desktop.webp" alt="" /></td>
+  <td><img alt="لوحة إعدادات — الماركات التجارية" src="/coach-docs/assets/sections/48-brands/02-brands-panel.webp" loading="lazy" decoding="async"/></td>
+  <td><img alt="معاينة مرجعية — الماركات التجارية" src="/coach-docs/assets/sections/48-brands/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
   <td>النتيجة: القسم بالقيمة الافتراضية</td>
 </tr>
 </tbody>

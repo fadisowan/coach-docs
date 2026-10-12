@@ -60,8 +60,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-  <td><img src="/coach-docs/assets/sections/42-coach-reels/01-eyebrow-panel.webp" alt="" /></td>
-  <td><img src="/coach-docs/assets/sections/42-coach-reels/01-eyebrow-result.webp" alt="" /></td>
+  <td><img alt="لوحة إعدادات — العنوان الصغير (فوق العنوان)" src="/coach-docs/assets/sections/42-coach-reels/01-eyebrow-panel.webp" loading="lazy" decoding="async"/></td>
+  <td><img alt="معاينة النتيجة — العنوان الصغير (فوق العنوان)" src="/coach-docs/assets/sections/42-coach-reels/01-eyebrow-result.webp" loading="lazy" decoding="async"/></td>
   <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -88,8 +88,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-  <td><img src="/coach-docs/assets/sections/42-coach-reels/02-title-panel.webp" alt="" /></td>
-  <td><img src="/coach-docs/assets/sections/42-coach-reels/02-title-result.webp" alt="" /></td>
+  <td><img alt="لوحة إعدادات — العنوان" src="/coach-docs/assets/sections/42-coach-reels/02-title-panel.webp" loading="lazy" decoding="async"/></td>
+  <td><img alt="معاينة النتيجة — العنوان" src="/coach-docs/assets/sections/42-coach-reels/02-title-result.webp" loading="lazy" decoding="async"/></td>
   <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -116,8 +116,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-  <td><img src="/coach-docs/assets/sections/42-coach-reels/03-description-panel.webp" alt="" /></td>
-  <td><img src="/coach-docs/assets/sections/42-coach-reels/03-description-result.webp" alt="" /></td>
+  <td><img alt="لوحة إعدادات — الوصف" src="/coach-docs/assets/sections/42-coach-reels/03-description-panel.webp" loading="lazy" decoding="async"/></td>
+  <td><img alt="معاينة النتيجة — الوصف" src="/coach-docs/assets/sections/42-coach-reels/03-description-result.webp" loading="lazy" decoding="async"/></td>
   <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -143,8 +143,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-  <td><img src="/coach-docs/assets/sections/42-coach-reels/04-reels-panel.webp" alt="" /></td>
-  <td><img src="/coach-docs/assets/sections/42-coach-reels/04-reels-result.webp" alt="" /></td>
+  <td><img alt="لوحة إعدادات — المقاطع (منتج كل مقطع في الحقل التالي)" src="/coach-docs/assets/sections/42-coach-reels/04-reels-panel.webp" loading="lazy" decoding="async"/></td>
+  <td><img alt="معاينة النتيجة — المقاطع (منتج كل مقطع في الحقل التالي)" src="/coach-docs/assets/sections/42-coach-reels/04-reels-result.webp" loading="lazy" decoding="async"/></td>
   <td>أول عنصر محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -166,8 +166,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-  <td><img src="/coach-docs/assets/sections/42-coach-reels/04-reels-cover-panel.webp" alt="" /></td>
-  <td><img src="/coach-docs/assets/sections/42-coach-reels/04-reels-result.webp" alt="" /></td>
+  <td><img alt="لوحة إعدادات — المقاطع (منتج كل مقطع في الحقل التالي)" src="/coach-docs/assets/sections/42-coach-reels/04-reels-cover-panel.webp" loading="lazy" decoding="async"/></td>
+  <td><img alt="معاينة النتيجة — المقاطع (منتج كل مقطع في الحقل التالي)" src="/coach-docs/assets/sections/42-coach-reels/04-reels-result.webp" loading="lazy" decoding="async"/></td>
   <td></td>
 </tr>
 </tbody>
@@ -189,8 +189,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-  <td><img src="/coach-docs/assets/sections/42-coach-reels/04-reels-video_url-panel.webp" alt="" /></td>
-  <td><img src="/coach-docs/assets/sections/42-coach-reels/04-reels-result.webp" alt="" /></td>
+  <td><img alt="لوحة إعدادات — المقاطع (منتج كل مقطع في الحقل التالي)" src="/coach-docs/assets/sections/42-coach-reels/04-reels-video_url-panel.webp" loading="lazy" decoding="async"/></td>
+  <td><img alt="معاينة النتيجة — المقاطع (منتج كل مقطع في الحقل التالي)" src="/coach-docs/assets/sections/42-coach-reels/04-reels-result.webp" loading="lazy" decoding="async"/></td>
   <td></td>
 </tr>
 </tbody>
@@ -211,8 +211,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-  <td><img src="/coach-docs/assets/sections/42-coach-reels/04-reels-title-panel.webp" alt="" /></td>
-  <td><img src="/coach-docs/assets/sections/42-coach-reels/04-reels-result.webp" alt="" /></td>
+  <td><img alt="لوحة إعدادات — المقاطع (منتج كل مقطع في الحقل التالي)" src="/coach-docs/assets/sections/42-coach-reels/04-reels-title-panel.webp" loading="lazy" decoding="async"/></td>
+  <td><img alt="معاينة النتيجة — المقاطع (منتج كل مقطع في الحقل التالي)" src="/coach-docs/assets/sections/42-coach-reels/04-reels-result.webp" loading="lazy" decoding="async"/></td>
   <td></td>
 </tr>
 </tbody>
@@ -233,8 +233,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-  <td><img src="/coach-docs/assets/sections/42-coach-reels/04-reels-duration-panel.webp" alt="" /></td>
-  <td><img src="/coach-docs/assets/sections/42-coach-reels/04-reels-result.webp" alt="" /></td>
+  <td><img alt="لوحة إعدادات — المقاطع (منتج كل مقطع في الحقل التالي)" src="/coach-docs/assets/sections/42-coach-reels/04-reels-duration-panel.webp" loading="lazy" decoding="async"/></td>
+  <td><img alt="معاينة النتيجة — المقاطع (منتج كل مقطع في الحقل التالي)" src="/coach-docs/assets/sections/42-coach-reels/04-reels-result.webp" loading="lazy" decoding="async"/></td>
   <td></td>
 </tr>
 </tbody>
@@ -255,8 +255,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-  <td><img src="/coach-docs/assets/sections/42-coach-reels/04-reels-views-panel.webp" alt="" /></td>
-  <td><img src="/coach-docs/assets/sections/42-coach-reels/04-reels-result.webp" alt="" /></td>
+  <td><img alt="لوحة إعدادات — المقاطع (منتج كل مقطع في الحقل التالي)" src="/coach-docs/assets/sections/42-coach-reels/04-reels-views-panel.webp" loading="lazy" decoding="async"/></td>
+  <td><img alt="معاينة النتيجة — المقاطع (منتج كل مقطع في الحقل التالي)" src="/coach-docs/assets/sections/42-coach-reels/04-reels-result.webp" loading="lazy" decoding="async"/></td>
   <td></td>
 </tr>
 </tbody>
@@ -283,8 +283,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-  <td><img src="/coach-docs/assets/sections/42-coach-reels/05-products-panel.webp" alt="" /></td>
-  <td><img src="/coach-docs/assets/sections/42-coach-reels/00-desktop.webp" alt="" /></td>
+  <td><img alt="لوحة إعدادات — منتجات المقاطع (بنفس الترتيب)" src="/coach-docs/assets/sections/42-coach-reels/05-products-panel.webp" loading="lazy" decoding="async"/></td>
+  <td><img alt="معاينة مرجعية — منتجات المقاطع (بنفس الترتيب)" src="/coach-docs/assets/sections/42-coach-reels/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
   <td>النتيجة: القسم بالقيمة الافتراضية</td>
 </tr>
 </tbody>

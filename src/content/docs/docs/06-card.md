@@ -66,23 +66,23 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «شكل صورة المنتج في البطاقات»" src="/coach-docs/assets/00-theme/06-card/01-product_image_ratio-landscape-4-3-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — شكل صورة المنتج في البطاقات" src="/coach-docs/assets/00-theme/06-card/01-product_image_ratio-landscape-4-3-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — شكل صورة المنتج في البطاقات" src="/coach-docs/assets/00-theme/06-card/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>«عرضي 4:3 (الافتراضي)»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «شكل صورة المنتج في البطاقات»" src="/coach-docs/assets/00-theme/06-card/01-product_image_ratio-square-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «شكل صورة المنتج في البطاقات»" src="/coach-docs/assets/00-theme/06-card/01-product_image_ratio-square-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — شكل صورة المنتج في البطاقات" src="/coach-docs/assets/00-theme/06-card/01-product_image_ratio-square-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — شكل صورة المنتج في البطاقات" src="/coach-docs/assets/00-theme/06-card/01-product_image_ratio-square-result.webp" loading="lazy" decoding="async"/></td>
 <td>«مربع 1:1»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «شكل صورة المنتج في البطاقات»" src="/coach-docs/assets/00-theme/06-card/01-product_image_ratio-portrait-3-4-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «شكل صورة المنتج في البطاقات»" src="/coach-docs/assets/00-theme/06-card/01-product_image_ratio-portrait-3-4-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — شكل صورة المنتج في البطاقات" src="/coach-docs/assets/00-theme/06-card/01-product_image_ratio-portrait-3-4-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — شكل صورة المنتج في البطاقات" src="/coach-docs/assets/00-theme/06-card/01-product_image_ratio-portrait-3-4-result.webp" loading="lazy" decoding="async"/></td>
 <td>«طولي 3:4»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «شكل صورة المنتج في البطاقات»" src="/coach-docs/assets/00-theme/06-card/01-product_image_ratio-portrait-4-5-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «شكل صورة المنتج في البطاقات»" src="/coach-docs/assets/00-theme/06-card/01-product_image_ratio-portrait-4-5-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — شكل صورة المنتج في البطاقات" src="/coach-docs/assets/00-theme/06-card/01-product_image_ratio-portrait-4-5-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — شكل صورة المنتج في البطاقات" src="/coach-docs/assets/00-theme/06-card/01-product_image_ratio-portrait-4-5-result.webp" loading="lazy" decoding="async"/></td>
 <td>«طولي خفيف 4:5»</td>
 </tr>
 </tbody>
@@ -109,8 +109,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «صورة المنتج بالمساحة كاملة»" src="/coach-docs/assets/00-theme/06-card/02-card_image_full-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «صورة المنتج بالمساحة كاملة»" src="/coach-docs/assets/00-theme/06-card/02-card_image_full-off-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — صورة المنتج بالمساحة كاملة" src="/coach-docs/assets/00-theme/06-card/02-card_image_full-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — صورة المنتج بالمساحة كاملة" src="/coach-docs/assets/00-theme/06-card/02-card_image_full-off-result.webp" loading="lazy" decoding="async"/></td>
 <td>النتيجة بعد إطفائه (الافتراضي مفعّل)</td>
 </tr>
 </tbody>
@@ -137,8 +137,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «نسبة الخصم على المنتجات المخفّضة»" src="/coach-docs/assets/00-theme/06-card/03-card_show_discount-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — نسبة الخصم على المنتجات المخفّضة" src="/coach-docs/assets/00-theme/06-card/03-card_show_discount-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — نسبة الخصم على المنتجات المخفّضة" src="/coach-docs/assets/00-theme/06-card/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة بعد إطفائه (الافتراضي مفعّل)</td>
 </tr>
 </tbody>
@@ -165,8 +165,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «وسم نوع المنتج (دورة، كتاب، تحميل فوري…)»" src="/coach-docs/assets/00-theme/06-card/04-card_show_kind-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «وسم نوع المنتج (دورة، كتاب، تحميل فوري…)»" src="/coach-docs/assets/00-theme/06-card/04-card_show_kind-off-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — وسم نوع المنتج (دورة، كتاب، تحميل فوري…)" src="/coach-docs/assets/00-theme/06-card/04-card_show_kind-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — وسم نوع المنتج (دورة، كتاب، تحميل فوري…)" src="/coach-docs/assets/00-theme/06-card/04-card_show_kind-off-result.webp" loading="lazy" decoding="async"/></td>
 <td>النتيجة بعد إطفائه (الافتراضي مفعّل)</td>
 </tr>
 </tbody>
@@ -192,18 +192,18 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «نوع المنتج في البطاقات»" src="/coach-docs/assets/00-theme/06-card/05-card_kind_source-auto-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — نوع المنتج في البطاقات" src="/coach-docs/assets/00-theme/06-card/05-card_kind_source-auto-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — نوع المنتج في البطاقات" src="/coach-docs/assets/00-theme/06-card/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>«تلقائي: اسم التصنيف ثم نوع المنتج في سلة»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «نوع المنتج في البطاقات»" src="/coach-docs/assets/00-theme/06-card/05-card_kind_source-type-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «نوع المنتج في البطاقات»" src="/coach-docs/assets/00-theme/06-card/05-card_kind_source-type-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — نوع المنتج في البطاقات" src="/coach-docs/assets/00-theme/06-card/05-card_kind_source-type-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — نوع المنتج في البطاقات" src="/coach-docs/assets/00-theme/06-card/05-card_kind_source-type-result.webp" loading="lazy" decoding="async"/></td>
 <td>«نوع المنتج في سلة فقط»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «نوع المنتج في البطاقات»" src="/coach-docs/assets/00-theme/06-card/05-card_kind_source-none-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «نوع المنتج في البطاقات»" src="/coach-docs/assets/00-theme/06-card/05-card_kind_source-none-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — نوع المنتج في البطاقات" src="/coach-docs/assets/00-theme/06-card/05-card_kind_source-none-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — نوع المنتج في البطاقات" src="/coach-docs/assets/00-theme/06-card/05-card_kind_source-none-result.webp" loading="lazy" decoding="async"/></td>
 <td>«بلا أنواع: كل البطاقات عادية»</td>
 </tr>
 </tbody>
@@ -229,13 +229,13 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «بطاقة الدورات»" src="/coach-docs/assets/00-theme/06-card/06-card_course_style-chips-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — بطاقة الدورات" src="/coach-docs/assets/00-theme/06-card/06-card_course_style-chips-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — بطاقة الدورات" src="/coach-docs/assets/00-theme/06-card/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>«المستوى والمدة على الصورة»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «بطاقة الدورات»" src="/coach-docs/assets/00-theme/06-card/06-card_course_style-plain-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «بطاقة الدورات»" src="/coach-docs/assets/00-theme/06-card/06-card_course_style-plain-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — بطاقة الدورات" src="/coach-docs/assets/00-theme/06-card/06-card_course_style-plain-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — بطاقة الدورات" src="/coach-docs/assets/00-theme/06-card/06-card_course_style-plain-result.webp" loading="lazy" decoding="async"/></td>
 <td>«عادية»</td>
 </tr>
 </tbody>
@@ -261,13 +261,13 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «بطاقة الكتب»" src="/coach-docs/assets/00-theme/06-card/07-card_book_style-cover-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — بطاقة الكتب" src="/coach-docs/assets/00-theme/06-card/07-card_book_style-cover-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — بطاقة الكتب" src="/coach-docs/assets/00-theme/06-card/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>«الغلاف قائماً على أرضية ملوّنة»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «بطاقة الكتب»" src="/coach-docs/assets/00-theme/06-card/07-card_book_style-plain-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «بطاقة الكتب»" src="/coach-docs/assets/00-theme/06-card/07-card_book_style-plain-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — بطاقة الكتب" src="/coach-docs/assets/00-theme/06-card/07-card_book_style-plain-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — بطاقة الكتب" src="/coach-docs/assets/00-theme/06-card/07-card_book_style-plain-result.webp" loading="lazy" decoding="async"/></td>
 <td>«عادية»</td>
 </tr>
 </tbody>
@@ -293,13 +293,13 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «بطاقة المنتجات الرقمية»" src="/coach-docs/assets/00-theme/06-card/08-card_digital_style-plain-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — بطاقة المنتجات الرقمية" src="/coach-docs/assets/00-theme/06-card/08-card_digital_style-plain-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — بطاقة المنتجات الرقمية" src="/coach-docs/assets/00-theme/06-card/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>«عادية: السعر بجانب الزر»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «بطاقة المنتجات الرقمية»" src="/coach-docs/assets/00-theme/06-card/08-card_digital_style-wide-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — بطاقة المنتجات الرقمية" src="/coach-docs/assets/00-theme/06-card/08-card_digital_style-wide-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — بطاقة المنتجات الرقمية" src="/coach-docs/assets/00-theme/06-card/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>«زر عريض فيه السعر»</td>
 </tr>
 </tbody>
@@ -326,8 +326,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «إظهار زر &quot;أعلمني عند التوفر&quot; في بطاقة المنتج»" src="/coach-docs/assets/00-theme/06-card/09-notify_when_available_in_card-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — إظهار زر &quot;أعلمني عند التوفر&quot; في بطاقة المنتج" src="/coach-docs/assets/00-theme/06-card/09-notify_when_available_in_card-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — إظهار زر &quot;أعلمني عند التوفر&quot; في بطاقة المنتج" src="/coach-docs/assets/00-theme/06-card/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة بعد إطفائه (الافتراضي مفعّل)</td>
 </tr>
 </tbody>

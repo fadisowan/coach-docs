@@ -57,8 +57,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «إظهار الشريط الإعلاني»" src="/coach-docs/assets/00-theme/03-announcement/01-announcement_enabled-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — إظهار الشريط الإعلاني" src="/coach-docs/assets/00-theme/03-announcement/01-announcement_enabled-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — إظهار الشريط الإعلاني" src="/coach-docs/assets/00-theme/03-announcement/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة بعد تفعيله (الافتراضي مطفأ)</td>
 </tr>
 </tbody>
@@ -85,8 +85,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «نص الشريط»" src="/coach-docs/assets/00-theme/03-announcement/02-announcement_text-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «نص الشريط»" src="/coach-docs/assets/00-theme/03-announcement/02-announcement_text-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — نص الشريط" src="/coach-docs/assets/00-theme/03-announcement/02-announcement_text-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — نص الشريط" src="/coach-docs/assets/00-theme/03-announcement/02-announcement_text-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -113,8 +113,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «كود الخصم (اختياري)»" src="/coach-docs/assets/00-theme/03-announcement/03-announcement_code-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «كود الخصم (اختياري)»" src="/coach-docs/assets/00-theme/03-announcement/00-default-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — كود الخصم (اختياري)" src="/coach-docs/assets/00-theme/03-announcement/03-announcement_code-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — كود الخصم (اختياري)" src="/coach-docs/assets/00-theme/03-announcement/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة بالقيمة الافتراضية</td>
 </tr>
 </tbody>
@@ -141,8 +141,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «عدّاد حتى تاريخ (اختياري)»" src="/coach-docs/assets/00-theme/03-announcement/04-announcement_countdown-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — عدّاد حتى تاريخ (اختياري)" src="/coach-docs/assets/00-theme/03-announcement/04-announcement_countdown-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — عدّاد حتى تاريخ (اختياري)" src="/coach-docs/assets/00-theme/03-announcement/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة بنص تجريبي «مثال لنصّك هنا»</td>
 </tr>
 </tbody>
@@ -169,8 +169,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «رابط الشريط (اختياري)»" src="/coach-docs/assets/00-theme/03-announcement/05-announcement_link-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «رابط الشريط (اختياري)»" src="/coach-docs/assets/00-theme/03-announcement/00-default-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — رابط الشريط (اختياري)" src="/coach-docs/assets/00-theme/03-announcement/05-announcement_link-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — رابط الشريط (اختياري)" src="/coach-docs/assets/00-theme/03-announcement/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة بالقيمة الافتراضية</td>
 </tr>
 </tbody>

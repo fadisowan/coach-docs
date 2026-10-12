@@ -58,8 +58,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-  <td><img src="/coach-docs/assets/sections/07-coach-trainers/01-eyebrow-panel.webp" alt="" /></td>
-  <td><img src="/coach-docs/assets/sections/07-coach-trainers/01-eyebrow-result.webp" alt="" /></td>
+  <td><img alt="لوحة إعدادات — العنوان الصغير (فوق العنوان)" src="/coach-docs/assets/sections/07-coach-trainers/01-eyebrow-panel.webp" loading="lazy" decoding="async"/></td>
+  <td><img alt="معاينة النتيجة — العنوان الصغير (فوق العنوان)" src="/coach-docs/assets/sections/07-coach-trainers/01-eyebrow-result.webp" loading="lazy" decoding="async"/></td>
   <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -86,8 +86,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-  <td><img src="/coach-docs/assets/sections/07-coach-trainers/02-title-panel.webp" alt="" /></td>
-  <td><img src="/coach-docs/assets/sections/07-coach-trainers/02-title-result.webp" alt="" /></td>
+  <td><img alt="لوحة إعدادات — العنوان" src="/coach-docs/assets/sections/07-coach-trainers/02-title-panel.webp" loading="lazy" decoding="async"/></td>
+  <td><img alt="معاينة النتيجة — العنوان" src="/coach-docs/assets/sections/07-coach-trainers/02-title-result.webp" loading="lazy" decoding="async"/></td>
   <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -113,8 +113,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-  <td><img src="/coach-docs/assets/sections/07-coach-trainers/03-trainers-panel.webp" alt="" /></td>
-  <td><img src="/coach-docs/assets/sections/07-coach-trainers/03-trainers-result.webp" alt="" /></td>
+  <td><img alt="لوحة إعدادات — المدرّبون" src="/coach-docs/assets/sections/07-coach-trainers/03-trainers-panel.webp" loading="lazy" decoding="async"/></td>
+  <td><img alt="معاينة النتيجة — المدرّبون" src="/coach-docs/assets/sections/07-coach-trainers/03-trainers-result.webp" loading="lazy" decoding="async"/></td>
   <td>أول عنصر محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -136,8 +136,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-  <td><img src="/coach-docs/assets/sections/07-coach-trainers/03-trainers-photo-panel.webp" alt="" /></td>
-  <td><img src="/coach-docs/assets/sections/07-coach-trainers/03-trainers-result.webp" alt="" /></td>
+  <td><img alt="لوحة إعدادات — المدرّبون" src="/coach-docs/assets/sections/07-coach-trainers/03-trainers-photo-panel.webp" loading="lazy" decoding="async"/></td>
+  <td><img alt="معاينة النتيجة — المدرّبون" src="/coach-docs/assets/sections/07-coach-trainers/03-trainers-result.webp" loading="lazy" decoding="async"/></td>
   <td></td>
 </tr>
 </tbody>
@@ -158,8 +158,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-  <td><img src="/coach-docs/assets/sections/07-coach-trainers/03-trainers-name-panel.webp" alt="" /></td>
-  <td><img src="/coach-docs/assets/sections/07-coach-trainers/03-trainers-result.webp" alt="" /></td>
+  <td><img alt="لوحة إعدادات — المدرّبون" src="/coach-docs/assets/sections/07-coach-trainers/03-trainers-name-panel.webp" loading="lazy" decoding="async"/></td>
+  <td><img alt="معاينة النتيجة — المدرّبون" src="/coach-docs/assets/sections/07-coach-trainers/03-trainers-result.webp" loading="lazy" decoding="async"/></td>
   <td></td>
 </tr>
 </tbody>
@@ -180,8 +180,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-  <td><img src="/coach-docs/assets/sections/07-coach-trainers/03-trainers-role-panel.webp" alt="" /></td>
-  <td><img src="/coach-docs/assets/sections/07-coach-trainers/03-trainers-result.webp" alt="" /></td>
+  <td><img alt="لوحة إعدادات — المدرّبون" src="/coach-docs/assets/sections/07-coach-trainers/03-trainers-role-panel.webp" loading="lazy" decoding="async"/></td>
+  <td><img alt="معاينة النتيجة — المدرّبون" src="/coach-docs/assets/sections/07-coach-trainers/03-trainers-result.webp" loading="lazy" decoding="async"/></td>
   <td></td>
 </tr>
 </tbody>
@@ -202,8 +202,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-  <td><img src="/coach-docs/assets/sections/07-coach-trainers/03-trainers-tag-panel.webp" alt="" /></td>
-  <td><img src="/coach-docs/assets/sections/07-coach-trainers/03-trainers-result.webp" alt="" /></td>
+  <td><img alt="لوحة إعدادات — المدرّبون" src="/coach-docs/assets/sections/07-coach-trainers/03-trainers-tag-panel.webp" loading="lazy" decoding="async"/></td>
+  <td><img alt="معاينة النتيجة — المدرّبون" src="/coach-docs/assets/sections/07-coach-trainers/03-trainers-result.webp" loading="lazy" decoding="async"/></td>
   <td></td>
 </tr>
 </tbody>
@@ -224,8 +224,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-  <td><img src="/coach-docs/assets/sections/07-coach-trainers/03-trainers-count-panel.webp" alt="" /></td>
-  <td><img src="/coach-docs/assets/sections/07-coach-trainers/03-trainers-result.webp" alt="" /></td>
+  <td><img alt="لوحة إعدادات — المدرّبون" src="/coach-docs/assets/sections/07-coach-trainers/03-trainers-count-panel.webp" loading="lazy" decoding="async"/></td>
+  <td><img alt="معاينة النتيجة — المدرّبون" src="/coach-docs/assets/sections/07-coach-trainers/03-trainers-result.webp" loading="lazy" decoding="async"/></td>
   <td></td>
 </tr>
 </tbody>
@@ -246,8 +246,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-  <td><img src="/coach-docs/assets/sections/07-coach-trainers/03-trainers-bio-panel.webp" alt="" /></td>
-  <td><img src="/coach-docs/assets/sections/07-coach-trainers/03-trainers-result.webp" alt="" /></td>
+  <td><img alt="لوحة إعدادات — المدرّبون" src="/coach-docs/assets/sections/07-coach-trainers/03-trainers-bio-panel.webp" loading="lazy" decoding="async"/></td>
+  <td><img alt="معاينة النتيجة — المدرّبون" src="/coach-docs/assets/sections/07-coach-trainers/03-trainers-result.webp" loading="lazy" decoding="async"/></td>
   <td></td>
 </tr>
 </tbody>
@@ -269,8 +269,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-  <td><img src="/coach-docs/assets/sections/07-coach-trainers/03-trainers-skills-panel.webp" alt="" /></td>
-  <td><img src="/coach-docs/assets/sections/07-coach-trainers/03-trainers-result.webp" alt="" /></td>
+  <td><img alt="لوحة إعدادات — المدرّبون" src="/coach-docs/assets/sections/07-coach-trainers/03-trainers-skills-panel.webp" loading="lazy" decoding="async"/></td>
+  <td><img alt="معاينة النتيجة — المدرّبون" src="/coach-docs/assets/sections/07-coach-trainers/03-trainers-result.webp" loading="lazy" decoding="async"/></td>
   <td></td>
 </tr>
 </tbody>
@@ -291,8 +291,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-  <td><img src="/coach-docs/assets/sections/07-coach-trainers/03-trainers-courses_label-panel.webp" alt="" /></td>
-  <td><img src="/coach-docs/assets/sections/07-coach-trainers/03-trainers-result.webp" alt="" /></td>
+  <td><img alt="لوحة إعدادات — المدرّبون" src="/coach-docs/assets/sections/07-coach-trainers/03-trainers-courses_label-panel.webp" loading="lazy" decoding="async"/></td>
+  <td><img alt="معاينة النتيجة — المدرّبون" src="/coach-docs/assets/sections/07-coach-trainers/03-trainers-result.webp" loading="lazy" decoding="async"/></td>
   <td></td>
 </tr>
 </tbody>
@@ -314,8 +314,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-  <td><img src="/coach-docs/assets/sections/07-coach-trainers/03-trainers-courses_link-panel.webp" alt="" /></td>
-  <td><img src="/coach-docs/assets/sections/07-coach-trainers/03-trainers-result.webp" alt="" /></td>
+  <td><img alt="لوحة إعدادات — المدرّبون" src="/coach-docs/assets/sections/07-coach-trainers/03-trainers-courses_link-panel.webp" loading="lazy" decoding="async"/></td>
+  <td><img alt="معاينة النتيجة — المدرّبون" src="/coach-docs/assets/sections/07-coach-trainers/03-trainers-result.webp" loading="lazy" decoding="async"/></td>
   <td></td>
 </tr>
 </tbody>
@@ -337,8 +337,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-  <td><img src="/coach-docs/assets/sections/07-coach-trainers/03-trainers-profile_link-panel.webp" alt="" /></td>
-  <td><img src="/coach-docs/assets/sections/07-coach-trainers/03-trainers-result.webp" alt="" /></td>
+  <td><img alt="لوحة إعدادات — المدرّبون" src="/coach-docs/assets/sections/07-coach-trainers/03-trainers-profile_link-panel.webp" loading="lazy" decoding="async"/></td>
+  <td><img alt="معاينة النتيجة — المدرّبون" src="/coach-docs/assets/sections/07-coach-trainers/03-trainers-result.webp" loading="lazy" decoding="async"/></td>
   <td></td>
 </tr>
 </tbody>

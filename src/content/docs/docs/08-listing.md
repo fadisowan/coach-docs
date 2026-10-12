@@ -57,38 +57,38 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «ستايل هيرو صفحة التصنيف»" src="/coach-docs/assets/00-theme/08-listing/01-category_hero_style-thin-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — ستايل هيرو صفحة التصنيف" src="/coach-docs/assets/00-theme/08-listing/01-category_hero_style-thin-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — ستايل هيرو صفحة التصنيف" src="/coach-docs/assets/00-theme/08-listing/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>«شريط رفيع · تدرّج من اليمين (افتراضي)»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «ستايل هيرو صفحة التصنيف»" src="/coach-docs/assets/00-theme/08-listing/01-category_hero_style-gradient-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «ستايل هيرو صفحة التصنيف»" src="/coach-docs/assets/00-theme/08-listing/01-category_hero_style-gradient-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — ستايل هيرو صفحة التصنيف" src="/coach-docs/assets/00-theme/08-listing/01-category_hero_style-gradient-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — ستايل هيرو صفحة التصنيف" src="/coach-docs/assets/00-theme/08-listing/01-category_hero_style-gradient-result.webp" loading="lazy" decoding="async"/></td>
 <td>«تدرّج داكن من الأسفل»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «ستايل هيرو صفحة التصنيف»" src="/coach-docs/assets/00-theme/08-listing/01-category_hero_style-panel-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «ستايل هيرو صفحة التصنيف»" src="/coach-docs/assets/00-theme/08-listing/01-category_hero_style-panel-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — ستايل هيرو صفحة التصنيف" src="/coach-docs/assets/00-theme/08-listing/01-category_hero_style-panel-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — ستايل هيرو صفحة التصنيف" src="/coach-docs/assets/00-theme/08-listing/01-category_hero_style-panel-result.webp" loading="lazy" decoding="async"/></td>
 <td>«لوح جانبي بلون الهوية»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «ستايل هيرو صفحة التصنيف»" src="/coach-docs/assets/00-theme/08-listing/01-category_hero_style-center-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «ستايل هيرو صفحة التصنيف»" src="/coach-docs/assets/00-theme/08-listing/01-category_hero_style-center-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — ستايل هيرو صفحة التصنيف" src="/coach-docs/assets/00-theme/08-listing/01-category_hero_style-center-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — ستايل هيرو صفحة التصنيف" src="/coach-docs/assets/00-theme/08-listing/01-category_hero_style-center-result.webp" loading="lazy" decoding="async"/></td>
 <td>«غلاف كامل · نص في المنتصف»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «ستايل هيرو صفحة التصنيف»" src="/coach-docs/assets/00-theme/08-listing/01-category_hero_style-card-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «ستايل هيرو صفحة التصنيف»" src="/coach-docs/assets/00-theme/08-listing/01-category_hero_style-card-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — ستايل هيرو صفحة التصنيف" src="/coach-docs/assets/00-theme/08-listing/01-category_hero_style-card-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — ستايل هيرو صفحة التصنيف" src="/coach-docs/assets/00-theme/08-listing/01-category_hero_style-card-result.webp" loading="lazy" decoding="async"/></td>
 <td>«بطاقة بيضاء تتداخل مع الصورة»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «ستايل هيرو صفحة التصنيف»" src="/coach-docs/assets/00-theme/08-listing/01-category_hero_style-split-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «ستايل هيرو صفحة التصنيف»" src="/coach-docs/assets/00-theme/08-listing/01-category_hero_style-split-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — ستايل هيرو صفحة التصنيف" src="/coach-docs/assets/00-theme/08-listing/01-category_hero_style-split-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — ستايل هيرو صفحة التصنيف" src="/coach-docs/assets/00-theme/08-listing/01-category_hero_style-split-result.webp" loading="lazy" decoding="async"/></td>
 <td>«مقسوم · صورة بقوس»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «ستايل هيرو صفحة التصنيف»" src="/coach-docs/assets/00-theme/08-listing/01-category_hero_style-classic-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «ستايل هيرو صفحة التصنيف»" src="/coach-docs/assets/00-theme/08-listing/01-category_hero_style-classic-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — ستايل هيرو صفحة التصنيف" src="/coach-docs/assets/00-theme/08-listing/01-category_hero_style-classic-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — ستايل هيرو صفحة التصنيف" src="/coach-docs/assets/00-theme/08-listing/01-category_hero_style-classic-result.webp" loading="lazy" decoding="async"/></td>
 <td>«كما هو الآن: صورة صغيرة بجانب العنوان»</td>
 </tr>
 </tbody>
@@ -115,8 +115,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «إظهار وصف التصنيف في الهيرو»" src="/coach-docs/assets/00-theme/08-listing/02-category_hero_show_desc-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «إظهار وصف التصنيف في الهيرو»" src="/coach-docs/assets/00-theme/08-listing/02-category_hero_show_desc-off-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — إظهار وصف التصنيف في الهيرو" src="/coach-docs/assets/00-theme/08-listing/02-category_hero_show_desc-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — إظهار وصف التصنيف في الهيرو" src="/coach-docs/assets/00-theme/08-listing/02-category_hero_show_desc-off-result.webp" loading="lazy" decoding="async"/></td>
 <td>النتيجة بعد إطفائه (الافتراضي مفعّل)</td>
 </tr>
 </tbody>
@@ -143,8 +143,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «إظهار مسار التنقل في صفحة قائمة المنتجات»" src="/coach-docs/assets/00-theme/08-listing/03-product_index_show_breadcrumbs-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «إظهار مسار التنقل في صفحة قائمة المنتجات»" src="/coach-docs/assets/00-theme/08-listing/03-product_index_show_breadcrumbs-off-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — إظهار مسار التنقل في صفحة قائمة المنتجات" src="/coach-docs/assets/00-theme/08-listing/03-product_index_show_breadcrumbs-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — إظهار مسار التنقل في صفحة قائمة المنتجات" src="/coach-docs/assets/00-theme/08-listing/03-product_index_show_breadcrumbs-off-result.webp" loading="lazy" decoding="async"/></td>
 <td>النتيجة بعد إطفائه (الافتراضي مفعّل)</td>
 </tr>
 </tbody>

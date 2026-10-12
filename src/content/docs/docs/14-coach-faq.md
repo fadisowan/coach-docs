@@ -58,8 +58,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «العنوان الصغير (فوق العنوان)»" src="/coach-docs/assets/sections/14-coach-faq/01-eyebrow-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «العنوان الصغير (فوق العنوان)»" src="/coach-docs/assets/sections/14-coach-faq/01-eyebrow-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — العنوان الصغير (فوق العنوان)" src="/coach-docs/assets/sections/14-coach-faq/01-eyebrow-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — العنوان الصغير (فوق العنوان)" src="/coach-docs/assets/sections/14-coach-faq/01-eyebrow-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -86,8 +86,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «العنوان»" src="/coach-docs/assets/sections/14-coach-faq/02-title-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «العنوان»" src="/coach-docs/assets/sections/14-coach-faq/02-title-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — العنوان" src="/coach-docs/assets/sections/14-coach-faq/02-title-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — العنوان" src="/coach-docs/assets/sections/14-coach-faq/02-title-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -114,8 +114,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «الوصف»" src="/coach-docs/assets/sections/14-coach-faq/03-description-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الوصف»" src="/coach-docs/assets/sections/14-coach-faq/03-description-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الوصف" src="/coach-docs/assets/sections/14-coach-faq/03-description-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — الوصف" src="/coach-docs/assets/sections/14-coach-faq/03-description-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -141,8 +141,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «الأسئلة»" src="/coach-docs/assets/sections/14-coach-faq/04-items-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الأسئلة»" src="/coach-docs/assets/sections/14-coach-faq/00-desktop.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الأسئلة" src="/coach-docs/assets/sections/14-coach-faq/04-items-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — الأسئلة" src="/coach-docs/assets/sections/14-coach-faq/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td></td>
 </tr>
 </tbody>
@@ -163,8 +163,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «الأسئلة»" src="/coach-docs/assets/sections/14-coach-faq/04-items-question-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الأسئلة»" src="/coach-docs/assets/sections/14-coach-faq/00-desktop.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الأسئلة" src="/coach-docs/assets/sections/14-coach-faq/04-items-question-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — الأسئلة" src="/coach-docs/assets/sections/14-coach-faq/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td></td>
 </tr>
 </tbody>
@@ -185,8 +185,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «الأسئلة»" src="/coach-docs/assets/sections/14-coach-faq/04-items-answer-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الأسئلة»" src="/coach-docs/assets/sections/14-coach-faq/00-desktop.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الأسئلة" src="/coach-docs/assets/sections/14-coach-faq/04-items-answer-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — الأسئلة" src="/coach-docs/assets/sections/14-coach-faq/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td></td>
 </tr>
 </tbody>
@@ -213,8 +213,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «نص زر التواصل»" src="/coach-docs/assets/sections/14-coach-faq/05-contact_label-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «نص زر التواصل»" src="/coach-docs/assets/sections/14-coach-faq/05-contact_label-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — نص زر التواصل" src="/coach-docs/assets/sections/14-coach-faq/05-contact_label-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — نص زر التواصل" src="/coach-docs/assets/sections/14-coach-faq/05-contact_label-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -241,8 +241,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «رابط الزر»" src="/coach-docs/assets/sections/14-coach-faq/06-contact_link-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «رابط الزر»" src="/coach-docs/assets/sections/14-coach-faq/00-desktop.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — رابط الزر" src="/coach-docs/assets/sections/14-coach-faq/06-contact_link-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — رابط الزر" src="/coach-docs/assets/sections/14-coach-faq/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة: القسم بالقيمة الافتراضية</td>
 </tr>
 </tbody>
@@ -268,8 +268,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «السؤال الأول مفتوح عند التحميل»" src="/coach-docs/assets/sections/14-coach-faq/07-first_open-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «السؤال الأول مفتوح عند التحميل»" src="/coach-docs/assets/sections/14-coach-faq/07-first_open-off-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — السؤال الأول مفتوح عند التحميل" src="/coach-docs/assets/sections/14-coach-faq/07-first_open-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — السؤال الأول مفتوح عند التحميل" src="/coach-docs/assets/sections/14-coach-faq/07-first_open-off-result.webp" loading="lazy" decoding="async"/></td>
 <td>النتيجة بعد إطفائه (الافتراضي مفعّل)</td>
 </tr>
 </tbody>
@@ -296,8 +296,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «اعرض الأسئلة في نتائج البحث»" src="/coach-docs/assets/sections/14-coach-faq/08-schema-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — اعرض الأسئلة في نتائج البحث" src="/coach-docs/assets/sections/14-coach-faq/08-schema-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — اعرض الأسئلة في نتائج البحث" src="/coach-docs/assets/sections/14-coach-faq/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة بعد إطفائه (الافتراضي مفعّل)</td>
 </tr>
 </tbody>
@@ -324,8 +324,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «تثبيت الجزء الجانبي أثناء التمرير»" src="/coach-docs/assets/sections/14-coach-faq/09-sticky_side-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «تثبيت الجزء الجانبي أثناء التمرير»" src="/coach-docs/assets/sections/14-coach-faq/09-sticky_side-on-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — تثبيت الجزء الجانبي أثناء التمرير" src="/coach-docs/assets/sections/14-coach-faq/09-sticky_side-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — تثبيت الجزء الجانبي أثناء التمرير" src="/coach-docs/assets/sections/14-coach-faq/09-sticky_side-on-result.webp" loading="lazy" decoding="async"/></td>
 <td>النتيجة بعد تفعيله (الافتراضي مطفأ)</td>
 </tr>
 </tbody>

@@ -59,13 +59,13 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «الشكل»" src="/coach-docs/assets/sections/33-coach-guarantee/01-layout-seal-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — الشكل" src="/coach-docs/assets/sections/33-coach-guarantee/01-layout-seal-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — الشكل" src="/coach-docs/assets/sections/33-coach-guarantee/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>«١ · الختم والوعد»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «الشكل»" src="/coach-docs/assets/sections/33-coach-guarantee/01-layout-strip-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الشكل»" src="/coach-docs/assets/sections/33-coach-guarantee/01-layout-strip-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الشكل" src="/coach-docs/assets/sections/33-coach-guarantee/01-layout-strip-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — الشكل" src="/coach-docs/assets/sections/33-coach-guarantee/01-layout-strip-result.webp" loading="lazy" decoding="async"/></td>
 <td>«٢ · شريط مع طرق الدفع»</td>
 </tr>
 </tbody>
@@ -91,8 +91,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «الرقم في الختم»" src="/coach-docs/assets/sections/33-coach-guarantee/02-value-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الرقم في الختم»" src="/coach-docs/assets/sections/33-coach-guarantee/02-value-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الرقم في الختم" src="/coach-docs/assets/sections/33-coach-guarantee/02-value-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — الرقم في الختم" src="/coach-docs/assets/sections/33-coach-guarantee/02-value-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -118,8 +118,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «تحت الرقم»" src="/coach-docs/assets/sections/33-coach-guarantee/03-value_label-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «تحت الرقم»" src="/coach-docs/assets/sections/33-coach-guarantee/03-value_label-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — تحت الرقم" src="/coach-docs/assets/sections/33-coach-guarantee/03-value_label-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — تحت الرقم" src="/coach-docs/assets/sections/33-coach-guarantee/03-value_label-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -145,8 +145,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «العنوان»" src="/coach-docs/assets/sections/33-coach-guarantee/04-title-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «العنوان»" src="/coach-docs/assets/sections/33-coach-guarantee/04-title-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — العنوان" src="/coach-docs/assets/sections/33-coach-guarantee/04-title-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — العنوان" src="/coach-docs/assets/sections/33-coach-guarantee/04-title-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -172,8 +172,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «الوعد»" src="/coach-docs/assets/sections/33-coach-guarantee/05-text-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الوعد»" src="/coach-docs/assets/sections/33-coach-guarantee/05-text-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الوعد" src="/coach-docs/assets/sections/33-coach-guarantee/05-text-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — الوعد" src="/coach-docs/assets/sections/33-coach-guarantee/05-text-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -201,8 +201,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «المزايا تحت الوعد (اختياري)»" src="/coach-docs/assets/sections/33-coach-guarantee/06-benefits-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «المزايا تحت الوعد (اختياري)»" src="/coach-docs/assets/sections/33-coach-guarantee/06-benefits-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — المزايا تحت الوعد (اختياري)" src="/coach-docs/assets/sections/33-coach-guarantee/06-benefits-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — المزايا تحت الوعد (اختياري)" src="/coach-docs/assets/sections/33-coach-guarantee/06-benefits-result.webp" loading="lazy" decoding="async"/></td>
 <td>أول عنصر محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -223,8 +223,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «المزايا تحت الوعد (اختياري)»" src="/coach-docs/assets/sections/33-coach-guarantee/06-benefits-icon-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «المزايا تحت الوعد (اختياري)»" src="/coach-docs/assets/sections/33-coach-guarantee/06-benefits-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — المزايا تحت الوعد (اختياري)" src="/coach-docs/assets/sections/33-coach-guarantee/06-benefits-icon-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — المزايا تحت الوعد (اختياري)" src="/coach-docs/assets/sections/33-coach-guarantee/06-benefits-result.webp" loading="lazy" decoding="async"/></td>
 <td></td>
 </tr>
 </tbody>
@@ -245,8 +245,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «المزايا تحت الوعد (اختياري)»" src="/coach-docs/assets/sections/33-coach-guarantee/06-benefits-title-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «المزايا تحت الوعد (اختياري)»" src="/coach-docs/assets/sections/33-coach-guarantee/06-benefits-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — المزايا تحت الوعد (اختياري)" src="/coach-docs/assets/sections/33-coach-guarantee/06-benefits-title-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — المزايا تحت الوعد (اختياري)" src="/coach-docs/assets/sections/33-coach-guarantee/06-benefits-result.webp" loading="lazy" decoding="async"/></td>
 <td></td>
 </tr>
 </tbody>
@@ -267,8 +267,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «المزايا تحت الوعد (اختياري)»" src="/coach-docs/assets/sections/33-coach-guarantee/06-benefits-text-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «المزايا تحت الوعد (اختياري)»" src="/coach-docs/assets/sections/33-coach-guarantee/06-benefits-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — المزايا تحت الوعد (اختياري)" src="/coach-docs/assets/sections/33-coach-guarantee/06-benefits-text-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — المزايا تحت الوعد (اختياري)" src="/coach-docs/assets/sections/33-coach-guarantee/06-benefits-result.webp" loading="lazy" decoding="async"/></td>
 <td></td>
 </tr>
 </tbody>
@@ -296,8 +296,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «سطر تحت طرق الدفع»" src="/coach-docs/assets/sections/33-coach-guarantee/07-secure_line-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «سطر تحت طرق الدفع»" src="/coach-docs/assets/sections/33-coach-guarantee/00-desktop.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — سطر تحت طرق الدفع" src="/coach-docs/assets/sections/33-coach-guarantee/07-secure_line-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — سطر تحت طرق الدفع" src="/coach-docs/assets/sections/33-coach-guarantee/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة: القسم بالقيمة الافتراضية</td>
 </tr>
 </tbody>
@@ -324,8 +324,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «نص الرابط»" src="/coach-docs/assets/sections/33-coach-guarantee/08-link_label-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — نص الرابط" src="/coach-docs/assets/sections/33-coach-guarantee/08-link_label-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — نص الرابط" src="/coach-docs/assets/sections/33-coach-guarantee/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -352,8 +352,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «الرابط»" src="/coach-docs/assets/sections/33-coach-guarantee/09-link-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الرابط»" src="/coach-docs/assets/sections/33-coach-guarantee/00-desktop.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الرابط" src="/coach-docs/assets/sections/33-coach-guarantee/09-link-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — الرابط" src="/coach-docs/assets/sections/33-coach-guarantee/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة: القسم بالقيمة الافتراضية</td>
 </tr>
 </tbody>

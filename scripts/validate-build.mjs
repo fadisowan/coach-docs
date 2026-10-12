@@ -3,12 +3,16 @@ import path from 'node:path';
 import assert from 'node:assert/strict';
 import { createHash } from 'node:crypto';
 const nav = JSON.parse(fs.readFileSync('data.json', 'utf8'));
-const files = ['index.html', '404.html', ...nav.map(entry => `docs/${entry.slug}/index.html`)];
+const inventory = JSON.parse(fs.readFileSync('source-docs/manifest.json','utf8'));
+assert.deepEqual(inventory.units.map(unit=>unit.folder.split('/').at(-1)).sort(), nav.map(entry=>entry.slug).sort(), 'All original documentation units must be published');
+const files = ['index.html', '404.html', 'components/index.html', 'settings/index.html', ...nav.map(entry => `docs/${entry.slug}/index.html`)];
 let links = 0, images = 0;
+const referencedAssets = new Set();
 for (const file of files) {
   const html = fs.readFileSync('dist/' + file, 'utf8');
   assert.match(html, /<html[^>]*lang="ar"/, file);
   assert.match(html, /<html[^>]*dir="rtl"/, file);
+  assert.ok(!html.includes('class="missing-image"'), `${file}: unresolved image`);
   for (const [, attr, raw] of html.matchAll(/\b(href|src)="([^"]+)"/g)) {
     if (/^(https?:|mailto:|data:|tel:)/.test(raw)) continue;
     const url = new URL(raw.replaceAll('&amp;', '&'), 'https://fadisowan.github.io/coach-docs/' + file);
@@ -20,12 +24,37 @@ for (const file of files) {
       const linked = target === file ? html : fs.readFileSync('dist/' + target,'utf8');
       assert.ok(linked.includes('id="' + decodeURIComponent(url.hash.slice(1)) + '"'), `${file}: broken anchor ${raw}`);
     }
-    if (target.endsWith('.webp')) images++; else links++;
+    if (target.endsWith('.webp')) { images++; referencedAssets.add(target); } else links++;
   }
 }
 const hash = file => createHash('sha256').update(fs.readFileSync(file)).digest('hex');
 const assets = fs.readdirSync('assets', {recursive:true}).filter(file => file.endsWith('.webp'));
-for (const file of assets) assert.equal(hash(path.join('assets',file)), hash(path.join('dist/assets',file)), file);
-assert.equal(images, 1863, 'All source image references must remain');
+for (const file of assets) {
+  assert.equal(hash(path.join('assets',file)), hash(path.join('dist/assets',file)), file);
+  assert.ok(referencedAssets.has('assets/'+file.replaceAll('\\','/')), `Original image is not displayed anywhere: ${file}`);
+}
+const flatten = fields => fields.flatMap(field => [field, ...flatten(field.item_fields || [])]);
+let manifestPairs=0, manifestFields=0;
+for (const entry of nav) {
+  const folder=entry.category==='الإعدادات العامة'?'00-theme/'+entry.slug:entry.category==='الخيارات المشتركة'?entry.slug:'sections/'+entry.slug;
+  const manifest=JSON.parse(fs.readFileSync(`source-docs/${folder}/manifest.json`,'utf8'));
+  const html=fs.readFileSync(`dist/docs/${entry.slug}/index.html`,'utf8');
+  const expected=new Map();
+  for (const field of flatten(manifest.fields)) {
+    manifestFields++;
+    assert.ok(html.includes(`<code>${field.id}</code>`), `${entry.slug}: missing field ${field.id}`);
+    for(const pair of field.pairs || []) {
+      manifestPairs++;
+      for(const kind of ['panel','result']) {
+        const url=`/coach-docs/assets/${folder}/${pair[kind]}`;
+        expected.set(url,(expected.get(url)||0)+1);
+      }
+    }
+  }
+  for(const [url,count] of expected) assert.ok(html.split(`src="${url}"`).length-1>=count,`${entry.slug}: incomplete image mapping ${url}`);
+}
+assert.equal(nav.filter(entry=>entry.category==='مكوّنات الصفحة الرئيسية').length,48);
+assert.equal((fs.readFileSync('dist/components/index.html','utf8').match(/class="component-card"/g)||[]).length,48);
+assert.equal((fs.readFileSync('dist/settings/index.html','utf8').match(/class="component-card"/g)||[]).length,13);
 assert.ok(fs.existsSync('dist/pagefind/pagefind.js'), 'Missing full text search index');
-console.log(JSON.stringify({builtPages:files.length,internalReferences:links,imageReferences:images,preservedOriginalImages:assets.length}));
+console.log(JSON.stringify({builtPages:files.length,internalReferences:links,imageReferences:images,preservedOriginalImages:assets.length,manifestFields,manifestPairs,missingImages:0,components:48}));

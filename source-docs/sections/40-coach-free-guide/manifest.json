@@ -1,0 +1,493 @@
+{
+ "kind": "section",
+ "key": "coach-free-guide",
+ "title": "تحويل · الدليل المجاني",
+ "folder": "sections/40-coach-free-guide",
+ "fields": [
+  {
+   "id": "panel_style",
+   "label": "لون اللوحة",
+   "type": "قائمة منسدلة",
+   "default": "فاتح (كما هو)",
+   "what": "لون اللوحة: فاتح، أو باللون الأساسي.",
+   "when": "«الأساسي» لإبراز القسم بين أقسام فاتحة.",
+   "empty": "",
+   "editor_hint": "",
+   "from_guide": "اللوحة:** «لون اللوحة»: «فاتح (كما هو)» (الافتراضي) أو «باللون الأساسي».",
+   "shows_when": "",
+   "pairs": [
+    {
+     "panel": "01-panel_style-light-panel.webp",
+     "result": "01-panel_style-light-result.webp",
+     "option": "فاتح (كما هو)",
+     "value": "light",
+     "panel_ok": true,
+     "result_ok": true
+    },
+    {
+     "panel": "01-panel_style-primary-panel.webp",
+     "result": "01-panel_style-primary-result.webp",
+     "option": "باللون الأساسي",
+     "value": "primary",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "fx_motion",
+   "label": "خلفية متحركة بالألوان",
+   "type": "مفتاح تشغيل وإطفاء",
+   "default": "مطفأ",
+   "what": "تدرّج متحرك بألوان الثيم خلف اللوحة الداكنة. ثابت على الجوال، ويتوقف مع إطفاء «التأثيرات المتحركة».",
+   "when": "لقسم تريده أن يلفت النظر.",
+   "empty": "مطفأ (الافتراضي): خلفية ثابتة.",
+   "editor_hint": "تدرّج بألوان الثيم خلف اللوحة الداكنة؛ ثابت للجوال وبلا «التأثيرات المتحركة».",
+   "from_guide": "",
+   "shows_when": "«لون اللوحة» هو «باللون الأساسي»",
+   "pairs": [
+    {
+     "panel": "02-fx_motion-panel.webp",
+     "result": "02-fx_motion-on-result.webp",
+     "note": "النتيجة بعد تفعيله (الافتراضي مطفأ)",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "fx_speed",
+   "label": "سرعة الحركة",
+   "type": "قائمة منسدلة",
+   "default": "متوسطة",
+   "what": "سرعة الخلفية المتحركة.",
+   "when": "«هادئة» لحركة لا تشتّت.",
+   "empty": "",
+   "editor_hint": "",
+   "from_guide": "",
+   "shows_when": "«خلفية متحركة بالألوان» هو «مفعّل»",
+   "pairs": [
+    {
+     "panel": "03-fx_speed-slow-panel.webp",
+     "result": "01-panel_style-light-result.webp",
+     "option": "هادئة",
+     "value": "slow",
+     "panel_ok": true,
+     "result_ok": true
+    },
+    {
+     "panel": "03-fx_speed-normal-panel.webp",
+     "result": "03-fx_speed-normal-result.webp",
+     "option": "متوسطة",
+     "value": "normal",
+     "panel_ok": true,
+     "result_ok": true
+    },
+    {
+     "panel": "03-fx_speed-fast-panel.webp",
+     "result": "03-fx_speed-fast-result.webp",
+     "option": "أسرع",
+     "value": "fast",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "fx_palette",
+   "label": "ألوان الخلفية المتحركة",
+   "type": "قائمة منسدلة",
+   "default": "ألوان الثيم",
+   "what": "ألوان الخلفية المتحركة: ألوان الثيم، أو ليلي، أو دافئ.",
+   "when": "اختر ما يناسب الدليل.",
+   "empty": "",
+   "editor_hint": "",
+   "from_guide": "",
+   "shows_when": "«خلفية متحركة بالألوان» هو «مفعّل»",
+   "pairs": [
+    {
+     "panel": "04-fx_palette-theme-panel.webp",
+     "result": "01-panel_style-light-result.webp",
+     "option": "ألوان الثيم",
+     "value": "theme",
+     "panel_ok": true,
+     "result_ok": true
+    },
+    {
+     "panel": "04-fx_palette-night-panel.webp",
+     "result": "03-fx_speed-normal-result.webp",
+     "option": "ليلي",
+     "value": "night",
+     "panel_ok": true,
+     "result_ok": true
+    },
+    {
+     "panel": "04-fx_palette-warm-panel.webp",
+     "result": "03-fx_speed-fast-result.webp",
+     "option": "دافئ",
+     "value": "warm",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "image_style",
+   "label": "شكل الصورة",
+   "type": "قائمة منسدلة",
+   "default": "تملأ المساحة",
+   "what": "شكل الصورة: تملأ المساحة، أو غلاف كتاب.",
+   "when": "«غلاف كتاب» لدليل بغلاف مسطّح، أو ليُرسم غلاف من النصوص.",
+   "empty": "",
+   "editor_hint": "",
+   "from_guide": "",
+   "shows_when": "",
+   "pairs": [
+    {
+     "panel": "05-image_style-fill-panel.webp",
+     "result": "01-panel_style-light-result.webp",
+     "option": "تملأ المساحة",
+     "value": "fill",
+     "panel_ok": true,
+     "result_ok": true
+    },
+    {
+     "panel": "05-image_style-book-panel.webp",
+     "result": "03-fx_speed-normal-result.webp",
+     "option": "غلاف كتاب",
+     "value": "book",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "title",
+   "label": "العنوان",
+   "type": "نص بسطر واحد",
+   "default": "حمّل دليلي المجاني وابدأ بخطوة صحيحة",
+   "what": "عنوان القسم.",
+   "when": "ما سيحصل عليه الزائر مجاناً.",
+   "empty": "فارغاً لا يظهر.",
+   "editor_hint": "",
+   "from_guide": "",
+   "shows_when": "",
+   "pairs": [
+    {
+     "panel": "06-title-panel.webp",
+     "result": "06-title-result.webp",
+     "note": "مكانه في القسم محاط بإطار برتقالي",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "description",
+   "label": "الوصف",
+   "type": "نص بعدة أسطر",
+   "default": "دليل عملي من ٢٤ صفحة أضع فيه الطريقة التي أبدأ بها مع كل متدرّب: كيف تحدد المهارة التي تصنع الفرق في عملك، وتبني خطة تعلّم أسبوعية تلتزم بها.",
+   "what": "سطر أو سطران عن الدليل.",
+   "when": "لما في الدليل ولمن هو.",
+   "empty": "فارغاً لا يظهر.",
+   "editor_hint": "",
+   "from_guide": "",
+   "shows_when": "",
+   "pairs": [
+    {
+     "panel": "07-description-panel.webp",
+     "result": "07-description-result.webp",
+     "note": "مكانه في القسم محاط بإطار برتقالي",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "product",
+   "label": "المنتج المجاني",
+   "type": "اختيار منتج من متجرك",
+   "default": "لا شيء — يختاره التاجر",
+   "what": "المنتج المجاني: «منتج رقمي» بسعر ٠، يضيفه الزر للسلة.",
+   "when": "دائماً: أنشئ الدليل منتجاً رقمياً مجانياً واختره.",
+   "empty": "بدونه أول منتج مجاني من أحدث ٣٠ منتجاً. وإن حُذف المنتج المختار يختفي القسم عن الزوار.",
+   "editor_hint": "«منتج رقمي» بسعر ٠؛ بدونه أول منتج مجاني من أحدث ٣٠.",
+   "from_guide": "أهم الإعدادات:** «المنتج المجاني» منتج رقمي بسعر ٠، والمنتج الذي له سعر يُعرض بسعره. بدون اختيار: أول منتج مجاني بين أحدث ٣٠ منتجاً. «صورة الغلاف (اختيارية)» طولية (٤٠٠×٥٦٠ بكسل تقريباً)؛ بدونها يُرسم غلاف من «السطر أعلى الغلاف» و«العنوان على الغلاف المرسوم».",
+   "shows_when": "",
+   "pairs": [
+    {
+     "panel": "08-product-panel.webp",
+     "result": "00-desktop.webp",
+     "note": "النتيجة: القسم بالقيمة الافتراضية",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "link",
+   "label": "أو رابط بدل المنتج",
+   "type": "رابط (منتج أو تصنيف أو صفحة أو رابط آخر)",
+   "default": "بلا رابط",
+   "what": "رابط بدل المنتج، إن لم تختر منتجاً: يصير الزر رابطاً له.",
+   "when": "إن كان الدليل ملفاً أو صفحة خارج سلة.",
+   "empty": "بدونه وبلا منتج يُبحث عن أول منتج مجاني.",
+   "editor_hint": "بدون منتج فقط: يصير الزر رابطاً لها.",
+   "from_guide": "",
+   "shows_when": "",
+   "pairs": [
+    {
+     "panel": "09-link-panel.webp",
+     "result": "00-desktop.webp",
+     "note": "النتيجة: القسم بالقيمة الافتراضية",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "chapters",
+   "label": "ماذا في الداخل",
+   "type": "عناصر متكررة (تضيفها وتحذفها وترتّبها)",
+   "default": "4 عناصر جاهزة",
+   "what": "ماذا في الدليل، فصل في كل سطر.",
+   "when": "لما يتعلّمه القارئ.",
+   "empty": "بلا فصول لا تظهر القائمة.",
+   "editor_hint": "",
+   "from_guide": "التفاصيل:** «ماذا في الداخل» حتى ٦ فصول. «قيمة مشطوبة للعرض (اختياري)» رقم فقط، يُكتب بعملة المتجر ويُشطب بجانب «مجاناً». «نص بطاقة التحميل» يظهر بجانب عدد الطلبات الحقيقي حين يبلغ ٥٠ فأكثر.",
+   "shows_when": "",
+   "pairs": [
+    {
+     "panel": "10-chapters-panel.webp",
+     "result": "10-chapters-result.webp",
+     "note": "أول عنصر محاط بإطار برتقالي",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ],
+   "item_fields": [
+    {
+     "id": "chapters.text",
+     "label": "الفصل",
+     "type": "نص بسطر واحد",
+     "default": "فارغ",
+     "what": "اسم الفصل.",
+     "when": "",
+     "empty": "الفصل الفارغ لا يظهر.",
+     "editor_hint": "",
+     "from_guide": "",
+     "shows_when": "",
+     "pairs": [
+      {
+       "panel": "10-chapters-text-panel.webp",
+       "result": "10-chapters-result.webp",
+       "panel_ok": true,
+       "result_ok": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "compare_price",
+   "label": "قيمة مشطوبة (امسحها إن لم يكن له سعر)",
+   "type": "نص بسطر واحد",
+   "default": "49",
+   "what": "قيمة مشطوبة بجانب «مجاناً»، رقم بعملة المتجر. مع المنتج فقط.",
+   "when": "إن كان للدليل سعر فعلي في مكان آخر. امسحها إن لم يكن.",
+   "empty": "فارغة أو غير رقم لا تظهر.",
+   "editor_hint": "رقم بعملة المتجر بجانب «مجاناً»؛ مع المنتج فقط.",
+   "from_guide": "",
+   "shows_when": "",
+   "pairs": [
+    {
+     "panel": "11-compare_price-panel.webp",
+     "result": "00-desktop.webp",
+     "note": "مكانه في القسم محاط بإطار برتقالي",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "downloads_label",
+   "label": "نص بطاقة التحميل",
+   "type": "نص بسطر واحد",
+   "default": "تحميل حتى الآن",
+   "what": "نص بطاقة التحميل بجانب عدد طلبات المنتج. تظهر من ٥٠ طلباً فأكثر، مع المنتج فقط.",
+   "when": "مثل «تحميل حتى الآن».",
+   "empty": "فارغاً يظهر العدد وحده.",
+   "editor_hint": "مع المنتج فقط، بجانب عدد طلباته (٥٠ فأكثر).",
+   "from_guide": "التفاصيل:** «ماذا في الداخل» حتى ٦ فصول. «قيمة مشطوبة للعرض (اختياري)» رقم فقط، يُكتب بعملة المتجر ويُشطب بجانب «مجاناً». «نص بطاقة التحميل» يظهر بجانب عدد الطلبات الحقيقي حين يبلغ ٥٠ فأكثر.",
+   "shows_when": "",
+   "pairs": [
+    {
+     "panel": "12-downloads_label-panel.webp",
+     "result": "00-desktop.webp",
+     "note": "مكانه في القسم محاط بإطار برتقالي",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "cover_image",
+   "label": "صورة الغلاف (اختيارية)",
+   "type": "صورة ترفعها",
+   "default": "بلا صورة",
+   "what": "صورة الغلاف، طولية نحو ٤٠٠×٥٦٠، مع «غلاف كتاب» في «شكل الصورة».",
+   "when": "غلاف دليلك الحقيقي.",
+   "empty": "بدونها غلاف مرسوم من «العنوان على الغلاف» و«السطر أعلى الغلاف».",
+   "editor_hint": "طولية نحو ٤٠٠×٥٦٠ مع «غلاف كتاب» في «شكل الصورة»؛ بدونها غلاف من النصين أدناه.",
+   "from_guide": "أهم الإعدادات:** «المنتج المجاني» منتج رقمي بسعر ٠، والمنتج الذي له سعر يُعرض بسعره. بدون اختيار: أول منتج مجاني بين أحدث ٣٠ منتجاً. «صورة الغلاف (اختيارية)» طولية (٤٠٠×٥٦٠ بكسل تقريباً)؛ بدونها يُرسم غلاف من «السطر أعلى الغلاف» و«العنوان على الغلاف المرسوم».",
+   "shows_when": "",
+   "pairs": [
+    {
+     "panel": "13-cover_image-panel.webp",
+     "result": "13-cover_image-result.webp",
+     "note": "النتيجة بصورة تجريبية",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "cover_title",
+   "label": "العنوان على الغلاف المرسوم",
+   "type": "نص بسطر واحد",
+   "default": "خطة تطوير مهاراتك في ٣٠ يوماً",
+   "what": "العنوان على الغلاف المرسوم.",
+   "when": "اسم الدليل.",
+   "empty": "فارغاً غلاف بلا عنوان.",
+   "editor_hint": "",
+   "from_guide": "أهم الإعدادات:** «المنتج المجاني» منتج رقمي بسعر ٠، والمنتج الذي له سعر يُعرض بسعره. بدون اختيار: أول منتج مجاني بين أحدث ٣٠ منتجاً. «صورة الغلاف (اختيارية)» طولية (٤٠٠×٥٦٠ بكسل تقريباً)؛ بدونها يُرسم غلاف من «السطر أعلى الغلاف» و«العنوان على الغلاف المرسوم».",
+   "shows_when": "",
+   "pairs": [
+    {
+     "panel": "14-cover_title-panel.webp",
+     "result": "14-cover_title-result.webp",
+     "note": "مكانه في القسم محاط بإطار برتقالي",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "cover_tag",
+   "label": "السطر أعلى الغلاف المرسوم",
+   "type": "نص بسطر واحد",
+   "default": "دليل مجاني للتحميل",
+   "what": "سطر صغير أعلى الغلاف المرسوم.",
+   "when": "مثل «دليل مجاني للتحميل».",
+   "empty": "فارغاً لا يظهر.",
+   "editor_hint": "",
+   "from_guide": "",
+   "shows_when": "",
+   "pairs": [
+    {
+     "panel": "15-cover_tag-panel.webp",
+     "result": "15-cover_tag-result.webp",
+     "note": "مكانه في القسم محاط بإطار برتقالي",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "badge",
+   "label": "الشارة المائلة",
+   "type": "نص بسطر واحد",
+   "default": "مجاناً",
+   "what": "شارة مائلة على الغلاف، مثل «مجاناً».",
+   "when": "لإبراز أنه مجاني.",
+   "empty": "فارغة لا تظهر.",
+   "editor_hint": "",
+   "from_guide": "",
+   "shows_when": "",
+   "pairs": [
+    {
+     "panel": "16-badge-panel.webp",
+     "result": "16-badge-result.webp",
+     "note": "مكانه في القسم محاط بإطار برتقالي",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "button_label",
+   "label": "نص زر الإضافة للسلة",
+   "type": "نص بسطر واحد",
+   "default": "أضف للسلة",
+   "what": "نص الزر.",
+   "when": "مثل «حمّل الدليل».",
+   "empty": "فارغاً يظهر «أضف للسلة».",
+   "editor_hint": "فارغاً يظهر «أضف للسلة».",
+   "from_guide": "",
+   "shows_when": "",
+   "pairs": [
+    {
+     "panel": "17-button_label-panel.webp",
+     "result": "17-button_label-result.webp",
+     "note": "مكانه في القسم محاط بإطار برتقالي",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "note",
+   "label": "السطر تحت الزر",
+   "type": "نص بسطر واحد",
+   "default": "دليل مجاني تماماً — يصلك رابط التحميل فور إتمام الطلب بدون دفع.",
+   "what": "سطر صغير تحت الزر.",
+   "when": "لتوضيح أنه بلا دفع وكيف يصل.",
+   "empty": "فارغاً لا يظهر.",
+   "editor_hint": "",
+   "from_guide": "",
+   "shows_when": "",
+   "pairs": [
+    {
+     "panel": "18-note-panel.webp",
+     "result": "18-note-result.webp",
+     "note": "مكانه في القسم محاط بإطار برتقالي",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "cover_float",
+   "label": "الغلاف يطفو",
+   "type": "مفتاح تشغيل وإطفاء",
+   "default": "مطفأ",
+   "what": "الغلاف يصعد وينزل بهدوء، مع «غلاف كتاب» أو الغلاف المرسوم فقط.",
+   "when": "لحركة لطيفة. تتوقف مع إطفاء «التأثيرات المتحركة».",
+   "empty": "مطفأ (الافتراضي): ثابت.",
+   "editor_hint": "صعود ونزول هادئ؛ مع «غلاف كتاب» أو الغلاف المرسوم فقط.",
+   "from_guide": "",
+   "shows_when": "",
+   "pairs": [
+    {
+     "panel": "19-cover_float-panel.webp",
+     "result": "01-panel_style-light-result.webp",
+     "note": "النتيجة بعد تفعيله (الافتراضي مطفأ)",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  }
+ ],
+ "slug": "coach-free-guide",
+ "title_en": "Conversion · Free guide",
+ "intro": "دليل مجاني (منتج رقمي بسعر صفر) يُضاف للسلة، فيبني قاعدة عملائك: غلاف، وعدد التحميلات، وما في الدليل، وزر الطلب.",
+ "when": "لجمع عملاء جدد بهدية مفيدة.",
+ "desktop": "00-desktop.webp",
+ "mobile": "00-mobile.webp",
+ "shared": [
+  "حجم العنوان",
+  "المسافة العلوية (بكسل)",
+  "المسافة السفلية (بكسل)"
+ ],
+ "guide": "منتج رقمي مجاني يُضاف للسلة: غلاف مائل بشارة «مجاناً»، وعدد الطلبات الحقيقي من سلة، وما في الدليل، وزر يصبح بعد الإضافة «أكمل الطلب».\n\n- **أهم الإعدادات:** «المنتج المجاني» منتج رقمي بسعر ٠، والمنتج الذي له سعر يُعرض بسعره. بدون اختيار: أول منتج مجاني بين أحدث ٣٠ منتجاً. «صورة الغلاف (اختيارية)» طولية (٤٠٠×٥٦٠ بكسل تقريباً)؛ بدونها يُرسم غلاف من «السطر أعلى الغلاف» و«العنوان على الغلاف المرسوم».\n- **اللوحة:** «لون اللوحة»: «فاتح (كما هو)» (الافتراضي) أو «باللون الأساسي».\n- **شكل الصورة:** «تملأ المساحة» (الافتراضي، بلا إطار؛ الغلاف لا يطفو في هذا الشكل) أو «غلاف كتاب» (الصورة داخل كتاب مائل). أرضية منطقة الصورة من لون متجرك الفاتح.\n- **التفاصيل:** «ماذا في الداخل» حتى ٦ فصول. «قيمة مشطوبة للعرض (اختياري)» رقم فقط، يُكتب بعملة المتجر ويُشطب بجانب «مجاناً». «نص بطاقة التحميل» يظهر بجانب عدد الطلبات الحقيقي حين يبلغ ٥٠ فأكثر.\n\n---\n\n**ثقة** — أقسام تبني ثقة الزائر قبل الشراء."
+}

@@ -63,8 +63,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «إظهار العنوان الكبير»" src="/coach-docs/assets/00-theme/10-footer/01-footer_title_enabled-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «إظهار العنوان الكبير»" src="/coach-docs/assets/00-theme/10-footer/01-footer_title_enabled-off-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — إظهار العنوان الكبير" src="/coach-docs/assets/00-theme/10-footer/01-footer_title_enabled-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — إظهار العنوان الكبير" src="/coach-docs/assets/00-theme/10-footer/01-footer_title_enabled-off-result.webp" loading="lazy" decoding="async"/></td>
 <td>النتيجة بعد إطفائه (الافتراضي مفعّل)</td>
 </tr>
 </tbody>
@@ -91,8 +91,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «العنوان الكبير»" src="/coach-docs/assets/00-theme/10-footer/02-footer_title-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «العنوان الكبير»" src="/coach-docs/assets/00-theme/10-footer/02-footer_title-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — العنوان الكبير" src="/coach-docs/assets/00-theme/10-footer/02-footer_title-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — العنوان الكبير" src="/coach-docs/assets/00-theme/10-footer/02-footer_title-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -119,8 +119,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «وصف تحت العنوان»" src="/coach-docs/assets/00-theme/10-footer/03-footer_title_text-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «وصف تحت العنوان»" src="/coach-docs/assets/00-theme/10-footer/03-footer_title_text-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — وصف تحت العنوان" src="/coach-docs/assets/00-theme/10-footer/03-footer_title_text-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — وصف تحت العنوان" src="/coach-docs/assets/00-theme/10-footer/03-footer_title_text-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -147,8 +147,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «زر تحت العنوان: نصّه»" src="/coach-docs/assets/00-theme/10-footer/04-footer_title_button-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — زر تحت العنوان: نصّه" src="/coach-docs/assets/00-theme/10-footer/04-footer_title_button-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — زر تحت العنوان: نصّه" src="/coach-docs/assets/00-theme/10-footer/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>مكانه محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -175,8 +175,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «زر تحت العنوان: رابطه»" src="/coach-docs/assets/00-theme/10-footer/05-footer_title_link-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «زر تحت العنوان: رابطه»" src="/coach-docs/assets/00-theme/10-footer/00-default-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — زر تحت العنوان: رابطه" src="/coach-docs/assets/00-theme/10-footer/05-footer_title_link-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — زر تحت العنوان: رابطه" src="/coach-docs/assets/00-theme/10-footer/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة بالقيمة الافتراضية</td>
 </tr>
 </tbody>
@@ -203,8 +203,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «نبذة تحت شعار المتجر»" src="/coach-docs/assets/00-theme/10-footer/06-footer_about-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «نبذة تحت شعار المتجر»" src="/coach-docs/assets/00-theme/10-footer/06-footer_about-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — نبذة تحت شعار المتجر" src="/coach-docs/assets/00-theme/10-footer/06-footer_about-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — نبذة تحت شعار المتجر" src="/coach-docs/assets/00-theme/10-footer/06-footer_about-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -231,8 +231,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «إظهار بطاقة الدعوة»" src="/coach-docs/assets/00-theme/10-footer/07-footer_cta_enabled-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «إظهار بطاقة الدعوة»" src="/coach-docs/assets/00-theme/10-footer/07-footer_cta_enabled-off-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — إظهار بطاقة الدعوة" src="/coach-docs/assets/00-theme/10-footer/07-footer_cta_enabled-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — إظهار بطاقة الدعوة" src="/coach-docs/assets/00-theme/10-footer/07-footer_cta_enabled-off-result.webp" loading="lazy" decoding="async"/></td>
 <td>النتيجة بعد إطفائه (الافتراضي مفعّل)</td>
 </tr>
 </tbody>
@@ -259,8 +259,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «بطاقة الدعوة: العنوان»" src="/coach-docs/assets/00-theme/10-footer/08-footer_cta_label-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «بطاقة الدعوة: العنوان»" src="/coach-docs/assets/00-theme/10-footer/08-footer_cta_label-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — بطاقة الدعوة: العنوان" src="/coach-docs/assets/00-theme/10-footer/08-footer_cta_label-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — بطاقة الدعوة: العنوان" src="/coach-docs/assets/00-theme/10-footer/08-footer_cta_label-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -287,8 +287,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «بطاقة الدعوة: الوصف»" src="/coach-docs/assets/00-theme/10-footer/09-footer_cta_text-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «بطاقة الدعوة: الوصف»" src="/coach-docs/assets/00-theme/10-footer/09-footer_cta_text-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — بطاقة الدعوة: الوصف" src="/coach-docs/assets/00-theme/10-footer/09-footer_cta_text-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — بطاقة الدعوة: الوصف" src="/coach-docs/assets/00-theme/10-footer/09-footer_cta_text-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -315,8 +315,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «بطاقة الدعوة: نص الزر»" src="/coach-docs/assets/00-theme/10-footer/10-footer_cta_button-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «بطاقة الدعوة: نص الزر»" src="/coach-docs/assets/00-theme/10-footer/10-footer_cta_button-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — بطاقة الدعوة: نص الزر" src="/coach-docs/assets/00-theme/10-footer/10-footer_cta_button-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — بطاقة الدعوة: نص الزر" src="/coach-docs/assets/00-theme/10-footer/10-footer_cta_button-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -343,8 +343,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «بطاقة الدعوة: رابط الزر»" src="/coach-docs/assets/00-theme/10-footer/11-footer_cta_link-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «بطاقة الدعوة: رابط الزر»" src="/coach-docs/assets/00-theme/10-footer/00-default-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — بطاقة الدعوة: رابط الزر" src="/coach-docs/assets/00-theme/10-footer/11-footer_cta_link-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — بطاقة الدعوة: رابط الزر" src="/coach-docs/assets/00-theme/10-footer/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة بالقيمة الافتراضية</td>
 </tr>
 </tbody>
@@ -371,8 +371,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «اسم المتجر كبيراً في آخر الفوتر»" src="/coach-docs/assets/00-theme/10-footer/12-footer_mark_enabled-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «اسم المتجر كبيراً في آخر الفوتر»" src="/coach-docs/assets/00-theme/10-footer/12-footer_mark_enabled-on-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — اسم المتجر كبيراً في آخر الفوتر" src="/coach-docs/assets/00-theme/10-footer/12-footer_mark_enabled-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — اسم المتجر كبيراً في آخر الفوتر" src="/coach-docs/assets/00-theme/10-footer/12-footer_mark_enabled-on-result.webp" loading="lazy" decoding="async"/></td>
 <td>النتيجة بعد تفعيله (الافتراضي مطفأ)</td>
 </tr>
 </tbody>
@@ -399,8 +399,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «الاسم الكبير: كلماته»" src="/coach-docs/assets/00-theme/10-footer/13-footer_mark_text-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — الاسم الكبير: كلماته" src="/coach-docs/assets/00-theme/10-footer/13-footer_mark_text-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — الاسم الكبير: كلماته" src="/coach-docs/assets/00-theme/10-footer/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة بنص تجريبي «مثال لنصّك هنا»</td>
 </tr>
 </tbody>

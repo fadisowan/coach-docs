@@ -57,8 +57,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «العنوان الصغير (فوق العنوان)»" src="/coach-docs/assets/sections/35-coach-ranked/01-eyebrow-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «العنوان الصغير (فوق العنوان)»" src="/coach-docs/assets/sections/35-coach-ranked/01-eyebrow-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — العنوان الصغير (فوق العنوان)" src="/coach-docs/assets/sections/35-coach-ranked/01-eyebrow-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — العنوان الصغير (فوق العنوان)" src="/coach-docs/assets/sections/35-coach-ranked/01-eyebrow-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -85,8 +85,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «العنوان»" src="/coach-docs/assets/sections/35-coach-ranked/02-title-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «العنوان»" src="/coach-docs/assets/sections/35-coach-ranked/02-title-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — العنوان" src="/coach-docs/assets/sections/35-coach-ranked/02-title-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — العنوان" src="/coach-docs/assets/sections/35-coach-ranked/02-title-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -113,8 +113,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «الوصف»" src="/coach-docs/assets/sections/35-coach-ranked/03-description-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الوصف»" src="/coach-docs/assets/sections/35-coach-ranked/03-description-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الوصف" src="/coach-docs/assets/sections/35-coach-ranked/03-description-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — الوصف" src="/coach-docs/assets/sections/35-coach-ranked/03-description-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -140,8 +140,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «شارة الأول»" src="/coach-docs/assets/sections/35-coach-ranked/04-hero_label-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «شارة الأول»" src="/coach-docs/assets/sections/35-coach-ranked/04-hero_label-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — شارة الأول" src="/coach-docs/assets/sections/35-coach-ranked/04-hero_label-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — شارة الأول" src="/coach-docs/assets/sections/35-coach-ranked/04-hero_label-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -166,13 +166,13 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «مصدر الترتيب»" src="/coach-docs/assets/sections/35-coach-ranked/05-source-sales-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — مصدر الترتيب" src="/coach-docs/assets/sections/35-coach-ranked/05-source-sales-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — مصدر الترتيب" src="/coach-docs/assets/sections/35-coach-ranked/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>«الأكثر مبيعاً في سلة (تلقائي)»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «مصدر الترتيب»" src="/coach-docs/assets/sections/35-coach-ranked/05-source-selected-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «مصدر الترتيب»" src="/coach-docs/assets/sections/35-coach-ranked/05-source-selected-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — مصدر الترتيب" src="/coach-docs/assets/sections/35-coach-ranked/05-source-selected-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — مصدر الترتيب" src="/coach-docs/assets/sections/35-coach-ranked/05-source-selected-result.webp" loading="lazy" decoding="async"/></td>
 <td>«منتجات أختارها بالترتيب»</td>
 </tr>
 </tbody>
@@ -200,8 +200,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «المنتجات بالترتيب»" src="/coach-docs/assets/sections/35-coach-ranked/06-products-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «المنتجات بالترتيب»" src="/coach-docs/assets/sections/35-coach-ranked/00-desktop.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — المنتجات بالترتيب" src="/coach-docs/assets/sections/35-coach-ranked/06-products-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — المنتجات بالترتيب" src="/coach-docs/assets/sections/35-coach-ranked/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة: القسم بالقيمة الافتراضية</td>
 </tr>
 </tbody>
@@ -228,8 +228,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «عدد المنتجات (٣–٥)»" src="/coach-docs/assets/sections/35-coach-ranked/07-limit-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «عدد المنتجات (٣–٥)»" src="/coach-docs/assets/sections/35-coach-ranked/00-desktop.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — عدد المنتجات (٣–٥)" src="/coach-docs/assets/sections/35-coach-ranked/07-limit-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — عدد المنتجات (٣–٥)" src="/coach-docs/assets/sections/35-coach-ranked/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة: القسم بالقيمة الافتراضية</td>
 </tr>
 </tbody>
@@ -256,8 +256,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «إظهار عدد المبيعات»" src="/coach-docs/assets/sections/35-coach-ranked/08-show_sales-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «إظهار عدد المبيعات»" src="/coach-docs/assets/sections/35-coach-ranked/08-show_sales-off-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — إظهار عدد المبيعات" src="/coach-docs/assets/sections/35-coach-ranked/08-show_sales-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — إظهار عدد المبيعات" src="/coach-docs/assets/sections/35-coach-ranked/08-show_sales-off-result.webp" loading="lazy" decoding="async"/></td>
 <td>النتيجة بعد إطفائه (الافتراضي مفعّل)</td>
 </tr>
 </tbody>
@@ -284,8 +284,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «نص زر الإضافة للسلة»" src="/coach-docs/assets/sections/35-coach-ranked/09-button_label-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — نص زر الإضافة للسلة" src="/coach-docs/assets/sections/35-coach-ranked/09-button_label-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — نص زر الإضافة للسلة" src="/coach-docs/assets/sections/35-coach-ranked/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>

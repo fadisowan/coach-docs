@@ -56,8 +56,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-  <td><img src="/coach-docs/assets/sections/05-coach-press/01-label-panel.webp" alt="" /></td>
-  <td><img src="/coach-docs/assets/sections/05-coach-press/01-label-result.webp" alt="" /></td>
+  <td><img alt="لوحة إعدادات — العنوان في بداية السطر" src="/coach-docs/assets/sections/05-coach-press/01-label-panel.webp" loading="lazy" decoding="async"/></td>
+  <td><img alt="معاينة النتيجة — العنوان في بداية السطر" src="/coach-docs/assets/sections/05-coach-press/01-label-result.webp" loading="lazy" decoding="async"/></td>
   <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -83,8 +83,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-  <td><img src="/coach-docs/assets/sections/05-coach-press/02-logos-panel.webp" alt="" /></td>
-  <td><img src="/coach-docs/assets/sections/05-coach-press/02-logos-result.webp" alt="" /></td>
+  <td><img alt="لوحة إعدادات — الجهات" src="/coach-docs/assets/sections/05-coach-press/02-logos-panel.webp" loading="lazy" decoding="async"/></td>
+  <td><img alt="معاينة النتيجة — الجهات" src="/coach-docs/assets/sections/05-coach-press/02-logos-result.webp" loading="lazy" decoding="async"/></td>
   <td>أول عنصر محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -105,8 +105,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-  <td><img src="/coach-docs/assets/sections/05-coach-press/02-logos-name-panel.webp" alt="" /></td>
-  <td><img src="/coach-docs/assets/sections/05-coach-press/02-logos-result.webp" alt="" /></td>
+  <td><img alt="لوحة إعدادات — الجهات" src="/coach-docs/assets/sections/05-coach-press/02-logos-name-panel.webp" loading="lazy" decoding="async"/></td>
+  <td><img alt="معاينة النتيجة — الجهات" src="/coach-docs/assets/sections/05-coach-press/02-logos-result.webp" loading="lazy" decoding="async"/></td>
   <td></td>
 </tr>
 </tbody>
@@ -128,8 +128,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-  <td><img src="/coach-docs/assets/sections/05-coach-press/02-logos-image-panel.webp" alt="" /></td>
-  <td><img src="/coach-docs/assets/sections/05-coach-press/02-logos-result.webp" alt="" /></td>
+  <td><img alt="لوحة إعدادات — الجهات" src="/coach-docs/assets/sections/05-coach-press/02-logos-image-panel.webp" loading="lazy" decoding="async"/></td>
+  <td><img alt="معاينة النتيجة — الجهات" src="/coach-docs/assets/sections/05-coach-press/02-logos-result.webp" loading="lazy" decoding="async"/></td>
   <td></td>
 </tr>
 </tbody>
@@ -150,8 +150,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-  <td><img src="/coach-docs/assets/sections/05-coach-press/02-logos-url-panel.webp" alt="" /></td>
-  <td><img src="/coach-docs/assets/sections/05-coach-press/02-logos-result.webp" alt="" /></td>
+  <td><img alt="لوحة إعدادات — الجهات" src="/coach-docs/assets/sections/05-coach-press/02-logos-url-panel.webp" loading="lazy" decoding="async"/></td>
+  <td><img alt="معاينة النتيجة — الجهات" src="/coach-docs/assets/sections/05-coach-press/02-logos-result.webp" loading="lazy" decoding="async"/></td>
   <td></td>
 </tr>
 </tbody>

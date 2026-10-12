@@ -57,8 +57,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-  <td><img src="/coach-docs/assets/sections/06-coach-about/01-eyebrow-panel.webp" alt="" /></td>
-  <td><img src="/coach-docs/assets/sections/06-coach-about/01-eyebrow-result.webp" alt="" /></td>
+  <td><img alt="لوحة إعدادات — العنوان الصغير (فوق العنوان)" src="/coach-docs/assets/sections/06-coach-about/01-eyebrow-panel.webp" loading="lazy" decoding="async"/></td>
+  <td><img alt="معاينة النتيجة — العنوان الصغير (فوق العنوان)" src="/coach-docs/assets/sections/06-coach-about/01-eyebrow-result.webp" loading="lazy" decoding="async"/></td>
   <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -85,8 +85,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-  <td><img src="/coach-docs/assets/sections/06-coach-about/02-title-panel.webp" alt="" /></td>
-  <td><img src="/coach-docs/assets/sections/06-coach-about/02-title-result.webp" alt="" /></td>
+  <td><img alt="لوحة إعدادات — العنوان" src="/coach-docs/assets/sections/06-coach-about/02-title-panel.webp" loading="lazy" decoding="async"/></td>
+  <td><img alt="معاينة النتيجة — العنوان" src="/coach-docs/assets/sections/06-coach-about/02-title-result.webp" loading="lazy" decoding="async"/></td>
   <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -112,8 +112,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-  <td><img src="/coach-docs/assets/sections/06-coach-about/03-text-panel.webp" alt="" /></td>
-  <td><img src="/coach-docs/assets/sections/06-coach-about/03-text-result.webp" alt="" /></td>
+  <td><img alt="لوحة إعدادات — النبذة" src="/coach-docs/assets/sections/06-coach-about/03-text-panel.webp" loading="lazy" decoding="async"/></td>
+  <td><img alt="معاينة النتيجة — النبذة" src="/coach-docs/assets/sections/06-coach-about/03-text-result.webp" loading="lazy" decoding="async"/></td>
   <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -139,8 +139,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-  <td><img src="/coach-docs/assets/sections/06-coach-about/04-timeline-panel.webp" alt="" /></td>
-  <td><img src="/coach-docs/assets/sections/06-coach-about/04-timeline-result.webp" alt="" /></td>
+  <td><img alt="لوحة إعدادات — المحطات" src="/coach-docs/assets/sections/06-coach-about/04-timeline-panel.webp" loading="lazy" decoding="async"/></td>
+  <td><img alt="معاينة النتيجة — المحطات" src="/coach-docs/assets/sections/06-coach-about/04-timeline-result.webp" loading="lazy" decoding="async"/></td>
   <td>أول عنصر محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -161,8 +161,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-  <td><img src="/coach-docs/assets/sections/06-coach-about/04-timeline-year-panel.webp" alt="" /></td>
-  <td><img src="/coach-docs/assets/sections/06-coach-about/04-timeline-result.webp" alt="" /></td>
+  <td><img alt="لوحة إعدادات — المحطات" src="/coach-docs/assets/sections/06-coach-about/04-timeline-year-panel.webp" loading="lazy" decoding="async"/></td>
+  <td><img alt="معاينة النتيجة — المحطات" src="/coach-docs/assets/sections/06-coach-about/04-timeline-result.webp" loading="lazy" decoding="async"/></td>
   <td></td>
 </tr>
 </tbody>
@@ -183,8 +183,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-  <td><img src="/coach-docs/assets/sections/06-coach-about/04-timeline-title-panel.webp" alt="" /></td>
-  <td><img src="/coach-docs/assets/sections/06-coach-about/04-timeline-result.webp" alt="" /></td>
+  <td><img alt="لوحة إعدادات — المحطات" src="/coach-docs/assets/sections/06-coach-about/04-timeline-title-panel.webp" loading="lazy" decoding="async"/></td>
+  <td><img alt="معاينة النتيجة — المحطات" src="/coach-docs/assets/sections/06-coach-about/04-timeline-result.webp" loading="lazy" decoding="async"/></td>
   <td></td>
 </tr>
 </tbody>
@@ -205,8 +205,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-  <td><img src="/coach-docs/assets/sections/06-coach-about/04-timeline-description-panel.webp" alt="" /></td>
-  <td><img src="/coach-docs/assets/sections/06-coach-about/04-timeline-result.webp" alt="" /></td>
+  <td><img alt="لوحة إعدادات — المحطات" src="/coach-docs/assets/sections/06-coach-about/04-timeline-description-panel.webp" loading="lazy" decoding="async"/></td>
+  <td><img alt="معاينة النتيجة — المحطات" src="/coach-docs/assets/sections/06-coach-about/04-timeline-result.webp" loading="lazy" decoding="async"/></td>
   <td></td>
 </tr>
 </tbody>
@@ -227,8 +227,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-  <td><img src="/coach-docs/assets/sections/06-coach-about/04-timeline-highlight-panel.webp" alt="" /></td>
-  <td><img src="/coach-docs/assets/sections/06-coach-about/04-timeline-result.webp" alt="" /></td>
+  <td><img alt="لوحة إعدادات — المحطات" src="/coach-docs/assets/sections/06-coach-about/04-timeline-highlight-panel.webp" loading="lazy" decoding="async"/></td>
+  <td><img alt="معاينة النتيجة — المحطات" src="/coach-docs/assets/sections/06-coach-about/04-timeline-result.webp" loading="lazy" decoding="async"/></td>
   <td></td>
 </tr>
 </tbody>
@@ -255,8 +255,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-  <td><img src="/coach-docs/assets/sections/06-coach-about/05-experience_value-panel.webp" alt="" /></td>
-  <td><img src="/coach-docs/assets/sections/06-coach-about/05-experience_value-result.webp" alt="" /></td>
+  <td><img alt="لوحة إعدادات — رقم الخبرة" src="/coach-docs/assets/sections/06-coach-about/05-experience_value-panel.webp" loading="lazy" decoding="async"/></td>
+  <td><img alt="معاينة النتيجة — رقم الخبرة" src="/coach-docs/assets/sections/06-coach-about/05-experience_value-result.webp" loading="lazy" decoding="async"/></td>
   <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -282,8 +282,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-  <td><img src="/coach-docs/assets/sections/06-coach-about/06-experience_label-panel.webp" alt="" /></td>
-  <td><img src="/coach-docs/assets/sections/06-coach-about/06-experience_label-result.webp" alt="" /></td>
+  <td><img alt="لوحة إعدادات — تحت الرقم" src="/coach-docs/assets/sections/06-coach-about/06-experience_label-panel.webp" loading="lazy" decoding="async"/></td>
+  <td><img alt="معاينة النتيجة — تحت الرقم" src="/coach-docs/assets/sections/06-coach-about/06-experience_label-result.webp" loading="lazy" decoding="async"/></td>
   <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -310,8 +310,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-  <td><img src="/coach-docs/assets/sections/06-coach-about/07-image_main-panel.webp" alt="" /></td>
-  <td><img src="/coach-docs/assets/sections/06-coach-about/07-image_main-result.webp" alt="" /></td>
+  <td><img alt="لوحة إعدادات — الصورة الكبيرة" src="/coach-docs/assets/sections/06-coach-about/07-image_main-panel.webp" loading="lazy" decoding="async"/></td>
+  <td><img alt="معاينة النتيجة — الصورة الكبيرة" src="/coach-docs/assets/sections/06-coach-about/07-image_main-result.webp" loading="lazy" decoding="async"/></td>
   <td>النتيجة بصورة تجريبية</td>
 </tr>
 </tbody>
@@ -338,8 +338,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-  <td><img src="/coach-docs/assets/sections/06-coach-about/08-image_secondary-panel.webp" alt="" /></td>
-  <td><img src="/coach-docs/assets/sections/06-coach-about/08-image_secondary-result.webp" alt="" /></td>
+  <td><img alt="لوحة إعدادات — الصورة الصغيرة" src="/coach-docs/assets/sections/06-coach-about/08-image_secondary-panel.webp" loading="lazy" decoding="async"/></td>
+  <td><img alt="معاينة النتيجة — الصورة الصغيرة" src="/coach-docs/assets/sections/06-coach-about/08-image_secondary-result.webp" loading="lazy" decoding="async"/></td>
   <td>النتيجة بصورة تجريبية</td>
 </tr>
 </tbody>
@@ -365,8 +365,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-  <td><img src="/coach-docs/assets/sections/06-coach-about/09-button_label-panel.webp" alt="" /></td>
-  <td><img src="/coach-docs/assets/sections/06-coach-about/09-button_label-result.webp" alt="" /></td>
+  <td><img alt="لوحة إعدادات — نص الزر" src="/coach-docs/assets/sections/06-coach-about/09-button_label-panel.webp" loading="lazy" decoding="async"/></td>
+  <td><img alt="معاينة النتيجة — نص الزر" src="/coach-docs/assets/sections/06-coach-about/09-button_label-result.webp" loading="lazy" decoding="async"/></td>
   <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -393,8 +393,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-  <td><img src="/coach-docs/assets/sections/06-coach-about/10-button_link-panel.webp" alt="" /></td>
-  <td><img src="/coach-docs/assets/sections/06-coach-about/00-desktop.webp" alt="" /></td>
+  <td><img alt="لوحة إعدادات — صفحة الزر" src="/coach-docs/assets/sections/06-coach-about/10-button_link-panel.webp" loading="lazy" decoding="async"/></td>
+  <td><img alt="معاينة مرجعية — صفحة الزر" src="/coach-docs/assets/sections/06-coach-about/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
   <td>النتيجة: القسم بالقيمة الافتراضية</td>
 </tr>
 </tbody>
@@ -421,8 +421,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-  <td><img src="/coach-docs/assets/sections/06-coach-about/11-sticky_side-panel.webp" alt="" /></td>
-  <td><img src="/coach-docs/assets/sections/06-coach-about/11-sticky_side-on-result.webp" alt="" /></td>
+  <td><img alt="لوحة إعدادات — تثبيت الجزء الجانبي أثناء التمرير" src="/coach-docs/assets/sections/06-coach-about/11-sticky_side-panel.webp" loading="lazy" decoding="async"/></td>
+  <td><img alt="معاينة النتيجة — تثبيت الجزء الجانبي أثناء التمرير" src="/coach-docs/assets/sections/06-coach-about/11-sticky_side-on-result.webp" loading="lazy" decoding="async"/></td>
   <td>النتيجة بعد تفعيله (الافتراضي مطفأ)</td>
 </tr>
 </tbody>

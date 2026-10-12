@@ -64,13 +64,13 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-  <td><img src="/coach-docs/assets/sections/08-coach-podcast/01-layout-grid-panel.webp" alt="" /></td>
-  <td><img src="/coach-docs/assets/sections/08-coach-podcast/01-layout-grid-result.webp" alt="" /></td>
+  <td><img alt="لوحة إعدادات — شكل الحلقات" src="/coach-docs/assets/sections/08-coach-podcast/01-layout-grid-panel.webp" loading="lazy" decoding="async"/></td>
+  <td><img alt="معاينة النتيجة — شكل الحلقات" src="/coach-docs/assets/sections/08-coach-podcast/01-layout-grid-result.webp" loading="lazy" decoding="async"/></td>
   <td>«شبكة»</td>
 </tr>
 <tr>
-  <td><img src="/coach-docs/assets/sections/08-coach-podcast/01-layout-featured-panel.webp" alt="" /></td>
-  <td><img src="/coach-docs/assets/sections/08-coach-podcast/01-layout-featured-result.webp" alt="" /></td>
+  <td><img alt="لوحة إعدادات — شكل الحلقات" src="/coach-docs/assets/sections/08-coach-podcast/01-layout-featured-panel.webp" loading="lazy" decoding="async"/></td>
+  <td><img alt="معاينة النتيجة — شكل الحلقات" src="/coach-docs/assets/sections/08-coach-podcast/01-layout-featured-result.webp" loading="lazy" decoding="async"/></td>
   <td>«حلقة مميّزة + قائمة»</td>
 </tr>
 </tbody>
@@ -96,13 +96,13 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-  <td><img src="/coach-docs/assets/sections/08-coach-podcast/02-player-float-panel.webp" alt="" /></td>
-  <td><img src="/coach-docs/assets/sections/08-coach-podcast/02-player-float-result.webp" alt="" /></td>
+  <td><img alt="لوحة إعدادات — مكان المشغّل" src="/coach-docs/assets/sections/08-coach-podcast/02-player-float-panel.webp" loading="lazy" decoding="async"/></td>
+  <td><img alt="معاينة النتيجة — مكان المشغّل" src="/coach-docs/assets/sections/08-coach-podcast/02-player-float-result.webp" loading="lazy" decoding="async"/></td>
   <td>«لوحة جانبية عائمة»</td>
 </tr>
 <tr>
-  <td><img src="/coach-docs/assets/sections/08-coach-podcast/02-player-below-panel.webp" alt="" /></td>
-  <td><img src="/coach-docs/assets/sections/08-coach-podcast/02-player-below-result.webp" alt="" /></td>
+  <td><img alt="لوحة إعدادات — مكان المشغّل" src="/coach-docs/assets/sections/08-coach-podcast/02-player-below-panel.webp" loading="lazy" decoding="async"/></td>
+  <td><img alt="معاينة النتيجة — مكان المشغّل" src="/coach-docs/assets/sections/08-coach-podcast/02-player-below-result.webp" loading="lazy" decoding="async"/></td>
   <td>«تحت الحلقات»</td>
 </tr>
 </tbody>
@@ -130,8 +130,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-  <td><img src="/coach-docs/assets/sections/08-coach-podcast/03-side_button-panel.webp" alt="" /></td>
-  <td><img src="/coach-docs/assets/sections/08-coach-podcast/03-side_button-on-result.webp" alt="" /></td>
+  <td><img alt="لوحة إعدادات — زر جانبي ثابت يفتح المشغّل" src="/coach-docs/assets/sections/08-coach-podcast/03-side_button-panel.webp" loading="lazy" decoding="async"/></td>
+  <td><img alt="معاينة النتيجة — زر جانبي ثابت يفتح المشغّل" src="/coach-docs/assets/sections/08-coach-podcast/03-side_button-on-result.webp" loading="lazy" decoding="async"/></td>
   <td>النتيجة بعد تفعيله (الافتراضي مطفأ)</td>
 </tr>
 </tbody>
@@ -158,8 +158,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-  <td><img src="/coach-docs/assets/sections/08-coach-podcast/04-eyebrow-panel.webp" alt="" /></td>
-  <td><img src="/coach-docs/assets/sections/08-coach-podcast/04-eyebrow-result.webp" alt="" /></td>
+  <td><img alt="لوحة إعدادات — العنوان الصغير (فوق العنوان)" src="/coach-docs/assets/sections/08-coach-podcast/04-eyebrow-panel.webp" loading="lazy" decoding="async"/></td>
+  <td><img alt="معاينة النتيجة — العنوان الصغير (فوق العنوان)" src="/coach-docs/assets/sections/08-coach-podcast/04-eyebrow-result.webp" loading="lazy" decoding="async"/></td>
   <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -186,8 +186,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-  <td><img src="/coach-docs/assets/sections/08-coach-podcast/05-title-panel.webp" alt="" /></td>
-  <td><img src="/coach-docs/assets/sections/08-coach-podcast/05-title-result.webp" alt="" /></td>
+  <td><img alt="لوحة إعدادات — العنوان" src="/coach-docs/assets/sections/08-coach-podcast/05-title-panel.webp" loading="lazy" decoding="async"/></td>
+  <td><img alt="معاينة النتيجة — العنوان" src="/coach-docs/assets/sections/08-coach-podcast/05-title-result.webp" loading="lazy" decoding="async"/></td>
   <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -214,8 +214,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-  <td><img src="/coach-docs/assets/sections/08-coach-podcast/06-episodes-panel.webp" alt="" /></td>
-  <td><img src="/coach-docs/assets/sections/08-coach-podcast/06-episodes-result.webp" alt="" /></td>
+  <td><img alt="لوحة إعدادات — الحلقات" src="/coach-docs/assets/sections/08-coach-podcast/06-episodes-panel.webp" loading="lazy" decoding="async"/></td>
+  <td><img alt="معاينة النتيجة — الحلقات" src="/coach-docs/assets/sections/08-coach-podcast/06-episodes-result.webp" loading="lazy" decoding="async"/></td>
   <td>أول عنصر محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -236,8 +236,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-  <td><img src="/coach-docs/assets/sections/08-coach-podcast/06-episodes-title-panel.webp" alt="" /></td>
-  <td><img src="/coach-docs/assets/sections/08-coach-podcast/06-episodes-result.webp" alt="" /></td>
+  <td><img alt="لوحة إعدادات — الحلقات" src="/coach-docs/assets/sections/08-coach-podcast/06-episodes-title-panel.webp" loading="lazy" decoding="async"/></td>
+  <td><img alt="معاينة النتيجة — الحلقات" src="/coach-docs/assets/sections/08-coach-podcast/06-episodes-result.webp" loading="lazy" decoding="async"/></td>
   <td></td>
 </tr>
 </tbody>
@@ -259,8 +259,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-  <td><img src="/coach-docs/assets/sections/08-coach-podcast/06-episodes-url-panel.webp" alt="" /></td>
-  <td><img src="/coach-docs/assets/sections/08-coach-podcast/06-episodes-result.webp" alt="" /></td>
+  <td><img alt="لوحة إعدادات — الحلقات" src="/coach-docs/assets/sections/08-coach-podcast/06-episodes-url-panel.webp" loading="lazy" decoding="async"/></td>
+  <td><img alt="معاينة النتيجة — الحلقات" src="/coach-docs/assets/sections/08-coach-podcast/06-episodes-result.webp" loading="lazy" decoding="async"/></td>
   <td></td>
 </tr>
 </tbody>
@@ -281,8 +281,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-  <td><img src="/coach-docs/assets/sections/08-coach-podcast/06-episodes-guest-panel.webp" alt="" /></td>
-  <td><img src="/coach-docs/assets/sections/08-coach-podcast/06-episodes-result.webp" alt="" /></td>
+  <td><img alt="لوحة إعدادات — الحلقات" src="/coach-docs/assets/sections/08-coach-podcast/06-episodes-guest-panel.webp" loading="lazy" decoding="async"/></td>
+  <td><img alt="معاينة النتيجة — الحلقات" src="/coach-docs/assets/sections/08-coach-podcast/06-episodes-result.webp" loading="lazy" decoding="async"/></td>
   <td></td>
 </tr>
 </tbody>
@@ -303,8 +303,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-  <td><img src="/coach-docs/assets/sections/08-coach-podcast/06-episodes-duration-panel.webp" alt="" /></td>
-  <td><img src="/coach-docs/assets/sections/08-coach-podcast/06-episodes-result.webp" alt="" /></td>
+  <td><img alt="لوحة إعدادات — الحلقات" src="/coach-docs/assets/sections/08-coach-podcast/06-episodes-duration-panel.webp" loading="lazy" decoding="async"/></td>
+  <td><img alt="معاينة النتيجة — الحلقات" src="/coach-docs/assets/sections/08-coach-podcast/06-episodes-result.webp" loading="lazy" decoding="async"/></td>
   <td></td>
 </tr>
 </tbody>
@@ -326,8 +326,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-  <td><img src="/coach-docs/assets/sections/08-coach-podcast/06-episodes-number-panel.webp" alt="" /></td>
-  <td><img src="/coach-docs/assets/sections/08-coach-podcast/06-episodes-result.webp" alt="" /></td>
+  <td><img alt="لوحة إعدادات — الحلقات" src="/coach-docs/assets/sections/08-coach-podcast/06-episodes-number-panel.webp" loading="lazy" decoding="async"/></td>
+  <td><img alt="معاينة النتيجة — الحلقات" src="/coach-docs/assets/sections/08-coach-podcast/06-episodes-result.webp" loading="lazy" decoding="async"/></td>
   <td></td>
 </tr>
 </tbody>
@@ -349,8 +349,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-  <td><img src="/coach-docs/assets/sections/08-coach-podcast/06-episodes-cover-panel.webp" alt="" /></td>
-  <td><img src="/coach-docs/assets/sections/08-coach-podcast/06-episodes-result.webp" alt="" /></td>
+  <td><img alt="لوحة إعدادات — الحلقات" src="/coach-docs/assets/sections/08-coach-podcast/06-episodes-cover-panel.webp" loading="lazy" decoding="async"/></td>
+  <td><img alt="معاينة النتيجة — الحلقات" src="/coach-docs/assets/sections/08-coach-podcast/06-episodes-result.webp" loading="lazy" decoding="async"/></td>
   <td></td>
 </tr>
 </tbody>
@@ -372,8 +372,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-  <td><img src="/coach-docs/assets/sections/08-coach-podcast/06-episodes-notes-panel.webp" alt="" /></td>
-  <td><img src="/coach-docs/assets/sections/08-coach-podcast/06-episodes-result.webp" alt="" /></td>
+  <td><img alt="لوحة إعدادات — الحلقات" src="/coach-docs/assets/sections/08-coach-podcast/06-episodes-notes-panel.webp" loading="lazy" decoding="async"/></td>
+  <td><img alt="معاينة النتيجة — الحلقات" src="/coach-docs/assets/sections/08-coach-podcast/06-episodes-result.webp" loading="lazy" decoding="async"/></td>
   <td></td>
 </tr>
 </tbody>
@@ -394,8 +394,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-  <td><img src="/coach-docs/assets/sections/08-coach-podcast/06-episodes-transcript-panel.webp" alt="" /></td>
-  <td><img src="/coach-docs/assets/sections/08-coach-podcast/06-episodes-result.webp" alt="" /></td>
+  <td><img alt="لوحة إعدادات — الحلقات" src="/coach-docs/assets/sections/08-coach-podcast/06-episodes-transcript-panel.webp" loading="lazy" decoding="async"/></td>
+  <td><img alt="معاينة النتيجة — الحلقات" src="/coach-docs/assets/sections/08-coach-podcast/06-episodes-result.webp" loading="lazy" decoding="async"/></td>
   <td></td>
 </tr>
 </tbody>
@@ -417,8 +417,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-  <td><img src="/coach-docs/assets/sections/08-coach-podcast/06-episodes-link-panel.webp" alt="" /></td>
-  <td><img src="/coach-docs/assets/sections/08-coach-podcast/06-episodes-result.webp" alt="" /></td>
+  <td><img alt="لوحة إعدادات — الحلقات" src="/coach-docs/assets/sections/08-coach-podcast/06-episodes-link-panel.webp" loading="lazy" decoding="async"/></td>
+  <td><img alt="معاينة النتيجة — الحلقات" src="/coach-docs/assets/sections/08-coach-podcast/06-episodes-result.webp" loading="lazy" decoding="async"/></td>
   <td></td>
 </tr>
 </tbody>
@@ -440,8 +440,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-  <td><img src="/coach-docs/assets/sections/08-coach-podcast/06-episodes-product-panel.webp" alt="" /></td>
-  <td><img src="/coach-docs/assets/sections/08-coach-podcast/06-episodes-result.webp" alt="" /></td>
+  <td><img alt="لوحة إعدادات — الحلقات" src="/coach-docs/assets/sections/08-coach-podcast/06-episodes-product-panel.webp" loading="lazy" decoding="async"/></td>
+  <td><img alt="معاينة النتيجة — الحلقات" src="/coach-docs/assets/sections/08-coach-podcast/06-episodes-result.webp" loading="lazy" decoding="async"/></td>
   <td></td>
 </tr>
 </tbody>
@@ -468,8 +468,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-  <td><img src="/coach-docs/assets/sections/08-coach-podcast/07-platforms-panel.webp" alt="" /></td>
-  <td><img src="/coach-docs/assets/sections/08-coach-podcast/07-platforms-result.webp" alt="" /></td>
+  <td><img alt="لوحة إعدادات — المنصات" src="/coach-docs/assets/sections/08-coach-podcast/07-platforms-panel.webp" loading="lazy" decoding="async"/></td>
+  <td><img alt="معاينة النتيجة — المنصات" src="/coach-docs/assets/sections/08-coach-podcast/07-platforms-result.webp" loading="lazy" decoding="async"/></td>
   <td>أول عنصر محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -490,8 +490,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-  <td><img src="/coach-docs/assets/sections/08-coach-podcast/07-platforms-name-panel.webp" alt="" /></td>
-  <td><img src="/coach-docs/assets/sections/08-coach-podcast/07-platforms-result.webp" alt="" /></td>
+  <td><img alt="لوحة إعدادات — المنصات" src="/coach-docs/assets/sections/08-coach-podcast/07-platforms-name-panel.webp" loading="lazy" decoding="async"/></td>
+  <td><img alt="معاينة النتيجة — المنصات" src="/coach-docs/assets/sections/08-coach-podcast/07-platforms-result.webp" loading="lazy" decoding="async"/></td>
   <td></td>
 </tr>
 </tbody>
@@ -513,8 +513,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-  <td><img src="/coach-docs/assets/sections/08-coach-podcast/07-platforms-link-panel.webp" alt="" /></td>
-  <td><img src="/coach-docs/assets/sections/08-coach-podcast/07-platforms-result.webp" alt="" /></td>
+  <td><img alt="لوحة إعدادات — المنصات" src="/coach-docs/assets/sections/08-coach-podcast/07-platforms-link-panel.webp" loading="lazy" decoding="async"/></td>
+  <td><img alt="معاينة النتيجة — المنصات" src="/coach-docs/assets/sections/08-coach-podcast/07-platforms-result.webp" loading="lazy" decoding="async"/></td>
   <td></td>
 </tr>
 </tbody>
@@ -536,8 +536,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-  <td><img src="/coach-docs/assets/sections/08-coach-podcast/07-platforms-dot-panel.webp" alt="" /></td>
-  <td><img src="/coach-docs/assets/sections/08-coach-podcast/07-platforms-result.webp" alt="" /></td>
+  <td><img alt="لوحة إعدادات — المنصات" src="/coach-docs/assets/sections/08-coach-podcast/07-platforms-dot-panel.webp" loading="lazy" decoding="async"/></td>
+  <td><img alt="معاينة النتيجة — المنصات" src="/coach-docs/assets/sections/08-coach-podcast/07-platforms-result.webp" loading="lazy" decoding="async"/></td>
   <td></td>
 </tr>
 </tbody>

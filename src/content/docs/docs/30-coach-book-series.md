@@ -58,8 +58,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «العنوان الصغير (فوق العنوان)»" src="/coach-docs/assets/sections/30-coach-book-series/01-eyebrow-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «العنوان الصغير (فوق العنوان)»" src="/coach-docs/assets/sections/30-coach-book-series/01-eyebrow-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — العنوان الصغير (فوق العنوان)" src="/coach-docs/assets/sections/30-coach-book-series/01-eyebrow-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — العنوان الصغير (فوق العنوان)" src="/coach-docs/assets/sections/30-coach-book-series/01-eyebrow-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -86,8 +86,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «العنوان»" src="/coach-docs/assets/sections/30-coach-book-series/02-title-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «العنوان»" src="/coach-docs/assets/sections/30-coach-book-series/02-title-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — العنوان" src="/coach-docs/assets/sections/30-coach-book-series/02-title-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — العنوان" src="/coach-docs/assets/sections/30-coach-book-series/02-title-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -114,8 +114,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «كتب السلسلة»" src="/coach-docs/assets/sections/30-coach-book-series/03-books-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «كتب السلسلة»" src="/coach-docs/assets/sections/30-coach-book-series/00-desktop.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — كتب السلسلة" src="/coach-docs/assets/sections/30-coach-book-series/03-books-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — كتب السلسلة" src="/coach-docs/assets/sections/30-coach-book-series/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة: القسم بالقيمة الافتراضية</td>
 </tr>
 </tbody>
@@ -141,8 +141,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «وسم الكتاب الأول»" src="/coach-docs/assets/sections/30-coach-book-series/04-first_note-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «وسم الكتاب الأول»" src="/coach-docs/assets/sections/30-coach-book-series/04-first_note-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — وسم الكتاب الأول" src="/coach-docs/assets/sections/30-coach-book-series/04-first_note-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — وسم الكتاب الأول" src="/coach-docs/assets/sections/30-coach-book-series/04-first_note-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -169,8 +169,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «منتج السلسلة كاملة»" src="/coach-docs/assets/sections/30-coach-book-series/05-bundle_product-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «منتج السلسلة كاملة»" src="/coach-docs/assets/sections/30-coach-book-series/00-desktop.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — منتج السلسلة كاملة" src="/coach-docs/assets/sections/30-coach-book-series/05-bundle_product-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — منتج السلسلة كاملة" src="/coach-docs/assets/sections/30-coach-book-series/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة: القسم بالقيمة الافتراضية</td>
 </tr>
 </tbody>
@@ -196,8 +196,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «عنوان بطاقة السلسلة»" src="/coach-docs/assets/sections/30-coach-book-series/06-bundle_label-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «عنوان بطاقة السلسلة»" src="/coach-docs/assets/sections/30-coach-book-series/06-bundle_label-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — عنوان بطاقة السلسلة" src="/coach-docs/assets/sections/30-coach-book-series/06-bundle_label-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — عنوان بطاقة السلسلة" src="/coach-docs/assets/sections/30-coach-book-series/06-bundle_label-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -224,8 +224,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «نص زر الإضافة للسلة»" src="/coach-docs/assets/sections/30-coach-book-series/07-button_label-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — نص زر الإضافة للسلة" src="/coach-docs/assets/sections/30-coach-book-series/07-button_label-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — نص زر الإضافة للسلة" src="/coach-docs/assets/sections/30-coach-book-series/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -252,8 +252,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «الكتاب 1 (قديم)»" src="/coach-docs/assets/sections/30-coach-book-series/08-book1_product-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الكتاب 1 (قديم)»" src="/coach-docs/assets/sections/30-coach-book-series/00-desktop.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الكتاب 1 (قديم)" src="/coach-docs/assets/sections/30-coach-book-series/08-book1_product-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — الكتاب 1 (قديم)" src="/coach-docs/assets/sections/30-coach-book-series/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة: القسم بالقيمة الافتراضية</td>
 </tr>
 </tbody>
@@ -279,8 +279,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «الكتاب 2 (قديم)»" src="/coach-docs/assets/sections/30-coach-book-series/09-book2_product-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الكتاب 2 (قديم)»" src="/coach-docs/assets/sections/30-coach-book-series/00-desktop.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الكتاب 2 (قديم)" src="/coach-docs/assets/sections/30-coach-book-series/09-book2_product-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — الكتاب 2 (قديم)" src="/coach-docs/assets/sections/30-coach-book-series/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة: القسم بالقيمة الافتراضية</td>
 </tr>
 </tbody>
@@ -306,8 +306,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «الكتاب 3 (قديم)»" src="/coach-docs/assets/sections/30-coach-book-series/10-book3_product-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الكتاب 3 (قديم)»" src="/coach-docs/assets/sections/30-coach-book-series/00-desktop.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الكتاب 3 (قديم)" src="/coach-docs/assets/sections/30-coach-book-series/10-book3_product-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — الكتاب 3 (قديم)" src="/coach-docs/assets/sections/30-coach-book-series/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة: القسم بالقيمة الافتراضية</td>
 </tr>
 </tbody>
@@ -333,8 +333,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «الكتاب 4 (قديم)»" src="/coach-docs/assets/sections/30-coach-book-series/11-book4_product-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الكتاب 4 (قديم)»" src="/coach-docs/assets/sections/30-coach-book-series/00-desktop.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الكتاب 4 (قديم)" src="/coach-docs/assets/sections/30-coach-book-series/11-book4_product-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — الكتاب 4 (قديم)" src="/coach-docs/assets/sections/30-coach-book-series/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة: القسم بالقيمة الافتراضية</td>
 </tr>
 </tbody>

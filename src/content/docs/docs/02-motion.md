@@ -59,8 +59,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «التأثيرات المتحركة»" src="/coach-docs/assets/00-theme/02-motion/01-fx_enabled-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — التأثيرات المتحركة" src="/coach-docs/assets/00-theme/02-motion/01-fx_enabled-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — التأثيرات المتحركة" src="/coach-docs/assets/00-theme/02-motion/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة بعد إطفائه (الافتراضي مفعّل)</td>
 </tr>
 </tbody>
@@ -87,8 +87,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «حركة الأقسام عند التمرير»" src="/coach-docs/assets/00-theme/02-motion/02-motion_sections-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — حركة الأقسام عند التمرير" src="/coach-docs/assets/00-theme/02-motion/02-motion_sections-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — حركة الأقسام عند التمرير" src="/coach-docs/assets/00-theme/02-motion/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة بعد إطفائه (الافتراضي مفعّل)</td>
 </tr>
 </tbody>
@@ -114,13 +114,13 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «أسلوب الحركة»" src="/coach-docs/assets/00-theme/02-motion/03-motion_style-current-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — أسلوب الحركة" src="/coach-docs/assets/00-theme/02-motion/03-motion_style-current-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — أسلوب الحركة" src="/coach-docs/assets/00-theme/02-motion/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>«الحالي»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «أسلوب الحركة»" src="/coach-docs/assets/00-theme/02-motion/03-motion_style-kit-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — أسلوب الحركة" src="/coach-docs/assets/00-theme/02-motion/03-motion_style-kit-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — أسلوب الحركة" src="/coach-docs/assets/00-theme/02-motion/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>«أسلوب كوتش كِت»</td>
 </tr>
 </tbody>
@@ -146,18 +146,18 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «خلفية الصفحة مع التمرير»" src="/coach-docs/assets/00-theme/02-motion/04-page_scroll_bg-none-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — خلفية الصفحة مع التمرير" src="/coach-docs/assets/00-theme/02-motion/04-page_scroll_bg-none-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — خلفية الصفحة مع التمرير" src="/coach-docs/assets/00-theme/02-motion/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>«بلا»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «خلفية الصفحة مع التمرير»" src="/coach-docs/assets/00-theme/02-motion/04-page_scroll_bg-drift-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «خلفية الصفحة مع التمرير»" src="/coach-docs/assets/00-theme/02-motion/04-page_scroll_bg-drift-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — خلفية الصفحة مع التمرير" src="/coach-docs/assets/00-theme/02-motion/04-page_scroll_bg-drift-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — خلفية الصفحة مع التمرير" src="/coach-docs/assets/00-theme/02-motion/04-page_scroll_bg-drift-result.webp" loading="lazy" decoding="async"/></td>
 <td>«ألوان تتدرّج»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «خلفية الصفحة مع التمرير»" src="/coach-docs/assets/00-theme/02-motion/04-page_scroll_bg-orbs-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — خلفية الصفحة مع التمرير" src="/coach-docs/assets/00-theme/02-motion/04-page_scroll_bg-orbs-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — خلفية الصفحة مع التمرير" src="/coach-docs/assets/00-theme/02-motion/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>«دوائر ضوء ناعمة»</td>
 </tr>
 </tbody>
@@ -184,8 +184,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «طيران المنتج للسلة»" src="/coach-docs/assets/00-theme/02-motion/05-cart_fly_enabled-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — طيران المنتج للسلة" src="/coach-docs/assets/00-theme/02-motion/05-cart_fly_enabled-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — طيران المنتج للسلة" src="/coach-docs/assets/00-theme/02-motion/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة بعد تفعيله (الافتراضي مطفأ)</td>
 </tr>
 </tbody>
@@ -211,23 +211,23 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «مؤشر الماوس»" src="/coach-docs/assets/00-theme/02-motion/06-cursor_style-none-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — مؤشر الماوس" src="/coach-docs/assets/00-theme/02-motion/06-cursor_style-none-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — مؤشر الماوس" src="/coach-docs/assets/00-theme/02-motion/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>«بلا»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «مؤشر الماوس»" src="/coach-docs/assets/00-theme/02-motion/06-cursor_style-follow-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — مؤشر الماوس" src="/coach-docs/assets/00-theme/02-motion/06-cursor_style-follow-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — مؤشر الماوس" src="/coach-docs/assets/00-theme/02-motion/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>«حلقة تتبع المؤشر»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «مؤشر الماوس»" src="/coach-docs/assets/00-theme/02-motion/06-cursor_style-icons-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — مؤشر الماوس" src="/coach-docs/assets/00-theme/02-motion/06-cursor_style-icons-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — مؤشر الماوس" src="/coach-docs/assets/00-theme/02-motion/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>«حلقة مع أيقونات»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «مؤشر الماوس»" src="/coach-docs/assets/00-theme/02-motion/06-cursor_style-words-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — مؤشر الماوس" src="/coach-docs/assets/00-theme/02-motion/06-cursor_style-words-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — مؤشر الماوس" src="/coach-docs/assets/00-theme/02-motion/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>«حلقة مع كلمات»</td>
 </tr>
 </tbody>
@@ -254,8 +254,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «ضوء يتبع الماوس»" src="/coach-docs/assets/00-theme/02-motion/07-cursor_glow-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — ضوء يتبع الماوس" src="/coach-docs/assets/00-theme/02-motion/07-cursor_glow-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — ضوء يتبع الماوس" src="/coach-docs/assets/00-theme/02-motion/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة بعد تفعيله (الافتراضي مطفأ)</td>
 </tr>
 </tbody>
@@ -282,8 +282,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «توسّع الفوتر عند ظهوره»" src="/coach-docs/assets/00-theme/02-motion/08-footer_open_fx-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — توسّع الفوتر عند ظهوره" src="/coach-docs/assets/00-theme/02-motion/08-footer_open_fx-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — توسّع الفوتر عند ظهوره" src="/coach-docs/assets/00-theme/02-motion/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة بعد إطفائه (الافتراضي مفعّل)</td>
 </tr>
 </tbody>

@@ -57,13 +57,13 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «موضع بطاقة الدورة»" src="/coach-docs/assets/sections/17-coach-curriculum/01-card_position-above-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — موضع بطاقة الدورة" src="/coach-docs/assets/sections/17-coach-curriculum/01-card_position-above-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — موضع بطاقة الدورة" src="/coach-docs/assets/sections/17-coach-curriculum/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>«أعلى المحتوى: قبل العنوان»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «موضع بطاقة الدورة»" src="/coach-docs/assets/sections/17-coach-curriculum/01-card_position-below-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «موضع بطاقة الدورة»" src="/coach-docs/assets/sections/17-coach-curriculum/01-card_position-below-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — موضع بطاقة الدورة" src="/coach-docs/assets/sections/17-coach-curriculum/01-card_position-below-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — موضع بطاقة الدورة" src="/coach-docs/assets/sections/17-coach-curriculum/01-card_position-below-result.webp" loading="lazy" decoding="async"/></td>
 <td>«أسفل المحتوى: بعد العنوان والملخص»</td>
 </tr>
 </tbody>
@@ -90,8 +90,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «العنوان الصغير (فوق العنوان)»" src="/coach-docs/assets/sections/17-coach-curriculum/02-eyebrow-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «العنوان الصغير (فوق العنوان)»" src="/coach-docs/assets/sections/17-coach-curriculum/02-eyebrow-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — العنوان الصغير (فوق العنوان)" src="/coach-docs/assets/sections/17-coach-curriculum/02-eyebrow-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — العنوان الصغير (فوق العنوان)" src="/coach-docs/assets/sections/17-coach-curriculum/02-eyebrow-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -118,8 +118,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «العنوان»" src="/coach-docs/assets/sections/17-coach-curriculum/03-title-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «العنوان»" src="/coach-docs/assets/sections/17-coach-curriculum/03-title-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — العنوان" src="/coach-docs/assets/sections/17-coach-curriculum/03-title-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — العنوان" src="/coach-docs/assets/sections/17-coach-curriculum/03-title-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -146,8 +146,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «الوصف»" src="/coach-docs/assets/sections/17-coach-curriculum/04-description-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الوصف»" src="/coach-docs/assets/sections/17-coach-curriculum/04-description-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الوصف" src="/coach-docs/assets/sections/17-coach-curriculum/04-description-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — الوصف" src="/coach-docs/assets/sections/17-coach-curriculum/04-description-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -174,8 +174,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «ملخص الدورة»" src="/coach-docs/assets/sections/17-coach-curriculum/05-summary-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — ملخص الدورة" src="/coach-docs/assets/sections/17-coach-curriculum/05-summary-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — ملخص الدورة" src="/coach-docs/assets/sections/17-coach-curriculum/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -202,8 +202,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «فيديو الدرس المجاني»" src="/coach-docs/assets/sections/17-coach-curriculum/06-sample_video-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «فيديو الدرس المجاني»" src="/coach-docs/assets/sections/17-coach-curriculum/06-sample_video-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — فيديو الدرس المجاني" src="/coach-docs/assets/sections/17-coach-curriculum/06-sample_video-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — فيديو الدرس المجاني" src="/coach-docs/assets/sections/17-coach-curriculum/06-sample_video-result.webp" loading="lazy" decoding="async"/></td>
 <td>النتيجة بنص تجريبي «مثال لنصّك هنا»</td>
 </tr>
 </tbody>
@@ -229,8 +229,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «نص زر الدرس المجاني»" src="/coach-docs/assets/sections/17-coach-curriculum/07-sample_label-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — نص زر الدرس المجاني" src="/coach-docs/assets/sections/17-coach-curriculum/07-sample_label-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — نص زر الدرس المجاني" src="/coach-docs/assets/sections/17-coach-curriculum/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -257,8 +257,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «الوحدات»" src="/coach-docs/assets/sections/17-coach-curriculum/08-units-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الوحدات»" src="/coach-docs/assets/sections/17-coach-curriculum/08-units-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الوحدات" src="/coach-docs/assets/sections/17-coach-curriculum/08-units-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — الوحدات" src="/coach-docs/assets/sections/17-coach-curriculum/08-units-result.webp" loading="lazy" decoding="async"/></td>
 <td>أول عنصر محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -279,8 +279,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «الوحدات»" src="/coach-docs/assets/sections/17-coach-curriculum/08-units-title-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الوحدات»" src="/coach-docs/assets/sections/17-coach-curriculum/08-units-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الوحدات" src="/coach-docs/assets/sections/17-coach-curriculum/08-units-title-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — الوحدات" src="/coach-docs/assets/sections/17-coach-curriculum/08-units-result.webp" loading="lazy" decoding="async"/></td>
 <td></td>
 </tr>
 </tbody>
@@ -301,8 +301,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «الوحدات»" src="/coach-docs/assets/sections/17-coach-curriculum/08-units-meta-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الوحدات»" src="/coach-docs/assets/sections/17-coach-curriculum/08-units-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الوحدات" src="/coach-docs/assets/sections/17-coach-curriculum/08-units-meta-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — الوحدات" src="/coach-docs/assets/sections/17-coach-curriculum/08-units-result.webp" loading="lazy" decoding="async"/></td>
 <td></td>
 </tr>
 </tbody>
@@ -324,8 +324,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «الوحدات»" src="/coach-docs/assets/sections/17-coach-curriculum/08-units-lessons-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الوحدات»" src="/coach-docs/assets/sections/17-coach-curriculum/08-units-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الوحدات" src="/coach-docs/assets/sections/17-coach-curriculum/08-units-lessons-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — الوحدات" src="/coach-docs/assets/sections/17-coach-curriculum/08-units-result.webp" loading="lazy" decoding="async"/></td>
 <td></td>
 </tr>
 </tbody>
@@ -352,8 +352,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «منتج الدورة المرتبط بالمنهج»" src="/coach-docs/assets/sections/17-coach-curriculum/09-product-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «منتج الدورة المرتبط بالمنهج»" src="/coach-docs/assets/sections/17-coach-curriculum/00-desktop.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — منتج الدورة المرتبط بالمنهج" src="/coach-docs/assets/sections/17-coach-curriculum/09-product-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — منتج الدورة المرتبط بالمنهج" src="/coach-docs/assets/sections/17-coach-curriculum/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة: القسم بالقيمة الافتراضية</td>
 </tr>
 </tbody>
@@ -380,8 +380,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «صورة الدورة (اختياري)»" src="/coach-docs/assets/sections/17-coach-curriculum/10-image-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «صورة الدورة (اختياري)»" src="/coach-docs/assets/sections/17-coach-curriculum/10-image-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — صورة الدورة (اختياري)" src="/coach-docs/assets/sections/17-coach-curriculum/10-image-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — صورة الدورة (اختياري)" src="/coach-docs/assets/sections/17-coach-curriculum/10-image-result.webp" loading="lazy" decoding="async"/></td>
 <td>النتيجة بصورة تجريبية</td>
 </tr>
 </tbody>
@@ -407,8 +407,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «السعر وزر «أضف للسلة» في البطاقة»" src="/coach-docs/assets/sections/17-coach-curriculum/11-show_add-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «السعر وزر «أضف للسلة» في البطاقة»" src="/coach-docs/assets/sections/17-coach-curriculum/11-show_add-off-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — السعر وزر «أضف للسلة» في البطاقة" src="/coach-docs/assets/sections/17-coach-curriculum/11-show_add-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — السعر وزر «أضف للسلة» في البطاقة" src="/coach-docs/assets/sections/17-coach-curriculum/11-show_add-off-result.webp" loading="lazy" decoding="async"/></td>
 <td>النتيجة بعد إطفائه (الافتراضي مفعّل)</td>
 </tr>
 </tbody>
@@ -435,8 +435,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «نص زر الإضافة للسلة»" src="/coach-docs/assets/sections/17-coach-curriculum/12-button_label-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — نص زر الإضافة للسلة" src="/coach-docs/assets/sections/17-coach-curriculum/12-button_label-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — نص زر الإضافة للسلة" src="/coach-docs/assets/sections/17-coach-curriculum/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -463,8 +463,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «تثبيت الجزء الجانبي أثناء التمرير»" src="/coach-docs/assets/sections/17-coach-curriculum/13-sticky_side-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «تثبيت الجزء الجانبي أثناء التمرير»" src="/coach-docs/assets/sections/17-coach-curriculum/13-sticky_side-on-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — تثبيت الجزء الجانبي أثناء التمرير" src="/coach-docs/assets/sections/17-coach-curriculum/13-sticky_side-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — تثبيت الجزء الجانبي أثناء التمرير" src="/coach-docs/assets/sections/17-coach-curriculum/13-sticky_side-on-result.webp" loading="lazy" decoding="async"/></td>
 <td>النتيجة بعد تفعيله (الافتراضي مطفأ)</td>
 </tr>
 </tbody>

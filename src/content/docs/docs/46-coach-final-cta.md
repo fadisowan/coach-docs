@@ -57,8 +57,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «محتوى فوق الكلمات»" src="/coach-docs/assets/sections/46-coach-final-cta/01-show_content-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «محتوى فوق الكلمات»" src="/coach-docs/assets/sections/46-coach-final-cta/01-show_content-on-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — محتوى فوق الكلمات" src="/coach-docs/assets/sections/46-coach-final-cta/01-show_content-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — محتوى فوق الكلمات" src="/coach-docs/assets/sections/46-coach-final-cta/01-show_content-on-result.webp" loading="lazy" decoding="async"/></td>
 <td>النتيجة بعد تفعيله (الافتراضي مطفأ)</td>
 </tr>
 </tbody>
@@ -86,8 +86,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «العنوان الصغير (فوق العنوان)»" src="/coach-docs/assets/sections/46-coach-final-cta/02-eyebrow-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «العنوان الصغير (فوق العنوان)»" src="/coach-docs/assets/sections/46-coach-final-cta/00-desktop.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — العنوان الصغير (فوق العنوان)" src="/coach-docs/assets/sections/46-coach-final-cta/02-eyebrow-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — العنوان الصغير (فوق العنوان)" src="/coach-docs/assets/sections/46-coach-final-cta/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة: القسم بالقيمة الافتراضية</td>
 </tr>
 </tbody>
@@ -115,8 +115,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «العنوان»" src="/coach-docs/assets/sections/46-coach-final-cta/03-title-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «العنوان»" src="/coach-docs/assets/sections/46-coach-final-cta/00-desktop.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — العنوان" src="/coach-docs/assets/sections/46-coach-final-cta/03-title-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — العنوان" src="/coach-docs/assets/sections/46-coach-final-cta/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة: القسم بالقيمة الافتراضية</td>
 </tr>
 </tbody>
@@ -144,8 +144,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «الوصف»" src="/coach-docs/assets/sections/46-coach-final-cta/04-description-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الوصف»" src="/coach-docs/assets/sections/46-coach-final-cta/00-desktop.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الوصف" src="/coach-docs/assets/sections/46-coach-final-cta/04-description-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — الوصف" src="/coach-docs/assets/sections/46-coach-final-cta/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة: القسم بالقيمة الافتراضية</td>
 </tr>
 </tbody>
@@ -173,8 +173,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «نص الزر الرئيسي»" src="/coach-docs/assets/sections/46-coach-final-cta/05-primary_label-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «نص الزر الرئيسي»" src="/coach-docs/assets/sections/46-coach-final-cta/00-desktop.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — نص الزر الرئيسي" src="/coach-docs/assets/sections/46-coach-final-cta/05-primary_label-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — نص الزر الرئيسي" src="/coach-docs/assets/sections/46-coach-final-cta/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة: القسم بالقيمة الافتراضية</td>
 </tr>
 </tbody>
@@ -202,8 +202,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «رابط الزر الرئيسي»" src="/coach-docs/assets/sections/46-coach-final-cta/06-primary_link-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «رابط الزر الرئيسي»" src="/coach-docs/assets/sections/46-coach-final-cta/00-desktop.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — رابط الزر الرئيسي" src="/coach-docs/assets/sections/46-coach-final-cta/06-primary_link-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — رابط الزر الرئيسي" src="/coach-docs/assets/sections/46-coach-final-cta/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة: القسم بالقيمة الافتراضية</td>
 </tr>
 </tbody>
@@ -231,8 +231,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «نص الزر الثاني»" src="/coach-docs/assets/sections/46-coach-final-cta/07-secondary_label-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «نص الزر الثاني»" src="/coach-docs/assets/sections/46-coach-final-cta/00-desktop.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — نص الزر الثاني" src="/coach-docs/assets/sections/46-coach-final-cta/07-secondary_label-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — نص الزر الثاني" src="/coach-docs/assets/sections/46-coach-final-cta/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة: القسم بالقيمة الافتراضية</td>
 </tr>
 </tbody>
@@ -260,8 +260,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «رابط الزر الثاني»" src="/coach-docs/assets/sections/46-coach-final-cta/08-secondary_link-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «رابط الزر الثاني»" src="/coach-docs/assets/sections/46-coach-final-cta/00-desktop.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — رابط الزر الثاني" src="/coach-docs/assets/sections/46-coach-final-cta/08-secondary_link-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — رابط الزر الثاني" src="/coach-docs/assets/sections/46-coach-final-cta/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة: القسم بالقيمة الافتراضية</td>
 </tr>
 </tbody>
@@ -287,8 +287,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «شريط الكلمات الكبيرة»" src="/coach-docs/assets/sections/46-coach-final-cta/09-show_words-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «شريط الكلمات الكبيرة»" src="/coach-docs/assets/sections/46-coach-final-cta/09-show_words-off-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — شريط الكلمات الكبيرة" src="/coach-docs/assets/sections/46-coach-final-cta/09-show_words-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — شريط الكلمات الكبيرة" src="/coach-docs/assets/sections/46-coach-final-cta/09-show_words-off-result.webp" loading="lazy" decoding="async"/></td>
 <td>النتيجة بعد إطفائه (الافتراضي مفعّل)</td>
 </tr>
 </tbody>
@@ -316,8 +316,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «الكلمات»" src="/coach-docs/assets/sections/46-coach-final-cta/10-words-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الكلمات»" src="/coach-docs/assets/sections/46-coach-final-cta/00-desktop.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الكلمات" src="/coach-docs/assets/sections/46-coach-final-cta/10-words-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — الكلمات" src="/coach-docs/assets/sections/46-coach-final-cta/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة: القسم بالقيمة الافتراضية</td>
 </tr>
 </tbody>
@@ -343,18 +343,18 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «حجم الكلمات»" src="/coach-docs/assets/sections/46-coach-final-cta/11-words_size-s-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «حجم الكلمات»" src="/coach-docs/assets/sections/46-coach-final-cta/11-words_size-s-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — حجم الكلمات" src="/coach-docs/assets/sections/46-coach-final-cta/11-words_size-s-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — حجم الكلمات" src="/coach-docs/assets/sections/46-coach-final-cta/11-words_size-s-result.webp" loading="lazy" decoding="async"/></td>
 <td>«صغير»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «حجم الكلمات»" src="/coach-docs/assets/sections/46-coach-final-cta/11-words_size-m-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — حجم الكلمات" src="/coach-docs/assets/sections/46-coach-final-cta/11-words_size-m-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — حجم الكلمات" src="/coach-docs/assets/sections/46-coach-final-cta/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>«متوسط»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «حجم الكلمات»" src="/coach-docs/assets/sections/46-coach-final-cta/11-words_size-l-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «حجم الكلمات»" src="/coach-docs/assets/sections/46-coach-final-cta/11-words_size-l-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — حجم الكلمات" src="/coach-docs/assets/sections/46-coach-final-cta/11-words_size-l-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — حجم الكلمات" src="/coach-docs/assets/sections/46-coach-final-cta/11-words_size-l-result.webp" loading="lazy" decoding="async"/></td>
 <td>«كبير»</td>
 </tr>
 </tbody>
@@ -381,8 +381,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «تتبع حركة الماوس على الحاسوب»" src="/coach-docs/assets/sections/46-coach-final-cta/12-words_pointer-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — تتبع حركة الماوس على الحاسوب" src="/coach-docs/assets/sections/46-coach-final-cta/12-words_pointer-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — تتبع حركة الماوس على الحاسوب" src="/coach-docs/assets/sections/46-coach-final-cta/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة بعد تفعيله (الافتراضي مطفأ)</td>
 </tr>
 </tbody>

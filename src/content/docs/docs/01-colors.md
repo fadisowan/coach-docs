@@ -60,13 +60,13 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «مصدر اللون الأساسي»" src="/coach-docs/assets/00-theme/01-colors/01-palette_source-coach-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — مصدر اللون الأساسي" src="/coach-docs/assets/00-theme/01-colors/01-palette_source-coach-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — مصدر اللون الأساسي" src="/coach-docs/assets/00-theme/01-colors/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>«ألوان كوتش»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «مصدر اللون الأساسي»" src="/coach-docs/assets/00-theme/01-colors/01-palette_source-store-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «مصدر اللون الأساسي»" src="/coach-docs/assets/00-theme/01-colors/01-palette_source-store-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — مصدر اللون الأساسي" src="/coach-docs/assets/00-theme/01-colors/01-palette_source-store-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — مصدر اللون الأساسي" src="/coach-docs/assets/00-theme/01-colors/01-palette_source-store-result.webp" loading="lazy" decoding="async"/></td>
 <td>«لون المتجر من سلة» · النتيجة لمتجر لونه في سلة #1d2b53</td>
 </tr>
 </tbody>
@@ -93,8 +93,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «اللون الثانوي (المشمشي)»" src="/coach-docs/assets/00-theme/01-colors/02-accent_color-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — اللون الثانوي (المشمشي)" src="/coach-docs/assets/00-theme/01-colors/02-accent_color-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — اللون الثانوي (المشمشي)" src="/coach-docs/assets/00-theme/01-colors/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة بلون تجريبي #1F6F78</td>
 </tr>
 </tbody>
@@ -120,18 +120,18 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «شكل الكلمات المميّزة في العناوين»" src="/coach-docs/assets/00-theme/01-colors/03-title_highlight-bold-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — شكل الكلمات المميّزة في العناوين" src="/coach-docs/assets/00-theme/01-colors/03-title_highlight-bold-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — شكل الكلمات المميّزة في العناوين" src="/coach-docs/assets/00-theme/01-colors/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>«لون وخط عريض»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «شكل الكلمات المميّزة في العناوين»" src="/coach-docs/assets/00-theme/01-colors/03-title_highlight-marker-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «شكل الكلمات المميّزة في العناوين»" src="/coach-docs/assets/00-theme/01-colors/03-title_highlight-marker-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — شكل الكلمات المميّزة في العناوين" src="/coach-docs/assets/00-theme/01-colors/03-title_highlight-marker-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — شكل الكلمات المميّزة في العناوين" src="/coach-docs/assets/00-theme/01-colors/03-title_highlight-marker-result.webp" loading="lazy" decoding="async"/></td>
 <td>«قلم تمييز خلف الكلمات»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «شكل الكلمات المميّزة في العناوين»" src="/coach-docs/assets/00-theme/01-colors/03-title_highlight-line-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — شكل الكلمات المميّزة في العناوين" src="/coach-docs/assets/00-theme/01-colors/03-title_highlight-line-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — شكل الكلمات المميّزة في العناوين" src="/coach-docs/assets/00-theme/01-colors/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>«لون وخط تحت الكلمات (الافتراضي)»</td>
 </tr>
 </tbody>
@@ -157,18 +157,18 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «مصدر الخط»" src="/coach-docs/assets/00-theme/01-colors/04-font_source-store-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «مصدر الخط»" src="/coach-docs/assets/00-theme/01-colors/04-font_source-store-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — مصدر الخط" src="/coach-docs/assets/00-theme/01-colors/04-font_source-store-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — مصدر الخط" src="/coach-docs/assets/00-theme/01-colors/04-font_source-store-result.webp" loading="lazy" decoding="async"/></td>
 <td>«خط سلة للعناوين والنصوص (الافتراضي)»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «مصدر الخط»" src="/coach-docs/assets/00-theme/01-colors/04-font_source-store_body-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «مصدر الخط»" src="/coach-docs/assets/00-theme/01-colors/04-font_source-store_body-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — مصدر الخط" src="/coach-docs/assets/00-theme/01-colors/04-font_source-store_body-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — مصدر الخط" src="/coach-docs/assets/00-theme/01-colors/04-font_source-store_body-result.webp" loading="lazy" decoding="async"/></td>
 <td>«عناوين كوتش (Alexandria) ونصوص بخط سلة»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «مصدر الخط»" src="/coach-docs/assets/00-theme/01-colors/04-font_source-coach-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — مصدر الخط" src="/coach-docs/assets/00-theme/01-colors/04-font_source-coach-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — مصدر الخط" src="/coach-docs/assets/00-theme/01-colors/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>«خطوط كوتش (Alexandria وIBM Plex Sans Arabic)»</td>
 </tr>
 </tbody>

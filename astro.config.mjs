@@ -16,6 +16,8 @@ export default defineConfig({
     components: { Head: './src/components/Head.astro' },
     sidebar: [
       { label: 'ابدأ هنا', link: '/' },
+      { label: 'كل المكوّنات الـ٤٨ بالصور', slug: 'components' },
+      { label: 'دليل الإعدادات العامة', slug: 'settings' },
       ...groups.map(label => ({label, collapsed: label === 'مكوّنات الصفحة الرئيسية', items: nav.filter(entry => entry.category === label).map(entry => ({label: entry.title.split(' — ')[0], slug: 'docs/' + entry.slug}))}))
     ],
     tableOfContents: { minHeadingLevel: 2, maxHeadingLevel: 3 },

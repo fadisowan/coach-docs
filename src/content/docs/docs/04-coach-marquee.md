@@ -57,18 +57,18 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «الشكل»" src="/coach-docs/assets/sections/04-coach-marquee/01-shape-straight-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — الشكل" src="/coach-docs/assets/sections/04-coach-marquee/01-shape-straight-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — الشكل" src="/coach-docs/assets/sections/04-coach-marquee/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>«مستقيم»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «الشكل»" src="/coach-docs/assets/sections/04-coach-marquee/01-shape-tilted-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الشكل»" src="/coach-docs/assets/sections/04-coach-marquee/01-shape-tilted-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الشكل" src="/coach-docs/assets/sections/04-coach-marquee/01-shape-tilted-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — الشكل" src="/coach-docs/assets/sections/04-coach-marquee/01-shape-tilted-result.webp" loading="lazy" decoding="async"/></td>
 <td>«مائل»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «الشكل»" src="/coach-docs/assets/sections/04-coach-marquee/01-shape-crossed-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الشكل»" src="/coach-docs/assets/sections/04-coach-marquee/01-shape-crossed-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الشكل" src="/coach-docs/assets/sections/04-coach-marquee/01-shape-crossed-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — الشكل" src="/coach-docs/assets/sections/04-coach-marquee/01-shape-crossed-result.webp" loading="lazy" decoding="async"/></td>
 <td>«شريطان متقاطعان»</td>
 </tr>
 </tbody>
@@ -93,18 +93,18 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «حجم النص»" src="/coach-docs/assets/sections/04-coach-marquee/02-size-small-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «حجم النص»" src="/coach-docs/assets/sections/04-coach-marquee/02-size-small-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — حجم النص" src="/coach-docs/assets/sections/04-coach-marquee/02-size-small-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — حجم النص" src="/coach-docs/assets/sections/04-coach-marquee/02-size-small-result.webp" loading="lazy" decoding="async"/></td>
 <td>«صغير»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «حجم النص»" src="/coach-docs/assets/sections/04-coach-marquee/02-size-medium-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — حجم النص" src="/coach-docs/assets/sections/04-coach-marquee/02-size-medium-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — حجم النص" src="/coach-docs/assets/sections/04-coach-marquee/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>«متوسط»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «حجم النص»" src="/coach-docs/assets/sections/04-coach-marquee/02-size-large-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «حجم النص»" src="/coach-docs/assets/sections/04-coach-marquee/02-size-large-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — حجم النص" src="/coach-docs/assets/sections/04-coach-marquee/02-size-large-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — حجم النص" src="/coach-docs/assets/sections/04-coach-marquee/02-size-large-result.webp" loading="lazy" decoding="async"/></td>
 <td>«كبير»</td>
 </tr>
 </tbody>
@@ -129,28 +129,28 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «الفاصل بين النصوص»" src="/coach-docs/assets/sections/04-coach-marquee/03-separator-star-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — الفاصل بين النصوص" src="/coach-docs/assets/sections/04-coach-marquee/03-separator-star-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — الفاصل بين النصوص" src="/coach-docs/assets/sections/04-coach-marquee/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>«نجمة ✦»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «الفاصل بين النصوص»" src="/coach-docs/assets/sections/04-coach-marquee/03-separator-dot-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الفاصل بين النصوص»" src="/coach-docs/assets/sections/04-coach-marquee/03-separator-dot-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الفاصل بين النصوص" src="/coach-docs/assets/sections/04-coach-marquee/03-separator-dot-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — الفاصل بين النصوص" src="/coach-docs/assets/sections/04-coach-marquee/03-separator-dot-result.webp" loading="lazy" decoding="async"/></td>
 <td>«نقطة ●»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «الفاصل بين النصوص»" src="/coach-docs/assets/sections/04-coach-marquee/03-separator-diamond-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الفاصل بين النصوص»" src="/coach-docs/assets/sections/04-coach-marquee/03-separator-diamond-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الفاصل بين النصوص" src="/coach-docs/assets/sections/04-coach-marquee/03-separator-diamond-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — الفاصل بين النصوص" src="/coach-docs/assets/sections/04-coach-marquee/03-separator-diamond-result.webp" loading="lazy" decoding="async"/></td>
 <td>«معيّن ◆»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «الفاصل بين النصوص»" src="/coach-docs/assets/sections/04-coach-marquee/03-separator-dash-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الفاصل بين النصوص»" src="/coach-docs/assets/sections/04-coach-marquee/03-separator-dash-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الفاصل بين النصوص" src="/coach-docs/assets/sections/04-coach-marquee/03-separator-dash-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — الفاصل بين النصوص" src="/coach-docs/assets/sections/04-coach-marquee/03-separator-dash-result.webp" loading="lazy" decoding="async"/></td>
 <td>«شرطة —»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «الفاصل بين النصوص»" src="/coach-docs/assets/sections/04-coach-marquee/03-separator-none-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الفاصل بين النصوص»" src="/coach-docs/assets/sections/04-coach-marquee/03-separator-none-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الفاصل بين النصوص" src="/coach-docs/assets/sections/04-coach-marquee/03-separator-none-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — الفاصل بين النصوص" src="/coach-docs/assets/sections/04-coach-marquee/03-separator-none-result.webp" loading="lazy" decoding="async"/></td>
 <td>«بلا فاصل»</td>
 </tr>
 </tbody>
@@ -177,8 +177,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «لون الشريط»" src="/coach-docs/assets/sections/04-coach-marquee/04-bg_color-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «لون الشريط»" src="/coach-docs/assets/sections/04-coach-marquee/04-bg_color-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — لون الشريط" src="/coach-docs/assets/sections/04-coach-marquee/04-bg_color-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — لون الشريط" src="/coach-docs/assets/sections/04-coach-marquee/04-bg_color-result.webp" loading="lazy" decoding="async"/></td>
 <td>النتيجة بلون تجريبي #1F6F78</td>
 </tr>
 </tbody>
@@ -205,8 +205,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «لون النص»" src="/coach-docs/assets/sections/04-coach-marquee/05-text_color-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «لون النص»" src="/coach-docs/assets/sections/04-coach-marquee/05-text_color-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — لون النص" src="/coach-docs/assets/sections/04-coach-marquee/05-text_color-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — لون النص" src="/coach-docs/assets/sections/04-coach-marquee/05-text_color-result.webp" loading="lazy" decoding="async"/></td>
 <td>النتيجة بلون تجريبي #1F6F78</td>
 </tr>
 </tbody>
@@ -232,8 +232,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «العناصر»" src="/coach-docs/assets/sections/04-coach-marquee/06-items-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — العناصر" src="/coach-docs/assets/sections/04-coach-marquee/06-items-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — العناصر" src="/coach-docs/assets/sections/04-coach-marquee/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>أول عنصر محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -254,8 +254,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «العناصر»" src="/coach-docs/assets/sections/04-coach-marquee/06-items-text-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — العناصر" src="/coach-docs/assets/sections/04-coach-marquee/06-items-text-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — العناصر" src="/coach-docs/assets/sections/04-coach-marquee/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td></td>
 </tr>
 </tbody>
@@ -283,8 +283,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «نصوص الشريط الثاني»" src="/coach-docs/assets/sections/04-coach-marquee/07-items_b-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — نصوص الشريط الثاني" src="/coach-docs/assets/sections/04-coach-marquee/07-items_b-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — نصوص الشريط الثاني" src="/coach-docs/assets/sections/04-coach-marquee/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>أول عنصر محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -305,8 +305,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «نصوص الشريط الثاني»" src="/coach-docs/assets/sections/04-coach-marquee/07-items_b-text-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — نصوص الشريط الثاني" src="/coach-docs/assets/sections/04-coach-marquee/07-items_b-text-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — نصوص الشريط الثاني" src="/coach-docs/assets/sections/04-coach-marquee/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td></td>
 </tr>
 </tbody>
@@ -332,13 +332,13 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «اتجاه الحركة»" src="/coach-docs/assets/sections/04-coach-marquee/08-direction-reading-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — اتجاه الحركة" src="/coach-docs/assets/sections/04-coach-marquee/08-direction-reading-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — اتجاه الحركة" src="/coach-docs/assets/sections/04-coach-marquee/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>«مع اتجاه القراءة»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «اتجاه الحركة»" src="/coach-docs/assets/sections/04-coach-marquee/08-direction-reverse-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — اتجاه الحركة" src="/coach-docs/assets/sections/04-coach-marquee/08-direction-reverse-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — اتجاه الحركة" src="/coach-docs/assets/sections/04-coach-marquee/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>«عكس اتجاه القراءة»</td>
 </tr>
 </tbody>
@@ -364,18 +364,18 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «السرعة»" src="/coach-docs/assets/sections/04-coach-marquee/09-pace-slow-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — السرعة" src="/coach-docs/assets/sections/04-coach-marquee/09-pace-slow-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — السرعة" src="/coach-docs/assets/sections/04-coach-marquee/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>«هادئة»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «السرعة»" src="/coach-docs/assets/sections/04-coach-marquee/09-pace-normal-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — السرعة" src="/coach-docs/assets/sections/04-coach-marquee/09-pace-normal-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — السرعة" src="/coach-docs/assets/sections/04-coach-marquee/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>«متوسطة»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «السرعة»" src="/coach-docs/assets/sections/04-coach-marquee/09-pace-fast-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «السرعة»" src="/coach-docs/assets/sections/04-coach-marquee/09-pace-fast-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — السرعة" src="/coach-docs/assets/sections/04-coach-marquee/09-pace-fast-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — السرعة" src="/coach-docs/assets/sections/04-coach-marquee/09-pace-fast-result.webp" loading="lazy" decoding="async"/></td>
 <td>«سريعة»</td>
 </tr>
 </tbody>
@@ -402,8 +402,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «يتوقف عند مرور مؤشر الفأرة»" src="/coach-docs/assets/sections/04-coach-marquee/10-pause_hover-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — يتوقف عند مرور مؤشر الفأرة" src="/coach-docs/assets/sections/04-coach-marquee/10-pause_hover-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — يتوقف عند مرور مؤشر الفأرة" src="/coach-docs/assets/sections/04-coach-marquee/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة بعد تفعيله (الافتراضي مطفأ)</td>
 </tr>
 </tbody>
@@ -430,8 +430,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «زر إيقاف وتشغيل للشريط»" src="/coach-docs/assets/sections/04-coach-marquee/11-pause_button-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — زر إيقاف وتشغيل للشريط" src="/coach-docs/assets/sections/04-coach-marquee/11-pause_button-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — زر إيقاف وتشغيل للشريط" src="/coach-docs/assets/sections/04-coach-marquee/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة بعد تفعيله (الافتراضي مطفأ)</td>
 </tr>
 </tbody>

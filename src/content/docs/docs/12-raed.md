@@ -57,13 +57,13 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «طريقة عرض الصور في قسم قائمة عناصر »" src="/coach-docs/assets/00-theme/12-raed/01-squar_photo_bg_image_size-cover-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — طريقة عرض الصور في قسم قائمة عناصر " src="/coach-docs/assets/00-theme/12-raed/01-squar_photo_bg_image_size-cover-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — طريقة عرض الصور في قسم قائمة عناصر " src="/coach-docs/assets/00-theme/12-raed/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>«تغطية الصورة كامل المساحة مع المحافظة على أبعاد الصورة (Cover)»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «طريقة عرض الصور في قسم قائمة عناصر »" src="/coach-docs/assets/00-theme/12-raed/01-squar_photo_bg_image_size-contain-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — طريقة عرض الصور في قسم قائمة عناصر " src="/coach-docs/assets/00-theme/12-raed/01-squar_photo_bg_image_size-contain-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — طريقة عرض الصور في قسم قائمة عناصر " src="/coach-docs/assets/00-theme/12-raed/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>«اظهار الصورة كاملةً في المنتصف (Contain)»</td>
 </tr>
 </tbody>
@@ -90,8 +90,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «عرض جميع الصور بنفس الحجم في قسم قائمة عناصر»" src="/coach-docs/assets/00-theme/12-raed/02-square_photos_equal_size-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — عرض جميع الصور بنفس الحجم في قسم قائمة عناصر" src="/coach-docs/assets/00-theme/12-raed/02-square_photos_equal_size-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — عرض جميع الصور بنفس الحجم في قسم قائمة عناصر" src="/coach-docs/assets/00-theme/12-raed/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة بعد تفعيله (الافتراضي مطفأ)</td>
 </tr>
 </tbody>
@@ -118,8 +118,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «وضع عمودي للمنتجات في مربع المنتجات الثابتة في الصفحة الرئيسية»" src="/coach-docs/assets/00-theme/12-raed/03-vertical_fixed_products-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «وضع عمودي للمنتجات في مربع المنتجات الثابتة في الصفحة الرئيسية»" src="/coach-docs/assets/00-theme/12-raed/03-vertical_fixed_products-on-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — وضع عمودي للمنتجات في مربع المنتجات الثابتة في الصفحة الرئيسية" src="/coach-docs/assets/00-theme/12-raed/03-vertical_fixed_products-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — وضع عمودي للمنتجات في مربع المنتجات الثابتة في الصفحة الرئيسية" src="/coach-docs/assets/00-theme/12-raed/03-vertical_fixed_products-on-result.webp" loading="lazy" decoding="async"/></td>
 <td>النتيجة بعد تفعيله (الافتراضي مطفأ)</td>
 </tr>
 </tbody>
@@ -145,18 +145,18 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «حركة تبديل التبويب في قسم «منتجات مميزة»»" src="/coach-docs/assets/00-theme/12-raed/04-featured_tab_motion-none-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — حركة تبديل التبويب في قسم «منتجات مميزة»" src="/coach-docs/assets/00-theme/12-raed/04-featured_tab_motion-none-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — حركة تبديل التبويب في قسم «منتجات مميزة»" src="/coach-docs/assets/00-theme/12-raed/03-vertical_fixed_products-on-result.webp" loading="lazy" decoding="async"/></td>
 <td>«بلا حركة»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «حركة تبديل التبويب في قسم «منتجات مميزة»»" src="/coach-docs/assets/00-theme/12-raed/04-featured_tab_motion-stagger-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — حركة تبديل التبويب في قسم «منتجات مميزة»" src="/coach-docs/assets/00-theme/12-raed/04-featured_tab_motion-stagger-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — حركة تبديل التبويب في قسم «منتجات مميزة»" src="/coach-docs/assets/00-theme/12-raed/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>«دخول تباعاً»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «حركة تبديل التبويب في قسم «منتجات مميزة»»" src="/coach-docs/assets/00-theme/12-raed/04-featured_tab_motion-flip-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — حركة تبديل التبويب في قسم «منتجات مميزة»" src="/coach-docs/assets/00-theme/12-raed/04-featured_tab_motion-flip-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — حركة تبديل التبويب في قسم «منتجات مميزة»" src="/coach-docs/assets/00-theme/12-raed/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>«إعادة ترتيب سلسة»</td>
 </tr>
 </tbody>
@@ -183,8 +183,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «عرض (زر الكل) في الصفحة الرئيسية»" src="/coach-docs/assets/00-theme/12-raed/05-is_more_button_enabled-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — عرض (زر الكل) في الصفحة الرئيسية" src="/coach-docs/assets/00-theme/12-raed/05-is_more_button_enabled-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — عرض (زر الكل) في الصفحة الرئيسية" src="/coach-docs/assets/00-theme/12-raed/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة بعد تفعيله (الافتراضي مطفأ)</td>
 </tr>
 </tbody>

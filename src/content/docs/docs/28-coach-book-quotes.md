@@ -57,8 +57,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-  <td><img src="/coach-docs/assets/sections/28-coach-book-quotes/01-eyebrow-panel.webp" alt="" /></td>
-  <td><img src="/coach-docs/assets/sections/28-coach-book-quotes/01-eyebrow-result.webp" alt="" /></td>
+  <td><img alt="لوحة إعدادات — العنوان الصغير (فوق العنوان)" src="/coach-docs/assets/sections/28-coach-book-quotes/01-eyebrow-panel.webp" loading="lazy" decoding="async"/></td>
+  <td><img alt="معاينة النتيجة — العنوان الصغير (فوق العنوان)" src="/coach-docs/assets/sections/28-coach-book-quotes/01-eyebrow-result.webp" loading="lazy" decoding="async"/></td>
   <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -85,8 +85,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-  <td><img src="/coach-docs/assets/sections/28-coach-book-quotes/02-title-panel.webp" alt="" /></td>
-  <td><img src="/coach-docs/assets/sections/28-coach-book-quotes/02-title-result.webp" alt="" /></td>
+  <td><img alt="لوحة إعدادات — العنوان" src="/coach-docs/assets/sections/28-coach-book-quotes/02-title-panel.webp" loading="lazy" decoding="async"/></td>
+  <td><img alt="معاينة النتيجة — العنوان" src="/coach-docs/assets/sections/28-coach-book-quotes/02-title-result.webp" loading="lazy" decoding="async"/></td>
   <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -112,8 +112,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-  <td><img src="/coach-docs/assets/sections/28-coach-book-quotes/03-quotes-panel.webp" alt="" /></td>
-  <td><img src="/coach-docs/assets/sections/28-coach-book-quotes/03-quotes-result.webp" alt="" /></td>
+  <td><img alt="لوحة إعدادات — الاقتباسات" src="/coach-docs/assets/sections/28-coach-book-quotes/03-quotes-panel.webp" loading="lazy" decoding="async"/></td>
+  <td><img alt="معاينة النتيجة — الاقتباسات" src="/coach-docs/assets/sections/28-coach-book-quotes/03-quotes-result.webp" loading="lazy" decoding="async"/></td>
   <td>أول عنصر محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -134,8 +134,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-  <td><img src="/coach-docs/assets/sections/28-coach-book-quotes/03-quotes-text-panel.webp" alt="" /></td>
-  <td><img src="/coach-docs/assets/sections/28-coach-book-quotes/03-quotes-result.webp" alt="" /></td>
+  <td><img alt="لوحة إعدادات — الاقتباسات" src="/coach-docs/assets/sections/28-coach-book-quotes/03-quotes-text-panel.webp" loading="lazy" decoding="async"/></td>
+  <td><img alt="معاينة النتيجة — الاقتباسات" src="/coach-docs/assets/sections/28-coach-book-quotes/03-quotes-result.webp" loading="lazy" decoding="async"/></td>
   <td></td>
 </tr>
 </tbody>
@@ -156,8 +156,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-  <td><img src="/coach-docs/assets/sections/28-coach-book-quotes/03-quotes-source-panel.webp" alt="" /></td>
-  <td><img src="/coach-docs/assets/sections/28-coach-book-quotes/03-quotes-result.webp" alt="" /></td>
+  <td><img alt="لوحة إعدادات — الاقتباسات" src="/coach-docs/assets/sections/28-coach-book-quotes/03-quotes-source-panel.webp" loading="lazy" decoding="async"/></td>
+  <td><img alt="معاينة النتيجة — الاقتباسات" src="/coach-docs/assets/sections/28-coach-book-quotes/03-quotes-result.webp" loading="lazy" decoding="async"/></td>
   <td></td>
 </tr>
 </tbody>

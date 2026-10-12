@@ -1,0 +1,481 @@
+{
+ "kind": "section",
+ "key": "coach-categories",
+ "title": "متجر · التصنيفات بالصور (٦ أشكال)",
+ "folder": "sections/44-coach-categories",
+ "fields": [
+  {
+   "id": "layout",
+   "label": "الشكل",
+   "type": "قائمة منسدلة",
+   "default": "١ · شبكة",
+   "what": "الشكل: شبكة، أو بطاقة كبيرة وأربع صغيرة، أو أكورديون يتمدّد، أو غلاف لوني، أو أقواس بشارة، أو لوح زجاجي.",
+   "when": "«بطاقة كبيرة» لإبراز تصنيف، و«أكورديون» لصور عريضة.",
+   "empty": "",
+   "editor_hint": "",
+   "from_guide": "",
+   "shows_when": "",
+   "pairs": [
+    {
+     "panel": "01-layout-grid-panel.webp",
+     "result": "00-desktop.webp",
+     "option": "١ · شبكة",
+     "value": "grid",
+     "panel_ok": true,
+     "result_ok": true
+    },
+    {
+     "panel": "01-layout-bento-panel.webp",
+     "result": "01-layout-bento-result.webp",
+     "option": "٢ · بطاقة كبيرة وأربع صغيرة",
+     "value": "bento",
+     "panel_ok": true,
+     "result_ok": true
+    },
+    {
+     "panel": "01-layout-accordion-panel.webp",
+     "result": "01-layout-accordion-result.webp",
+     "option": "٣ · أكورديون يتمدّد",
+     "value": "accordion",
+     "panel_ok": true,
+     "result_ok": true
+    },
+    {
+     "panel": "01-layout-tinted-panel.webp",
+     "result": "01-layout-tinted-result.webp",
+     "option": "٤ · غلاف لوني",
+     "value": "tinted",
+     "panel_ok": true,
+     "result_ok": true
+    },
+    {
+     "panel": "01-layout-arch-panel.webp",
+     "result": "01-layout-arch-result.webp",
+     "option": "٥ · أقواس بشارة",
+     "value": "arch",
+     "panel_ok": true,
+     "result_ok": true
+    },
+    {
+     "panel": "01-layout-glass-panel.webp",
+     "result": "01-layout-glass-result.webp",
+     "option": "٦ · لوح زجاجي",
+     "value": "glass",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "cols_grid",
+   "label": "عدد الأعمدة على الحاسوب",
+   "type": "رقم",
+   "default": "0",
+   "what": "في الشبكة: عدد الأعمدة على الكمبيوتر، من ٢ إلى ٦.",
+   "when": "إن أردت عدداً ثابتاً بدل التلقائي.",
+   "empty": "٠ أو ٤: تلقائي حسب عدد البطاقات.",
+   "editor_hint": "٠ أو ٤: تلقائي حسب عدد البطاقات.",
+   "from_guide": "",
+   "shows_when": "«الشكل» هو «١ · شبكة»",
+   "pairs": [
+    {
+     "panel": "02-cols_grid-panel.webp",
+     "result": "00-desktop.webp",
+     "note": "النتيجة: القسم بالقيمة الافتراضية",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "cols_tinted",
+   "label": "عدد الأعمدة على الحاسوب",
+   "type": "رقم",
+   "default": "0",
+   "what": "في الغلاف اللوني: عدد الأعمدة على الكمبيوتر، من ٢ إلى ٤.",
+   "when": "إن أردت عدداً ثابتاً.",
+   "empty": "٠ أو ٣: تلقائي حسب عدد البطاقات.",
+   "editor_hint": "٠ أو ٣: تلقائي حسب عدد البطاقات.",
+   "from_guide": "",
+   "shows_when": "«الشكل» هو «٤ · غلاف لوني»",
+   "pairs": [
+    {
+     "panel": "03-cols_tinted-panel.webp",
+     "result": "00-desktop.webp",
+     "note": "النتيجة: القسم بالقيمة الافتراضية",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "cols_arch",
+   "label": "عدد الأعمدة على الحاسوب",
+   "type": "رقم",
+   "default": "0",
+   "what": "في الأقواس: عدد الأعمدة على الكمبيوتر، من ٣ إلى ٦.",
+   "when": "إن أردت عدداً ثابتاً.",
+   "empty": "٠ أو ٦: تلقائي حسب عدد البطاقات.",
+   "editor_hint": "٠ أو ٦: تلقائي حسب عدد البطاقات.",
+   "from_guide": "",
+   "shows_when": "«الشكل» هو «٥ · أقواس بشارة»",
+   "pairs": [
+    {
+     "panel": "04-cols_arch-panel.webp",
+     "result": "00-desktop.webp",
+     "note": "النتيجة: القسم بالقيمة الافتراضية",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "cols_glass",
+   "label": "عدد الأعمدة على الحاسوب",
+   "type": "رقم",
+   "default": "0",
+   "what": "في اللوح الزجاجي: عدد الأعمدة على الكمبيوتر، من ١ إلى ٣.",
+   "when": "إن أردت عدداً ثابتاً.",
+   "empty": "٠ أو ٣: تلقائي حسب عدد البطاقات.",
+   "editor_hint": "٠ أو ٣: تلقائي حسب عدد البطاقات.",
+   "from_guide": "",
+   "shows_when": "«الشكل» هو «٦ · لوح زجاجي»",
+   "pairs": [
+    {
+     "panel": "05-cols_glass-panel.webp",
+     "result": "00-desktop.webp",
+     "note": "النتيجة: القسم بالقيمة الافتراضية",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "eyebrow",
+   "label": "العنوان الصغير (فوق العنوان)",
+   "type": "نص بسطر واحد",
+   "default": "تصفّح حسب الاهتمام",
+   "what": "سطر صغير فوق العنوان. ما تكتبه بعد العلامة | يظهر بجانبه كلمةً لاتينية، مثل «كتب | BOOKS».",
+   "when": "لتسمية القسم بكلمة أو كلمتين قبل العنوان.",
+   "empty": "فارغاً باللغتين لا يظهر.",
+   "editor_hint": "مثال: كتب | BOOKS",
+   "from_guide": "",
+   "shows_when": "",
+   "pairs": [
+    {
+     "panel": "06-eyebrow-panel.webp",
+     "result": "06-eyebrow-result.webp",
+     "note": "مكانه في القسم محاط بإطار برتقالي",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "title",
+   "label": "العنوان",
+   "type": "نص بسطر واحد",
+   "default": "ابدأ من حيث [[تحتاج]]",
+   "what": "عنوان القسم. ضع كلمة بين [[ ]] لتظهر مميّزة بالشكل المختار في «تخصيص الثيم».",
+   "when": "جملة قصيرة تقول ما يجده الزائر في القسم.",
+   "empty": "فارغاً باللغتين لا يظهر. إن مسحته بالعربية وحدها ظهر النص الإنجليزي.",
+   "editor_hint": "فارغاً باللغتين يُخفى. [[كلمة]] بلون المتجر.",
+   "from_guide": "",
+   "shows_when": "",
+   "pairs": [
+    {
+     "panel": "07-title-panel.webp",
+     "result": "07-title-result.webp",
+     "note": "مكانه في القسم محاط بإطار برتقالي",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "description",
+   "label": "الوصف",
+   "type": "نص بعدة أسطر",
+   "default": "فارغ",
+   "what": "سطر تحت العنوان.",
+   "when": "لتوضيح العنوان إن احتاج.",
+   "empty": "فارغاً (الافتراضي) لا يظهر.",
+   "editor_hint": "فارغاً باللغتين يُخفى.",
+   "from_guide": "",
+   "shows_when": "",
+   "pairs": [
+    {
+     "panel": "08-description-panel.webp",
+     "result": "08-description-result.webp",
+     "note": "النتيجة بنص تجريبي «مثال لنصّك هنا»",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "hint",
+   "label": "سطر بجانب العنوان",
+   "type": "نص بسطر واحد",
+   "default": "مرّر على أي تصنيف",
+   "what": "في الأكورديون: سطر صغير بجانب العنوان، مثل «مرّر على أي تصنيف».",
+   "when": "ليعرف الزائر أن البطاقات تتمدّد.",
+   "empty": "فارغاً لا يظهر.",
+   "editor_hint": "",
+   "from_guide": "",
+   "shows_when": "«الشكل» هو «٣ · أكورديون يتمدّد»",
+   "pairs": [
+    {
+     "panel": "09-hint-panel.webp",
+     "result": "00-desktop.webp",
+     "note": "النتيجة: القسم بالقيمة الافتراضية",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "all_label",
+   "label": "نص رابط «كل التصنيفات»",
+   "type": "نص بسطر واحد",
+   "default": "كل التصنيفات",
+   "what": "نص رابط «كل التصنيفات» بجانب العنوان، يظهر مع رابطه.",
+   "when": "ليصل الزائر لكل تصنيفاتك.",
+   "empty": "فارغاً لا يظهر الرابط.",
+   "editor_hint": "يظهر مع رابطه.",
+   "from_guide": "",
+   "shows_when": "",
+   "pairs": [
+    {
+     "panel": "10-all_label-panel.webp",
+     "result": "10-all_label-result.webp",
+     "note": "مكانه في القسم محاط بإطار برتقالي",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "all_link",
+   "label": "رابط «كل التصنيفات»",
+   "type": "رابط (منتج أو تصنيف أو صفحة أو رابط آخر)",
+   "default": "بلا رابط",
+   "what": "إلى أين يذهب رابط «كل التصنيفات».",
+   "when": "صفحة المنتجات أو التصنيفات.",
+   "empty": "بدونه لا يظهر الرابط.",
+   "editor_hint": "",
+   "from_guide": "",
+   "shows_when": "",
+   "pairs": [
+    {
+     "panel": "11-all_link-panel.webp",
+     "result": "00-desktop.webp",
+     "note": "النتيجة: القسم بالقيمة الافتراضية",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "cards",
+   "label": "البطاقات",
+   "type": "عناصر متكررة (تضيفها وتحذفها وترتّبها)",
+   "default": "4 عناصر جاهزة",
+   "what": "البطاقات بالترتيب. البطاقة المخفية تظهر في المحرّر فقط، والبطاقة بلا رابط تظهر بلا نقر.",
+   "when": "بطاقة لكل تصنيف رئيسي.",
+   "empty": "بلا بطاقات لا يظهر القسم.",
+   "editor_hint": "«مخفية»: في المحرر فقط؛ بلا رابط تظهر بلا نقر.",
+   "from_guide": "البطاقات:** «البطاقات» حتى ٨، لكل بطاقة الصورة والعنوان وسطر تحته والوصف والشارة والرابط واللون، وزر «إخفاء البطاقة» يخفيها عن",
+   "shows_when": "",
+   "pairs": [
+    {
+     "panel": "12-cards-panel.webp",
+     "result": "12-cards-result.webp",
+     "note": "أول عنصر محاط بإطار برتقالي",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ],
+   "item_fields": [
+    {
+     "id": "cards.image",
+     "label": "الصورة",
+     "type": "صورة ترفعها",
+     "default": "بلا صورة",
+     "what": "صورة التصنيف، طولية ٩٠٠×١٢٠٠ تقريباً.",
+     "when": "",
+     "empty": "بدونها مساحة ملوّنة.",
+     "editor_hint": "طولية، ٩٠٠×١٢٠٠ تقريباً.",
+     "from_guide": "",
+     "shows_when": "",
+     "pairs": [
+      {
+       "panel": "12-cards-image-panel.webp",
+       "result": "12-cards-result.webp",
+       "panel_ok": true,
+       "result_ok": true
+      }
+     ]
+    },
+    {
+     "id": "cards.title",
+     "label": "الاسم",
+     "type": "نص بسطر واحد",
+     "default": "فارغ",
+     "what": "اسم التصنيف على البطاقة.",
+     "when": "",
+     "empty": "فارغاً بطاقة بلا اسم.",
+     "editor_hint": "",
+     "from_guide": "",
+     "shows_when": "",
+     "pairs": [
+      {
+       "panel": "12-cards-title-panel.webp",
+       "result": "12-cards-result.webp",
+       "panel_ok": true,
+       "result_ok": true
+      }
+     ]
+    },
+    {
+     "id": "cards.subtitle",
+     "label": "سطر قصير",
+     "type": "نص بسطر واحد",
+     "default": "فارغ",
+     "what": "سطر قصير تحت الاسم.",
+     "when": "",
+     "empty": "فارغاً لا يظهر.",
+     "editor_hint": "",
+     "from_guide": "",
+     "shows_when": "",
+     "pairs": [
+      {
+       "panel": "12-cards-subtitle-panel.webp",
+       "result": "12-cards-result.webp",
+       "panel_ok": true,
+       "result_ok": true
+      }
+     ]
+    },
+    {
+     "id": "cards.desc",
+     "label": "الوصف",
+     "type": "نص بعدة أسطر",
+     "default": "فارغ",
+     "what": "وصف أطول، يظهر في الأشكال ٢ و٣ و٦.",
+     "when": "",
+     "empty": "فارغاً لا يظهر.",
+     "editor_hint": "للشكل ٢ و٣ و٦.",
+     "from_guide": "",
+     "shows_when": "",
+     "pairs": [
+      {
+       "panel": "12-cards-desc-panel.webp",
+       "result": "12-cards-result.webp",
+       "panel_ok": true,
+       "result_ok": true
+      }
+     ]
+    },
+    {
+     "id": "cards.badge",
+     "label": "الشارة",
+     "type": "نص بسطر واحد",
+     "default": "فارغ",
+     "what": "شارة على البطاقة الكبيرة في الشكل ٢.",
+     "when": "",
+     "empty": "فارغة لا تظهر.",
+     "editor_hint": "للبطاقة الكبيرة (الشكل ٢).",
+     "from_guide": "",
+     "shows_when": "",
+     "pairs": [
+      {
+       "panel": "12-cards-badge-panel.webp",
+       "result": "12-cards-result.webp",
+       "panel_ok": true,
+       "result_ok": true
+      }
+     ]
+    },
+    {
+     "id": "cards.link",
+     "label": "الرابط",
+     "type": "رابط (منتج أو تصنيف أو صفحة أو رابط آخر)",
+     "default": "بلا رابط",
+     "what": "إلى أين تذهب البطاقة، عادةً تصنيف.",
+     "when": "",
+     "empty": "بدونه تظهر البطاقة بلا نقر.",
+     "editor_hint": "تصنيف عادةً.",
+     "from_guide": "",
+     "shows_when": "",
+     "pairs": [
+      {
+       "panel": "12-cards-link-panel.webp",
+       "result": "12-cards-result.webp",
+       "panel_ok": true,
+       "result_ok": true
+      }
+     ]
+    },
+    {
+     "id": "cards.color",
+     "label": "لون الغلاف",
+     "type": "لون",
+     "default": "فارغ",
+     "what": "لون الغلاف في الشكل ٤.",
+     "when": "",
+     "empty": "فارغاً ألوان الثيم بالترتيب.",
+     "editor_hint": "للشكل ٤؛ فارغاً بالترتيب.",
+     "from_guide": "",
+     "shows_when": "",
+     "pairs": [
+      {
+       "panel": "12-cards-color-panel.webp",
+       "result": "12-cards-result.webp",
+       "panel_ok": true,
+       "result_ok": true
+      }
+     ]
+    },
+    {
+     "id": "cards.hidden",
+     "label": "مخفية عن الزوار",
+     "type": "مفتاح تشغيل وإطفاء",
+     "default": "مطفأ",
+     "what": "يخفي البطاقة عن الزوار ويبقيها في المحرّر.",
+     "when": "",
+     "empty": "مطفأ: البطاقة ظاهرة.",
+     "editor_hint": "",
+     "from_guide": "",
+     "shows_when": "",
+     "pairs": [
+      {
+       "panel": "12-cards-hidden-panel.webp",
+       "result": "12-cards-result.webp",
+       "panel_ok": true,
+       "result_ok": true
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "slug": "coach-categories",
+ "title_en": "Shop · Categories with pictures (6 layouts)",
+ "intro": "تصنيفاتك بالصور في ستة أشكال، ببطاقات مشتركة بينها: تكتبها مرة وتبدّل الشكل.",
+ "when": "لتوجيه الزائر إلى تصنيفاتك بصور جذابة.",
+ "desktop": "00-desktop.webp",
+ "mobile": "00-mobile.webp",
+ "shared": [
+  "محاذاة العنوان والوصف",
+  "حجم العنوان",
+  "خلفية القسم",
+  "لون الخلفية المخصص",
+  "صورة خلفية القسم",
+  "قوة طبقة اللون فوق الصورة",
+  "تمديد الخلفية بعرض الشاشة",
+  "المسافة العلوية (بكسل)",
+  "المسافة السفلية (بكسل)"
+ ],
+ "guide": "تصنيفاتك بصورها في قسم واحد بستة أشكال تختار منها: شبكة متساوية بتدرّج داكن، بطاقة كبيرة وأربع صغيرة، أكورديون أفقي يتمدّد\nعند المرور، غلاف لوني بألوان الهوية، أقواس بشارة الاسم، ولوح زجاجي ببطاقات عريضة. بلا خلفية للقسم إلا الأكورديون.\n\n- **البطاقات:** «البطاقات» حتى ٨، لكل بطاقة الصورة والعنوان وسطر تحته والوصف والشارة والرابط واللون، وزر «إخفاء البطاقة» يخفيها عن\n  الزوار ويبقيها في المحرر باهتة بملاحظة — كحلقات البودكاست. البطاقة بلا رابط تظهر في المحرر بوسم «بلا رابط».\n  في الغلاف اللوني تُكتب الكلمات على لون تختاره بلون نص الثيم الداكن أو بالأبيض، أيهما أوضح عليه.\n- **الأعمدة:** لكل شكل عدده — الشبكة ٢–٦ (الافتراضي ٤)، الغلاف اللوني ٢–٤ (٣)، الأقواس ٣–٦ (٦)، اللوح الزجاجي ١–٣ (٣)؛ البطاقة\n  الكبيرة ثابتة، والأكورديون بعدد البطاقات. تقل الأعمدة وحدها على الشاشات الضيقة.\n- **عند المرور:** تكبير هادئ للصورة (٥٪) وتغيّر لون، بلا رفع.\n\n---\n\n**دورة** — أقسام تشرح دوراتك وتبيعها."
+}

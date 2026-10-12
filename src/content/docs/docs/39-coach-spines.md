@@ -57,8 +57,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «العنوان الصغير (فوق العنوان)»" src="/coach-docs/assets/sections/39-coach-spines/01-eyebrow-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «العنوان الصغير (فوق العنوان)»" src="/coach-docs/assets/sections/39-coach-spines/01-eyebrow-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — العنوان الصغير (فوق العنوان)" src="/coach-docs/assets/sections/39-coach-spines/01-eyebrow-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — العنوان الصغير (فوق العنوان)" src="/coach-docs/assets/sections/39-coach-spines/01-eyebrow-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -85,8 +85,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «العنوان»" src="/coach-docs/assets/sections/39-coach-spines/02-title-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «العنوان»" src="/coach-docs/assets/sections/39-coach-spines/02-title-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — العنوان" src="/coach-docs/assets/sections/39-coach-spines/02-title-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — العنوان" src="/coach-docs/assets/sections/39-coach-spines/02-title-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -113,8 +113,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «الوصف»" src="/coach-docs/assets/sections/39-coach-spines/03-description-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الوصف»" src="/coach-docs/assets/sections/39-coach-spines/03-description-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الوصف" src="/coach-docs/assets/sections/39-coach-spines/03-description-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — الوصف" src="/coach-docs/assets/sections/39-coach-spines/03-description-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -141,8 +141,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «اسم الكاتب»" src="/coach-docs/assets/sections/39-coach-spines/04-author-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «اسم الكاتب»" src="/coach-docs/assets/sections/39-coach-spines/04-author-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — اسم الكاتب" src="/coach-docs/assets/sections/39-coach-spines/04-author-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — اسم الكاتب" src="/coach-docs/assets/sections/39-coach-spines/04-author-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -169,8 +169,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «الكتب»" src="/coach-docs/assets/sections/39-coach-spines/05-products-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الكتب»" src="/coach-docs/assets/sections/39-coach-spines/00-desktop.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الكتب" src="/coach-docs/assets/sections/39-coach-spines/05-products-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — الكتب" src="/coach-docs/assets/sections/39-coach-spines/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة: القسم بالقيمة الافتراضية</td>
 </tr>
 </tbody>
@@ -197,8 +197,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «الكعوب (بنفس الترتيب)»" src="/coach-docs/assets/sections/39-coach-spines/06-spines-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الكعوب (بنفس الترتيب)»" src="/coach-docs/assets/sections/39-coach-spines/00-desktop.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الكعوب (بنفس الترتيب)" src="/coach-docs/assets/sections/39-coach-spines/06-spines-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — الكعوب (بنفس الترتيب)" src="/coach-docs/assets/sections/39-coach-spines/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td></td>
 </tr>
 </tbody>
@@ -219,8 +219,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «الكعوب (بنفس الترتيب)»" src="/coach-docs/assets/sections/39-coach-spines/06-spines-label-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الكعوب (بنفس الترتيب)»" src="/coach-docs/assets/sections/39-coach-spines/00-desktop.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الكعوب (بنفس الترتيب)" src="/coach-docs/assets/sections/39-coach-spines/06-spines-label-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — الكعوب (بنفس الترتيب)" src="/coach-docs/assets/sections/39-coach-spines/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td></td>
 </tr>
 </tbody>
@@ -242,8 +242,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «الكعوب (بنفس الترتيب)»" src="/coach-docs/assets/sections/39-coach-spines/06-spines-color-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الكعوب (بنفس الترتيب)»" src="/coach-docs/assets/sections/39-coach-spines/00-desktop.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الكعوب (بنفس الترتيب)" src="/coach-docs/assets/sections/39-coach-spines/06-spines-color-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — الكعوب (بنفس الترتيب)" src="/coach-docs/assets/sections/39-coach-spines/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td></td>
 </tr>
 </tbody>
@@ -270,8 +270,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «نص زر الإضافة للسلة»" src="/coach-docs/assets/sections/39-coach-spines/07-button_label-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — نص زر الإضافة للسلة" src="/coach-docs/assets/sections/39-coach-spines/07-button_label-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — نص زر الإضافة للسلة" src="/coach-docs/assets/sections/39-coach-spines/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>

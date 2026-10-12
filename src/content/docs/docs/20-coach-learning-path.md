@@ -57,8 +57,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «العنوان الصغير (فوق العنوان)»" src="/coach-docs/assets/sections/20-coach-learning-path/01-eyebrow-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «العنوان الصغير (فوق العنوان)»" src="/coach-docs/assets/sections/20-coach-learning-path/01-eyebrow-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — العنوان الصغير (فوق العنوان)" src="/coach-docs/assets/sections/20-coach-learning-path/01-eyebrow-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — العنوان الصغير (فوق العنوان)" src="/coach-docs/assets/sections/20-coach-learning-path/01-eyebrow-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -85,8 +85,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «العنوان»" src="/coach-docs/assets/sections/20-coach-learning-path/02-title-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «العنوان»" src="/coach-docs/assets/sections/20-coach-learning-path/02-title-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — العنوان" src="/coach-docs/assets/sections/20-coach-learning-path/02-title-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — العنوان" src="/coach-docs/assets/sections/20-coach-learning-path/02-title-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -113,8 +113,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «الوصف»" src="/coach-docs/assets/sections/20-coach-learning-path/03-description-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الوصف»" src="/coach-docs/assets/sections/20-coach-learning-path/03-description-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الوصف" src="/coach-docs/assets/sections/20-coach-learning-path/03-description-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — الوصف" src="/coach-docs/assets/sections/20-coach-learning-path/03-description-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -140,8 +140,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «زر «أضف للسلة» بجانب السعر»" src="/coach-docs/assets/sections/20-coach-learning-path/04-show_add-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «زر «أضف للسلة» بجانب السعر»" src="/coach-docs/assets/sections/20-coach-learning-path/04-show_add-off-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — زر «أضف للسلة» بجانب السعر" src="/coach-docs/assets/sections/20-coach-learning-path/04-show_add-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — زر «أضف للسلة» بجانب السعر" src="/coach-docs/assets/sections/20-coach-learning-path/04-show_add-off-result.webp" loading="lazy" decoding="async"/></td>
 <td>النتيجة بعد إطفائه (الافتراضي مفعّل)</td>
 </tr>
 </tbody>
@@ -169,8 +169,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «نص زر الإضافة للسلة»" src="/coach-docs/assets/sections/20-coach-learning-path/05-add_label-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «نص زر الإضافة للسلة»" src="/coach-docs/assets/sections/20-coach-learning-path/00-desktop.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — نص زر الإضافة للسلة" src="/coach-docs/assets/sections/20-coach-learning-path/05-add_label-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — نص زر الإضافة للسلة" src="/coach-docs/assets/sections/20-coach-learning-path/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة: القسم بالقيمة الافتراضية</td>
 </tr>
 </tbody>
@@ -197,8 +197,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «نص رابط التفاصيل»" src="/coach-docs/assets/sections/20-coach-learning-path/06-button_label-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «نص رابط التفاصيل»" src="/coach-docs/assets/sections/20-coach-learning-path/06-button_label-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — نص رابط التفاصيل" src="/coach-docs/assets/sections/20-coach-learning-path/06-button_label-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — نص رابط التفاصيل" src="/coach-docs/assets/sections/20-coach-learning-path/06-button_label-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -223,13 +223,13 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «عند الضغط على منتج الخطوة»" src="/coach-docs/assets/sections/20-coach-learning-path/07-open_mode-quick-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «عند الضغط على منتج الخطوة»" src="/coach-docs/assets/sections/20-coach-learning-path/07-open_mode-quick-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — عند الضغط على منتج الخطوة" src="/coach-docs/assets/sections/20-coach-learning-path/07-open_mode-quick-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — عند الضغط على منتج الخطوة" src="/coach-docs/assets/sections/20-coach-learning-path/07-open_mode-quick-result.webp" loading="lazy" decoding="async"/></td>
 <td>«تُفتح في نافذة مع زر الإضافة»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «عند الضغط على منتج الخطوة»" src="/coach-docs/assets/sections/20-coach-learning-path/07-open_mode-page-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «عند الضغط على منتج الخطوة»" src="/coach-docs/assets/sections/20-coach-learning-path/07-open_mode-page-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — عند الضغط على منتج الخطوة" src="/coach-docs/assets/sections/20-coach-learning-path/07-open_mode-page-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — عند الضغط على منتج الخطوة" src="/coach-docs/assets/sections/20-coach-learning-path/07-open_mode-page-result.webp" loading="lazy" decoding="async"/></td>
 <td>«تُفتح صفحة المنتج»</td>
 </tr>
 </tbody>
@@ -256,8 +256,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «حركة مع التمرير»" src="/coach-docs/assets/sections/20-coach-learning-path/08-scroll_motion-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — حركة مع التمرير" src="/coach-docs/assets/sections/20-coach-learning-path/08-scroll_motion-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — حركة مع التمرير" src="/coach-docs/assets/sections/20-coach-learning-path/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة بعد تفعيله (الافتراضي مطفأ)</td>
 </tr>
 </tbody>
@@ -283,8 +283,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «العنوان»" src="/coach-docs/assets/sections/20-coach-learning-path/09-step1_title-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «العنوان»" src="/coach-docs/assets/sections/20-coach-learning-path/09-step1_title-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — العنوان" src="/coach-docs/assets/sections/20-coach-learning-path/09-step1_title-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — العنوان" src="/coach-docs/assets/sections/20-coach-learning-path/09-step1_title-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -310,8 +310,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «سطر تحته»" src="/coach-docs/assets/sections/20-coach-learning-path/10-step1_description-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «سطر تحته»" src="/coach-docs/assets/sections/20-coach-learning-path/10-step1_description-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — سطر تحته" src="/coach-docs/assets/sections/20-coach-learning-path/10-step1_description-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — سطر تحته" src="/coach-docs/assets/sections/20-coach-learning-path/10-step1_description-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -338,8 +338,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «المنتج»" src="/coach-docs/assets/sections/20-coach-learning-path/11-step1_product-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «المنتج»" src="/coach-docs/assets/sections/20-coach-learning-path/00-desktop.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — المنتج" src="/coach-docs/assets/sections/20-coach-learning-path/11-step1_product-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — المنتج" src="/coach-docs/assets/sections/20-coach-learning-path/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة: القسم بالقيمة الافتراضية</td>
 </tr>
 </tbody>
@@ -365,8 +365,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «نوع المنتج في الشارة»" src="/coach-docs/assets/sections/20-coach-learning-path/12-step1_label-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «نوع المنتج في الشارة»" src="/coach-docs/assets/sections/20-coach-learning-path/12-step1_label-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — نوع المنتج في الشارة" src="/coach-docs/assets/sections/20-coach-learning-path/12-step1_label-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — نوع المنتج في الشارة" src="/coach-docs/assets/sections/20-coach-learning-path/12-step1_label-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -392,8 +392,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «العنوان»" src="/coach-docs/assets/sections/20-coach-learning-path/13-step2_title-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «العنوان»" src="/coach-docs/assets/sections/20-coach-learning-path/13-step2_title-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — العنوان" src="/coach-docs/assets/sections/20-coach-learning-path/13-step2_title-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — العنوان" src="/coach-docs/assets/sections/20-coach-learning-path/13-step2_title-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -419,8 +419,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «سطر تحته»" src="/coach-docs/assets/sections/20-coach-learning-path/14-step2_description-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «سطر تحته»" src="/coach-docs/assets/sections/20-coach-learning-path/14-step2_description-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — سطر تحته" src="/coach-docs/assets/sections/20-coach-learning-path/14-step2_description-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — سطر تحته" src="/coach-docs/assets/sections/20-coach-learning-path/14-step2_description-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -447,8 +447,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «المنتج»" src="/coach-docs/assets/sections/20-coach-learning-path/15-step2_product-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «المنتج»" src="/coach-docs/assets/sections/20-coach-learning-path/00-desktop.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — المنتج" src="/coach-docs/assets/sections/20-coach-learning-path/15-step2_product-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — المنتج" src="/coach-docs/assets/sections/20-coach-learning-path/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة: القسم بالقيمة الافتراضية</td>
 </tr>
 </tbody>
@@ -474,8 +474,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «نوع المنتج في الشارة»" src="/coach-docs/assets/sections/20-coach-learning-path/16-step2_label-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «نوع المنتج في الشارة»" src="/coach-docs/assets/sections/20-coach-learning-path/16-step2_label-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — نوع المنتج في الشارة" src="/coach-docs/assets/sections/20-coach-learning-path/16-step2_label-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — نوع المنتج في الشارة" src="/coach-docs/assets/sections/20-coach-learning-path/16-step2_label-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -501,8 +501,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «العنوان»" src="/coach-docs/assets/sections/20-coach-learning-path/17-step3_title-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «العنوان»" src="/coach-docs/assets/sections/20-coach-learning-path/17-step3_title-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — العنوان" src="/coach-docs/assets/sections/20-coach-learning-path/17-step3_title-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — العنوان" src="/coach-docs/assets/sections/20-coach-learning-path/17-step3_title-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -528,8 +528,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «سطر تحته»" src="/coach-docs/assets/sections/20-coach-learning-path/18-step3_description-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «سطر تحته»" src="/coach-docs/assets/sections/20-coach-learning-path/18-step3_description-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — سطر تحته" src="/coach-docs/assets/sections/20-coach-learning-path/18-step3_description-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — سطر تحته" src="/coach-docs/assets/sections/20-coach-learning-path/18-step3_description-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -556,8 +556,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «المنتج»" src="/coach-docs/assets/sections/20-coach-learning-path/19-step3_product-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «المنتج»" src="/coach-docs/assets/sections/20-coach-learning-path/00-desktop.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — المنتج" src="/coach-docs/assets/sections/20-coach-learning-path/19-step3_product-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — المنتج" src="/coach-docs/assets/sections/20-coach-learning-path/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة: القسم بالقيمة الافتراضية</td>
 </tr>
 </tbody>
@@ -583,8 +583,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «نوع المنتج في الشارة»" src="/coach-docs/assets/sections/20-coach-learning-path/20-step3_label-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «نوع المنتج في الشارة»" src="/coach-docs/assets/sections/20-coach-learning-path/20-step3_label-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — نوع المنتج في الشارة" src="/coach-docs/assets/sections/20-coach-learning-path/20-step3_label-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — نوع المنتج في الشارة" src="/coach-docs/assets/sections/20-coach-learning-path/20-step3_label-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -610,8 +610,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «العنوان»" src="/coach-docs/assets/sections/20-coach-learning-path/21-step4_title-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «العنوان»" src="/coach-docs/assets/sections/20-coach-learning-path/21-step4_title-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — العنوان" src="/coach-docs/assets/sections/20-coach-learning-path/21-step4_title-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — العنوان" src="/coach-docs/assets/sections/20-coach-learning-path/21-step4_title-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -637,8 +637,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «سطر تحته»" src="/coach-docs/assets/sections/20-coach-learning-path/22-step4_description-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «سطر تحته»" src="/coach-docs/assets/sections/20-coach-learning-path/22-step4_description-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — سطر تحته" src="/coach-docs/assets/sections/20-coach-learning-path/22-step4_description-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — سطر تحته" src="/coach-docs/assets/sections/20-coach-learning-path/22-step4_description-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -665,8 +665,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «المنتج»" src="/coach-docs/assets/sections/20-coach-learning-path/23-step4_product-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «المنتج»" src="/coach-docs/assets/sections/20-coach-learning-path/00-desktop.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — المنتج" src="/coach-docs/assets/sections/20-coach-learning-path/23-step4_product-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — المنتج" src="/coach-docs/assets/sections/20-coach-learning-path/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة: القسم بالقيمة الافتراضية</td>
 </tr>
 </tbody>
@@ -692,8 +692,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «نوع المنتج في الشارة»" src="/coach-docs/assets/sections/20-coach-learning-path/24-step4_label-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «نوع المنتج في الشارة»" src="/coach-docs/assets/sections/20-coach-learning-path/24-step4_label-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — نوع المنتج في الشارة" src="/coach-docs/assets/sections/20-coach-learning-path/24-step4_label-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — نوع المنتج في الشارة" src="/coach-docs/assets/sections/20-coach-learning-path/24-step4_label-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -719,8 +719,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «العنوان»" src="/coach-docs/assets/sections/20-coach-learning-path/25-step5_title-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «العنوان»" src="/coach-docs/assets/sections/20-coach-learning-path/25-step5_title-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — العنوان" src="/coach-docs/assets/sections/20-coach-learning-path/25-step5_title-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — العنوان" src="/coach-docs/assets/sections/20-coach-learning-path/25-step5_title-result.webp" loading="lazy" decoding="async"/></td>
 <td>النتيجة بنص تجريبي «مثال لنصّك هنا»</td>
 </tr>
 </tbody>
@@ -746,8 +746,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «سطر تحته»" src="/coach-docs/assets/sections/20-coach-learning-path/26-step5_description-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — سطر تحته" src="/coach-docs/assets/sections/20-coach-learning-path/26-step5_description-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — سطر تحته" src="/coach-docs/assets/sections/20-coach-learning-path/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة بنص تجريبي «مثال لنصّك هنا»</td>
 </tr>
 </tbody>
@@ -774,8 +774,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «المنتج»" src="/coach-docs/assets/sections/20-coach-learning-path/27-step5_product-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «المنتج»" src="/coach-docs/assets/sections/20-coach-learning-path/00-desktop.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — المنتج" src="/coach-docs/assets/sections/20-coach-learning-path/27-step5_product-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — المنتج" src="/coach-docs/assets/sections/20-coach-learning-path/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة: القسم بالقيمة الافتراضية</td>
 </tr>
 </tbody>
@@ -801,8 +801,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «نوع المنتج في الشارة»" src="/coach-docs/assets/sections/20-coach-learning-path/28-step5_label-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — نوع المنتج في الشارة" src="/coach-docs/assets/sections/20-coach-learning-path/28-step5_label-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — نوع المنتج في الشارة" src="/coach-docs/assets/sections/20-coach-learning-path/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة بنص تجريبي «مثال لنصّك هنا»</td>
 </tr>
 </tbody>

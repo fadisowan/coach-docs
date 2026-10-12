@@ -57,13 +57,13 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «مكان الكتاب وزر الإضافة»" src="/coach-docs/assets/sections/27-coach-book-toc/01-buy_position-below-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — مكان الكتاب وزر الإضافة" src="/coach-docs/assets/sections/27-coach-book-toc/01-buy_position-below-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — مكان الكتاب وزر الإضافة" src="/coach-docs/assets/sections/27-coach-book-toc/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>«أسفل النص»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «مكان الكتاب وزر الإضافة»" src="/coach-docs/assets/sections/27-coach-book-toc/01-buy_position-above-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «مكان الكتاب وزر الإضافة»" src="/coach-docs/assets/sections/27-coach-book-toc/01-buy_position-above-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — مكان الكتاب وزر الإضافة" src="/coach-docs/assets/sections/27-coach-book-toc/01-buy_position-above-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — مكان الكتاب وزر الإضافة" src="/coach-docs/assets/sections/27-coach-book-toc/01-buy_position-above-result.webp" loading="lazy" decoding="async"/></td>
 <td>«أعلى النص»</td>
 </tr>
 </tbody>
@@ -90,8 +90,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «العنوان الصغير (فوق العنوان)»" src="/coach-docs/assets/sections/27-coach-book-toc/02-eyebrow-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «العنوان الصغير (فوق العنوان)»" src="/coach-docs/assets/sections/27-coach-book-toc/02-eyebrow-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — العنوان الصغير (فوق العنوان)" src="/coach-docs/assets/sections/27-coach-book-toc/02-eyebrow-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — العنوان الصغير (فوق العنوان)" src="/coach-docs/assets/sections/27-coach-book-toc/02-eyebrow-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -118,8 +118,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «العنوان»" src="/coach-docs/assets/sections/27-coach-book-toc/03-title-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «العنوان»" src="/coach-docs/assets/sections/27-coach-book-toc/03-title-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — العنوان" src="/coach-docs/assets/sections/27-coach-book-toc/03-title-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — العنوان" src="/coach-docs/assets/sections/27-coach-book-toc/03-title-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -146,8 +146,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «الوصف»" src="/coach-docs/assets/sections/27-coach-book-toc/04-description-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الوصف»" src="/coach-docs/assets/sections/27-coach-book-toc/04-description-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الوصف" src="/coach-docs/assets/sections/27-coach-book-toc/04-description-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — الوصف" src="/coach-docs/assets/sections/27-coach-book-toc/04-description-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -174,8 +174,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «قراءة مجانية»" src="/coach-docs/assets/sections/27-coach-book-toc/05-free_read-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «قراءة مجانية»" src="/coach-docs/assets/sections/27-coach-book-toc/05-free_read-on-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — قراءة مجانية" src="/coach-docs/assets/sections/27-coach-book-toc/05-free_read-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — قراءة مجانية" src="/coach-docs/assets/sections/27-coach-book-toc/05-free_read-on-result.webp" loading="lazy" decoding="async"/></td>
 <td>النتيجة بعد تفعيله (الافتراضي مطفأ)</td>
 </tr>
 </tbody>
@@ -201,8 +201,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «الفصول»" src="/coach-docs/assets/sections/27-coach-book-toc/06-chapters-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الفصول»" src="/coach-docs/assets/sections/27-coach-book-toc/06-chapters-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الفصول" src="/coach-docs/assets/sections/27-coach-book-toc/06-chapters-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — الفصول" src="/coach-docs/assets/sections/27-coach-book-toc/06-chapters-result.webp" loading="lazy" decoding="async"/></td>
 <td>أول عنصر محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -223,8 +223,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «الفصول»" src="/coach-docs/assets/sections/27-coach-book-toc/06-chapters-number-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الفصول»" src="/coach-docs/assets/sections/27-coach-book-toc/06-chapters-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الفصول" src="/coach-docs/assets/sections/27-coach-book-toc/06-chapters-number-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — الفصول" src="/coach-docs/assets/sections/27-coach-book-toc/06-chapters-result.webp" loading="lazy" decoding="async"/></td>
 <td></td>
 </tr>
 </tbody>
@@ -245,8 +245,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «الفصول»" src="/coach-docs/assets/sections/27-coach-book-toc/06-chapters-title-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الفصول»" src="/coach-docs/assets/sections/27-coach-book-toc/06-chapters-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الفصول" src="/coach-docs/assets/sections/27-coach-book-toc/06-chapters-title-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — الفصول" src="/coach-docs/assets/sections/27-coach-book-toc/06-chapters-result.webp" loading="lazy" decoding="async"/></td>
 <td></td>
 </tr>
 </tbody>
@@ -267,8 +267,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «الفصول»" src="/coach-docs/assets/sections/27-coach-book-toc/06-chapters-page-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الفصول»" src="/coach-docs/assets/sections/27-coach-book-toc/06-chapters-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الفصول" src="/coach-docs/assets/sections/27-coach-book-toc/06-chapters-page-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — الفصول" src="/coach-docs/assets/sections/27-coach-book-toc/06-chapters-result.webp" loading="lazy" decoding="async"/></td>
 <td></td>
 </tr>
 </tbody>
@@ -289,8 +289,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «الفصول»" src="/coach-docs/assets/sections/27-coach-book-toc/06-chapters-free-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الفصول»" src="/coach-docs/assets/sections/27-coach-book-toc/06-chapters-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الفصول" src="/coach-docs/assets/sections/27-coach-book-toc/06-chapters-free-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — الفصول" src="/coach-docs/assets/sections/27-coach-book-toc/06-chapters-result.webp" loading="lazy" decoding="async"/></td>
 <td></td>
 </tr>
 </tbody>
@@ -312,8 +312,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «الفصول»" src="/coach-docs/assets/sections/27-coach-book-toc/06-chapters-excerpt-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الفصول»" src="/coach-docs/assets/sections/27-coach-book-toc/06-chapters-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الفصول" src="/coach-docs/assets/sections/27-coach-book-toc/06-chapters-excerpt-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — الفصول" src="/coach-docs/assets/sections/27-coach-book-toc/06-chapters-result.webp" loading="lazy" decoding="async"/></td>
 <td></td>
 </tr>
 </tbody>
@@ -335,8 +335,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «الفصول»" src="/coach-docs/assets/sections/27-coach-book-toc/06-chapters-excerpt_image-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الفصول»" src="/coach-docs/assets/sections/27-coach-book-toc/06-chapters-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الفصول" src="/coach-docs/assets/sections/27-coach-book-toc/06-chapters-excerpt_image-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — الفصول" src="/coach-docs/assets/sections/27-coach-book-toc/06-chapters-result.webp" loading="lazy" decoding="async"/></td>
 <td></td>
 </tr>
 </tbody>
@@ -363,8 +363,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «منتج الكتاب»" src="/coach-docs/assets/sections/27-coach-book-toc/07-product-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «منتج الكتاب»" src="/coach-docs/assets/sections/27-coach-book-toc/00-desktop.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — منتج الكتاب" src="/coach-docs/assets/sections/27-coach-book-toc/07-product-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — منتج الكتاب" src="/coach-docs/assets/sections/27-coach-book-toc/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة: القسم بالقيمة الافتراضية</td>
 </tr>
 </tbody>
@@ -391,8 +391,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «صورة الغلاف (اختيارية)»" src="/coach-docs/assets/sections/27-coach-book-toc/08-cover_image-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «صورة الغلاف (اختيارية)»" src="/coach-docs/assets/sections/27-coach-book-toc/08-cover_image-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — صورة الغلاف (اختيارية)" src="/coach-docs/assets/sections/27-coach-book-toc/08-cover_image-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — صورة الغلاف (اختيارية)" src="/coach-docs/assets/sections/27-coach-book-toc/08-cover_image-result.webp" loading="lazy" decoding="async"/></td>
 <td>النتيجة بصورة تجريبية</td>
 </tr>
 </tbody>
@@ -419,8 +419,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «نص زر الإضافة للسلة»" src="/coach-docs/assets/sections/27-coach-book-toc/09-buy_label-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — نص زر الإضافة للسلة" src="/coach-docs/assets/sections/27-coach-book-toc/09-buy_label-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — نص زر الإضافة للسلة" src="/coach-docs/assets/sections/27-coach-book-toc/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -447,8 +447,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «نص زر العيّنة»" src="/coach-docs/assets/sections/27-coach-book-toc/10-sample_label-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «نص زر العيّنة»" src="/coach-docs/assets/sections/27-coach-book-toc/10-sample_label-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — نص زر العيّنة" src="/coach-docs/assets/sections/27-coach-book-toc/10-sample_label-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — نص زر العيّنة" src="/coach-docs/assets/sections/27-coach-book-toc/10-sample_label-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -475,8 +475,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «رابط العيّنة»" src="/coach-docs/assets/sections/27-coach-book-toc/11-sample_link-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «رابط العيّنة»" src="/coach-docs/assets/sections/27-coach-book-toc/00-desktop.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — رابط العيّنة" src="/coach-docs/assets/sections/27-coach-book-toc/11-sample_link-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — رابط العيّنة" src="/coach-docs/assets/sections/27-coach-book-toc/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة: القسم بالقيمة الافتراضية</td>
 </tr>
 </tbody>
@@ -503,8 +503,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «تثبيت الجزء الجانبي أثناء التمرير»" src="/coach-docs/assets/sections/27-coach-book-toc/12-sticky_side-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «تثبيت الجزء الجانبي أثناء التمرير»" src="/coach-docs/assets/sections/27-coach-book-toc/12-sticky_side-on-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — تثبيت الجزء الجانبي أثناء التمرير" src="/coach-docs/assets/sections/27-coach-book-toc/12-sticky_side-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — تثبيت الجزء الجانبي أثناء التمرير" src="/coach-docs/assets/sections/27-coach-book-toc/12-sticky_side-on-result.webp" loading="lazy" decoding="async"/></td>
 <td>النتيجة بعد تفعيله (الافتراضي مطفأ)</td>
 </tr>
 </tbody>

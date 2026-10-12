@@ -56,13 +56,13 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «عدد البطاقات»" src="/coach-docs/assets/sections/37-coach-shelf-3d/01-layout-3-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «عدد البطاقات»" src="/coach-docs/assets/sections/37-coach-shelf-3d/01-layout-3-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — عدد البطاقات" src="/coach-docs/assets/sections/37-coach-shelf-3d/01-layout-3-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — عدد البطاقات" src="/coach-docs/assets/sections/37-coach-shelf-3d/01-layout-3-result.webp" loading="lazy" decoding="async"/></td>
 <td>«ثلاث»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «عدد البطاقات»" src="/coach-docs/assets/sections/37-coach-shelf-3d/01-layout-5-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «عدد البطاقات»" src="/coach-docs/assets/sections/37-coach-shelf-3d/01-layout-5-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — عدد البطاقات" src="/coach-docs/assets/sections/37-coach-shelf-3d/01-layout-5-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — عدد البطاقات" src="/coach-docs/assets/sections/37-coach-shelf-3d/01-layout-5-result.webp" loading="lazy" decoding="async"/></td>
 <td>«خمس»</td>
 </tr>
 </tbody>
@@ -89,8 +89,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «العنوان الصغير (فوق العنوان)»" src="/coach-docs/assets/sections/37-coach-shelf-3d/02-eyebrow-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «العنوان الصغير (فوق العنوان)»" src="/coach-docs/assets/sections/37-coach-shelf-3d/02-eyebrow-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — العنوان الصغير (فوق العنوان)" src="/coach-docs/assets/sections/37-coach-shelf-3d/02-eyebrow-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — العنوان الصغير (فوق العنوان)" src="/coach-docs/assets/sections/37-coach-shelf-3d/02-eyebrow-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -117,8 +117,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «العنوان»" src="/coach-docs/assets/sections/37-coach-shelf-3d/03-title-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «العنوان»" src="/coach-docs/assets/sections/37-coach-shelf-3d/03-title-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — العنوان" src="/coach-docs/assets/sections/37-coach-shelf-3d/03-title-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — العنوان" src="/coach-docs/assets/sections/37-coach-shelf-3d/03-title-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -145,8 +145,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «الوصف»" src="/coach-docs/assets/sections/37-coach-shelf-3d/04-description-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الوصف»" src="/coach-docs/assets/sections/37-coach-shelf-3d/04-description-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الوصف" src="/coach-docs/assets/sections/37-coach-shelf-3d/04-description-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — الوصف" src="/coach-docs/assets/sections/37-coach-shelf-3d/04-description-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -173,8 +173,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «المنتجات»" src="/coach-docs/assets/sections/37-coach-shelf-3d/05-products-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «المنتجات»" src="/coach-docs/assets/sections/37-coach-shelf-3d/00-desktop.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — المنتجات" src="/coach-docs/assets/sections/37-coach-shelf-3d/05-products-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — المنتجات" src="/coach-docs/assets/sections/37-coach-shelf-3d/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة: القسم بالقيمة الافتراضية</td>
 </tr>
 </tbody>
@@ -201,8 +201,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «نص الزر الأول»" src="/coach-docs/assets/sections/37-coach-shelf-3d/06-primary_label-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «نص الزر الأول»" src="/coach-docs/assets/sections/37-coach-shelf-3d/06-primary_label-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — نص الزر الأول" src="/coach-docs/assets/sections/37-coach-shelf-3d/06-primary_label-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — نص الزر الأول" src="/coach-docs/assets/sections/37-coach-shelf-3d/06-primary_label-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -229,8 +229,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «رابط الزر الأول»" src="/coach-docs/assets/sections/37-coach-shelf-3d/07-primary_link-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «رابط الزر الأول»" src="/coach-docs/assets/sections/37-coach-shelf-3d/00-desktop.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — رابط الزر الأول" src="/coach-docs/assets/sections/37-coach-shelf-3d/07-primary_link-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — رابط الزر الأول" src="/coach-docs/assets/sections/37-coach-shelf-3d/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة: القسم بالقيمة الافتراضية</td>
 </tr>
 </tbody>
@@ -256,8 +256,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «نص الزر الثاني (يظهر مع رابطه)»" src="/coach-docs/assets/sections/37-coach-shelf-3d/08-secondary_label-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — نص الزر الثاني (يظهر مع رابطه)" src="/coach-docs/assets/sections/37-coach-shelf-3d/08-secondary_label-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — نص الزر الثاني (يظهر مع رابطه)" src="/coach-docs/assets/sections/37-coach-shelf-3d/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -284,8 +284,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «رابط الزر الثاني»" src="/coach-docs/assets/sections/37-coach-shelf-3d/09-secondary_link-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «رابط الزر الثاني»" src="/coach-docs/assets/sections/37-coach-shelf-3d/00-desktop.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — رابط الزر الثاني" src="/coach-docs/assets/sections/37-coach-shelf-3d/09-secondary_link-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — رابط الزر الثاني" src="/coach-docs/assets/sections/37-coach-shelf-3d/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة: القسم بالقيمة الافتراضية</td>
 </tr>
 </tbody>
@@ -310,23 +310,23 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «عند مرور الفأرة»" src="/coach-docs/assets/sections/37-coach-shelf-3d/10-hover-glow-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — عند مرور الفأرة" src="/coach-docs/assets/sections/37-coach-shelf-3d/10-hover-glow-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — عند مرور الفأرة" src="/coach-docs/assets/sections/37-coach-shelf-3d/01-layout-3-result.webp" loading="lazy" decoding="async"/></td>
 <td>«لمعة»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «عند مرور الفأرة»" src="/coach-docs/assets/sections/37-coach-shelf-3d/10-hover-tilt-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — عند مرور الفأرة" src="/coach-docs/assets/sections/37-coach-shelf-3d/10-hover-tilt-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — عند مرور الفأرة" src="/coach-docs/assets/sections/37-coach-shelf-3d/01-layout-5-result.webp" loading="lazy" decoding="async"/></td>
 <td>«ميلان نحو المؤشر»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «عند مرور الفأرة»" src="/coach-docs/assets/sections/37-coach-shelf-3d/10-hover-lift-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «عند مرور الفأرة»" src="/coach-docs/assets/sections/37-coach-shelf-3d/10-hover-lift-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — عند مرور الفأرة" src="/coach-docs/assets/sections/37-coach-shelf-3d/10-hover-lift-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — عند مرور الفأرة" src="/coach-docs/assets/sections/37-coach-shelf-3d/10-hover-lift-result.webp" loading="lazy" decoding="async"/></td>
 <td>«رفع البطاقة»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «عند مرور الفأرة»" src="/coach-docs/assets/sections/37-coach-shelf-3d/10-hover-none-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «عند مرور الفأرة»" src="/coach-docs/assets/sections/37-coach-shelf-3d/10-hover-none-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — عند مرور الفأرة" src="/coach-docs/assets/sections/37-coach-shelf-3d/10-hover-none-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — عند مرور الفأرة" src="/coach-docs/assets/sections/37-coach-shelf-3d/10-hover-none-result.webp" loading="lazy" decoding="async"/></td>
 <td>«بلا»</td>
 </tr>
 </tbody>
@@ -352,13 +352,13 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «على الجوال»" src="/coach-docs/assets/sections/37-coach-shelf-3d/11-phone-css-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — على الجوال" src="/coach-docs/assets/sections/37-coach-shelf-3d/11-phone-css-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — على الجوال" src="/coach-docs/assets/sections/37-coach-shelf-3d/01-layout-3-result.webp" loading="lazy" decoding="async"/></td>
 <td>«نسخة خفيفة»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «على الجوال»" src="/coach-docs/assets/sections/37-coach-shelf-3d/11-phone-webgl-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — على الجوال" src="/coach-docs/assets/sections/37-coach-shelf-3d/11-phone-webgl-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — على الجوال" src="/coach-docs/assets/sections/37-coach-shelf-3d/01-layout-5-result.webp" loading="lazy" decoding="async"/></td>
 <td>«ثلاثي الأبعاد كامل»</td>
 </tr>
 </tbody>

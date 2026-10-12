@@ -59,13 +59,13 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «الشكل»" src="/coach-docs/assets/sections/21-coach-program/01-layout-stack-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الشكل»" src="/coach-docs/assets/sections/21-coach-program/01-layout-stack-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الشكل" src="/coach-docs/assets/sections/21-coach-program/01-layout-stack-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — الشكل" src="/coach-docs/assets/sections/21-coach-program/01-layout-stack-result.webp" loading="lazy" decoding="async"/></td>
 <td>«١ · بطاقات متكدّسة»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «الشكل»" src="/coach-docs/assets/sections/21-coach-program/01-layout-showcase-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الشكل»" src="/coach-docs/assets/sections/21-coach-program/01-layout-showcase-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الشكل" src="/coach-docs/assets/sections/21-coach-program/01-layout-showcase-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — الشكل" src="/coach-docs/assets/sections/21-coach-program/01-layout-showcase-result.webp" loading="lazy" decoding="async"/></td>
 <td>«٢ · عرض بالتمرير»</td>
 </tr>
 </tbody>
@@ -92,8 +92,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «العنوان الصغير (فوق العنوان)»" src="/coach-docs/assets/sections/21-coach-program/02-eyebrow-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «العنوان الصغير (فوق العنوان)»" src="/coach-docs/assets/sections/21-coach-program/02-eyebrow-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — العنوان الصغير (فوق العنوان)" src="/coach-docs/assets/sections/21-coach-program/02-eyebrow-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — العنوان الصغير (فوق العنوان)" src="/coach-docs/assets/sections/21-coach-program/02-eyebrow-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -120,8 +120,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «العنوان»" src="/coach-docs/assets/sections/21-coach-program/03-title-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «العنوان»" src="/coach-docs/assets/sections/21-coach-program/03-title-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — العنوان" src="/coach-docs/assets/sections/21-coach-program/03-title-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — العنوان" src="/coach-docs/assets/sections/21-coach-program/03-title-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -148,8 +148,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «الوصف»" src="/coach-docs/assets/sections/21-coach-program/04-description-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الوصف»" src="/coach-docs/assets/sections/21-coach-program/04-description-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الوصف" src="/coach-docs/assets/sections/21-coach-program/04-description-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — الوصف" src="/coach-docs/assets/sections/21-coach-program/04-description-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -176,8 +176,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «ما يتضمنه البرنامج»" src="/coach-docs/assets/sections/21-coach-program/05-includes-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «ما يتضمنه البرنامج»" src="/coach-docs/assets/sections/21-coach-program/05-includes-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — ما يتضمنه البرنامج" src="/coach-docs/assets/sections/21-coach-program/05-includes-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — ما يتضمنه البرنامج" src="/coach-docs/assets/sections/21-coach-program/05-includes-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -204,8 +204,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «منتج البرنامج»" src="/coach-docs/assets/sections/21-coach-program/06-product-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «منتج البرنامج»" src="/coach-docs/assets/sections/21-coach-program/00-desktop.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — منتج البرنامج" src="/coach-docs/assets/sections/21-coach-program/06-product-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — منتج البرنامج" src="/coach-docs/assets/sections/21-coach-program/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة: القسم بالقيمة الافتراضية</td>
 </tr>
 </tbody>
@@ -232,8 +232,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «نص زر الحجز»" src="/coach-docs/assets/sections/21-coach-program/07-button_label-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — نص زر الحجز" src="/coach-docs/assets/sections/21-coach-program/07-button_label-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — نص زر الحجز" src="/coach-docs/assets/sections/21-coach-program/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -259,8 +259,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «سطر التقسيط»" src="/coach-docs/assets/sections/21-coach-program/08-installments_note-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «سطر التقسيط»" src="/coach-docs/assets/sections/21-coach-program/08-installments_note-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — سطر التقسيط" src="/coach-docs/assets/sections/21-coach-program/08-installments_note-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — سطر التقسيط" src="/coach-docs/assets/sections/21-coach-program/08-installments_note-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -286,8 +286,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «سطر موعد الدفعة»" src="/coach-docs/assets/sections/21-coach-program/09-cohort_note-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «سطر موعد الدفعة»" src="/coach-docs/assets/sections/21-coach-program/09-cohort_note-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — سطر موعد الدفعة" src="/coach-docs/assets/sections/21-coach-program/09-cohort_note-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — سطر موعد الدفعة" src="/coach-docs/assets/sections/21-coach-program/09-cohort_note-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -314,8 +314,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «مقاعد الدفعة»" src="/coach-docs/assets/sections/21-coach-program/10-seats_total-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «مقاعد الدفعة»" src="/coach-docs/assets/sections/21-coach-program/00-desktop.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — مقاعد الدفعة" src="/coach-docs/assets/sections/21-coach-program/10-seats_total-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — مقاعد الدفعة" src="/coach-docs/assets/sections/21-coach-program/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة: القسم بالقيمة الافتراضية</td>
 </tr>
 </tbody>
@@ -341,8 +341,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «سطر الضمان»" src="/coach-docs/assets/sections/21-coach-program/11-guarantee_text-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «سطر الضمان»" src="/coach-docs/assets/sections/21-coach-program/11-guarantee_text-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — سطر الضمان" src="/coach-docs/assets/sections/21-coach-program/11-guarantee_text-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — سطر الضمان" src="/coach-docs/assets/sections/21-coach-program/11-guarantee_text-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -369,8 +369,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «المراحل»" src="/coach-docs/assets/sections/21-coach-program/12-phases-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «المراحل»" src="/coach-docs/assets/sections/21-coach-program/12-phases-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — المراحل" src="/coach-docs/assets/sections/21-coach-program/12-phases-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — المراحل" src="/coach-docs/assets/sections/21-coach-program/12-phases-result.webp" loading="lazy" decoding="async"/></td>
 <td>أول عنصر محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -391,8 +391,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «المراحل»" src="/coach-docs/assets/sections/21-coach-program/12-phases-title-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «المراحل»" src="/coach-docs/assets/sections/21-coach-program/12-phases-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — المراحل" src="/coach-docs/assets/sections/21-coach-program/12-phases-title-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — المراحل" src="/coach-docs/assets/sections/21-coach-program/12-phases-result.webp" loading="lazy" decoding="async"/></td>
 <td></td>
 </tr>
 </tbody>
@@ -413,8 +413,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «المراحل»" src="/coach-docs/assets/sections/21-coach-program/12-phases-weeks-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «المراحل»" src="/coach-docs/assets/sections/21-coach-program/12-phases-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — المراحل" src="/coach-docs/assets/sections/21-coach-program/12-phases-weeks-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — المراحل" src="/coach-docs/assets/sections/21-coach-program/12-phases-result.webp" loading="lazy" decoding="async"/></td>
 <td></td>
 </tr>
 </tbody>
@@ -435,8 +435,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «المراحل»" src="/coach-docs/assets/sections/21-coach-program/12-phases-text-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «المراحل»" src="/coach-docs/assets/sections/21-coach-program/12-phases-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — المراحل" src="/coach-docs/assets/sections/21-coach-program/12-phases-text-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — المراحل" src="/coach-docs/assets/sections/21-coach-program/12-phases-result.webp" loading="lazy" decoding="async"/></td>
 <td></td>
 </tr>
 </tbody>
@@ -458,8 +458,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «المراحل»" src="/coach-docs/assets/sections/21-coach-program/12-phases-outcomes-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «المراحل»" src="/coach-docs/assets/sections/21-coach-program/12-phases-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — المراحل" src="/coach-docs/assets/sections/21-coach-program/12-phases-outcomes-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — المراحل" src="/coach-docs/assets/sections/21-coach-program/12-phases-result.webp" loading="lazy" decoding="async"/></td>
 <td></td>
 </tr>
 </tbody>
@@ -480,8 +480,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «المراحل»" src="/coach-docs/assets/sections/21-coach-program/12-phases-image-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «المراحل»" src="/coach-docs/assets/sections/21-coach-program/12-phases-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — المراحل" src="/coach-docs/assets/sections/21-coach-program/12-phases-image-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — المراحل" src="/coach-docs/assets/sections/21-coach-program/12-phases-result.webp" loading="lazy" decoding="async"/></td>
 <td></td>
 </tr>
 </tbody>
@@ -508,8 +508,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «مرافقة ناعمة أثناء التمرير»" src="/coach-docs/assets/sections/21-coach-program/13-side_follow-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — مرافقة ناعمة أثناء التمرير" src="/coach-docs/assets/sections/21-coach-program/13-side_follow-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — مرافقة ناعمة أثناء التمرير" src="/coach-docs/assets/sections/21-coach-program/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة بعد تفعيله (الافتراضي مطفأ)</td>
 </tr>
 </tbody>

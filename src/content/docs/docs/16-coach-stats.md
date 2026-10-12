@@ -55,18 +55,18 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «الشكل»" src="/coach-docs/assets/sections/16-coach-stats/01-style-light-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — الشكل" src="/coach-docs/assets/sections/16-coach-stats/01-style-light-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — الشكل" src="/coach-docs/assets/sections/16-coach-stats/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>«بطاقة فاتحة بفواصل بين الأرقام»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «الشكل»" src="/coach-docs/assets/sections/16-coach-stats/01-style-plain-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الشكل»" src="/coach-docs/assets/sections/16-coach-stats/01-style-plain-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الشكل" src="/coach-docs/assets/sections/16-coach-stats/01-style-plain-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — الشكل" src="/coach-docs/assets/sections/16-coach-stats/01-style-plain-result.webp" loading="lazy" decoding="async"/></td>
 <td>«الأرقام على خلفية الصفحة بلا بطاقة»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «الشكل»" src="/coach-docs/assets/sections/16-coach-stats/01-style-primary-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الشكل»" src="/coach-docs/assets/sections/16-coach-stats/01-style-primary-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الشكل" src="/coach-docs/assets/sections/16-coach-stats/01-style-primary-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — الشكل" src="/coach-docs/assets/sections/16-coach-stats/01-style-primary-result.webp" loading="lazy" decoding="async"/></td>
 <td>«لوحة باللون الأساسي»</td>
 </tr>
 </tbody>
@@ -92,8 +92,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «الأرقام»" src="/coach-docs/assets/sections/16-coach-stats/02-items-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الأرقام»" src="/coach-docs/assets/sections/16-coach-stats/02-items-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الأرقام" src="/coach-docs/assets/sections/16-coach-stats/02-items-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — الأرقام" src="/coach-docs/assets/sections/16-coach-stats/02-items-result.webp" loading="lazy" decoding="async"/></td>
 <td>أول عنصر محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -115,8 +115,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «الأرقام»" src="/coach-docs/assets/sections/16-coach-stats/02-items-value-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الأرقام»" src="/coach-docs/assets/sections/16-coach-stats/02-items-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الأرقام" src="/coach-docs/assets/sections/16-coach-stats/02-items-value-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — الأرقام" src="/coach-docs/assets/sections/16-coach-stats/02-items-result.webp" loading="lazy" decoding="async"/></td>
 <td></td>
 </tr>
 </tbody>
@@ -137,8 +137,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «الأرقام»" src="/coach-docs/assets/sections/16-coach-stats/02-items-prefix-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الأرقام»" src="/coach-docs/assets/sections/16-coach-stats/02-items-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الأرقام" src="/coach-docs/assets/sections/16-coach-stats/02-items-prefix-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — الأرقام" src="/coach-docs/assets/sections/16-coach-stats/02-items-result.webp" loading="lazy" decoding="async"/></td>
 <td></td>
 </tr>
 </tbody>
@@ -159,8 +159,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «الأرقام»" src="/coach-docs/assets/sections/16-coach-stats/02-items-suffix-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الأرقام»" src="/coach-docs/assets/sections/16-coach-stats/02-items-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الأرقام" src="/coach-docs/assets/sections/16-coach-stats/02-items-suffix-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — الأرقام" src="/coach-docs/assets/sections/16-coach-stats/02-items-result.webp" loading="lazy" decoding="async"/></td>
 <td></td>
 </tr>
 </tbody>
@@ -181,8 +181,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «الأرقام»" src="/coach-docs/assets/sections/16-coach-stats/02-items-label-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الأرقام»" src="/coach-docs/assets/sections/16-coach-stats/02-items-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الأرقام" src="/coach-docs/assets/sections/16-coach-stats/02-items-label-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — الأرقام" src="/coach-docs/assets/sections/16-coach-stats/02-items-result.webp" loading="lazy" decoding="async"/></td>
 <td></td>
 </tr>
 </tbody>
@@ -203,8 +203,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «الأرقام»" src="/coach-docs/assets/sections/16-coach-stats/02-items-icon-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الأرقام»" src="/coach-docs/assets/sections/16-coach-stats/02-items-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الأرقام" src="/coach-docs/assets/sections/16-coach-stats/02-items-icon-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — الأرقام" src="/coach-docs/assets/sections/16-coach-stats/02-items-result.webp" loading="lazy" decoding="async"/></td>
 <td></td>
 </tr>
 </tbody>
@@ -232,8 +232,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «لون اللوحة»" src="/coach-docs/assets/sections/16-coach-stats/03-bg_color-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «لون اللوحة»" src="/coach-docs/assets/sections/16-coach-stats/03-bg_color-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — لون اللوحة" src="/coach-docs/assets/sections/16-coach-stats/03-bg_color-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — لون اللوحة" src="/coach-docs/assets/sections/16-coach-stats/03-bg_color-result.webp" loading="lazy" decoding="async"/></td>
 <td>النتيجة بلون تجريبي #1F6F78</td>
 </tr>
 </tbody>

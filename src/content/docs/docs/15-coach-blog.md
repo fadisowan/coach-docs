@@ -59,18 +59,18 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «الشكل»" src="/coach-docs/assets/sections/15-coach-blog/01-layout-plain-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — الشكل" src="/coach-docs/assets/sections/15-coach-blog/01-layout-plain-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — الشكل" src="/coach-docs/assets/sections/15-coach-blog/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>«١ · بلا خلفية»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «الشكل»" src="/coach-docs/assets/sections/15-coach-blog/01-layout-cards-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الشكل»" src="/coach-docs/assets/sections/15-coach-blog/01-layout-cards-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الشكل" src="/coach-docs/assets/sections/15-coach-blog/01-layout-cards-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — الشكل" src="/coach-docs/assets/sections/15-coach-blog/01-layout-cards-result.webp" loading="lazy" decoding="async"/></td>
 <td>«٢ · بطاقات بخلفية»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «الشكل»" src="/coach-docs/assets/sections/15-coach-blog/01-layout-editorial-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الشكل»" src="/coach-docs/assets/sections/15-coach-blog/01-layout-editorial-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الشكل" src="/coach-docs/assets/sections/15-coach-blog/01-layout-editorial-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — الشكل" src="/coach-docs/assets/sections/15-coach-blog/01-layout-editorial-result.webp" loading="lazy" decoding="async"/></td>
 <td>«٣ · تحريري»</td>
 </tr>
 </tbody>
@@ -97,8 +97,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «العنوان الصغير (فوق العنوان)»" src="/coach-docs/assets/sections/15-coach-blog/02-eyebrow-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «العنوان الصغير (فوق العنوان)»" src="/coach-docs/assets/sections/15-coach-blog/02-eyebrow-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — العنوان الصغير (فوق العنوان)" src="/coach-docs/assets/sections/15-coach-blog/02-eyebrow-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — العنوان الصغير (فوق العنوان)" src="/coach-docs/assets/sections/15-coach-blog/02-eyebrow-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -125,8 +125,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «العنوان»" src="/coach-docs/assets/sections/15-coach-blog/03-title-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «العنوان»" src="/coach-docs/assets/sections/15-coach-blog/03-title-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — العنوان" src="/coach-docs/assets/sections/15-coach-blog/03-title-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — العنوان" src="/coach-docs/assets/sections/15-coach-blog/03-title-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -152,13 +152,13 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «مصدر المقالات»" src="/coach-docs/assets/sections/15-coach-blog/04-source-latest-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «مصدر المقالات»" src="/coach-docs/assets/sections/15-coach-blog/04-source-latest-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — مصدر المقالات" src="/coach-docs/assets/sections/15-coach-blog/04-source-latest-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — مصدر المقالات" src="/coach-docs/assets/sections/15-coach-blog/04-source-latest-result.webp" loading="lazy" decoding="async"/></td>
 <td>«أحدث مقالات المدوّنة (تلقائي)»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «مصدر المقالات»" src="/coach-docs/assets/sections/15-coach-blog/04-source-manual-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «مصدر المقالات»" src="/coach-docs/assets/sections/15-coach-blog/04-source-manual-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — مصدر المقالات" src="/coach-docs/assets/sections/15-coach-blog/04-source-manual-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — مصدر المقالات" src="/coach-docs/assets/sections/15-coach-blog/04-source-manual-result.webp" loading="lazy" decoding="async"/></td>
 <td>«مقالات أكتبها وأختارها»</td>
 </tr>
 </tbody>
@@ -184,8 +184,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «عدد المقالات (١–٦)»" src="/coach-docs/assets/sections/15-coach-blog/05-limit-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «عدد المقالات (١–٦)»" src="/coach-docs/assets/sections/15-coach-blog/00-desktop.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — عدد المقالات (١–٦)" src="/coach-docs/assets/sections/15-coach-blog/05-limit-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — عدد المقالات (١–٦)" src="/coach-docs/assets/sections/15-coach-blog/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة: القسم بالقيمة الافتراضية</td>
 </tr>
 </tbody>
@@ -212,8 +212,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «المقالات المكتوبة»" src="/coach-docs/assets/sections/15-coach-blog/06-posts-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «المقالات المكتوبة»" src="/coach-docs/assets/sections/15-coach-blog/06-posts-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — المقالات المكتوبة" src="/coach-docs/assets/sections/15-coach-blog/06-posts-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — المقالات المكتوبة" src="/coach-docs/assets/sections/15-coach-blog/06-posts-result.webp" loading="lazy" decoding="async"/></td>
 <td>أول عنصر محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -235,8 +235,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «المقالات المكتوبة»" src="/coach-docs/assets/sections/15-coach-blog/06-posts-image-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «المقالات المكتوبة»" src="/coach-docs/assets/sections/15-coach-blog/06-posts-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — المقالات المكتوبة" src="/coach-docs/assets/sections/15-coach-blog/06-posts-image-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — المقالات المكتوبة" src="/coach-docs/assets/sections/15-coach-blog/06-posts-result.webp" loading="lazy" decoding="async"/></td>
 <td></td>
 </tr>
 </tbody>
@@ -257,8 +257,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
-<td><img alt="معاينة النتيجة — «المقالات المكتوبة»" src="/coach-docs/assets/sections/15-coach-blog/06-posts-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — المقالات المكتوبة" src="/coach-docs/assets/sections/15-coach-blog/06-posts-image-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — المقالات المكتوبة" src="/coach-docs/assets/sections/15-coach-blog/06-posts-result.webp" loading="lazy" decoding="async"/></td>
 <td></td>
 </tr>
 </tbody>
@@ -279,8 +279,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
-<td><img alt="معاينة النتيجة — «المقالات المكتوبة»" src="/coach-docs/assets/sections/15-coach-blog/06-posts-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — المقالات المكتوبة" src="/coach-docs/assets/sections/15-coach-blog/06-posts-image-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — المقالات المكتوبة" src="/coach-docs/assets/sections/15-coach-blog/06-posts-result.webp" loading="lazy" decoding="async"/></td>
 <td></td>
 </tr>
 </tbody>
@@ -301,8 +301,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
-<td><img alt="معاينة النتيجة — «المقالات المكتوبة»" src="/coach-docs/assets/sections/15-coach-blog/06-posts-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — المقالات المكتوبة" src="/coach-docs/assets/sections/15-coach-blog/06-posts-image-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — المقالات المكتوبة" src="/coach-docs/assets/sections/15-coach-blog/06-posts-result.webp" loading="lazy" decoding="async"/></td>
 <td></td>
 </tr>
 </tbody>
@@ -329,8 +329,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «نص رابط «كل المقالات»»" src="/coach-docs/assets/sections/15-coach-blog/07-all_label-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «نص رابط «كل المقالات»»" src="/coach-docs/assets/sections/15-coach-blog/07-all_label-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — نص رابط «كل المقالات»" src="/coach-docs/assets/sections/15-coach-blog/07-all_label-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — نص رابط «كل المقالات»" src="/coach-docs/assets/sections/15-coach-blog/07-all_label-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -357,8 +357,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «زر «اقرأ المزيد» في كل بطاقة»" src="/coach-docs/assets/sections/15-coach-blog/08-read_more-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «زر «اقرأ المزيد» في كل بطاقة»" src="/coach-docs/assets/sections/15-coach-blog/08-read_more-off-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — زر «اقرأ المزيد» في كل بطاقة" src="/coach-docs/assets/sections/15-coach-blog/08-read_more-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — زر «اقرأ المزيد» في كل بطاقة" src="/coach-docs/assets/sections/15-coach-blog/08-read_more-off-result.webp" loading="lazy" decoding="async"/></td>
 <td>النتيجة بعد إطفائه (الافتراضي مفعّل)</td>
 </tr>
 </tbody>
@@ -386,8 +386,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «نص زر «اقرأ المزيد»»" src="/coach-docs/assets/sections/15-coach-blog/09-read_more_label-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «نص زر «اقرأ المزيد»»" src="/coach-docs/assets/sections/15-coach-blog/00-desktop.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — نص زر «اقرأ المزيد»" src="/coach-docs/assets/sections/15-coach-blog/09-read_more_label-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — نص زر «اقرأ المزيد»" src="/coach-docs/assets/sections/15-coach-blog/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة: القسم بالقيمة الافتراضية</td>
 </tr>
 </tbody>

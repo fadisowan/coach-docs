@@ -60,18 +60,18 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «الشكل»" src="/coach-docs/assets/sections/11-coach-offer-banner/01-layout-split-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — الشكل" src="/coach-docs/assets/sections/11-coach-offer-banner/01-layout-split-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — الشكل" src="/coach-docs/assets/sections/11-coach-offer-banner/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>«١ · منقسم على خلفية خوخية»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «الشكل»" src="/coach-docs/assets/sections/11-coach-offer-banner/01-layout-arch-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الشكل»" src="/coach-docs/assets/sections/11-coach-offer-banner/01-layout-arch-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الشكل" src="/coach-docs/assets/sections/11-coach-offer-banner/01-layout-arch-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — الشكل" src="/coach-docs/assets/sections/11-coach-offer-banner/01-layout-arch-result.webp" loading="lazy" decoding="async"/></td>
 <td>«٢ · قوس على خلفية خضراء»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «الشكل»" src="/coach-docs/assets/sections/11-coach-offer-banner/01-layout-strip-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الشكل»" src="/coach-docs/assets/sections/11-coach-offer-banner/01-layout-strip-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الشكل" src="/coach-docs/assets/sections/11-coach-offer-banner/01-layout-strip-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — الشكل" src="/coach-docs/assets/sections/11-coach-offer-banner/01-layout-strip-result.webp" loading="lazy" decoding="async"/></td>
 <td>«٣ · شريط أبيض أفقي»</td>
 </tr>
 </tbody>
@@ -98,8 +98,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «الشارة»" src="/coach-docs/assets/sections/11-coach-offer-banner/02-badge-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الشارة»" src="/coach-docs/assets/sections/11-coach-offer-banner/02-badge-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الشارة" src="/coach-docs/assets/sections/11-coach-offer-banner/02-badge-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — الشارة" src="/coach-docs/assets/sections/11-coach-offer-banner/02-badge-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -127,8 +127,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «الرقم الكبير»" src="/coach-docs/assets/sections/11-coach-offer-banner/03-big_number-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الرقم الكبير»" src="/coach-docs/assets/sections/11-coach-offer-banner/00-desktop.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الرقم الكبير" src="/coach-docs/assets/sections/11-coach-offer-banner/03-big_number-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — الرقم الكبير" src="/coach-docs/assets/sections/11-coach-offer-banner/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة: القسم بالقيمة الافتراضية</td>
 </tr>
 </tbody>
@@ -156,8 +156,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «السطر الصغير»" src="/coach-docs/assets/sections/11-coach-offer-banner/04-eyebrow-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «السطر الصغير»" src="/coach-docs/assets/sections/11-coach-offer-banner/00-desktop.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — السطر الصغير" src="/coach-docs/assets/sections/11-coach-offer-banner/04-eyebrow-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — السطر الصغير" src="/coach-docs/assets/sections/11-coach-offer-banner/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة: القسم بالقيمة الافتراضية</td>
 </tr>
 </tbody>
@@ -184,8 +184,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «العنوان»" src="/coach-docs/assets/sections/11-coach-offer-banner/05-title-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «العنوان»" src="/coach-docs/assets/sections/11-coach-offer-banner/05-title-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — العنوان" src="/coach-docs/assets/sections/11-coach-offer-banner/05-title-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — العنوان" src="/coach-docs/assets/sections/11-coach-offer-banner/05-title-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -211,8 +211,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «الوصف»" src="/coach-docs/assets/sections/11-coach-offer-banner/06-description-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الوصف»" src="/coach-docs/assets/sections/11-coach-offer-banner/06-description-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الوصف" src="/coach-docs/assets/sections/11-coach-offer-banner/06-description-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — الوصف" src="/coach-docs/assets/sections/11-coach-offer-banner/06-description-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -239,8 +239,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «كود الخصم»" src="/coach-docs/assets/sections/11-coach-offer-banner/07-code-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «كود الخصم»" src="/coach-docs/assets/sections/11-coach-offer-banner/00-desktop.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — كود الخصم" src="/coach-docs/assets/sections/11-coach-offer-banner/07-code-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — كود الخصم" src="/coach-docs/assets/sections/11-coach-offer-banner/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة: القسم بالقيمة الافتراضية</td>
 </tr>
 </tbody>
@@ -267,8 +267,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «الصورة»" src="/coach-docs/assets/sections/11-coach-offer-banner/08-image-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الصورة»" src="/coach-docs/assets/sections/11-coach-offer-banner/08-image-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الصورة" src="/coach-docs/assets/sections/11-coach-offer-banner/08-image-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — الصورة" src="/coach-docs/assets/sections/11-coach-offer-banner/08-image-result.webp" loading="lazy" decoding="async"/></td>
 <td>النتيجة بصورة تجريبية</td>
 </tr>
 </tbody>
@@ -295,8 +295,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «نص الزر»" src="/coach-docs/assets/sections/11-coach-offer-banner/09-cta_label-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «نص الزر»" src="/coach-docs/assets/sections/11-coach-offer-banner/09-cta_label-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — نص الزر" src="/coach-docs/assets/sections/11-coach-offer-banner/09-cta_label-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — نص الزر" src="/coach-docs/assets/sections/11-coach-offer-banner/09-cta_label-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -323,8 +323,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «رابط الزر»" src="/coach-docs/assets/sections/11-coach-offer-banner/10-cta_link-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «رابط الزر»" src="/coach-docs/assets/sections/11-coach-offer-banner/00-desktop.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — رابط الزر" src="/coach-docs/assets/sections/11-coach-offer-banner/10-cta_link-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — رابط الزر" src="/coach-docs/assets/sections/11-coach-offer-banner/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة: القسم بالقيمة الافتراضية</td>
 </tr>
 </tbody>
@@ -351,8 +351,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «ينتهي العرض في»" src="/coach-docs/assets/sections/11-coach-offer-banner/11-end_date-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «ينتهي العرض في»" src="/coach-docs/assets/sections/11-coach-offer-banner/00-desktop.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — ينتهي العرض في" src="/coach-docs/assets/sections/11-coach-offer-banner/11-end_date-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — ينتهي العرض في" src="/coach-docs/assets/sections/11-coach-offer-banner/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة: القسم بالقيمة الافتراضية</td>
 </tr>
 </tbody>
@@ -379,8 +379,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «نص الشريط»" src="/coach-docs/assets/sections/11-coach-offer-banner/12-strip_text-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «نص الشريط»" src="/coach-docs/assets/sections/11-coach-offer-banner/12-strip_text-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — نص الشريط" src="/coach-docs/assets/sections/11-coach-offer-banner/12-strip_text-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — نص الشريط" src="/coach-docs/assets/sections/11-coach-offer-banner/12-strip_text-result.webp" loading="lazy" decoding="async"/></td>
 <td>النتيجة بنص تجريبي «مثال لنصّك هنا»</td>
 </tr>
 </tbody>
@@ -407,8 +407,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «تحريك الشريط بلا نهاية»" src="/coach-docs/assets/sections/11-coach-offer-banner/13-strip_scroll-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — تحريك الشريط بلا نهاية" src="/coach-docs/assets/sections/11-coach-offer-banner/13-strip_scroll-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — تحريك الشريط بلا نهاية" src="/coach-docs/assets/sections/11-coach-offer-banner/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة بعد تفعيله (الافتراضي مطفأ)</td>
 </tr>
 </tbody>
@@ -435,8 +435,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «التوقف عند مرور المؤشر»" src="/coach-docs/assets/sections/11-coach-offer-banner/14-strip_hold-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — التوقف عند مرور المؤشر" src="/coach-docs/assets/sections/11-coach-offer-banner/14-strip_hold-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — التوقف عند مرور المؤشر" src="/coach-docs/assets/sections/11-coach-offer-banner/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة بعد إطفائه (الافتراضي مفعّل)</td>
 </tr>
 </tbody>
@@ -464,8 +464,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «خلفية متحركة بالألوان»" src="/coach-docs/assets/sections/11-coach-offer-banner/15-fx_motion-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «خلفية متحركة بالألوان»" src="/coach-docs/assets/sections/11-coach-offer-banner/15-fx_motion-on-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — خلفية متحركة بالألوان" src="/coach-docs/assets/sections/11-coach-offer-banner/15-fx_motion-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — خلفية متحركة بالألوان" src="/coach-docs/assets/sections/11-coach-offer-banner/15-fx_motion-on-result.webp" loading="lazy" decoding="async"/></td>
 <td>النتيجة بعد تفعيله (الافتراضي مطفأ)</td>
 </tr>
 </tbody>
@@ -491,18 +491,18 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «سرعة الحركة»" src="/coach-docs/assets/sections/11-coach-offer-banner/16-fx_speed-slow-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — سرعة الحركة" src="/coach-docs/assets/sections/11-coach-offer-banner/16-fx_speed-slow-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — سرعة الحركة" src="/coach-docs/assets/sections/11-coach-offer-banner/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>«هادئة»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «سرعة الحركة»" src="/coach-docs/assets/sections/11-coach-offer-banner/16-fx_speed-normal-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «سرعة الحركة»" src="/coach-docs/assets/sections/11-coach-offer-banner/16-fx_speed-normal-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — سرعة الحركة" src="/coach-docs/assets/sections/11-coach-offer-banner/16-fx_speed-normal-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — سرعة الحركة" src="/coach-docs/assets/sections/11-coach-offer-banner/16-fx_speed-normal-result.webp" loading="lazy" decoding="async"/></td>
 <td>«متوسطة»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «سرعة الحركة»" src="/coach-docs/assets/sections/11-coach-offer-banner/16-fx_speed-fast-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «سرعة الحركة»" src="/coach-docs/assets/sections/11-coach-offer-banner/16-fx_speed-fast-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — سرعة الحركة" src="/coach-docs/assets/sections/11-coach-offer-banner/16-fx_speed-fast-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — سرعة الحركة" src="/coach-docs/assets/sections/11-coach-offer-banner/16-fx_speed-fast-result.webp" loading="lazy" decoding="async"/></td>
 <td>«أسرع»</td>
 </tr>
 </tbody>
@@ -528,18 +528,18 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «ألوان الخلفية المتحركة»" src="/coach-docs/assets/sections/11-coach-offer-banner/17-fx_palette-theme-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — ألوان الخلفية المتحركة" src="/coach-docs/assets/sections/11-coach-offer-banner/17-fx_palette-theme-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — ألوان الخلفية المتحركة" src="/coach-docs/assets/sections/11-coach-offer-banner/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>«ألوان الثيم»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «ألوان الخلفية المتحركة»" src="/coach-docs/assets/sections/11-coach-offer-banner/17-fx_palette-night-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — ألوان الخلفية المتحركة" src="/coach-docs/assets/sections/11-coach-offer-banner/17-fx_palette-night-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — ألوان الخلفية المتحركة" src="/coach-docs/assets/sections/11-coach-offer-banner/16-fx_speed-normal-result.webp" loading="lazy" decoding="async"/></td>
 <td>«ليلي»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «ألوان الخلفية المتحركة»" src="/coach-docs/assets/sections/11-coach-offer-banner/17-fx_palette-warm-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — ألوان الخلفية المتحركة" src="/coach-docs/assets/sections/11-coach-offer-banner/17-fx_palette-warm-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — ألوان الخلفية المتحركة" src="/coach-docs/assets/sections/11-coach-offer-banner/16-fx_speed-fast-result.webp" loading="lazy" decoding="async"/></td>
 <td>«دافئ»</td>
 </tr>
 </tbody>

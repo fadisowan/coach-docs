@@ -62,8 +62,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «ملاحظة نوع المنتج في صفحة المنتج»" src="/coach-docs/assets/00-theme/07-product/01-product_type_notes-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «ملاحظة نوع المنتج في صفحة المنتج»" src="/coach-docs/assets/00-theme/07-product/01-product_type_notes-off-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — ملاحظة نوع المنتج في صفحة المنتج" src="/coach-docs/assets/00-theme/07-product/01-product_type_notes-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — ملاحظة نوع المنتج في صفحة المنتج" src="/coach-docs/assets/00-theme/07-product/01-product_type_notes-off-result.webp" loading="lazy" decoding="async"/></td>
 <td>النتيجة بعد إطفائه (الافتراضي مفعّل)</td>
 </tr>
 </tbody>
@@ -90,8 +90,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «أقسام الوصف بعناوينها»" src="/coach-docs/assets/00-theme/07-product/02-product_sections-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — أقسام الوصف بعناوينها" src="/coach-docs/assets/00-theme/07-product/02-product_sections-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — أقسام الوصف بعناوينها" src="/coach-docs/assets/00-theme/07-product/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة بعد إطفائه (الافتراضي مفعّل)</td>
 </tr>
 </tbody>
@@ -118,8 +118,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — ««يُشترى معاً» في صفحة المنتج»" src="/coach-docs/assets/00-theme/07-product/03-fbt_enabled-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — ««يُشترى معاً» في صفحة المنتج»" src="/coach-docs/assets/00-theme/07-product/03-fbt_enabled-off-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — «يُشترى معاً» في صفحة المنتج" src="/coach-docs/assets/00-theme/07-product/03-fbt_enabled-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — «يُشترى معاً» في صفحة المنتج" src="/coach-docs/assets/00-theme/07-product/03-fbt_enabled-off-result.webp" loading="lazy" decoding="async"/></td>
 <td>النتيجة بعد إطفائه (الافتراضي مفعّل)</td>
 </tr>
 </tbody>
@@ -146,8 +146,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «عنوان «يُشترى معاً»»" src="/coach-docs/assets/00-theme/07-product/04-fbt_title-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — عنوان «يُشترى معاً»" src="/coach-docs/assets/00-theme/07-product/04-fbt_title-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — عنوان «يُشترى معاً»" src="/coach-docs/assets/00-theme/07-product/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>مكانه محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -174,8 +174,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «سطر التوفير (اختياري)»" src="/coach-docs/assets/00-theme/07-product/05-fbt_note-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — سطر التوفير (اختياري)" src="/coach-docs/assets/00-theme/07-product/05-fbt_note-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — سطر التوفير (اختياري)" src="/coach-docs/assets/00-theme/07-product/03-fbt_enabled-off-result.webp" loading="lazy" decoding="async"/></td>
 <td>النتيجة بنص تجريبي «مثال لنصّك هنا»</td>
 </tr>
 </tbody>
@@ -202,8 +202,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «تثبيت زر الإضافة والكمية أسفل شاشة الجوال»" src="/coach-docs/assets/00-theme/07-product/06-sticky_add_to_cart-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «تثبيت زر الإضافة والكمية أسفل شاشة الجوال»" src="/coach-docs/assets/00-theme/07-product/06-sticky_add_to_cart-off-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — تثبيت زر الإضافة والكمية أسفل شاشة الجوال" src="/coach-docs/assets/00-theme/07-product/06-sticky_add_to_cart-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — تثبيت زر الإضافة والكمية أسفل شاشة الجوال" src="/coach-docs/assets/00-theme/07-product/06-sticky_add_to_cart-off-result.webp" loading="lazy" decoding="async"/></td>
 <td>النتيجة بعد إطفائه (الافتراضي مفعّل)</td>
 </tr>
 </tbody>
@@ -230,8 +230,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «الكمية للمنتج الرقمي والخدمة»" src="/coach-docs/assets/00-theme/07-product/07-qty_for_digital-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الكمية للمنتج الرقمي والخدمة»" src="/coach-docs/assets/00-theme/07-product/07-qty_for_digital-on-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الكمية للمنتج الرقمي والخدمة" src="/coach-docs/assets/00-theme/07-product/07-qty_for_digital-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — الكمية للمنتج الرقمي والخدمة" src="/coach-docs/assets/00-theme/07-product/07-qty_for_digital-on-result.webp" loading="lazy" decoding="async"/></td>
 <td>النتيجة بعد تفعيله (الافتراضي مطفأ)</td>
 </tr>
 </tbody>
@@ -255,8 +255,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «تفاصيل ملفات المنتج الرقمي»" src="/coach-docs/assets/00-theme/07-product/08-product_files_card-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «تفاصيل ملفات المنتج الرقمي»" src="/coach-docs/assets/00-theme/07-product/08-product_files_card-on-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — تفاصيل ملفات المنتج الرقمي" src="/coach-docs/assets/00-theme/07-product/08-product_files_card-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — تفاصيل ملفات المنتج الرقمي" src="/coach-docs/assets/00-theme/07-product/08-product_files_card-on-result.webp" loading="lazy" decoding="async"/></td>
 <td>النتيجة بعد تفعيله (الافتراضي مطفأ)</td>
 </tr>
 </tbody>
@@ -283,8 +283,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «تكبير الصور في سليدر صور المنتج»" src="/coach-docs/assets/00-theme/07-product/09-imagezoom-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «تكبير الصور في سليدر صور المنتج»" src="/coach-docs/assets/00-theme/07-product/09-imagezoom-on-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — تكبير الصور في سليدر صور المنتج" src="/coach-docs/assets/00-theme/07-product/09-imagezoom-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — تكبير الصور في سليدر صور المنتج" src="/coach-docs/assets/00-theme/07-product/09-imagezoom-on-result.webp" loading="lazy" decoding="async"/></td>
 <td>النتيجة بعد تفعيله (الافتراضي مطفأ)</td>
 </tr>
 </tbody>
@@ -310,13 +310,13 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «طريقة عرض الصور في سليدر صور المنتج»" src="/coach-docs/assets/00-theme/07-product/10-slider_background_size-cover-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «طريقة عرض الصور في سليدر صور المنتج»" src="/coach-docs/assets/00-theme/07-product/10-slider_background_size-cover-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — طريقة عرض الصور في سليدر صور المنتج" src="/coach-docs/assets/00-theme/07-product/10-slider_background_size-cover-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — طريقة عرض الصور في سليدر صور المنتج" src="/coach-docs/assets/00-theme/07-product/10-slider_background_size-cover-result.webp" loading="lazy" decoding="async"/></td>
 <td>«تغطية الصورة كامل المساحة مع المحافظة على أبعاد الصورة (Cover)»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «طريقة عرض الصور في سليدر صور المنتج»" src="/coach-docs/assets/00-theme/07-product/10-slider_background_size-contain-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — طريقة عرض الصور في سليدر صور المنتج" src="/coach-docs/assets/00-theme/07-product/10-slider_background_size-contain-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — طريقة عرض الصور في سليدر صور المنتج" src="/coach-docs/assets/00-theme/07-product/03-fbt_enabled-off-result.webp" loading="lazy" decoding="async"/></td>
 <td>«اظهار الصورة كاملةً في المنتصف (Contain)»</td>
 </tr>
 </tbody>
@@ -342,8 +342,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «اظهار الوسوم»" src="/coach-docs/assets/00-theme/07-product/11-show_tags-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — اظهار الوسوم" src="/coach-docs/assets/00-theme/07-product/11-show_tags-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — اظهار الوسوم" src="/coach-docs/assets/00-theme/07-product/06-sticky_add_to_cart-off-result.webp" loading="lazy" decoding="async"/></td>
 <td>النتيجة بعد إطفائه (الافتراضي مفعّل)</td>
 </tr>
 </tbody>
@@ -370,8 +370,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «إظهار مسار التنقل في صفحة المنتج»" src="/coach-docs/assets/00-theme/07-product/12-product_show_breadcrumbs-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «إظهار مسار التنقل في صفحة المنتج»" src="/coach-docs/assets/00-theme/07-product/12-product_show_breadcrumbs-off-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — إظهار مسار التنقل في صفحة المنتج" src="/coach-docs/assets/00-theme/07-product/12-product_show_breadcrumbs-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — إظهار مسار التنقل في صفحة المنتج" src="/coach-docs/assets/00-theme/07-product/12-product_show_breadcrumbs-off-result.webp" loading="lazy" decoding="async"/></td>
 <td>النتيجة بعد إطفائه (الافتراضي مفعّل)</td>
 </tr>
 </tbody>

@@ -58,18 +58,18 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «ألوان النقاط»" src="/coach-docs/assets/sections/47-coach-living-word/01-style-brand-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — ألوان النقاط" src="/coach-docs/assets/sections/47-coach-living-word/01-style-brand-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — ألوان النقاط" src="/coach-docs/assets/sections/47-coach-living-word/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>«لون المتجر إلى لون التمييز»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «ألوان النقاط»" src="/coach-docs/assets/sections/47-coach-living-word/01-style-ink-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «ألوان النقاط»" src="/coach-docs/assets/sections/47-coach-living-word/01-style-ink-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — ألوان النقاط" src="/coach-docs/assets/sections/47-coach-living-word/01-style-ink-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — ألوان النقاط" src="/coach-docs/assets/sections/47-coach-living-word/01-style-ink-result.webp" loading="lazy" decoding="async"/></td>
 <td>«لون النص إلى لون المتجر»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «ألوان النقاط»" src="/coach-docs/assets/sections/47-coach-living-word/01-style-accent-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «ألوان النقاط»" src="/coach-docs/assets/sections/47-coach-living-word/01-style-accent-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — ألوان النقاط" src="/coach-docs/assets/sections/47-coach-living-word/01-style-accent-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — ألوان النقاط" src="/coach-docs/assets/sections/47-coach-living-word/01-style-accent-result.webp" loading="lazy" decoding="async"/></td>
 <td>«لون التمييز»</td>
 </tr>
 </tbody>
@@ -94,13 +94,13 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «خط الكلمة»" src="/coach-docs/assets/sections/47-coach-living-word/02-font-display-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — خط الكلمة" src="/coach-docs/assets/sections/47-coach-living-word/02-font-display-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — خط الكلمة" src="/coach-docs/assets/sections/47-coach-living-word/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>«خط العناوين (الافتراضي)»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «خط الكلمة»" src="/coach-docs/assets/sections/47-coach-living-word/02-font-body-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «خط الكلمة»" src="/coach-docs/assets/sections/47-coach-living-word/02-font-body-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — خط الكلمة" src="/coach-docs/assets/sections/47-coach-living-word/02-font-body-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — خط الكلمة" src="/coach-docs/assets/sections/47-coach-living-word/02-font-body-result.webp" loading="lazy" decoding="async"/></td>
 <td>«خط النص»</td>
 </tr>
 </tbody>
@@ -126,8 +126,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «الكلمات بالترتيب»" src="/coach-docs/assets/sections/47-coach-living-word/03-words-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الكلمات بالترتيب»" src="/coach-docs/assets/sections/47-coach-living-word/03-words-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الكلمات بالترتيب" src="/coach-docs/assets/sections/47-coach-living-word/03-words-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — الكلمات بالترتيب" src="/coach-docs/assets/sections/47-coach-living-word/03-words-result.webp" loading="lazy" decoding="async"/></td>
 <td>أول عنصر محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -149,8 +149,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «الكلمات بالترتيب»" src="/coach-docs/assets/sections/47-coach-living-word/03-words-word-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الكلمات بالترتيب»" src="/coach-docs/assets/sections/47-coach-living-word/03-words-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الكلمات بالترتيب" src="/coach-docs/assets/sections/47-coach-living-word/03-words-word-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — الكلمات بالترتيب" src="/coach-docs/assets/sections/47-coach-living-word/03-words-result.webp" loading="lazy" decoding="async"/></td>
 <td></td>
 </tr>
 </tbody>
@@ -171,8 +171,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «الكلمات بالترتيب»" src="/coach-docs/assets/sections/47-coach-living-word/03-words-label-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الكلمات بالترتيب»" src="/coach-docs/assets/sections/47-coach-living-word/03-words-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الكلمات بالترتيب" src="/coach-docs/assets/sections/47-coach-living-word/03-words-label-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — الكلمات بالترتيب" src="/coach-docs/assets/sections/47-coach-living-word/03-words-result.webp" loading="lazy" decoding="async"/></td>
 <td></td>
 </tr>
 </tbody>
@@ -199,8 +199,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «العنوان»" src="/coach-docs/assets/sections/47-coach-living-word/04-title-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «العنوان»" src="/coach-docs/assets/sections/47-coach-living-word/04-title-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — العنوان" src="/coach-docs/assets/sections/47-coach-living-word/04-title-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — العنوان" src="/coach-docs/assets/sections/47-coach-living-word/04-title-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -227,8 +227,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «الوصف»" src="/coach-docs/assets/sections/47-coach-living-word/05-description-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الوصف»" src="/coach-docs/assets/sections/47-coach-living-word/05-description-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الوصف" src="/coach-docs/assets/sections/47-coach-living-word/05-description-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — الوصف" src="/coach-docs/assets/sections/47-coach-living-word/05-description-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -255,8 +255,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «نص الزر»" src="/coach-docs/assets/sections/47-coach-living-word/06-button_label-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «نص الزر»" src="/coach-docs/assets/sections/47-coach-living-word/06-button_label-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — نص الزر" src="/coach-docs/assets/sections/47-coach-living-word/06-button_label-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — نص الزر" src="/coach-docs/assets/sections/47-coach-living-word/06-button_label-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -283,8 +283,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «رابط الزر»" src="/coach-docs/assets/sections/47-coach-living-word/07-button_link-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «رابط الزر»" src="/coach-docs/assets/sections/47-coach-living-word/00-desktop.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — رابط الزر" src="/coach-docs/assets/sections/47-coach-living-word/07-button_link-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — رابط الزر" src="/coach-docs/assets/sections/47-coach-living-word/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة: القسم بالقيمة الافتراضية</td>
 </tr>
 </tbody>
@@ -310,23 +310,23 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «تتبدّل الكلمة كل»" src="/coach-docs/assets/sections/47-coach-living-word/08-interval-2.5-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — تتبدّل الكلمة كل" src="/coach-docs/assets/sections/47-coach-living-word/08-interval-2.5-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — تتبدّل الكلمة كل" src="/coach-docs/assets/sections/47-coach-living-word/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>«٢٫٥ ثانية»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «تتبدّل الكلمة كل»" src="/coach-docs/assets/sections/47-coach-living-word/08-interval-3.6-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «تتبدّل الكلمة كل»" src="/coach-docs/assets/sections/47-coach-living-word/08-interval-3.6-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — تتبدّل الكلمة كل" src="/coach-docs/assets/sections/47-coach-living-word/08-interval-3.6-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — تتبدّل الكلمة كل" src="/coach-docs/assets/sections/47-coach-living-word/08-interval-3.6-result.webp" loading="lazy" decoding="async"/></td>
 <td>«٣٫٦ ثانية (الافتراضي)»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «تتبدّل الكلمة كل»" src="/coach-docs/assets/sections/47-coach-living-word/08-interval-5-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «تتبدّل الكلمة كل»" src="/coach-docs/assets/sections/47-coach-living-word/08-interval-5-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — تتبدّل الكلمة كل" src="/coach-docs/assets/sections/47-coach-living-word/08-interval-5-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — تتبدّل الكلمة كل" src="/coach-docs/assets/sections/47-coach-living-word/08-interval-5-result.webp" loading="lazy" decoding="async"/></td>
 <td>«٥ ثوانٍ»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «تتبدّل الكلمة كل»" src="/coach-docs/assets/sections/47-coach-living-word/08-interval-7-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «تتبدّل الكلمة كل»" src="/coach-docs/assets/sections/47-coach-living-word/08-interval-7-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — تتبدّل الكلمة كل" src="/coach-docs/assets/sections/47-coach-living-word/08-interval-7-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — تتبدّل الكلمة كل" src="/coach-docs/assets/sections/47-coach-living-word/08-interval-7-result.webp" loading="lazy" decoding="async"/></td>
 <td>«٧ ثوانٍ»</td>
 </tr>
 </tbody>

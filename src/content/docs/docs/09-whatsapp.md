@@ -58,8 +58,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «رقم واتساب»" src="/coach-docs/assets/00-theme/09-whatsapp/01-whatsapp_number-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «رقم واتساب»" src="/coach-docs/assets/00-theme/09-whatsapp/00-default-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — رقم واتساب" src="/coach-docs/assets/00-theme/09-whatsapp/01-whatsapp_number-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — رقم واتساب" src="/coach-docs/assets/00-theme/09-whatsapp/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة بالقيمة الافتراضية</td>
 </tr>
 </tbody>
@@ -86,8 +86,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «زر واتساب عائم»" src="/coach-docs/assets/00-theme/09-whatsapp/02-whatsapp_enabled-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «زر واتساب عائم»" src="/coach-docs/assets/00-theme/09-whatsapp/02-whatsapp_enabled-on-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — زر واتساب عائم" src="/coach-docs/assets/00-theme/09-whatsapp/02-whatsapp_enabled-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — زر واتساب عائم" src="/coach-docs/assets/00-theme/09-whatsapp/02-whatsapp_enabled-on-result.webp" loading="lazy" decoding="async"/></td>
 <td>النتيجة بعد تفعيله (الافتراضي مطفأ)</td>
 </tr>
 </tbody>
@@ -114,8 +114,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «نص الزر العائم»" src="/coach-docs/assets/00-theme/09-whatsapp/03-whatsapp_label-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «نص الزر العائم»" src="/coach-docs/assets/00-theme/09-whatsapp/03-whatsapp_label-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — نص الزر العائم" src="/coach-docs/assets/00-theme/09-whatsapp/03-whatsapp_label-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — نص الزر العائم" src="/coach-docs/assets/00-theme/09-whatsapp/03-whatsapp_label-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -142,8 +142,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «رسالة جاهزة»" src="/coach-docs/assets/00-theme/09-whatsapp/04-whatsapp_message-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — رسالة جاهزة" src="/coach-docs/assets/00-theme/09-whatsapp/04-whatsapp_message-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — رسالة جاهزة" src="/coach-docs/assets/00-theme/09-whatsapp/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>مكانه محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -170,8 +170,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «زر العودة للأعلى»" src="/coach-docs/assets/00-theme/09-whatsapp/05-back_to_top_enabled-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — زر العودة للأعلى" src="/coach-docs/assets/00-theme/09-whatsapp/05-back_to_top_enabled-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — زر العودة للأعلى" src="/coach-docs/assets/00-theme/09-whatsapp/02-whatsapp_enabled-on-result.webp" loading="lazy" decoding="async"/></td>
 <td>النتيجة بعد إطفائه (الافتراضي مفعّل)</td>
 </tr>
 </tbody>
@@ -198,8 +198,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «شاشة التحميل»" src="/coach-docs/assets/00-theme/09-whatsapp/06-preloader_enabled-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — شاشة التحميل" src="/coach-docs/assets/00-theme/09-whatsapp/06-preloader_enabled-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — شاشة التحميل" src="/coach-docs/assets/00-theme/09-whatsapp/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة بعد تفعيله (الافتراضي مطفأ)</td>
 </tr>
 </tbody>

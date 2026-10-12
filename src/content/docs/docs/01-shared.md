@@ -43,18 +43,18 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «محاذاة العنوان والوصف»" src="/coach-docs/assets/01-shared/01-head_align-start-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «محاذاة العنوان والوصف»" src="/coach-docs/assets/01-shared/01-head_align-start-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — محاذاة العنوان والوصف" src="/coach-docs/assets/01-shared/01-head_align-start-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — محاذاة العنوان والوصف" src="/coach-docs/assets/01-shared/01-head_align-start-result.webp" loading="lazy" decoding="async"/></td>
 <td>«بداية السطر»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «محاذاة العنوان والوصف»" src="/coach-docs/assets/01-shared/01-head_align-center-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «محاذاة العنوان والوصف»" src="/coach-docs/assets/01-shared/01-head_align-center-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — محاذاة العنوان والوصف" src="/coach-docs/assets/01-shared/01-head_align-center-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — محاذاة العنوان والوصف" src="/coach-docs/assets/01-shared/01-head_align-center-result.webp" loading="lazy" decoding="async"/></td>
 <td>«الوسط»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «محاذاة العنوان والوصف»" src="/coach-docs/assets/01-shared/01-head_align-end-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «محاذاة العنوان والوصف»" src="/coach-docs/assets/01-shared/01-head_align-end-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — محاذاة العنوان والوصف" src="/coach-docs/assets/01-shared/01-head_align-end-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — محاذاة العنوان والوصف" src="/coach-docs/assets/01-shared/01-head_align-end-result.webp" loading="lazy" decoding="async"/></td>
 <td>«نهاية السطر»</td>
 </tr>
 </tbody>
@@ -79,18 +79,18 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «حجم العنوان»" src="/coach-docs/assets/01-shared/02-title_size-small-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «حجم العنوان»" src="/coach-docs/assets/01-shared/02-title_size-small-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — حجم العنوان" src="/coach-docs/assets/01-shared/02-title_size-small-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — حجم العنوان" src="/coach-docs/assets/01-shared/02-title_size-small-result.webp" loading="lazy" decoding="async"/></td>
 <td>«صغير»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «حجم العنوان»" src="/coach-docs/assets/01-shared/02-title_size-medium-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «حجم العنوان»" src="/coach-docs/assets/01-shared/02-title_size-medium-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — حجم العنوان" src="/coach-docs/assets/01-shared/02-title_size-medium-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — حجم العنوان" src="/coach-docs/assets/01-shared/02-title_size-medium-result.webp" loading="lazy" decoding="async"/></td>
 <td>«متوسط (الافتراضي)»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «حجم العنوان»" src="/coach-docs/assets/01-shared/02-title_size-large-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «حجم العنوان»" src="/coach-docs/assets/01-shared/02-title_size-large-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — حجم العنوان" src="/coach-docs/assets/01-shared/02-title_size-large-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — حجم العنوان" src="/coach-docs/assets/01-shared/02-title_size-large-result.webp" loading="lazy" decoding="async"/></td>
 <td>«كبير»</td>
 </tr>
 </tbody>
@@ -116,33 +116,33 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «خلفية القسم»" src="/coach-docs/assets/01-shared/03-section_bg-none-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «خلفية القسم»" src="/coach-docs/assets/01-shared/03-section_bg-none-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — خلفية القسم" src="/coach-docs/assets/01-shared/03-section_bg-none-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — خلفية القسم" src="/coach-docs/assets/01-shared/03-section_bg-none-result.webp" loading="lazy" decoding="async"/></td>
 <td>«بدون (كما هو)»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «خلفية القسم»" src="/coach-docs/assets/01-shared/03-section_bg-white-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «خلفية القسم»" src="/coach-docs/assets/01-shared/03-section_bg-white-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — خلفية القسم" src="/coach-docs/assets/01-shared/03-section_bg-white-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — خلفية القسم" src="/coach-docs/assets/01-shared/03-section_bg-white-result.webp" loading="lazy" decoding="async"/></td>
 <td>«أبيض»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «خلفية القسم»" src="/coach-docs/assets/01-shared/03-section_bg-soft-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «خلفية القسم»" src="/coach-docs/assets/01-shared/03-section_bg-soft-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — خلفية القسم" src="/coach-docs/assets/01-shared/03-section_bg-soft-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — خلفية القسم" src="/coach-docs/assets/01-shared/03-section_bg-soft-result.webp" loading="lazy" decoding="async"/></td>
 <td>«لون فاتح من الثيم»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «خلفية القسم»" src="/coach-docs/assets/01-shared/03-section_bg-dark-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «خلفية القسم»" src="/coach-docs/assets/01-shared/03-section_bg-dark-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — خلفية القسم" src="/coach-docs/assets/01-shared/03-section_bg-dark-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — خلفية القسم" src="/coach-docs/assets/01-shared/03-section_bg-dark-result.webp" loading="lazy" decoding="async"/></td>
 <td>«لون داكن من الثيم»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «خلفية القسم»" src="/coach-docs/assets/01-shared/03-section_bg-custom-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «خلفية القسم»" src="/coach-docs/assets/01-shared/03-section_bg-custom-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — خلفية القسم" src="/coach-docs/assets/01-shared/03-section_bg-custom-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — خلفية القسم" src="/coach-docs/assets/01-shared/03-section_bg-custom-result.webp" loading="lazy" decoding="async"/></td>
 <td>«لون مخصص»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «خلفية القسم»" src="/coach-docs/assets/01-shared/03-section_bg-image-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «خلفية القسم»" src="/coach-docs/assets/01-shared/03-section_bg-image-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — خلفية القسم" src="/coach-docs/assets/01-shared/03-section_bg-image-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — خلفية القسم" src="/coach-docs/assets/01-shared/03-section_bg-image-result.webp" loading="lazy" decoding="async"/></td>
 <td>«صورة بطبقة من لون الثيم»</td>
 </tr>
 </tbody>
@@ -170,8 +170,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «لون الخلفية المخصص»" src="/coach-docs/assets/01-shared/04-section_bg_color-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «لون الخلفية المخصص»" src="/coach-docs/assets/01-shared/04-section_bg_color-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — لون الخلفية المخصص" src="/coach-docs/assets/01-shared/04-section_bg_color-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — لون الخلفية المخصص" src="/coach-docs/assets/01-shared/04-section_bg_color-result.webp" loading="lazy" decoding="async"/></td>
 <td>النتيجة بلون تجريبي #1F6F78</td>
 </tr>
 </tbody>
@@ -199,8 +199,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «صورة خلفية القسم»" src="/coach-docs/assets/01-shared/05-section_bg_image-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «صورة خلفية القسم»" src="/coach-docs/assets/01-shared/05-section_bg_image-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — صورة خلفية القسم" src="/coach-docs/assets/01-shared/05-section_bg_image-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — صورة خلفية القسم" src="/coach-docs/assets/01-shared/05-section_bg_image-result.webp" loading="lazy" decoding="async"/></td>
 <td>النتيجة بصورة تجريبية</td>
 </tr>
 </tbody>
@@ -227,18 +227,18 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «قوة طبقة اللون فوق الصورة»" src="/coach-docs/assets/01-shared/06-section_bg_tint-light-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «قوة طبقة اللون فوق الصورة»" src="/coach-docs/assets/01-shared/06-section_bg_tint-light-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — قوة طبقة اللون فوق الصورة" src="/coach-docs/assets/01-shared/06-section_bg_tint-light-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — قوة طبقة اللون فوق الصورة" src="/coach-docs/assets/01-shared/06-section_bg_tint-light-result.webp" loading="lazy" decoding="async"/></td>
 <td>«خفيفة»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «قوة طبقة اللون فوق الصورة»" src="/coach-docs/assets/01-shared/06-section_bg_tint-medium-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «قوة طبقة اللون فوق الصورة»" src="/coach-docs/assets/01-shared/06-section_bg_tint-medium-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — قوة طبقة اللون فوق الصورة" src="/coach-docs/assets/01-shared/06-section_bg_tint-medium-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — قوة طبقة اللون فوق الصورة" src="/coach-docs/assets/01-shared/06-section_bg_tint-medium-result.webp" loading="lazy" decoding="async"/></td>
 <td>«متوسطة»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «قوة طبقة اللون فوق الصورة»" src="/coach-docs/assets/01-shared/06-section_bg_tint-strong-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «قوة طبقة اللون فوق الصورة»" src="/coach-docs/assets/01-shared/06-section_bg_tint-strong-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — قوة طبقة اللون فوق الصورة" src="/coach-docs/assets/01-shared/06-section_bg_tint-strong-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — قوة طبقة اللون فوق الصورة" src="/coach-docs/assets/01-shared/06-section_bg_tint-strong-result.webp" loading="lazy" decoding="async"/></td>
 <td>«قوية»</td>
 </tr>
 </tbody>
@@ -265,8 +265,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «تمديد الخلفية بعرض الشاشة»" src="/coach-docs/assets/01-shared/07-section_bg_full-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — تمديد الخلفية بعرض الشاشة" src="/coach-docs/assets/01-shared/07-section_bg_full-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — تمديد الخلفية بعرض الشاشة" src="/coach-docs/assets/01-shared/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة بعد تفعيله (الافتراضي مطفأ)</td>
 </tr>
 </tbody>
@@ -293,8 +293,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «المسافة العلوية (بكسل)»" src="/coach-docs/assets/01-shared/08-top_spacing-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «المسافة العلوية (بكسل)»" src="/coach-docs/assets/01-shared/00-desktop.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — المسافة العلوية (بكسل)" src="/coach-docs/assets/01-shared/08-top_spacing-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — المسافة العلوية (بكسل)" src="/coach-docs/assets/01-shared/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة: القسم بالقيمة الافتراضية</td>
 </tr>
 </tbody>
@@ -321,8 +321,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «المسافة السفلية (بكسل)»" src="/coach-docs/assets/01-shared/09-bottom_spacing-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «المسافة السفلية (بكسل)»" src="/coach-docs/assets/01-shared/00-desktop.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — المسافة السفلية (بكسل)" src="/coach-docs/assets/01-shared/09-bottom_spacing-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — المسافة السفلية (بكسل)" src="/coach-docs/assets/01-shared/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة: القسم بالقيمة الافتراضية</td>
 </tr>
 </tbody>

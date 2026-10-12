@@ -57,13 +57,13 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «طريقة عرض الباقات»" src="/coach-docs/assets/sections/10-coach-consult-plans/01-layout-tabs-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — طريقة عرض الباقات" src="/coach-docs/assets/sections/10-coach-consult-plans/01-layout-tabs-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — طريقة عرض الباقات" src="/coach-docs/assets/sections/10-coach-consult-plans/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>«تبويبات فوق بطاقة الباقة»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «طريقة عرض الباقات»" src="/coach-docs/assets/sections/10-coach-consult-plans/01-layout-choices-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «طريقة عرض الباقات»" src="/coach-docs/assets/sections/10-coach-consult-plans/01-layout-choices-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — طريقة عرض الباقات" src="/coach-docs/assets/sections/10-coach-consult-plans/01-layout-choices-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — طريقة عرض الباقات" src="/coach-docs/assets/sections/10-coach-consult-plans/01-layout-choices-result.webp" loading="lazy" decoding="async"/></td>
 <td>«اختيارات: قائمة باقات بسعر كل منها»</td>
 </tr>
 </tbody>
@@ -90,8 +90,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «العنوان الصغير (فوق العنوان)»" src="/coach-docs/assets/sections/10-coach-consult-plans/02-eyebrow-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «العنوان الصغير (فوق العنوان)»" src="/coach-docs/assets/sections/10-coach-consult-plans/02-eyebrow-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — العنوان الصغير (فوق العنوان)" src="/coach-docs/assets/sections/10-coach-consult-plans/02-eyebrow-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — العنوان الصغير (فوق العنوان)" src="/coach-docs/assets/sections/10-coach-consult-plans/02-eyebrow-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -118,8 +118,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «العنوان»" src="/coach-docs/assets/sections/10-coach-consult-plans/03-title-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «العنوان»" src="/coach-docs/assets/sections/10-coach-consult-plans/03-title-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — العنوان" src="/coach-docs/assets/sections/10-coach-consult-plans/03-title-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — العنوان" src="/coach-docs/assets/sections/10-coach-consult-plans/03-title-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -146,8 +146,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «الوصف»" src="/coach-docs/assets/sections/10-coach-consult-plans/04-description-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الوصف»" src="/coach-docs/assets/sections/10-coach-consult-plans/04-description-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الوصف" src="/coach-docs/assets/sections/10-coach-consult-plans/04-description-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — الوصف" src="/coach-docs/assets/sections/10-coach-consult-plans/04-description-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -174,8 +174,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «منتج الباقة»" src="/coach-docs/assets/sections/10-coach-consult-plans/05-plan1_product-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «منتج الباقة»" src="/coach-docs/assets/sections/10-coach-consult-plans/00-desktop.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — منتج الباقة" src="/coach-docs/assets/sections/10-coach-consult-plans/05-plan1_product-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — منتج الباقة" src="/coach-docs/assets/sections/10-coach-consult-plans/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة: القسم بالقيمة الافتراضية</td>
 </tr>
 </tbody>
@@ -202,8 +202,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «اسم الباقة»" src="/coach-docs/assets/sections/10-coach-consult-plans/06-plan1_name-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «اسم الباقة»" src="/coach-docs/assets/sections/10-coach-consult-plans/06-plan1_name-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — اسم الباقة" src="/coach-docs/assets/sections/10-coach-consult-plans/06-plan1_name-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — اسم الباقة" src="/coach-docs/assets/sections/10-coach-consult-plans/06-plan1_name-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -229,8 +229,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «سطر تحت الاسم»" src="/coach-docs/assets/sections/10-coach-consult-plans/07-plan1_subtitle-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «سطر تحت الاسم»" src="/coach-docs/assets/sections/10-coach-consult-plans/07-plan1_subtitle-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — سطر تحت الاسم" src="/coach-docs/assets/sections/10-coach-consult-plans/07-plan1_subtitle-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — سطر تحت الاسم" src="/coach-docs/assets/sections/10-coach-consult-plans/07-plan1_subtitle-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -256,8 +256,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «ملاحظة تحت السعر»" src="/coach-docs/assets/sections/10-coach-consult-plans/08-plan1_note-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — ملاحظة تحت السعر" src="/coach-docs/assets/sections/10-coach-consult-plans/08-plan1_note-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — ملاحظة تحت السعر" src="/coach-docs/assets/sections/10-coach-consult-plans/07-plan1_subtitle-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -283,8 +283,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «وسم بجانب الاسم (اختياري)»" src="/coach-docs/assets/sections/10-coach-consult-plans/09-plan1_tag-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — وسم بجانب الاسم (اختياري)" src="/coach-docs/assets/sections/10-coach-consult-plans/09-plan1_tag-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — وسم بجانب الاسم (اختياري)" src="/coach-docs/assets/sections/10-coach-consult-plans/07-plan1_subtitle-result.webp" loading="lazy" decoding="async"/></td>
 <td>النتيجة بنص تجريبي «مثال لنصّك هنا»</td>
 </tr>
 </tbody>
@@ -310,8 +310,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «المزايا (سطر لكل ميزة)»" src="/coach-docs/assets/sections/10-coach-consult-plans/10-plan1_features-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — المزايا (سطر لكل ميزة)" src="/coach-docs/assets/sections/10-coach-consult-plans/10-plan1_features-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — المزايا (سطر لكل ميزة)" src="/coach-docs/assets/sections/10-coach-consult-plans/07-plan1_subtitle-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -338,8 +338,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «منتج الباقة»" src="/coach-docs/assets/sections/10-coach-consult-plans/11-plan2_product-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «منتج الباقة»" src="/coach-docs/assets/sections/10-coach-consult-plans/00-desktop.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — منتج الباقة" src="/coach-docs/assets/sections/10-coach-consult-plans/11-plan2_product-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — منتج الباقة" src="/coach-docs/assets/sections/10-coach-consult-plans/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة: القسم بالقيمة الافتراضية</td>
 </tr>
 </tbody>
@@ -365,8 +365,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «اسم الباقة»" src="/coach-docs/assets/sections/10-coach-consult-plans/12-plan2_name-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «اسم الباقة»" src="/coach-docs/assets/sections/10-coach-consult-plans/12-plan2_name-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — اسم الباقة" src="/coach-docs/assets/sections/10-coach-consult-plans/12-plan2_name-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — اسم الباقة" src="/coach-docs/assets/sections/10-coach-consult-plans/12-plan2_name-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -392,8 +392,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «سطر تحت الاسم»" src="/coach-docs/assets/sections/10-coach-consult-plans/13-plan2_subtitle-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «سطر تحت الاسم»" src="/coach-docs/assets/sections/10-coach-consult-plans/13-plan2_subtitle-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — سطر تحت الاسم" src="/coach-docs/assets/sections/10-coach-consult-plans/13-plan2_subtitle-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — سطر تحت الاسم" src="/coach-docs/assets/sections/10-coach-consult-plans/13-plan2_subtitle-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -419,8 +419,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «ملاحظة تحت السعر»" src="/coach-docs/assets/sections/10-coach-consult-plans/14-plan2_note-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «ملاحظة تحت السعر»" src="/coach-docs/assets/sections/10-coach-consult-plans/14-plan2_note-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — ملاحظة تحت السعر" src="/coach-docs/assets/sections/10-coach-consult-plans/14-plan2_note-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — ملاحظة تحت السعر" src="/coach-docs/assets/sections/10-coach-consult-plans/14-plan2_note-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -446,8 +446,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «وسم بجانب الاسم (اختياري)»" src="/coach-docs/assets/sections/10-coach-consult-plans/15-plan2_tag-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «وسم بجانب الاسم (اختياري)»" src="/coach-docs/assets/sections/10-coach-consult-plans/15-plan2_tag-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — وسم بجانب الاسم (اختياري)" src="/coach-docs/assets/sections/10-coach-consult-plans/15-plan2_tag-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — وسم بجانب الاسم (اختياري)" src="/coach-docs/assets/sections/10-coach-consult-plans/15-plan2_tag-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -473,8 +473,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «المزايا (سطر لكل ميزة)»" src="/coach-docs/assets/sections/10-coach-consult-plans/16-plan2_features-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «المزايا (سطر لكل ميزة)»" src="/coach-docs/assets/sections/10-coach-consult-plans/16-plan2_features-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — المزايا (سطر لكل ميزة)" src="/coach-docs/assets/sections/10-coach-consult-plans/16-plan2_features-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — المزايا (سطر لكل ميزة)" src="/coach-docs/assets/sections/10-coach-consult-plans/16-plan2_features-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -501,8 +501,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «منتج الباقة»" src="/coach-docs/assets/sections/10-coach-consult-plans/17-plan3_product-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «منتج الباقة»" src="/coach-docs/assets/sections/10-coach-consult-plans/00-desktop.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — منتج الباقة" src="/coach-docs/assets/sections/10-coach-consult-plans/17-plan3_product-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — منتج الباقة" src="/coach-docs/assets/sections/10-coach-consult-plans/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة: القسم بالقيمة الافتراضية</td>
 </tr>
 </tbody>
@@ -528,8 +528,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «اسم الباقة»" src="/coach-docs/assets/sections/10-coach-consult-plans/18-plan3_name-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «اسم الباقة»" src="/coach-docs/assets/sections/10-coach-consult-plans/18-plan3_name-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — اسم الباقة" src="/coach-docs/assets/sections/10-coach-consult-plans/18-plan3_name-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — اسم الباقة" src="/coach-docs/assets/sections/10-coach-consult-plans/18-plan3_name-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -555,8 +555,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «سطر تحت الاسم»" src="/coach-docs/assets/sections/10-coach-consult-plans/19-plan3_subtitle-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — سطر تحت الاسم" src="/coach-docs/assets/sections/10-coach-consult-plans/19-plan3_subtitle-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — سطر تحت الاسم" src="/coach-docs/assets/sections/10-coach-consult-plans/07-plan1_subtitle-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -582,8 +582,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «ملاحظة تحت السعر»" src="/coach-docs/assets/sections/10-coach-consult-plans/20-plan3_note-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — ملاحظة تحت السعر" src="/coach-docs/assets/sections/10-coach-consult-plans/20-plan3_note-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — ملاحظة تحت السعر" src="/coach-docs/assets/sections/10-coach-consult-plans/07-plan1_subtitle-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -609,8 +609,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «وسم بجانب الاسم (اختياري)»" src="/coach-docs/assets/sections/10-coach-consult-plans/21-plan3_tag-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — وسم بجانب الاسم (اختياري)" src="/coach-docs/assets/sections/10-coach-consult-plans/21-plan3_tag-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — وسم بجانب الاسم (اختياري)" src="/coach-docs/assets/sections/10-coach-consult-plans/07-plan1_subtitle-result.webp" loading="lazy" decoding="async"/></td>
 <td>النتيجة بنص تجريبي «مثال لنصّك هنا»</td>
 </tr>
 </tbody>
@@ -636,8 +636,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «المزايا (سطر لكل ميزة)»" src="/coach-docs/assets/sections/10-coach-consult-plans/22-plan3_features-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — المزايا (سطر لكل ميزة)" src="/coach-docs/assets/sections/10-coach-consult-plans/22-plan3_features-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — المزايا (سطر لكل ميزة)" src="/coach-docs/assets/sections/10-coach-consult-plans/07-plan1_subtitle-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -664,8 +664,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «صورة جانبية»" src="/coach-docs/assets/sections/10-coach-consult-plans/23-image-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «صورة جانبية»" src="/coach-docs/assets/sections/10-coach-consult-plans/23-image-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — صورة جانبية" src="/coach-docs/assets/sections/10-coach-consult-plans/23-image-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — صورة جانبية" src="/coach-docs/assets/sections/10-coach-consult-plans/23-image-result.webp" loading="lazy" decoding="async"/></td>
 <td>النتيجة بصورة تجريبية</td>
 </tr>
 </tbody>
@@ -691,8 +691,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «مزايا مختصرة فوق الصورة»" src="/coach-docs/assets/sections/10-coach-consult-plans/24-perks-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «مزايا مختصرة فوق الصورة»" src="/coach-docs/assets/sections/10-coach-consult-plans/24-perks-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — مزايا مختصرة فوق الصورة" src="/coach-docs/assets/sections/10-coach-consult-plans/24-perks-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — مزايا مختصرة فوق الصورة" src="/coach-docs/assets/sections/10-coach-consult-plans/24-perks-result.webp" loading="lazy" decoding="async"/></td>
 <td>أول عنصر محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -713,8 +713,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «مزايا مختصرة فوق الصورة»" src="/coach-docs/assets/sections/10-coach-consult-plans/24-perks-icon-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «مزايا مختصرة فوق الصورة»" src="/coach-docs/assets/sections/10-coach-consult-plans/24-perks-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — مزايا مختصرة فوق الصورة" src="/coach-docs/assets/sections/10-coach-consult-plans/24-perks-icon-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — مزايا مختصرة فوق الصورة" src="/coach-docs/assets/sections/10-coach-consult-plans/24-perks-result.webp" loading="lazy" decoding="async"/></td>
 <td></td>
 </tr>
 </tbody>
@@ -735,8 +735,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «مزايا مختصرة فوق الصورة»" src="/coach-docs/assets/sections/10-coach-consult-plans/24-perks-text-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «مزايا مختصرة فوق الصورة»" src="/coach-docs/assets/sections/10-coach-consult-plans/24-perks-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — مزايا مختصرة فوق الصورة" src="/coach-docs/assets/sections/10-coach-consult-plans/24-perks-text-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — مزايا مختصرة فوق الصورة" src="/coach-docs/assets/sections/10-coach-consult-plans/24-perks-result.webp" loading="lazy" decoding="async"/></td>
 <td></td>
 </tr>
 </tbody>
@@ -763,8 +763,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «نص زر الإضافة للسلة»" src="/coach-docs/assets/sections/10-coach-consult-plans/25-button_label-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — نص زر الإضافة للسلة" src="/coach-docs/assets/sections/10-coach-consult-plans/25-button_label-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — نص زر الإضافة للسلة" src="/coach-docs/assets/sections/10-coach-consult-plans/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -789,18 +789,18 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «الباقة المختارة عند التحميل»" src="/coach-docs/assets/sections/10-coach-consult-plans/26-default_plan-1-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الباقة المختارة عند التحميل»" src="/coach-docs/assets/sections/10-coach-consult-plans/26-default_plan-1-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الباقة المختارة عند التحميل" src="/coach-docs/assets/sections/10-coach-consult-plans/26-default_plan-1-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — الباقة المختارة عند التحميل" src="/coach-docs/assets/sections/10-coach-consult-plans/26-default_plan-1-result.webp" loading="lazy" decoding="async"/></td>
 <td>«الباقة ١»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «الباقة المختارة عند التحميل»" src="/coach-docs/assets/sections/10-coach-consult-plans/26-default_plan-2-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الباقة المختارة عند التحميل»" src="/coach-docs/assets/sections/10-coach-consult-plans/26-default_plan-2-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الباقة المختارة عند التحميل" src="/coach-docs/assets/sections/10-coach-consult-plans/26-default_plan-2-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — الباقة المختارة عند التحميل" src="/coach-docs/assets/sections/10-coach-consult-plans/26-default_plan-2-result.webp" loading="lazy" decoding="async"/></td>
 <td>«الباقة ٢»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «الباقة المختارة عند التحميل»" src="/coach-docs/assets/sections/10-coach-consult-plans/26-default_plan-3-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الباقة المختارة عند التحميل»" src="/coach-docs/assets/sections/10-coach-consult-plans/26-default_plan-3-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الباقة المختارة عند التحميل" src="/coach-docs/assets/sections/10-coach-consult-plans/26-default_plan-3-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — الباقة المختارة عند التحميل" src="/coach-docs/assets/sections/10-coach-consult-plans/26-default_plan-3-result.webp" loading="lazy" decoding="async"/></td>
 <td>«الباقة ٣»</td>
 </tr>
 </tbody>

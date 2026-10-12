@@ -58,8 +58,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «السلة الجانبية (عند الضغط على أيقونة السلة)»" src="/coach-docs/assets/00-theme/05-cart/01-cart_mini_enabled-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — السلة الجانبية (عند الضغط على أيقونة السلة)" src="/coach-docs/assets/00-theme/05-cart/01-cart_mini_enabled-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — السلة الجانبية (عند الضغط على أيقونة السلة)" src="/coach-docs/assets/00-theme/05-cart/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة بعد إطفائه (الافتراضي مفعّل)</td>
 </tr>
 </tbody>
@@ -86,8 +86,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «السلة المصغّرة (عند مرور المؤشر على أيقونة السلة)»" src="/coach-docs/assets/00-theme/05-cart/02-cart_hover_enabled-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — السلة المصغّرة (عند مرور المؤشر على أيقونة السلة)" src="/coach-docs/assets/00-theme/05-cart/02-cart_hover_enabled-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — السلة المصغّرة (عند مرور المؤشر على أيقونة السلة)" src="/coach-docs/assets/00-theme/05-cart/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة بعد إطفائه (الافتراضي مفعّل)</td>
 </tr>
 </tbody>
@@ -113,23 +113,23 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «بعد إضافة منتج للسلة»" src="/coach-docs/assets/00-theme/05-cart/03-cart_after_add-drawer-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «بعد إضافة منتج للسلة»" src="/coach-docs/assets/00-theme/05-cart/03-cart_after_add-drawer-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — بعد إضافة منتج للسلة" src="/coach-docs/assets/00-theme/05-cart/03-cart_after_add-drawer-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — بعد إضافة منتج للسلة" src="/coach-docs/assets/00-theme/05-cart/03-cart_after_add-drawer-result.webp" loading="lazy" decoding="async"/></td>
 <td>«فتح السلة الجانبية»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «بعد إضافة منتج للسلة»" src="/coach-docs/assets/00-theme/05-cart/03-cart_after_add-mini-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — بعد إضافة منتج للسلة" src="/coach-docs/assets/00-theme/05-cart/03-cart_after_add-mini-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — بعد إضافة منتج للسلة" src="/coach-docs/assets/00-theme/05-cart/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>«إظهار السلة المصغّرة»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «بعد إضافة منتج للسلة»" src="/coach-docs/assets/00-theme/05-cart/03-cart_after_add-toast-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — بعد إضافة منتج للسلة" src="/coach-docs/assets/00-theme/05-cart/03-cart_after_add-toast-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — بعد إضافة منتج للسلة" src="/coach-docs/assets/00-theme/05-cart/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>«بطاقة المنتج المضاف»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «بعد إضافة منتج للسلة»" src="/coach-docs/assets/00-theme/05-cart/03-cart_after_add-message-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — بعد إضافة منتج للسلة" src="/coach-docs/assets/00-theme/05-cart/03-cart_after_add-message-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — بعد إضافة منتج للسلة" src="/coach-docs/assets/00-theme/05-cart/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>«رسالة سلة القصيرة»</td>
 </tr>
 </tbody>
@@ -156,8 +156,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «ملاحظة داخل السلة الجانبية والمصغّرة (اختياري)»" src="/coach-docs/assets/00-theme/05-cart/04-cart_drawer_note-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «ملاحظة داخل السلة الجانبية والمصغّرة (اختياري)»" src="/coach-docs/assets/00-theme/05-cart/04-cart_drawer_note-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — ملاحظة داخل السلة الجانبية والمصغّرة (اختياري)" src="/coach-docs/assets/00-theme/05-cart/04-cart_drawer_note-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — ملاحظة داخل السلة الجانبية والمصغّرة (اختياري)" src="/coach-docs/assets/00-theme/05-cart/04-cart_drawer_note-result.webp" loading="lazy" decoding="async"/></td>
 <td>النتيجة بنص تجريبي «مثال لنصّك هنا»</td>
 </tr>
 </tbody>
@@ -184,8 +184,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — ««قد يعجبك أيضاً» في السلة الجانبية»" src="/coach-docs/assets/00-theme/05-cart/05-cart_suggest_enabled-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — «قد يعجبك أيضاً» في السلة الجانبية" src="/coach-docs/assets/00-theme/05-cart/05-cart_suggest_enabled-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — «قد يعجبك أيضاً» في السلة الجانبية" src="/coach-docs/assets/00-theme/05-cart/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة بعد إطفائه (الافتراضي مفعّل)</td>
 </tr>
 </tbody>
@@ -212,8 +212,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «عنوان «قد يعجبك أيضاً» (اختياري)»" src="/coach-docs/assets/00-theme/05-cart/06-cart_suggest_title-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — عنوان «قد يعجبك أيضاً» (اختياري)" src="/coach-docs/assets/00-theme/05-cart/06-cart_suggest_title-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — عنوان «قد يعجبك أيضاً» (اختياري)" src="/coach-docs/assets/00-theme/05-cart/03-cart_after_add-drawer-result.webp" loading="lazy" decoding="async"/></td>
 <td>النتيجة بنص تجريبي «مثال لنصّك هنا»</td>
 </tr>
 </tbody>

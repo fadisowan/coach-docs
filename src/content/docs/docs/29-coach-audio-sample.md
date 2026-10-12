@@ -57,8 +57,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «العنوان الصغير (فوق العنوان)»" src="/coach-docs/assets/sections/29-coach-audio-sample/01-eyebrow-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «العنوان الصغير (فوق العنوان)»" src="/coach-docs/assets/sections/29-coach-audio-sample/01-eyebrow-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — العنوان الصغير (فوق العنوان)" src="/coach-docs/assets/sections/29-coach-audio-sample/01-eyebrow-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — العنوان الصغير (فوق العنوان)" src="/coach-docs/assets/sections/29-coach-audio-sample/01-eyebrow-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -85,8 +85,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «العنوان»" src="/coach-docs/assets/sections/29-coach-audio-sample/02-title-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «العنوان»" src="/coach-docs/assets/sections/29-coach-audio-sample/02-title-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — العنوان" src="/coach-docs/assets/sections/29-coach-audio-sample/02-title-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — العنوان" src="/coach-docs/assets/sections/29-coach-audio-sample/02-title-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -113,8 +113,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «الوصف»" src="/coach-docs/assets/sections/29-coach-audio-sample/03-description-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الوصف»" src="/coach-docs/assets/sections/29-coach-audio-sample/03-description-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الوصف" src="/coach-docs/assets/sections/29-coach-audio-sample/03-description-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — الوصف" src="/coach-docs/assets/sections/29-coach-audio-sample/03-description-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -141,8 +141,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «منتج الكتاب»" src="/coach-docs/assets/sections/29-coach-audio-sample/04-product-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «منتج الكتاب»" src="/coach-docs/assets/sections/29-coach-audio-sample/00-desktop.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — منتج الكتاب" src="/coach-docs/assets/sections/29-coach-audio-sample/04-product-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — منتج الكتاب" src="/coach-docs/assets/sections/29-coach-audio-sample/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة: القسم بالقيمة الافتراضية</td>
 </tr>
 </tbody>
@@ -169,8 +169,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «وصف قصير (اختياري)»" src="/coach-docs/assets/sections/29-coach-audio-sample/05-summary-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «وصف قصير (اختياري)»" src="/coach-docs/assets/sections/29-coach-audio-sample/05-summary-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — وصف قصير (اختياري)" src="/coach-docs/assets/sections/29-coach-audio-sample/05-summary-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — وصف قصير (اختياري)" src="/coach-docs/assets/sections/29-coach-audio-sample/05-summary-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -196,8 +196,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «المزايا (اختياري)»" src="/coach-docs/assets/sections/29-coach-audio-sample/06-features-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «المزايا (اختياري)»" src="/coach-docs/assets/sections/29-coach-audio-sample/06-features-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — المزايا (اختياري)" src="/coach-docs/assets/sections/29-coach-audio-sample/06-features-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — المزايا (اختياري)" src="/coach-docs/assets/sections/29-coach-audio-sample/06-features-result.webp" loading="lazy" decoding="async"/></td>
 <td>أول عنصر محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -218,8 +218,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «المزايا (اختياري)»" src="/coach-docs/assets/sections/29-coach-audio-sample/06-features-text-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «المزايا (اختياري)»" src="/coach-docs/assets/sections/29-coach-audio-sample/06-features-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — المزايا (اختياري)" src="/coach-docs/assets/sections/29-coach-audio-sample/06-features-text-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — المزايا (اختياري)" src="/coach-docs/assets/sections/29-coach-audio-sample/06-features-result.webp" loading="lazy" decoding="async"/></td>
 <td></td>
 </tr>
 </tbody>
@@ -246,8 +246,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «صورة الكتاب (اختياري)»" src="/coach-docs/assets/sections/29-coach-audio-sample/07-cover_image-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «صورة الكتاب (اختياري)»" src="/coach-docs/assets/sections/29-coach-audio-sample/07-cover_image-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — صورة الكتاب (اختياري)" src="/coach-docs/assets/sections/29-coach-audio-sample/07-cover_image-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — صورة الكتاب (اختياري)" src="/coach-docs/assets/sections/29-coach-audio-sample/07-cover_image-result.webp" loading="lazy" decoding="async"/></td>
 <td>النتيجة بصورة تجريبية</td>
 </tr>
 </tbody>
@@ -274,8 +274,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «نص زر الإضافة للسلة»" src="/coach-docs/assets/sections/29-coach-audio-sample/08-button_label-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — نص زر الإضافة للسلة" src="/coach-docs/assets/sections/29-coach-audio-sample/08-button_label-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — نص زر الإضافة للسلة" src="/coach-docs/assets/sections/29-coach-audio-sample/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -302,8 +302,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «رابط الملف الصوتي»" src="/coach-docs/assets/sections/29-coach-audio-sample/09-audio_url-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «رابط الملف الصوتي»" src="/coach-docs/assets/sections/29-coach-audio-sample/00-desktop.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — رابط الملف الصوتي" src="/coach-docs/assets/sections/29-coach-audio-sample/09-audio_url-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — رابط الملف الصوتي" src="/coach-docs/assets/sections/29-coach-audio-sample/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة: القسم بالقيمة الافتراضية</td>
 </tr>
 </tbody>
@@ -329,8 +329,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «عنوان المقطع»" src="/coach-docs/assets/sections/29-coach-audio-sample/10-track_title-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «عنوان المقطع»" src="/coach-docs/assets/sections/29-coach-audio-sample/10-track_title-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — عنوان المقطع" src="/coach-docs/assets/sections/29-coach-audio-sample/10-track_title-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — عنوان المقطع" src="/coach-docs/assets/sections/29-coach-audio-sample/10-track_title-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -356,8 +356,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «القارئ (تحت عنوان المقطع)»" src="/coach-docs/assets/sections/29-coach-audio-sample/11-narrator-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «القارئ (تحت عنوان المقطع)»" src="/coach-docs/assets/sections/29-coach-audio-sample/11-narrator-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — القارئ (تحت عنوان المقطع)" src="/coach-docs/assets/sections/29-coach-audio-sample/11-narrator-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — القارئ (تحت عنوان المقطع)" src="/coach-docs/assets/sections/29-coach-audio-sample/11-narrator-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>

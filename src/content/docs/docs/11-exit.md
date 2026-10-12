@@ -57,8 +57,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «نافذة العرض المنبثقة»" src="/coach-docs/assets/00-theme/11-exit/01-exit_enabled-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — نافذة العرض المنبثقة" src="/coach-docs/assets/00-theme/11-exit/01-exit_enabled-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — نافذة العرض المنبثقة" src="/coach-docs/assets/00-theme/11-exit/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة بعد إطفائه (الافتراضي مفعّل)</td>
 </tr>
 </tbody>
@@ -85,8 +85,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «كود الخصم»" src="/coach-docs/assets/00-theme/11-exit/02-exit_code-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «كود الخصم»" src="/coach-docs/assets/00-theme/11-exit/00-default-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — كود الخصم" src="/coach-docs/assets/00-theme/11-exit/02-exit_code-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — كود الخصم" src="/coach-docs/assets/00-theme/11-exit/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة بالقيمة الافتراضية</td>
 </tr>
 </tbody>
@@ -113,8 +113,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «السطر الصغير»" src="/coach-docs/assets/00-theme/11-exit/03-exit_title-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — السطر الصغير" src="/coach-docs/assets/00-theme/11-exit/03-exit_title-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — السطر الصغير" src="/coach-docs/assets/00-theme/11-exit/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>مكانه محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -141,8 +141,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «العرض»" src="/coach-docs/assets/00-theme/11-exit/04-exit_offer-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — العرض" src="/coach-docs/assets/00-theme/11-exit/04-exit_offer-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — العرض" src="/coach-docs/assets/00-theme/11-exit/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>مكانه محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -169,8 +169,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «سطر تحت العرض»" src="/coach-docs/assets/00-theme/11-exit/05-exit_text-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — سطر تحت العرض" src="/coach-docs/assets/00-theme/11-exit/05-exit_text-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — سطر تحت العرض" src="/coach-docs/assets/00-theme/11-exit/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>مكانه محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -197,8 +197,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «زر المتابعة»" src="/coach-docs/assets/00-theme/11-exit/06-exit_button-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — زر المتابعة" src="/coach-docs/assets/00-theme/11-exit/06-exit_button-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — زر المتابعة" src="/coach-docs/assets/00-theme/11-exit/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>مكانه محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -224,33 +224,33 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «متى تظهر»" src="/coach-docs/assets/00-theme/11-exit/07-exit_delay-3-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — متى تظهر" src="/coach-docs/assets/00-theme/11-exit/07-exit_delay-3-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — متى تظهر" src="/coach-docs/assets/00-theme/11-exit/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>«بعد ٣ ثوانٍ»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «متى تظهر»" src="/coach-docs/assets/00-theme/11-exit/07-exit_delay-5-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — متى تظهر" src="/coach-docs/assets/00-theme/11-exit/07-exit_delay-5-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — متى تظهر" src="/coach-docs/assets/00-theme/11-exit/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>«بعد ٥ ثوانٍ»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «متى تظهر»" src="/coach-docs/assets/00-theme/11-exit/07-exit_delay-10-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «متى تظهر»" src="/coach-docs/assets/00-theme/11-exit/07-exit_delay-10-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — متى تظهر" src="/coach-docs/assets/00-theme/11-exit/07-exit_delay-10-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — متى تظهر" src="/coach-docs/assets/00-theme/11-exit/07-exit_delay-10-result.webp" loading="lazy" decoding="async"/></td>
 <td>«بعد ١٠ ثوانٍ»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «متى تظهر»" src="/coach-docs/assets/00-theme/11-exit/07-exit_delay-20-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — متى تظهر" src="/coach-docs/assets/00-theme/11-exit/07-exit_delay-20-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — متى تظهر" src="/coach-docs/assets/00-theme/11-exit/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>«بعد ٢٠ ثانية»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «متى تظهر»" src="/coach-docs/assets/00-theme/11-exit/07-exit_delay-30-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — متى تظهر" src="/coach-docs/assets/00-theme/11-exit/07-exit_delay-30-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — متى تظهر" src="/coach-docs/assets/00-theme/11-exit/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>«بعد ٣٠ ثانية»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «متى تظهر»" src="/coach-docs/assets/00-theme/11-exit/07-exit_delay-60-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — متى تظهر" src="/coach-docs/assets/00-theme/11-exit/07-exit_delay-60-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — متى تظهر" src="/coach-docs/assets/00-theme/11-exit/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>«بعد دقيقة»</td>
 </tr>
 </tbody>

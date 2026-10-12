@@ -57,18 +57,18 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «مصدر الآراء»" src="/coach-docs/assets/sections/13-coach-reviews/01-source-manual-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «مصدر الآراء»" src="/coach-docs/assets/sections/13-coach-reviews/01-source-manual-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — مصدر الآراء" src="/coach-docs/assets/sections/13-coach-reviews/01-source-manual-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — مصدر الآراء" src="/coach-docs/assets/sections/13-coach-reviews/01-source-manual-result.webp" loading="lazy" decoding="async"/></td>
 <td>«آراء أكتبها بنفسي (القائمة أدناه)»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «مصدر الآراء»" src="/coach-docs/assets/sections/13-coach-reviews/01-source-store-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «مصدر الآراء»" src="/coach-docs/assets/sections/13-coach-reviews/01-source-store-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — مصدر الآراء" src="/coach-docs/assets/sections/13-coach-reviews/01-source-store-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — مصدر الآراء" src="/coach-docs/assets/sections/13-coach-reviews/01-source-store-result.webp" loading="lazy" decoding="async"/></td>
 <td>«تقييمات متجري في سلة»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «مصدر الآراء»" src="/coach-docs/assets/sections/13-coach-reviews/01-source-products-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «مصدر الآراء»" src="/coach-docs/assets/sections/13-coach-reviews/01-source-products-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — مصدر الآراء" src="/coach-docs/assets/sections/13-coach-reviews/01-source-products-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — مصدر الآراء" src="/coach-docs/assets/sections/13-coach-reviews/01-source-products-result.webp" loading="lazy" decoding="async"/></td>
 <td>«تقييمات منتجات أختارها»</td>
 </tr>
 </tbody>
@@ -96,8 +96,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «المنتجات»" src="/coach-docs/assets/sections/13-coach-reviews/02-products-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «المنتجات»" src="/coach-docs/assets/sections/13-coach-reviews/00-desktop.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — المنتجات" src="/coach-docs/assets/sections/13-coach-reviews/02-products-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — المنتجات" src="/coach-docs/assets/sections/13-coach-reviews/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة: القسم بالقيمة الافتراضية</td>
 </tr>
 </tbody>
@@ -122,13 +122,13 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «تقييمات سلة: أقل تقييم»" src="/coach-docs/assets/sections/13-coach-reviews/03-min_stars-4-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — تقييمات سلة: أقل تقييم" src="/coach-docs/assets/sections/13-coach-reviews/03-min_stars-4-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — تقييمات سلة: أقل تقييم" src="/coach-docs/assets/sections/13-coach-reviews/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>«٤ نجوم فأكثر»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «تقييمات سلة: أقل تقييم»" src="/coach-docs/assets/sections/13-coach-reviews/03-min_stars-5-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «تقييمات سلة: أقل تقييم»" src="/coach-docs/assets/sections/13-coach-reviews/03-min_stars-5-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — تقييمات سلة: أقل تقييم" src="/coach-docs/assets/sections/13-coach-reviews/03-min_stars-5-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — تقييمات سلة: أقل تقييم" src="/coach-docs/assets/sections/13-coach-reviews/03-min_stars-5-result.webp" loading="lazy" decoding="async"/></td>
 <td>«٥ نجوم فقط»</td>
 </tr>
 </tbody>
@@ -155,8 +155,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «تقييمات سلة: العدد»" src="/coach-docs/assets/sections/13-coach-reviews/04-limit-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «تقييمات سلة: العدد»" src="/coach-docs/assets/sections/13-coach-reviews/00-desktop.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — تقييمات سلة: العدد" src="/coach-docs/assets/sections/13-coach-reviews/04-limit-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — تقييمات سلة: العدد" src="/coach-docs/assets/sections/13-coach-reviews/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة: القسم بالقيمة الافتراضية</td>
 </tr>
 </tbody>
@@ -182,18 +182,18 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «طريقة العرض»" src="/coach-docs/assets/sections/13-coach-reviews/05-layout-wall-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — طريقة العرض" src="/coach-docs/assets/sections/13-coach-reviews/05-layout-wall-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — طريقة العرض" src="/coach-docs/assets/sections/13-coach-reviews/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>«جدار آراء بتخطيط متدرّج»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «طريقة العرض»" src="/coach-docs/assets/sections/13-coach-reviews/05-layout-stories-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «طريقة العرض»" src="/coach-docs/assets/sections/13-coach-reviews/05-layout-stories-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — طريقة العرض" src="/coach-docs/assets/sections/13-coach-reviews/05-layout-stories-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — طريقة العرض" src="/coach-docs/assets/sections/13-coach-reviews/05-layout-stories-result.webp" loading="lazy" decoding="async"/></td>
 <td>«قصص بالفيديو وبطاقات طولية»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «طريقة العرض»" src="/coach-docs/assets/sections/13-coach-reviews/05-layout-marquee-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «طريقة العرض»" src="/coach-docs/assets/sections/13-coach-reviews/05-layout-marquee-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — طريقة العرض" src="/coach-docs/assets/sections/13-coach-reviews/05-layout-marquee-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — طريقة العرض" src="/coach-docs/assets/sections/13-coach-reviews/05-layout-marquee-result.webp" loading="lazy" decoding="async"/></td>
 <td>«شريط آراء متحرك بصفّين»</td>
 </tr>
 </tbody>
@@ -221,8 +221,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «إظهار اسم صاحب الرأي»" src="/coach-docs/assets/sections/13-coach-reviews/06-show_name-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «إظهار اسم صاحب الرأي»" src="/coach-docs/assets/sections/13-coach-reviews/06-show_name-off-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — إظهار اسم صاحب الرأي" src="/coach-docs/assets/sections/13-coach-reviews/06-show_name-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — إظهار اسم صاحب الرأي" src="/coach-docs/assets/sections/13-coach-reviews/06-show_name-off-result.webp" loading="lazy" decoding="async"/></td>
 <td>النتيجة بعد إطفائه (الافتراضي مفعّل)</td>
 </tr>
 </tbody>
@@ -250,8 +250,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «تمديد الشريط بعرض الشاشة»" src="/coach-docs/assets/sections/13-coach-reviews/07-marquee_full-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «تمديد الشريط بعرض الشاشة»" src="/coach-docs/assets/sections/13-coach-reviews/07-marquee_full-on-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — تمديد الشريط بعرض الشاشة" src="/coach-docs/assets/sections/13-coach-reviews/07-marquee_full-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — تمديد الشريط بعرض الشاشة" src="/coach-docs/assets/sections/13-coach-reviews/07-marquee_full-on-result.webp" loading="lazy" decoding="async"/></td>
 <td>النتيجة بعد تفعيله (الافتراضي مطفأ)</td>
 </tr>
 </tbody>
@@ -278,8 +278,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «العنوان الصغير (فوق العنوان)»" src="/coach-docs/assets/sections/13-coach-reviews/08-eyebrow-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «العنوان الصغير (فوق العنوان)»" src="/coach-docs/assets/sections/13-coach-reviews/08-eyebrow-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — العنوان الصغير (فوق العنوان)" src="/coach-docs/assets/sections/13-coach-reviews/08-eyebrow-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — العنوان الصغير (فوق العنوان)" src="/coach-docs/assets/sections/13-coach-reviews/08-eyebrow-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -306,8 +306,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «العنوان»" src="/coach-docs/assets/sections/13-coach-reviews/09-title-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «العنوان»" src="/coach-docs/assets/sections/13-coach-reviews/09-title-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — العنوان" src="/coach-docs/assets/sections/13-coach-reviews/09-title-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — العنوان" src="/coach-docs/assets/sections/13-coach-reviews/09-title-result.webp" loading="lazy" decoding="async"/></td>
 <td>مكانه في القسم محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -335,8 +335,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «الوصف»" src="/coach-docs/assets/sections/13-coach-reviews/10-description-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الوصف»" src="/coach-docs/assets/sections/13-coach-reviews/00-desktop.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الوصف" src="/coach-docs/assets/sections/13-coach-reviews/10-description-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — الوصف" src="/coach-docs/assets/sections/13-coach-reviews/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة: القسم بالقيمة الافتراضية</td>
 </tr>
 </tbody>
@@ -364,8 +364,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «التقييم العام»" src="/coach-docs/assets/sections/13-coach-reviews/11-rating_value-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «التقييم العام»" src="/coach-docs/assets/sections/13-coach-reviews/00-desktop.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — التقييم العام" src="/coach-docs/assets/sections/13-coach-reviews/11-rating_value-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — التقييم العام" src="/coach-docs/assets/sections/13-coach-reviews/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة: القسم بالقيمة الافتراضية</td>
 </tr>
 </tbody>
@@ -393,8 +393,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «سطر عدد التقييمات»" src="/coach-docs/assets/sections/13-coach-reviews/12-rating_count-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «سطر عدد التقييمات»" src="/coach-docs/assets/sections/13-coach-reviews/00-desktop.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — سطر عدد التقييمات" src="/coach-docs/assets/sections/13-coach-reviews/12-rating_count-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — سطر عدد التقييمات" src="/coach-docs/assets/sections/13-coach-reviews/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة: القسم بالقيمة الافتراضية</td>
 </tr>
 </tbody>
@@ -421,8 +421,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «الآراء»" src="/coach-docs/assets/sections/13-coach-reviews/13-reviews-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الآراء»" src="/coach-docs/assets/sections/13-coach-reviews/13-reviews-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الآراء" src="/coach-docs/assets/sections/13-coach-reviews/13-reviews-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — الآراء" src="/coach-docs/assets/sections/13-coach-reviews/13-reviews-result.webp" loading="lazy" decoding="async"/></td>
 <td>أول عنصر محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -443,8 +443,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «الآراء»" src="/coach-docs/assets/sections/13-coach-reviews/13-reviews-quote-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الآراء»" src="/coach-docs/assets/sections/13-coach-reviews/13-reviews-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الآراء" src="/coach-docs/assets/sections/13-coach-reviews/13-reviews-quote-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — الآراء" src="/coach-docs/assets/sections/13-coach-reviews/13-reviews-result.webp" loading="lazy" decoding="async"/></td>
 <td></td>
 </tr>
 </tbody>
@@ -465,8 +465,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «الآراء»" src="/coach-docs/assets/sections/13-coach-reviews/13-reviews-name-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الآراء»" src="/coach-docs/assets/sections/13-coach-reviews/13-reviews-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الآراء" src="/coach-docs/assets/sections/13-coach-reviews/13-reviews-name-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — الآراء" src="/coach-docs/assets/sections/13-coach-reviews/13-reviews-result.webp" loading="lazy" decoding="async"/></td>
 <td></td>
 </tr>
 </tbody>
@@ -488,8 +488,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «الآراء»" src="/coach-docs/assets/sections/13-coach-reviews/13-reviews-role-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الآراء»" src="/coach-docs/assets/sections/13-coach-reviews/13-reviews-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الآراء" src="/coach-docs/assets/sections/13-coach-reviews/13-reviews-role-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — الآراء" src="/coach-docs/assets/sections/13-coach-reviews/13-reviews-result.webp" loading="lazy" decoding="async"/></td>
 <td></td>
 </tr>
 </tbody>
@@ -510,8 +510,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «الآراء»" src="/coach-docs/assets/sections/13-coach-reviews/13-reviews-product-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الآراء»" src="/coach-docs/assets/sections/13-coach-reviews/13-reviews-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الآراء" src="/coach-docs/assets/sections/13-coach-reviews/13-reviews-product-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — الآراء" src="/coach-docs/assets/sections/13-coach-reviews/13-reviews-result.webp" loading="lazy" decoding="async"/></td>
 <td></td>
 </tr>
 </tbody>
@@ -533,8 +533,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «الآراء»" src="/coach-docs/assets/sections/13-coach-reviews/13-reviews-avatar-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الآراء»" src="/coach-docs/assets/sections/13-coach-reviews/13-reviews-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الآراء" src="/coach-docs/assets/sections/13-coach-reviews/13-reviews-avatar-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — الآراء" src="/coach-docs/assets/sections/13-coach-reviews/13-reviews-result.webp" loading="lazy" decoding="async"/></td>
 <td></td>
 </tr>
 </tbody>
@@ -555,8 +555,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «الآراء»" src="/coach-docs/assets/sections/13-coach-reviews/13-reviews-rating-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الآراء»" src="/coach-docs/assets/sections/13-coach-reviews/13-reviews-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الآراء" src="/coach-docs/assets/sections/13-coach-reviews/13-reviews-rating-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — الآراء" src="/coach-docs/assets/sections/13-coach-reviews/13-reviews-result.webp" loading="lazy" decoding="async"/></td>
 <td></td>
 </tr>
 </tbody>
@@ -578,8 +578,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «الآراء»" src="/coach-docs/assets/sections/13-coach-reviews/13-reviews-video_url-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الآراء»" src="/coach-docs/assets/sections/13-coach-reviews/13-reviews-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الآراء" src="/coach-docs/assets/sections/13-coach-reviews/13-reviews-video_url-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — الآراء" src="/coach-docs/assets/sections/13-coach-reviews/13-reviews-result.webp" loading="lazy" decoding="async"/></td>
 <td></td>
 </tr>
 </tbody>
@@ -601,8 +601,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «الآراء»" src="/coach-docs/assets/sections/13-coach-reviews/13-reviews-video_image-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «الآراء»" src="/coach-docs/assets/sections/13-coach-reviews/13-reviews-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — الآراء" src="/coach-docs/assets/sections/13-coach-reviews/13-reviews-video_image-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — الآراء" src="/coach-docs/assets/sections/13-coach-reviews/13-reviews-result.webp" loading="lazy" decoding="async"/></td>
 <td></td>
 </tr>
 </tbody>

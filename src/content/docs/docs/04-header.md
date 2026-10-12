@@ -115,13 +115,13 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «شكل الهيدر»" src="/coach-docs/assets/00-theme/04-header/01-header_mode-classic-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — شكل الهيدر" src="/coach-docs/assets/00-theme/04-header/01-header_mode-classic-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — شكل الهيدر" src="/coach-docs/assets/00-theme/04-header/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>«الافتراضي»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «شكل الهيدر»" src="/coach-docs/assets/00-theme/04-header/01-header_mode-merge-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «شكل الهيدر»" src="/coach-docs/assets/00-theme/04-header/01-header_mode-merge-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — شكل الهيدر" src="/coach-docs/assets/00-theme/04-header/01-header_mode-merge-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — شكل الهيدر" src="/coach-docs/assets/00-theme/04-header/01-header_mode-merge-result.webp" loading="lazy" decoding="async"/></td>
 <td>«مدمج مع الواجهة (هيدر نافذة القوس)»</td>
 </tr>
 </tbody>
@@ -148,13 +148,13 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «الهيدر فوق صورة الواجهة»" src="/coach-docs/assets/00-theme/04-header/02-header_over_image-shade-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — الهيدر فوق صورة الواجهة" src="/coach-docs/assets/00-theme/04-header/02-header_over_image-shade-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — الهيدر فوق صورة الواجهة" src="/coach-docs/assets/00-theme/04-header/01-header_mode-merge-result.webp" loading="lazy" decoding="async"/></td>
 <td>«تدرّج داكن (الافتراضي)»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «الهيدر فوق صورة الواجهة»" src="/coach-docs/assets/00-theme/04-header/02-header_over_image-none-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — الهيدر فوق صورة الواجهة" src="/coach-docs/assets/00-theme/04-header/02-header_over_image-none-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — الهيدر فوق صورة الواجهة" src="/coach-docs/assets/00-theme/04-header/01-header_mode-merge-result.webp" loading="lazy" decoding="async"/></td>
 <td>«بلا طبقة — مدموج بالصورة»</td>
 </tr>
 </tbody>
@@ -181,8 +181,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «تثبيت الهيدر أعلى الصفحة»" src="/coach-docs/assets/00-theme/04-header/03-header_sticky-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — تثبيت الهيدر أعلى الصفحة" src="/coach-docs/assets/00-theme/04-header/03-header_sticky-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — تثبيت الهيدر أعلى الصفحة" src="/coach-docs/assets/00-theme/04-header/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة بعد إطفائه (الافتراضي مفعّل)</td>
 </tr>
 </tbody>
@@ -209,8 +209,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «خط خفيف أسفل الهيدر»" src="/coach-docs/assets/00-theme/04-header/04-header_line-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «خط خفيف أسفل الهيدر»" src="/coach-docs/assets/00-theme/04-header/04-header_line-on-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — خط خفيف أسفل الهيدر" src="/coach-docs/assets/00-theme/04-header/04-header_line-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — خط خفيف أسفل الهيدر" src="/coach-docs/assets/00-theme/04-header/04-header_line-on-result.webp" loading="lazy" decoding="async"/></td>
 <td>النتيجة بعد تفعيله (الافتراضي مطفأ)</td>
 </tr>
 </tbody>
@@ -237,8 +237,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «إظهار البحث»" src="/coach-docs/assets/00-theme/04-header/05-header_show_search-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «إظهار البحث»" src="/coach-docs/assets/00-theme/04-header/05-header_show_search-off-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — إظهار البحث" src="/coach-docs/assets/00-theme/04-header/05-header_show_search-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة النتيجة — إظهار البحث" src="/coach-docs/assets/00-theme/04-header/05-header_show_search-off-result.webp" loading="lazy" decoding="async"/></td>
 <td>النتيجة بعد إطفائه (الافتراضي مفعّل)</td>
 </tr>
 </tbody>
@@ -265,8 +265,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «طيّ الروابط الزائدة في قائمة «المزيد»»" src="/coach-docs/assets/00-theme/04-header/06-enable_more_menu-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — طيّ الروابط الزائدة في قائمة «المزيد»" src="/coach-docs/assets/00-theme/04-header/06-enable_more_menu-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — طيّ الروابط الزائدة في قائمة «المزيد»" src="/coach-docs/assets/00-theme/04-header/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة بعد إطفائه (الافتراضي مفعّل)</td>
 </tr>
 </tbody>
@@ -293,8 +293,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «نص زر الهيدر»" src="/coach-docs/assets/00-theme/04-header/07-header_cta_label-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — نص زر الهيدر" src="/coach-docs/assets/00-theme/04-header/07-header_cta_label-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — نص زر الهيدر" src="/coach-docs/assets/00-theme/04-header/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>مكانه محاط بإطار برتقالي</td>
 </tr>
 </tbody>
@@ -321,8 +321,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «رابط زر الهيدر»" src="/coach-docs/assets/00-theme/04-header/08-header_cta_link-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «رابط زر الهيدر»" src="/coach-docs/assets/00-theme/04-header/00-default-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — رابط زر الهيدر" src="/coach-docs/assets/00-theme/04-header/08-header_cta_link-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — رابط زر الهيدر" src="/coach-docs/assets/00-theme/04-header/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة بالقيمة الافتراضية</td>
 </tr>
 </tbody>
@@ -349,8 +349,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «شريط تنقّل سفلي للجوال»" src="/coach-docs/assets/00-theme/04-header/09-mobile_dock_enabled-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — شريط تنقّل سفلي للجوال" src="/coach-docs/assets/00-theme/04-header/09-mobile_dock_enabled-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — شريط تنقّل سفلي للجوال" src="/coach-docs/assets/00-theme/04-header/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة بعد تفعيله (الافتراضي مطفأ)</td>
 </tr>
 </tbody>
@@ -376,13 +376,13 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «شكل الشريط السفلي»" src="/coach-docs/assets/00-theme/04-header/10-mobile_dock_style-capsule-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — شكل الشريط السفلي" src="/coach-docs/assets/00-theme/04-header/10-mobile_dock_style-capsule-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — شكل الشريط السفلي" src="/coach-docs/assets/00-theme/04-header/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>«كبسولة عائمة»</td>
 </tr>
 <tr>
-<td><img alt="لوحة إعدادات — «شكل الشريط السفلي»" src="/coach-docs/assets/00-theme/04-header/10-mobile_dock_style-line-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — شكل الشريط السفلي" src="/coach-docs/assets/00-theme/04-header/10-mobile_dock_style-line-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — شكل الشريط السفلي" src="/coach-docs/assets/00-theme/04-header/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>«شريط بعرض الشاشة»</td>
 </tr>
 </tbody>
@@ -409,8 +409,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «البحث في الشريط السفلي»" src="/coach-docs/assets/00-theme/04-header/11-mobile_dock_search-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — البحث في الشريط السفلي" src="/coach-docs/assets/00-theme/04-header/11-mobile_dock_search-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — البحث في الشريط السفلي" src="/coach-docs/assets/00-theme/04-header/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة بعد إطفائه (الافتراضي مفعّل)</td>
 </tr>
 </tbody>
@@ -437,8 +437,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — ««حسابي» في الشريط السفلي»" src="/coach-docs/assets/00-theme/04-header/12-mobile_dock_account-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — «حسابي» في الشريط السفلي" src="/coach-docs/assets/00-theme/04-header/12-mobile_dock_account-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — «حسابي» في الشريط السفلي" src="/coach-docs/assets/00-theme/04-header/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة بعد إطفائه (الافتراضي مفعّل)</td>
 </tr>
 </tbody>
@@ -465,8 +465,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «زر بارز في الشريط السفلي: نصّه (اختياري)»" src="/coach-docs/assets/00-theme/04-header/13-mobile_dock_cta_label-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — زر بارز في الشريط السفلي: نصّه (اختياري)" src="/coach-docs/assets/00-theme/04-header/13-mobile_dock_cta_label-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — زر بارز في الشريط السفلي: نصّه (اختياري)" src="/coach-docs/assets/00-theme/04-header/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة بنص تجريبي «مثال لنصّك هنا»</td>
 </tr>
 </tbody>
@@ -493,8 +493,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «زر بارز في الشريط السفلي: رابطه»" src="/coach-docs/assets/00-theme/04-header/14-mobile_dock_cta_link-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — «زر بارز في الشريط السفلي: رابطه»" src="/coach-docs/assets/00-theme/04-header/00-default-result.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="لوحة إعدادات — زر بارز في الشريط السفلي: رابطه" src="/coach-docs/assets/00-theme/04-header/14-mobile_dock_cta_link-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — زر بارز في الشريط السفلي: رابطه" src="/coach-docs/assets/00-theme/04-header/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة بالقيمة الافتراضية</td>
 </tr>
 </tbody>
@@ -521,8 +521,8 @@ editUrl: false
 </thead>
 <tbody>
 <tr>
-<td><img alt="لوحة إعدادات — «إخفاء الشريط السفلي أثناء النزول»" src="/coach-docs/assets/00-theme/04-header/15-mobile_dock_hide-panel.webp" loading="lazy" decoding="async"/></td>
-<td><span class="missing-image">الصورة غير موجودة في ملفات التوثيق المرفقة</span></td>
+<td><img alt="لوحة إعدادات — إخفاء الشريط السفلي أثناء النزول" src="/coach-docs/assets/00-theme/04-header/15-mobile_dock_hide-panel.webp" loading="lazy" decoding="async"/></td>
+<td><img alt="معاينة مرجعية — إخفاء الشريط السفلي أثناء النزول" src="/coach-docs/assets/00-theme/04-header/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
 <td>النتيجة بعد إطفائه (الافتراضي مفعّل)</td>
 </tr>
 </tbody>
