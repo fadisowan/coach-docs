@@ -271,4 +271,4 @@ editUrl: false
 | <img src="/coach-docs/assets/sections/04-coach-hero-programs/18-section_bg_tint_product-strong-panel.webp" alt="لوحة إعدادات — قوة طبقة اللون فوق صورة المنتج" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/04-coach-hero-programs/18-section_bg_tint_product-strong-result.webp" alt="معاينة — قوة طبقة اللون فوق صورة المنتج" loading="lazy" decoding="async"/> | «قوية» |
 
 
-<div class="source-note">الإصدار 1.76.1 · صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>
+<div class="source-note">صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>

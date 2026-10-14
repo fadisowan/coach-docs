@@ -151,4 +151,4 @@ editUrl: false
 | <img src="/coach-docs/assets/sections/45-coach-living-word/08-interval-7-panel.webp" alt="لوحة إعدادات — تتبدّل الكلمة كل" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/45-coach-living-word/08-interval-7-result.webp" alt="معاينة — تتبدّل الكلمة كل" loading="lazy" decoding="async"/> | «٧ ثوانٍ» |
 
 
-<div class="source-note">الإصدار 1.76.1 · صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>
+<div class="source-note">صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>

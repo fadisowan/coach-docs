@@ -237,4 +237,4 @@ editUrl: false
 | <img src="/coach-docs/assets/sections/22-coach-program/13-side_follow-panel.webp" alt="لوحة إعدادات — مرافقة ناعمة أثناء التمرير" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/22-coach-program/01-layout-stack-result.webp" alt="معاينة — مرافقة ناعمة أثناء التمرير" loading="lazy" decoding="async"/> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
 
 
-<div class="source-note">الإصدار 1.76.1 · صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>
+<div class="source-note">صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>

@@ -116,4 +116,4 @@ editUrl: false
 | <img src="/coach-docs/assets/sections/19-coach-stats/03-bg_color-panel.webp" alt="لوحة إعدادات — لون اللوحة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/19-coach-stats/03-bg_color-result.webp" alt="معاينة — لون اللوحة" loading="lazy" decoding="async"/> | النتيجة بلون تجريبي #1F6F78 |
 
 
-<div class="source-note">الإصدار 1.76.1 · صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>
+<div class="source-note">صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>

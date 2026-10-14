@@ -145,4 +145,4 @@ editUrl: false
 | <img src="/coach-docs/assets/sections/39-coach-reels/05-products-panel.webp" alt="لوحة إعدادات — منتجات المقاطع (بنفس الترتيب)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/39-coach-reels/00-desktop.webp" alt="معاينة — منتجات المقاطع (بنفس الترتيب)" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
 
 
-<div class="source-note">الإصدار 1.76.1 · صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>
+<div class="source-note">صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>

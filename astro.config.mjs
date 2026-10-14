@@ -11,7 +11,7 @@ export default defineConfig({
   trailingSlash: 'always',
   markdown: { processor: unified({ rehypePlugins: [tableRegions] }) },
   integrations: [starlight({
-    title: 'دليل كوتش · 1.76.1',
+    title: 'دليل كوتش',
     description: 'التوثيق العربي لثيم Coach على منصة سلة — دليل الإعدادات والمكوّنات بالصور.',
     defaultLocale: 'root',
     locales: { root: { label: 'العربية', lang: 'ar', dir: 'rtl' } },

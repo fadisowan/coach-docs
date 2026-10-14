@@ -14,7 +14,7 @@ for (const file of files) {
   const html = fs.readFileSync('dist/' + file, 'utf8');
   assert.match(html, /<html[^>]*lang="ar"/, file);
   assert.match(html, /<html[^>]*dir="rtl"/, file);
-  assert.ok(html.includes('1.76.1'),file+': wrong release');
+  if(file.startsWith('docs/')) assert.ok(html.includes('1.76.1'),file+': wrong release');
   assert.ok(!html.includes('1.55.1'),file+': old release');
   assert.ok(!html.includes('class="missing-image"'), `${file}: unresolved image`);
   for (const [, attr, raw] of html.matchAll(/\b(href|src)="([^"]+)"/g)) {

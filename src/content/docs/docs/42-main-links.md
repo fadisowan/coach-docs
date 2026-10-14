@@ -53,7 +53,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/42-main-links/03-show_cats-panel.webp" alt="لوحة إعدادات — إظهار التصنيفات بدل الروابط" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">لم تُلتقط هذه المعاينة في حزمة الإصدار 1.76.1؛ عرضها يتطلب بيانات متجر في سلة.</span> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
+| <img src="/coach-docs/assets/sections/42-main-links/03-show_cats-panel.webp" alt="لوحة إعدادات — إظهار التصنيفات بدل الروابط" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">لم تُلتقط هذه المعاينة في الحزمة المرفقة؛ عرضها يتطلب بيانات متجر في سلة.</span> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
 
 ### «التصنيفات»
 
@@ -104,4 +104,4 @@ editUrl: false
 > ملاحظات البناء: لا عنصر: 03-show_cats-on-result.webp
 
 
-<div class="source-note">الإصدار 1.76.1 · صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>
+<div class="source-note">صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>

@@ -240,4 +240,4 @@ editUrl: false
 | <img src="/coach-docs/assets/sections/03-coach-hero-window/17-scroll_length-220-panel.webp" alt="لوحة إعدادات — طول التمرير" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/03-coach-hero-window/17-scroll_length-220-result.webp" alt="معاينة — طول التمرير" loading="lazy" decoding="async"/> | «طويل» |
 
 
-<div class="source-note">الإصدار 1.76.1 · صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>
+<div class="source-note">صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>

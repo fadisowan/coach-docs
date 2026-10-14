@@ -156,4 +156,4 @@ editUrl: false
 | <img src="/coach-docs/assets/sections/17-coach-faq/09-sticky_side-panel.webp" alt="لوحة إعدادات — تثبيت الجزء الجانبي أثناء التمرير" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/17-coach-faq/09-sticky_side-on-result.webp" alt="معاينة — تثبيت الجزء الجانبي أثناء التمرير" loading="lazy" decoding="async"/> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
 
 
-<div class="source-note">الإصدار 1.76.1 · صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>
+<div class="source-note">صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>

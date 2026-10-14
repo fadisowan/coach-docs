@@ -132,4 +132,4 @@ editUrl: false
 | <img src="/coach-docs/assets/sections/40-coach-departments/04-rows-image-panel.webp" alt="لوحة إعدادات — الأقسام" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/40-coach-departments/04-rows-result.webp" alt="معاينة — الأقسام" loading="lazy" decoding="async"/> |  |
 
 
-<div class="source-note">الإصدار 1.76.1 · صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>
+<div class="source-note">صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>

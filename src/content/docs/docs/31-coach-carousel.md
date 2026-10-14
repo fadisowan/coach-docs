@@ -164,4 +164,4 @@ editUrl: false
 | <img src="/coach-docs/assets/sections/31-coach-carousel/11-interval-panel.webp" alt="لوحة إعدادات — المدة بين الحركات (٢–١٠ ثوانٍ)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/31-coach-carousel/00-desktop.webp" alt="معاينة — المدة بين الحركات (٢–١٠ ثوانٍ)" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
 
 
-<div class="source-note">الإصدار 1.76.1 · صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>
+<div class="source-note">صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>

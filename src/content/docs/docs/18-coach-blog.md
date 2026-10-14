@@ -42,7 +42,7 @@ editUrl: false
 |---|---|---|
 | <img src="/coach-docs/assets/sections/18-coach-blog/01-layout-plain-panel.webp" alt="لوحة إعدادات — الشكل" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/18-coach-blog/00-desktop.webp" alt="معاينة — الشكل" loading="lazy" decoding="async"/> | «١ · بلا خلفية» |
 | <img src="/coach-docs/assets/sections/18-coach-blog/01-layout-cards-panel.webp" alt="لوحة إعدادات — الشكل" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/18-coach-blog/01-layout-cards-result.webp" alt="معاينة — الشكل" loading="lazy" decoding="async"/> | «٢ · بطاقات بخلفية» |
-| <img src="/coach-docs/assets/sections/18-coach-blog/01-layout-editorial-panel.webp" alt="لوحة إعدادات — الشكل" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">لم تُلتقط هذه المعاينة في حزمة الإصدار 1.76.1؛ عرضها يتطلب بيانات متجر في سلة.</span> | «٣ · تحريري» |
+| <img src="/coach-docs/assets/sections/18-coach-blog/01-layout-editorial-panel.webp" alt="لوحة إعدادات — الشكل" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">لم تُلتقط هذه المعاينة في الحزمة المرفقة؛ عرضها يتطلب بيانات متجر في سلة.</span> | «٣ · تحريري» |
 
 ### «العنوان الصغير (فوق العنوان)»
 
@@ -185,4 +185,4 @@ editUrl: false
 > ملاحظات البناء: لم يُعثر على النص لتمييزه: 00-desktop.webp · لا عنصر: 01-layout-editorial-result.webp
 
 
-<div class="source-note">الإصدار 1.76.1 · صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>
+<div class="source-note">صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>

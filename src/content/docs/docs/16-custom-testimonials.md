@@ -11,7 +11,7 @@ editUrl: false
 
 | كمبيوتر (1440) | جوال (390) |
 |---|---|
-| <span class="uncaptured-preview">لم تُلتقط هذه المعاينة في حزمة الإصدار 1.76.1؛ عرضها يتطلب بيانات متجر في سلة.</span> | <span class="uncaptured-preview">لم تُلتقط هذه المعاينة في حزمة الإصدار 1.76.1؛ عرضها يتطلب بيانات متجر في سلة.</span> |
+| <span class="uncaptured-preview">لم تُلتقط هذه المعاينة في الحزمة المرفقة؛ عرضها يتطلب بيانات متجر في سلة.</span> | <span class="uncaptured-preview">لم تُلتقط هذه المعاينة في الحزمة المرفقة؛ عرضها يتطلب بيانات متجر في سلة.</span> |
 
 خيارات مشتركة في هذا القسم، مشروحة مرة واحدة في [الخيارات المشتركة](/coach-docs/docs/01-shared/): «حجم العنوان»، «خلفية القسم»، «لون الخلفية المخصص»، «صورة خلفية القسم»، «قوة طبقة اللون فوق الصورة»، «تمديد الخلفية بعرض الشاشة»، «المسافة العلوية (بكسل)»، «المسافة السفلية (بكسل)».
 
@@ -36,7 +36,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/16-custom-testimonials/01-title-panel.webp" alt="لوحة إعدادات — العنوان" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">لم تُلتقط هذه المعاينة في حزمة الإصدار 1.76.1؛ عرضها يتطلب بيانات متجر في سلة.</span> | مكانه في القسم محاط بإطار برتقالي |
+| <img src="/coach-docs/assets/sections/16-custom-testimonials/01-title-panel.webp" alt="لوحة إعدادات — العنوان" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">لم تُلتقط هذه المعاينة في الحزمة المرفقة؛ عرضها يتطلب بيانات متجر في سلة.</span> | مكانه في القسم محاط بإطار برتقالي |
 
 ### «التقييمات»
 
@@ -46,7 +46,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/16-custom-testimonials/02-items-panel.webp" alt="لوحة إعدادات — التقييمات" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">لم تُلتقط هذه المعاينة في حزمة الإصدار 1.76.1؛ عرضها يتطلب بيانات متجر في سلة.</span> |  |
+| <img src="/coach-docs/assets/sections/16-custom-testimonials/02-items-panel.webp" alt="لوحة إعدادات — التقييمات" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">لم تُلتقط هذه المعاينة في الحزمة المرفقة؛ عرضها يتطلب بيانات متجر في سلة.</span> |  |
 
 #### «اسم العميل»
 
@@ -54,7 +54,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/16-custom-testimonials/02-items-name-panel.webp" alt="لوحة إعدادات — التقييمات" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">لم تُلتقط هذه المعاينة في حزمة الإصدار 1.76.1؛ عرضها يتطلب بيانات متجر في سلة.</span> |  |
+| <img src="/coach-docs/assets/sections/16-custom-testimonials/02-items-name-panel.webp" alt="لوحة إعدادات — التقييمات" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">لم تُلتقط هذه المعاينة في الحزمة المرفقة؛ عرضها يتطلب بيانات متجر في سلة.</span> |  |
 
 #### «صورة العميل (اختيارية)»
 
@@ -64,7 +64,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/16-custom-testimonials/02-items-avatar-panel.webp" alt="لوحة إعدادات — التقييمات" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">لم تُلتقط هذه المعاينة في حزمة الإصدار 1.76.1؛ عرضها يتطلب بيانات متجر في سلة.</span> |  |
+| <img src="/coach-docs/assets/sections/16-custom-testimonials/02-items-avatar-panel.webp" alt="لوحة إعدادات — التقييمات" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">لم تُلتقط هذه المعاينة في الحزمة المرفقة؛ عرضها يتطلب بيانات متجر في سلة.</span> |  |
 
 #### «عدد النجوم (١–٥)»
 
@@ -72,7 +72,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/16-custom-testimonials/02-items-stars-panel.webp" alt="لوحة إعدادات — التقييمات" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">لم تُلتقط هذه المعاينة في حزمة الإصدار 1.76.1؛ عرضها يتطلب بيانات متجر في سلة.</span> |  |
+| <img src="/coach-docs/assets/sections/16-custom-testimonials/02-items-stars-panel.webp" alt="لوحة إعدادات — التقييمات" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">لم تُلتقط هذه المعاينة في الحزمة المرفقة؛ عرضها يتطلب بيانات متجر في سلة.</span> |  |
 
 #### «نص التقييم»
 
@@ -80,10 +80,10 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/16-custom-testimonials/02-items-text-panel.webp" alt="لوحة إعدادات — التقييمات" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">لم تُلتقط هذه المعاينة في حزمة الإصدار 1.76.1؛ عرضها يتطلب بيانات متجر في سلة.</span> |  |
+| <img src="/coach-docs/assets/sections/16-custom-testimonials/02-items-text-panel.webp" alt="لوحة إعدادات — التقييمات" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">لم تُلتقط هذه المعاينة في الحزمة المرفقة؛ عرضها يتطلب بيانات متجر في سلة.</span> |  |
 
 ---
 > ملاحظات البناء: لا عنصر: 00-desktop.webp · لا عنصر: 01-title-result.webp · لا عنصر: 00-mobile.webp
 
 
-<div class="source-note">الإصدار 1.76.1 · صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>
+<div class="source-note">صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>

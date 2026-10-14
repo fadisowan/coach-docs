@@ -267,4 +267,4 @@ editUrl: false
 | <img src="/coach-docs/assets/sections/24-coach-hero-book/18-secondary_link-panel.webp" alt="لوحة إعدادات — رابط الزر الثاني (اختياري)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/24-coach-hero-book/00-desktop.webp" alt="معاينة — رابط الزر الثاني (اختياري)" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
 
 
-<div class="source-note">الإصدار 1.76.1 · صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>
+<div class="source-note">صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>

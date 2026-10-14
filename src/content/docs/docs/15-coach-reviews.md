@@ -277,4 +277,4 @@ editUrl: false
 | <img src="/coach-docs/assets/sections/15-coach-reviews/13-reviews-video_image-panel.webp" alt="لوحة إعدادات — الآراء" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/15-coach-reviews/13-reviews-result.webp" alt="معاينة — الآراء" loading="lazy" decoding="async"/> |  |
 
 
-<div class="source-note">الإصدار 1.76.1 · صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>
+<div class="source-note">صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>

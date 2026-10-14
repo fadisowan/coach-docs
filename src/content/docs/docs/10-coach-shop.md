@@ -311,4 +311,4 @@ editUrl: false
 | <img src="/coach-docs/assets/sections/10-coach-shop/23-tab_stagger-panel.webp" alt="لوحة إعدادات — دخول البطاقات تباعاً (الإعداد السابق)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/10-coach-shop/00-desktop.webp" alt="معاينة — دخول البطاقات تباعاً (الإعداد السابق)" loading="lazy" decoding="async"/> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
 
 
-<div class="source-note">الإصدار 1.76.1 · صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>
+<div class="source-note">صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>

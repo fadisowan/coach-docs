@@ -11,7 +11,7 @@ editUrl: false
 
 | كمبيوتر (1440) | جوال (390) |
 |---|---|
-| <span class="uncaptured-preview">لم تُلتقط هذه المعاينة في حزمة الإصدار 1.76.1؛ عرضها يتطلب بيانات متجر في سلة.</span> | <span class="uncaptured-preview">لم تُلتقط هذه المعاينة في حزمة الإصدار 1.76.1؛ عرضها يتطلب بيانات متجر في سلة.</span> |
+| <span class="uncaptured-preview">لم تُلتقط هذه المعاينة في الحزمة المرفقة؛ عرضها يتطلب بيانات متجر في سلة.</span> | <span class="uncaptured-preview">لم تُلتقط هذه المعاينة في الحزمة المرفقة؛ عرضها يتطلب بيانات متجر في سلة.</span> |
 
 خيارات مشتركة في هذا القسم، مشروحة مرة واحدة في [الخيارات المشتركة](/coach-docs/docs/01-shared/): «محاذاة العنوان والوصف»، «حجم العنوان»، «خلفية القسم»، «لون الخلفية المخصص»، «صورة خلفية القسم»، «قوة طبقة اللون فوق الصورة»، «تمديد الخلفية بعرض الشاشة»، «المسافة العلوية (بكسل)»، «المسافة السفلية (بكسل)».
 
@@ -36,7 +36,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/46-enhanced-slider/01-eyebrow-panel.webp" alt="لوحة إعدادات — العنوان الصغير (فوق العنوان)" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">لم تُلتقط هذه المعاينة في حزمة الإصدار 1.76.1؛ عرضها يتطلب بيانات متجر في سلة.</span> | النتيجة بنص تجريبي «مثال لنصّك هنا» |
+| <img src="/coach-docs/assets/sections/46-enhanced-slider/01-eyebrow-panel.webp" alt="لوحة إعدادات — العنوان الصغير (فوق العنوان)" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">لم تُلتقط هذه المعاينة في الحزمة المرفقة؛ عرضها يتطلب بيانات متجر في سلة.</span> | النتيجة بنص تجريبي «مثال لنصّك هنا» |
 
 ### «العنوان»
 
@@ -48,7 +48,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/46-enhanced-slider/02-title-panel.webp" alt="لوحة إعدادات — العنوان" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">لم تُلتقط هذه المعاينة في حزمة الإصدار 1.76.1؛ عرضها يتطلب بيانات متجر في سلة.</span> | النتيجة بنص تجريبي «مثال لنصّك هنا» |
+| <img src="/coach-docs/assets/sections/46-enhanced-slider/02-title-panel.webp" alt="لوحة إعدادات — العنوان" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">لم تُلتقط هذه المعاينة في الحزمة المرفقة؛ عرضها يتطلب بيانات متجر في سلة.</span> | النتيجة بنص تجريبي «مثال لنصّك هنا» |
 
 ### «الوصف»
 
@@ -60,7 +60,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/46-enhanced-slider/03-description-panel.webp" alt="لوحة إعدادات — الوصف" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">لم تُلتقط هذه المعاينة في حزمة الإصدار 1.76.1؛ عرضها يتطلب بيانات متجر في سلة.</span> | النتيجة بنص تجريبي «مثال لنصّك هنا» |
+| <img src="/coach-docs/assets/sections/46-enhanced-slider/03-description-panel.webp" alt="لوحة إعدادات — الوصف" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">لم تُلتقط هذه المعاينة في الحزمة المرفقة؛ عرضها يتطلب بيانات متجر في سلة.</span> | النتيجة بنص تجريبي «مثال لنصّك هنا» |
 
 ### «الصور»
 
@@ -69,7 +69,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/46-enhanced-slider/04-slides-panel.webp" alt="لوحة إعدادات — الصور" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">لم تُلتقط هذه المعاينة في حزمة الإصدار 1.76.1؛ عرضها يتطلب بيانات متجر في سلة.</span> |  |
+| <img src="/coach-docs/assets/sections/46-enhanced-slider/04-slides-panel.webp" alt="لوحة إعدادات — الصور" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">لم تُلتقط هذه المعاينة في الحزمة المرفقة؛ عرضها يتطلب بيانات متجر في سلة.</span> |  |
 
 #### «الصورة»
 
@@ -78,7 +78,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/46-enhanced-slider/04-slides-image-panel.webp" alt="لوحة إعدادات — الصور" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">لم تُلتقط هذه المعاينة في حزمة الإصدار 1.76.1؛ عرضها يتطلب بيانات متجر في سلة.</span> |  |
+| <img src="/coach-docs/assets/sections/46-enhanced-slider/04-slides-image-panel.webp" alt="لوحة إعدادات — الصور" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">لم تُلتقط هذه المعاينة في الحزمة المرفقة؛ عرضها يتطلب بيانات متجر في سلة.</span> |  |
 
 #### «العنوان»
 
@@ -87,7 +87,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/46-enhanced-slider/04-slides-title-panel.webp" alt="لوحة إعدادات — الصور" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">لم تُلتقط هذه المعاينة في حزمة الإصدار 1.76.1؛ عرضها يتطلب بيانات متجر في سلة.</span> |  |
+| <img src="/coach-docs/assets/sections/46-enhanced-slider/04-slides-title-panel.webp" alt="لوحة إعدادات — الصور" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">لم تُلتقط هذه المعاينة في الحزمة المرفقة؛ عرضها يتطلب بيانات متجر في سلة.</span> |  |
 
 #### «النص»
 
@@ -96,7 +96,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/46-enhanced-slider/04-slides-description-panel.webp" alt="لوحة إعدادات — الصور" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">لم تُلتقط هذه المعاينة في حزمة الإصدار 1.76.1؛ عرضها يتطلب بيانات متجر في سلة.</span> |  |
+| <img src="/coach-docs/assets/sections/46-enhanced-slider/04-slides-description-panel.webp" alt="لوحة إعدادات — الصور" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">لم تُلتقط هذه المعاينة في الحزمة المرفقة؛ عرضها يتطلب بيانات متجر في سلة.</span> |  |
 
 #### «الرابط (اختياري)»
 
@@ -104,7 +104,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/46-enhanced-slider/04-slides-url-panel.webp" alt="لوحة إعدادات — الصور" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">لم تُلتقط هذه المعاينة في حزمة الإصدار 1.76.1؛ عرضها يتطلب بيانات متجر في سلة.</span> |  |
+| <img src="/coach-docs/assets/sections/46-enhanced-slider/04-slides-url-panel.webp" alt="لوحة إعدادات — الصور" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">لم تُلتقط هذه المعاينة في الحزمة المرفقة؛ عرضها يتطلب بيانات متجر في سلة.</span> |  |
 
 #### «نص الزر»
 
@@ -114,7 +114,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/46-enhanced-slider/04-slides-button-panel.webp" alt="لوحة إعدادات — الصور" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">لم تُلتقط هذه المعاينة في حزمة الإصدار 1.76.1؛ عرضها يتطلب بيانات متجر في سلة.</span> |  |
+| <img src="/coach-docs/assets/sections/46-enhanced-slider/04-slides-button-panel.webp" alt="لوحة إعدادات — الصور" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">لم تُلتقط هذه المعاينة في الحزمة المرفقة؛ عرضها يتطلب بيانات متجر في سلة.</span> |  |
 
 #### «إزالة طبقة التعتيم»
 
@@ -123,10 +123,10 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/46-enhanced-slider/04-slides-without_overlay-panel.webp" alt="لوحة إعدادات — الصور" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">لم تُلتقط هذه المعاينة في حزمة الإصدار 1.76.1؛ عرضها يتطلب بيانات متجر في سلة.</span> |  |
+| <img src="/coach-docs/assets/sections/46-enhanced-slider/04-slides-without_overlay-panel.webp" alt="لوحة إعدادات — الصور" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">لم تُلتقط هذه المعاينة في الحزمة المرفقة؛ عرضها يتطلب بيانات متجر في سلة.</span> |  |
 
 ---
 > ملاحظات البناء: لا عنصر: 00-desktop.webp · لا عنصر: 00-mobile.webp · لا عنصر: 01-eyebrow-result.webp · لا عنصر: 02-title-result.webp · لا عنصر: 03-description-result.webp
 
 
-<div class="source-note">الإصدار 1.76.1 · صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>
+<div class="source-note">صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>

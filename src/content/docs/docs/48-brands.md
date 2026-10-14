@@ -13,7 +13,7 @@ editUrl: false
 
 | كمبيوتر (1440) | جوال (390) |
 |---|---|
-| <span class="uncaptured-preview">لم تُلتقط هذه المعاينة في حزمة الإصدار 1.76.1؛ عرضها يتطلب بيانات متجر في سلة.</span> | <span class="uncaptured-preview">لم تُلتقط هذه المعاينة في حزمة الإصدار 1.76.1؛ عرضها يتطلب بيانات متجر في سلة.</span> |
+| <span class="uncaptured-preview">لم تُلتقط هذه المعاينة في الحزمة المرفقة؛ عرضها يتطلب بيانات متجر في سلة.</span> | <span class="uncaptured-preview">لم تُلتقط هذه المعاينة في الحزمة المرفقة؛ عرضها يتطلب بيانات متجر في سلة.</span> |
 
 خيارات مشتركة في هذا القسم، مشروحة مرة واحدة في [الخيارات المشتركة](/coach-docs/docs/01-shared/): «حجم العنوان».
 
@@ -36,7 +36,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/48-brands/01-title-panel.webp" alt="لوحة إعدادات — العنوان" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">لم تُلتقط هذه المعاينة في حزمة الإصدار 1.76.1؛ عرضها يتطلب بيانات متجر في سلة.</span> | مكانه في القسم محاط بإطار برتقالي |
+| <img src="/coach-docs/assets/sections/48-brands/01-title-panel.webp" alt="لوحة إعدادات — العنوان" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">لم تُلتقط هذه المعاينة في الحزمة المرفقة؛ عرضها يتطلب بيانات متجر في سلة.</span> | مكانه في القسم محاط بإطار برتقالي |
 
 ### «الماركات التجارية»
 
@@ -47,10 +47,10 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/48-brands/02-brands-panel.webp" alt="لوحة إعدادات — الماركات التجارية" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">لم تُلتقط هذه المعاينة في حزمة الإصدار 1.76.1؛ عرضها يتطلب بيانات متجر في سلة.</span> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/48-brands/02-brands-panel.webp" alt="لوحة إعدادات — الماركات التجارية" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">لم تُلتقط هذه المعاينة في الحزمة المرفقة؛ عرضها يتطلب بيانات متجر في سلة.</span> | النتيجة: القسم بالقيمة الافتراضية |
 
 ---
 > ملاحظات البناء: لا عنصر: 00-desktop.webp · لا عنصر: 01-title-result.webp · لا عنصر: 00-mobile.webp
 
 
-<div class="source-note">الإصدار 1.76.1 · صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>
+<div class="source-note">صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>

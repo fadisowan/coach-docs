@@ -347,4 +347,4 @@ editUrl: false
 | <img src="/coach-docs/assets/sections/11-coach-consult-plans/26-default_plan-3-panel.webp" alt="لوحة إعدادات — الباقة المختارة عند التحميل" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/11-coach-consult-plans/26-default_plan-3-result.webp" alt="معاينة — الباقة المختارة عند التحميل" loading="lazy" decoding="async"/> | «الباقة ٣» |
 
 
-<div class="source-note">الإصدار 1.76.1 · صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>
+<div class="source-note">صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>

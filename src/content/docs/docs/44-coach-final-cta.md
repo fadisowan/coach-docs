@@ -181,4 +181,4 @@ editUrl: false
 | <img src="/coach-docs/assets/sections/44-coach-final-cta/12-words_pointer-panel.webp" alt="لوحة إعدادات — تتبع حركة الفأرة على الحاسوب" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/44-coach-final-cta/00-desktop.webp" alt="معاينة — تتبع حركة الفأرة على الحاسوب" loading="lazy" decoding="async"/> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
 
 
-<div class="source-note">الإصدار 1.76.1 · صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>
+<div class="source-note">صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>

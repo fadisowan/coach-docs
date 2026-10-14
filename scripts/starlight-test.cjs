@@ -44,7 +44,7 @@ const server = remote ? null : http.createServer((req,res) => {
       assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1),'Mobile overflow '+slug);
       assert.equal(await page.locator('h1').count(),1,slug);
       assert.equal(await page.locator('.missing-image').count(),0,slug);
-      assert.ok((await page.content()).includes('1.76.1'),slug);
+      if(slug.startsWith('docs/')) assert.ok((await page.content()).includes('1.76.1'),slug);
       const anchors=await page.locator('starlight-toc a').evaluateAll(els=>els.every(el=>document.getElementById(decodeURIComponent(el.hash.slice(1)))));
       assert.ok(anchors,'TOC '+slug);
     }

@@ -208,4 +208,4 @@ editUrl: false
 | <img src="/coach-docs/assets/sections/34-coach-spotlight/13-float-panel.webp" alt="لوحة إعدادات — صورة المنتج تطفو" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/34-coach-spotlight/10-tilt-on-result.webp" alt="معاينة — صورة المنتج تطفو" loading="lazy" decoding="async"/> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
 
 
-<div class="source-note">الإصدار 1.76.1 · صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>
+<div class="source-note">صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>

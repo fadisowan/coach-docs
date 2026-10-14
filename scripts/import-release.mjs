@@ -28,7 +28,7 @@ for(const entry of nav) {
   const image=(filename,kind,label)=>{
     if(!filename||!fs.existsSync(`assets/${entry.folder}/${filename}`)) {
       report.uncaptured.push({slug:entry.slug,field:label,kind});
-      return '<span class="uncaptured-preview">لم تُلتقط هذه المعاينة في حزمة الإصدار 1.76.1؛ عرضها يتطلب بيانات متجر في سلة.</span>';
+      return '<span class="uncaptured-preview">لم تُلتقط هذه المعاينة في الحزمة المرفقة؛ عرضها يتطلب بيانات متجر في سلة.</span>';
     }
     return `<img src="/coach-docs/assets/${entry.folder}/${filename}" alt="${escape(kind==='panel'?'لوحة إعدادات — '+label:'معاينة — '+label)}" loading="lazy" decoding="async"/>`;
   };
@@ -51,7 +51,7 @@ for(const entry of nav) {
   }
   body=chunks.join('').replace(/`\.\.\/\.\.\/01-shared\/`/g,'[الخيارات المشتركة](/coach-docs/docs/01-shared/)');
   const front=`---\ntitle: ${JSON.stringify(entry.title)}\ndescription: ${JSON.stringify('دليل ثيم كوتش 1.76.1 — '+entry.title)}\neditUrl: false\n---\n\n`;
-  fs.writeFileSync(`src/content/docs/docs/${entry.slug}.md`,front+body+'\n\n<div class="source-note">الإصدار 1.76.1 · صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>\n');
+  fs.writeFileSync(`src/content/docs/docs/${entry.slug}.md`,front+body+'\n\n<div class="source-note">صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>\n');
 }
 report.fields=fieldCount;report.pairs=pairCount;
 fs.writeFileSync('data.json',JSON.stringify(nav,null,2)+'\n');

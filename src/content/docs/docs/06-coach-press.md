@@ -82,4 +82,4 @@ editUrl: false
 | <img src="/coach-docs/assets/sections/06-coach-press/02-logos-url-panel.webp" alt="لوحة إعدادات — الجهات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/06-coach-press/02-logos-result.webp" alt="معاينة — الجهات" loading="lazy" decoding="async"/> |  |
 
 
-<div class="source-note">الإصدار 1.76.1 · صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>
+<div class="source-note">صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>
