@@ -1,0 +1,242 @@
+{
+ "kind": "settings",
+ "key": "coach_title_article",
+ "title": "١٤ · صفحة المقالة — شريط القراءة، صندوق الكاتب، وبطاقة الدعوة",
+ "folder": "00-theme/14-article",
+ "fields": [
+  {
+   "id": "article_progress",
+   "label": "شريط تقدّم القراءة",
+   "type": "مفتاح تشغيل وإطفاء",
+   "default": "مطفأ",
+   "what": "خط رفيع أعلى الشاشة يمتلئ مع القراءة.",
+   "when": "",
+   "empty": "",
+   "editor_hint": "خط رفيع أعلى الشاشة يمتلئ مع القراءة.",
+   "from_guide": "«شريط تقدّم القراءة»: خط رفيع أعلى الشاشة يمتلئ مع القراءة. مطفأ.",
+   "shows_when": "",
+   "pairs": [
+    {
+     "panel": "01-article_progress-panel.webp",
+     "result": "00-default-result.webp",
+     "note": "النتيجة بعد تفعيله (الافتراضي مطفأ)",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "article_author_box",
+   "label": "صندوق الكاتب أسفل المقالة",
+   "type": "مفتاح تشغيل وإطفاء",
+   "default": "مطفأ",
+   "what": "اسم الكاتب من سلة، مع الصورة والنبذة التاليتين.",
+   "when": "",
+   "empty": "",
+   "editor_hint": "اسم الكاتب من سلة، مع الصورة والنبذة التاليتين.",
+   "from_guide": "«صندوق الكاتب أسفل المقالة»: اسم الكاتب من سلة، ومعه «الصورة» و«النبذة» (فارغة تُخفى). مطفأ.",
+   "shows_when": "",
+   "pairs": [
+    {
+     "panel": "02-article_author_box-panel.webp",
+     "result": "00-default-result.webp",
+     "note": "النتيجة بعد تفعيله (الافتراضي مطفأ)",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "article_author_image",
+   "label": "صندوق الكاتب: الصورة",
+   "type": "صورة ترفعها",
+   "default": "بلا صورة",
+   "what": "صورة مربعة؛ فارغة تُخفى.",
+   "when": "",
+   "empty": "فارغة تُخفى",
+   "editor_hint": "صورة مربعة؛ فارغة تُخفى.",
+   "from_guide": "",
+   "shows_when": "«صندوق الكاتب أسفل المقالة» هو «مفعّل»",
+   "pairs": [
+    {
+     "panel": "03-article_author_image-panel.webp",
+     "result": "00-default-result.webp",
+     "note": "النتيجة بالقيمة الافتراضية",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "article_author_bio",
+   "label": "صندوق الكاتب: النبذة",
+   "type": "نص بعدة أسطر",
+   "default": "فارغ",
+   "what": "سطر أو سطران؛ فارغة تُخفى.",
+   "when": "",
+   "empty": "فارغة تُخفى",
+   "editor_hint": "سطر أو سطران؛ فارغة تُخفى.",
+   "from_guide": "",
+   "shows_when": "«صندوق الكاتب أسفل المقالة» هو «مفعّل»",
+   "pairs": [
+    {
+     "panel": "04-article_author_bio-panel.webp",
+     "result": "00-default-result.webp",
+     "note": "النتيجة بنص تجريبي «مثال لنصّك هنا»",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "article_cta",
+   "label": "بطاقة الدعوة أسفل المقالة",
+   "type": "مفتاح تشغيل وإطفاء",
+   "default": "مطفأ",
+   "what": "عنوان ونص وزران يقودان لبرنامج أو استشارة.",
+   "when": "",
+   "empty": "",
+   "editor_hint": "عنوان ونص وزران يقودان لبرنامج أو استشارة.",
+   "from_guide": "«بطاقة الدعوة أسفل المقالة»: عنوان ونص وزران بلون الثيم. كل زر يظهر مع رابطه فقط. مطفأة.",
+   "shows_when": "",
+   "pairs": [
+    {
+     "panel": "05-article_cta-panel.webp",
+     "result": "00-default-result.webp",
+     "note": "النتيجة بعد تفعيله (الافتراضي مطفأ)",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "article_cta_title",
+   "label": "بطاقة الدعوة: العنوان",
+   "type": "نص بسطر واحد",
+   "default": "جاهز للخطوة التالية؟",
+   "what": "سطر قصير.",
+   "when": "",
+   "empty": "",
+   "editor_hint": "سطر قصير.",
+   "from_guide": "",
+   "shows_when": "«بطاقة الدعوة أسفل المقالة» هو «مفعّل»",
+   "pairs": [
+    {
+     "panel": "06-article_cta_title-panel.webp",
+     "result": "00-default-result.webp",
+     "note": "مكانه محاط بإطار برتقالي",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "article_cta_text",
+   "label": "بطاقة الدعوة: النص",
+   "type": "نص بعدة أسطر",
+   "default": "برنامج عملي خطوة بخطوة، أو استشارة فردية تحدد البداية.",
+   "what": "جملة أو جملتان؛ فارغاً يُخفى.",
+   "when": "",
+   "empty": "فارغاً يُخفى",
+   "editor_hint": "جملة أو جملتان؛ فارغاً يُخفى.",
+   "from_guide": "",
+   "shows_when": "«بطاقة الدعوة أسفل المقالة» هو «مفعّل»",
+   "pairs": [
+    {
+     "panel": "07-article_cta_text-panel.webp",
+     "result": "00-default-result.webp",
+     "note": "مكانه محاط بإطار برتقالي",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "article_cta_button",
+   "label": "الزر الأول: نصّه",
+   "type": "نص بسطر واحد",
+   "default": "تفاصيل البرامج",
+   "what": "زر بلون الثيم.",
+   "when": "",
+   "empty": "",
+   "editor_hint": "زر بلون الثيم.",
+   "from_guide": "",
+   "shows_when": "«بطاقة الدعوة أسفل المقالة» هو «مفعّل»",
+   "pairs": [
+    {
+     "panel": "08-article_cta_button-panel.webp",
+     "result": "00-default-result.webp",
+     "note": "مكانه محاط بإطار برتقالي",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "article_cta_link",
+   "label": "الزر الأول: رابطه",
+   "type": "نص بسطر واحد",
+   "default": "فارغ",
+   "what": "فارغاً يُخفى الزر.",
+   "when": "",
+   "empty": "فارغاً يُخفى الزر",
+   "editor_hint": "فارغاً يُخفى الزر.",
+   "from_guide": "",
+   "shows_when": "«بطاقة الدعوة أسفل المقالة» هو «مفعّل»",
+   "pairs": [
+    {
+     "panel": "09-article_cta_link-panel.webp",
+     "result": "00-default-result.webp",
+     "note": "النتيجة بالقيمة الافتراضية",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "article_cta_button2",
+   "label": "الزر الثاني: نصّه",
+   "type": "نص بسطر واحد",
+   "default": "حجز استشارة",
+   "what": "زر بإطار.",
+   "when": "",
+   "empty": "",
+   "editor_hint": "زر بإطار.",
+   "from_guide": "",
+   "shows_when": "«بطاقة الدعوة أسفل المقالة» هو «مفعّل»",
+   "pairs": [
+    {
+     "panel": "10-article_cta_button2-panel.webp",
+     "result": "00-default-result.webp",
+     "note": "مكانه محاط بإطار برتقالي",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "article_cta_link2",
+   "label": "الزر الثاني: رابطه",
+   "type": "نص بسطر واحد",
+   "default": "فارغ",
+   "what": "فارغاً يُخفى الزر.",
+   "when": "",
+   "empty": "فارغاً يُخفى الزر",
+   "editor_hint": "فارغاً يُخفى الزر.",
+   "from_guide": "",
+   "shows_when": "«بطاقة الدعوة أسفل المقالة» هو «مفعّل»",
+   "pairs": [
+    {
+     "panel": "11-article_cta_link2-panel.webp",
+     "result": "00-default-result.webp",
+     "note": "النتيجة بنص تجريبي «مثال لنصّك هنا»",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  }
+ ],
+ "group_id": "coach_title_article",
+ "intro": "",
+ "guide": "صفحة المقالة فيها دائماً: رأس بالتصنيف (أو أول وسم) والعنوان والوصف المختصر إن اختلف عن أول النص، والكاتب والتاريخ ووقت القراءة؛ وفهرس «في هذه المقالة» من عناوين h2 إن كانت ثلاثة أو أكثر (جانبي على الكمبيوتر، قائمة تُفتح على الجوال والتابلت)؛ وأزرار المشاركة (واتساب، إكس، نسخ الرابط) بجانب الإعجاب؛ و«مقالات ذات صلة» صفاً من ثلاث بطاقات أسفل المقالة. وصندوق الخلاصة: فقرة داخل `<aside>` في محرر المقالة (عرض HTML).\n\n- «شريط تقدّم القراءة»: خط رفيع أعلى الشاشة يمتلئ مع القراءة. مطفأ.\n- «صندوق الكاتب أسفل المقالة»: اسم الكاتب من سلة، ومعه «الصورة» و«النبذة» (فارغة تُخفى). مطفأ.\n- «بطاقة الدعوة أسفل المقالة»: عنوان ونص وزران بلون الثيم. كل زر يظهر مع رابطه فقط. مطفأة.\n\n---"
+}

@@ -1,69 +1,24 @@
-# توثيق ثيم كوتش 1.55.1 — حزمة Claude Design
+# حزمة توثيق ثيم «كوتش» — الإصدار 1.76.1
 
-> صور «اللوحة» نسخة مطابقة لإعدادات القسم مرسومة من twilight.json، وليست لقطات من محرّر سلة. صور «النتيجة» من معاينة الثيم بمكوّنات سلة الحقيقية ومنتجات تجريبية.
+ثيم «كوتش» لمنصة سلة (Twilight): للمدربين والدورات والجلسات والكتب والاستشارات.
 
-ابدأ بـ `PROMPT-CLAUDE-DESIGN.md`.
+## ابدأ من هنا
+- **`coach-guide-for-chatgpt.md`** — الدليل الشامل بالعربي: كل مكوّن (اسمه، مساره، غرضه، كل حقوله بأنواعها وقيمها الافتراضية وخياراتها، وأسماء صوره)، ثم إعدادات الثيم العامة، ثم صفحات المتجر. ارفعه لـ ChatGPT أولاً.
+- `PROMPT-CLAUDE-DESIGN.md` — تعليمات لاستخدام الحزمة في Claude Design.
+- `manifest.json` — فهرس المجلدات.
 
-## المحتويات
+## المجلدات
+| المجلد | ما فيه |
+|---|---|
+| `00-theme/` | إعدادات الثيم العامة: 14 مجموعة، مجلد لكل مجموعة |
+| `01-shared/` | الخيارات المشتركة بين الأقسام (الخلفية، المحاذاة، حجم العنوان، المسافات) |
+| `sections/` | 48 مكوّناً، مجلد لكل مكوّن بترتيبه في twilight.json |
 
-- [١ · الهوية — الألوان، شكل الكلمات المميّزة، والخط](./00-theme/01-colors/README.md)
-- [٢ · الحركة والتأثيرات — حركة الأقسام، خلفية الصفحة، المؤشر، وطيران المنتج](./00-theme/02-motion/README.md)
-- [٣ · الشريط الإعلاني — نص وكود خصم وعدّاد أعلى كل الصفحات](./00-theme/03-announcement/README.md)
-- [٤ · الهيدر — الشكل والتثبيت والبحث والقائمة وزر الحجز وشريط الجوال السفلي](./00-theme/04-header/README.md)
-- [٥ · السلة — الجانبية والمصغّرة وما يحدث بعد الإضافة](./00-theme/05-cart/README.md)
-- [٦ · بطاقة المنتج — شكل الصورة، أشكال الأنواع، نسبة الخصم، وسم النوع و«أعلمني»](./00-theme/06-card/README.md)
-- [٧ · صفحة المنتج — الملاحظة و«يُشترى معاً» والصور والزر الثابت](./00-theme/07-product/README.md)
-- [٨ · صفحات التصنيفات والبحث — رأس التصنيف بصورته ومسار التنقل](./00-theme/08-listing/README.md)
-- [٩ · أزرار الشاشة — واتساب العائم، العودة للأعلى، وشاشة التحميل](./00-theme/09-whatsapp/README.md)
-- [١٠ · الفوتر — العنوان الكبير، النبذة، بطاقة الدعوة، واسم المتجر](./00-theme/10-footer/README.md)
-- [١١ · نافذة العرض المنبثقة — عرض بكود خصم يظهر بعد ثوانٍ، مرة في كل زيارة](./00-theme/11-exit/README.md)
-- [١٢ · أقسام سلة الجاهزة — لأقسام رائد إن أضفتها للرئيسية](./00-theme/12-raed/README.md)
-- [الخيارات المشتركة بين الأقسام](./01-shared/README.md)
-- [واجهة · ترحيب المدرّب](./sections/01-coach-hero/README.md)
-- [واجهة · فيديو وصور (٦ أشكال)](./sections/02-coach-hero-media/README.md)
-- [واجهة · نافذة القوس](./sections/03-coach-hero-window/README.md)
-- [عام · شريط نصي متحرك](./sections/04-coach-marquee/README.md)
-- [ثقة · ظهرتُ في](./sections/05-coach-press/README.md)
-- [المدرّب · تعرّف عليّ](./sections/06-coach-about/README.md)
-- [المدرّب · فريق التدريب](./sections/07-coach-trainers/README.md)
-- [المدرّب · البودكاست](./sections/08-coach-podcast/README.md)
-- [متجر · كل المنتجات بتبويبات](./sections/09-coach-shop/README.md)
-- [استشارات · باقات الجلسات الفردية](./sections/10-coach-consult-plans/README.md)
-- [عروض · بانر عرض (٣ أشكال)](./sections/11-coach-offer-banner/README.md)
-- [عام · خطوات البداية](./sections/12-coach-steps/README.md)
-- [ثقة · قصص نجاح المتعلّمين](./sections/13-coach-reviews/README.md)
-- [عام · الأسئلة الشائعة](./sections/14-coach-faq/README.md)
-- [عام · من المدوّنة](./sections/15-coach-blog/README.md)
-- [ثقة · شريط الأرقام](./sections/16-coach-stats/README.md)
-- [دورة · منهج الدورة](./sections/17-coach-curriculum/README.md)
-- [كتب · الكتاب بصيغ متعددة](./sections/18-coach-book-formats/README.md)
-- [تحويل · اختبار «ما البرنامج المناسب لي؟»](./sections/19-coach-product-finder/README.md)
-- [دورة · مسار التعلّم](./sections/20-coach-learning-path/README.md)
-- [دورة · البرنامج بمراحله](./sections/21-coach-program/README.md)
-- [استشارات · لقاء مباشر قادم](./sections/22-coach-live-event/README.md)
-- [واجهة · إطلاق كتاب](./sections/23-coach-hero-book/README.md)
-- [دورة · ماذا ستتعلّم](./sections/24-coach-outcomes/README.md)
-- [دورة · لمن هذا البرنامج](./sections/25-coach-audience/README.md)
-- [كتب · رفّ الكتب](./sections/26-coach-book-shelf/README.md)
-- [كتب · فهرس الكتاب](./sections/27-coach-book-toc/README.md)
-- [كتب · اقتباسات من الكتاب](./sections/28-coach-book-quotes/README.md)
-- [كتب · عيّنة صوتية](./sections/29-coach-audio-sample/README.md)
-- [كتب · سلسلة الكتب](./sections/30-coach-book-series/README.md)
-- [عروض · يُشترى معاً](./sections/31-coach-bundle/README.md)
-- [عام · كيف يصلك المنتج](./sections/32-coach-delivery/README.md)
-- [ثقة · ضمان الاسترجاع](./sections/33-coach-guarantee/README.md)
-- [متجر · شريط منتجات متحرّك](./sections/34-coach-carousel/README.md)
-- [متجر · الأكثر مبيعاً](./sections/35-coach-ranked/README.md)
-- [متجر · المنتج المميّز](./sections/36-coach-spotlight/README.md)
-- [متجر · رف ثلاثي الأبعاد](./sections/37-coach-shelf-3d/README.md)
-- [متجر · بطاقات بمعاينة](./sections/38-coach-reveal/README.md)
-- [كتب · رفّ تفاعلي بالكعوب](./sections/39-coach-spines/README.md)
-- [تحويل · الدليل المجاني](./sections/40-coach-free-guide/README.md)
-- [كتب · كتيّب يقلّب](./sections/41-coach-booklet/README.md)
-- [عام · مقاطع فيديو قصيرة](./sections/42-coach-reels/README.md)
-- [متجر · أقسام المتجر](./sections/43-coach-departments/README.md)
-- [متجر · التصنيفات بالصور (٦ أشكال)](./sections/44-coach-categories/README.md)
-- [تحويل · دعوة للإجراء (٦ أشكال)](./sections/45-coach-cta/README.md)
-- [تحويل · دعوة أخيرة بكلمات متحركة](./sections/46-coach-final-cta/README.md)
-- [قصة التحوّل · الكلمة الحيّة](./sections/47-coach-living-word/README.md)
-- [الماركات التجارية](./sections/48-brands/README.md)
+في كل مجلد: `README.md` (شرح بالعربي) و`manifest.json` (البيانات، وكل حقل صورة فيه اسم ملف موجود في المجلد نفسه) والصور.
+
+## الصور
+- 1545 صورة WebP بجودة 80، كل صورة أقل من 300 KB، وأسماؤها إنجليزية.
+- `00-desktop` شكل القسم الافتراضي على الكمبيوتر (1440)، و`00-mobile` على الجوال (390).
+- `NN-field-panel` نسخة مطابقة للوحة الإعدادات من twilight.json والحقل مميّز (ليست لقطة من محرر سلة).
+- `NN-field-value-result` النتيجة في المتجر بذلك الخيار؛ `on`/`off` للمفاتيح، و`default-result` للنتيجة الافتراضية.
+- الصور من معاينة الثيم بمنتجات تجريبية، لا من متجر حقيقي.

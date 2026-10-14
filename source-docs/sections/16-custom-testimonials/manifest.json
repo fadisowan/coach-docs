@@ -1,0 +1,148 @@
+{
+ "kind": "section",
+ "key": "custom-testimonials",
+ "title": "ثقة · آراء عملاء مخصصة",
+ "folder": "sections/16-custom-testimonials",
+ "fields": [
+  {
+   "id": "title",
+   "label": "العنوان",
+   "type": "نص بسطر واحد",
+   "default": "آراء العملاء",
+   "what": "عنوان القسم. ضع كلمة بين [[ ]] لتظهر مميّزة بالشكل المختار في «تخصيص الثيم».",
+   "when": "جملة قصيرة تقول ما يجده الزائر في القسم.",
+   "empty": "فارغاً باللغتين لا يظهر. إن مسحته بالعربية وحدها ظهر النص الإنجليزي.",
+   "editor_hint": "فارغاً باللغتين يُخفى. [[كلمة]] بلون المتجر.",
+   "from_guide": "",
+   "shows_when": "",
+   "pairs": [
+    {
+     "panel": "01-title-panel.webp",
+     "result": null,
+     "note": "مكانه في القسم محاط بإطار برتقالي",
+     "panel_ok": true,
+     "result_ok": false
+    }
+   ]
+  },
+  {
+   "id": "items",
+   "label": "التقييمات",
+   "type": "عناصر متكررة (تضيفها وتحذفها وترتّبها)",
+   "default": "بلا عناصر",
+   "what": "بلا تقييمات لا يظهر القسم.",
+   "when": "",
+   "empty": "بلا تقييمات لا يظهر القسم",
+   "editor_hint": "بلا تقييمات لا يظهر القسم.",
+   "from_guide": "أهم الإعدادات:** «التقييمات» حتى ٣٠ (اسم العميل، وصورته اختيارية، وعدد النجوم، ونص التقييم).",
+   "shows_when": "",
+   "pairs": [
+    {
+     "panel": "02-items-panel.webp",
+     "result": null,
+     "panel_ok": true,
+     "result_ok": false
+    }
+   ],
+   "item_fields": [
+    {
+     "id": "items.name",
+     "label": "اسم العميل",
+     "type": "نص بسطر واحد",
+     "default": "فارغ",
+     "what": "",
+     "when": "",
+     "empty": "",
+     "editor_hint": "",
+     "from_guide": "",
+     "shows_when": "",
+     "pairs": [
+      {
+       "panel": "02-items-name-panel.webp",
+       "result": null,
+       "panel_ok": true,
+       "result_ok": false
+      }
+     ]
+    },
+    {
+     "id": "items.avatar",
+     "label": "صورة العميل (اختيارية)",
+     "type": "صورة ترفعها",
+     "default": "بلا صورة",
+     "what": "مربعة نحو ١٦٠×١٦٠؛ بدونها أيقونة.",
+     "when": "",
+     "empty": "بدونها أيقونة",
+     "editor_hint": "مربعة نحو ١٦٠×١٦٠؛ بدونها أيقونة.",
+     "from_guide": "",
+     "shows_when": "",
+     "pairs": [
+      {
+       "panel": "02-items-avatar-panel.webp",
+       "result": null,
+       "panel_ok": true,
+       "result_ok": false
+      }
+     ]
+    },
+    {
+     "id": "items.stars",
+     "label": "عدد النجوم (١–٥)",
+     "type": "رقم",
+     "default": "5",
+     "what": "",
+     "when": "",
+     "empty": "",
+     "editor_hint": "",
+     "from_guide": "",
+     "shows_when": "",
+     "pairs": [
+      {
+       "panel": "02-items-stars-panel.webp",
+       "result": null,
+       "panel_ok": true,
+       "result_ok": false
+      }
+     ]
+    },
+    {
+     "id": "items.text",
+     "label": "نص التقييم",
+     "type": "نص بعدة أسطر",
+     "default": "فارغ",
+     "what": "",
+     "when": "",
+     "empty": "",
+     "editor_hint": "",
+     "from_guide": "",
+     "shows_when": "",
+     "pairs": [
+      {
+       "panel": "02-items-text-panel.webp",
+       "result": null,
+       "panel_ok": true,
+       "result_ok": false
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "slug": "custom-testimonials",
+ "title_en": "Trust · Custom testimonials",
+ "intro": "آراء عملاء تُكتب يدوياً، رأي واحد في كل مرة بصورة واسم ونجوم، وتتبدّل وحدها.",
+ "when": "",
+ "desktop": null,
+ "mobile": null,
+ "shared": [
+  "حجم العنوان",
+  "خلفية القسم",
+  "لون الخلفية المخصص",
+  "صورة خلفية القسم",
+  "قوة طبقة اللون فوق الصورة",
+  "تمديد الخلفية بعرض الشاشة",
+  "المسافة العلوية (بكسل)",
+  "المسافة السفلية (بكسل)"
+ ],
+ "guide": "آراء تُكتب يدوياً، رأي واحد في كل مرة بصورة واسم ونجوم، تتبدّل وحدها وتقف عند مرور المؤشر.\n\n- **أهم الإعدادات:** «التقييمات» حتى ٣٠ (اسم العميل، وصورته اختيارية، وعدد النجوم، ونص التقييم).\n- **مهم:** بلا تقييمات لا يظهر القسم للزوار. تُكتب آراء حقيقية فقط."
+}

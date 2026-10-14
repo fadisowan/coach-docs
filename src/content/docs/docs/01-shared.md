@@ -1,332 +1,130 @@
 ---
 title: "الخيارات المشتركة بين الأقسام"
-description: "شرح الخيارات المشتركة بين الأقسام في ثيم كوتش مع صور الإعدادات والنتائج."
+description: "دليل ثيم كوتش 1.76.1 — الخيارات المشتركة بين الأقسام"
 editUrl: false
 ---
 
 
-<p>تتكرر في أغلب الأقسام بالاسم نفسه وتعمل بالطريقة نفسها. الصور من قسم «دورة · لمن هذا البرنامج» مثالاً.</p>
-<div class="table-scroll" tabindex="0" role="region" aria-label="صور الإعدادات والنتائج"><table>
-<thead>
-<tr>
-<th>النتيجة الافتراضية</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><img alt="معاينة النتيجة — الخيارات المشتركة بين الأقسام" src="/coach-docs/assets/01-shared/00-desktop.webp" loading="lazy" decoding="async"/></td>
-</tr>
-</tbody>
-</table></div>
+تتكرر في أغلب الأقسام بالاسم نفسه وتعمل بالطريقة نفسها. الصور من قسم «دورة · لمن هذا البرنامج» مثالاً.
 
+| النتيجة الافتراضية |
+|---|
+| <img src="/coach-docs/assets/01-shared/00-desktop.webp" alt="معاينة — الخيارات المشتركة بين الأقسام" loading="lazy" decoding="async"/> |
 
 ## الإعدادات بترتيبها في اللوحة
 
-
-
-
 ### «محاذاة العنوان والوصف»
 
+- **النوع:** قائمة منسدلة · **الافتراضي:** الوسط · المعرّف `head_align`
+- **ماذا يفعل:** محاذاة العنوان والوصف: بداية السطر، أو الوسط، أو نهاية السطر. البداية يمين في العربية ويسار في الإنجليزية.
+- **متى تستعمله:** «الوسط» لأقسام قصيرة في منتصف الصفحة، و«البداية» للأقسام الطويلة.
 
-<ul>
-<li><strong>النوع:</strong> قائمة منسدلة · <strong>الافتراضي:</strong> الوسط · المعرّف <code>head_align</code></li>
-<li><strong>ماذا يفعل:</strong> محاذاة العنوان والوصف: بداية السطر، أو الوسط، أو نهاية السطر. البداية يمين في العربية ويسار في الإنجليزية.</li>
-<li><strong>متى تستعمله:</strong> «الوسط» لأقسام قصيرة في منتصف الصفحة، و«البداية» للأقسام الطويلة.</li>
-</ul>
-<div class="table-scroll" tabindex="0" role="region" aria-label="صور الإعدادات والنتائج"><table>
-<thead>
-<tr>
-<th>اللوحة (نسخة مطابقة)</th>
-<th>النتيجة</th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><img alt="لوحة إعدادات — محاذاة العنوان والوصف" src="/coach-docs/assets/01-shared/01-head_align-start-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — محاذاة العنوان والوصف" src="/coach-docs/assets/01-shared/01-head_align-start-result.webp" loading="lazy" decoding="async"/></td>
-<td>«بداية السطر»</td>
-</tr>
-<tr>
-<td><img alt="لوحة إعدادات — محاذاة العنوان والوصف" src="/coach-docs/assets/01-shared/01-head_align-center-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — محاذاة العنوان والوصف" src="/coach-docs/assets/01-shared/01-head_align-center-result.webp" loading="lazy" decoding="async"/></td>
-<td>«الوسط»</td>
-</tr>
-<tr>
-<td><img alt="لوحة إعدادات — محاذاة العنوان والوصف" src="/coach-docs/assets/01-shared/01-head_align-end-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — محاذاة العنوان والوصف" src="/coach-docs/assets/01-shared/01-head_align-end-result.webp" loading="lazy" decoding="async"/></td>
-<td>«نهاية السطر»</td>
-</tr>
-</tbody>
-</table></div>
-
+| اللوحة (نسخة مطابقة) | النتيجة | |
+|---|---|---|
+| <img src="/coach-docs/assets/01-shared/01-head_align-start-panel.webp" alt="لوحة إعدادات — محاذاة العنوان والوصف" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/01-shared/01-head_align-start-result.webp" alt="معاينة — محاذاة العنوان والوصف" loading="lazy" decoding="async"/> | «بداية السطر» |
+| <img src="/coach-docs/assets/01-shared/01-head_align-center-panel.webp" alt="لوحة إعدادات — محاذاة العنوان والوصف" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/01-shared/01-head_align-center-result.webp" alt="معاينة — محاذاة العنوان والوصف" loading="lazy" decoding="async"/> | «الوسط» |
+| <img src="/coach-docs/assets/01-shared/01-head_align-end-panel.webp" alt="لوحة إعدادات — محاذاة العنوان والوصف" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/01-shared/01-head_align-end-result.webp" alt="معاينة — محاذاة العنوان والوصف" loading="lazy" decoding="async"/> | «نهاية السطر» |
 
 ### «حجم العنوان»
 
+- **النوع:** قائمة منسدلة · **الافتراضي:** متوسط (الافتراضي) · المعرّف `title_size`
+- **ماذا يفعل:** حجم عنوان القسم: صغير أو متوسط أو كبير، نسبةً إلى عناوين الثيم فتبقى الصفحة متناسقة.
+- **متى تستعمله:** «كبير» لقسم تريده أن يلفت النظر، و«صغير» للأقسام الثانوية.
 
-<ul>
-<li><strong>النوع:</strong> قائمة منسدلة · <strong>الافتراضي:</strong> متوسط (الافتراضي) · المعرّف <code>title_size</code></li>
-<li><strong>ماذا يفعل:</strong> حجم عنوان القسم: صغير أو متوسط أو كبير، نسبةً إلى عناوين الثيم فتبقى الصفحة متناسقة.</li>
-<li><strong>متى تستعمله:</strong> «كبير» لقسم تريده أن يلفت النظر، و«صغير» للأقسام الثانوية.</li>
-</ul>
-<div class="table-scroll" tabindex="0" role="region" aria-label="صور الإعدادات والنتائج"><table>
-<thead>
-<tr>
-<th>اللوحة (نسخة مطابقة)</th>
-<th>النتيجة</th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><img alt="لوحة إعدادات — حجم العنوان" src="/coach-docs/assets/01-shared/02-title_size-small-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — حجم العنوان" src="/coach-docs/assets/01-shared/02-title_size-small-result.webp" loading="lazy" decoding="async"/></td>
-<td>«صغير»</td>
-</tr>
-<tr>
-<td><img alt="لوحة إعدادات — حجم العنوان" src="/coach-docs/assets/01-shared/02-title_size-medium-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — حجم العنوان" src="/coach-docs/assets/01-shared/02-title_size-medium-result.webp" loading="lazy" decoding="async"/></td>
-<td>«متوسط (الافتراضي)»</td>
-</tr>
-<tr>
-<td><img alt="لوحة إعدادات — حجم العنوان" src="/coach-docs/assets/01-shared/02-title_size-large-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — حجم العنوان" src="/coach-docs/assets/01-shared/02-title_size-large-result.webp" loading="lazy" decoding="async"/></td>
-<td>«كبير»</td>
-</tr>
-</tbody>
-</table></div>
-
+| اللوحة (نسخة مطابقة) | النتيجة | |
+|---|---|---|
+| <img src="/coach-docs/assets/01-shared/02-title_size-small-panel.webp" alt="لوحة إعدادات — حجم العنوان" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/01-shared/02-title_size-small-result.webp" alt="معاينة — حجم العنوان" loading="lazy" decoding="async"/> | «صغير» |
+| <img src="/coach-docs/assets/01-shared/02-title_size-medium-panel.webp" alt="لوحة إعدادات — حجم العنوان" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/01-shared/02-title_size-medium-result.webp" alt="معاينة — حجم العنوان" loading="lazy" decoding="async"/> | «متوسط (الافتراضي)» |
+| <img src="/coach-docs/assets/01-shared/02-title_size-large-panel.webp" alt="لوحة إعدادات — حجم العنوان" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/01-shared/02-title_size-large-result.webp" alt="معاينة — حجم العنوان" loading="lazy" decoding="async"/> | «كبير» |
 
 ### «خلفية القسم»
 
+- **النوع:** قائمة منسدلة · **الافتراضي:** بدون (كما هو) · المعرّف `section_bg`
+- **ماذا يفعل:** لون خلف القسم: بدون، أو أبيض، أو لون فاتح أو داكن من الثيم، أو لون تختاره، أو صورة عليها طبقة من لون الثيم. النصوص تصير فاتحة مع الداكن والصورة.
+- **متى تستعمله:** لفصل قسم عن الذي قبله، أو لإبراز قسم مهم بلوح داكن.
+- شرحه تحت الحقل في المحرّر: النصوص فاتحة مع الداكن والصورة.
 
-<ul>
-<li><strong>النوع:</strong> قائمة منسدلة · <strong>الافتراضي:</strong> بدون (كما هو) · المعرّف <code>section_bg</code></li>
-<li><strong>ماذا يفعل:</strong> لون خلف القسم: بدون، أو أبيض، أو لون فاتح أو داكن من الثيم، أو لون تختاره، أو صورة عليها طبقة من لون الثيم. النصوص تصير فاتحة مع الداكن والصورة.</li>
-<li><strong>متى تستعمله:</strong> لفصل قسم عن الذي قبله، أو لإبراز قسم مهم بلوح داكن.</li>
-<li>شرحه تحت الحقل في المحرّر: النصوص فاتحة مع الداكن والصورة.</li>
-</ul>
-<div class="table-scroll" tabindex="0" role="region" aria-label="صور الإعدادات والنتائج"><table>
-<thead>
-<tr>
-<th>اللوحة (نسخة مطابقة)</th>
-<th>النتيجة</th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><img alt="لوحة إعدادات — خلفية القسم" src="/coach-docs/assets/01-shared/03-section_bg-none-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — خلفية القسم" src="/coach-docs/assets/01-shared/03-section_bg-none-result.webp" loading="lazy" decoding="async"/></td>
-<td>«بدون (كما هو)»</td>
-</tr>
-<tr>
-<td><img alt="لوحة إعدادات — خلفية القسم" src="/coach-docs/assets/01-shared/03-section_bg-white-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — خلفية القسم" src="/coach-docs/assets/01-shared/03-section_bg-white-result.webp" loading="lazy" decoding="async"/></td>
-<td>«أبيض»</td>
-</tr>
-<tr>
-<td><img alt="لوحة إعدادات — خلفية القسم" src="/coach-docs/assets/01-shared/03-section_bg-soft-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — خلفية القسم" src="/coach-docs/assets/01-shared/03-section_bg-soft-result.webp" loading="lazy" decoding="async"/></td>
-<td>«لون فاتح من الثيم»</td>
-</tr>
-<tr>
-<td><img alt="لوحة إعدادات — خلفية القسم" src="/coach-docs/assets/01-shared/03-section_bg-dark-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — خلفية القسم" src="/coach-docs/assets/01-shared/03-section_bg-dark-result.webp" loading="lazy" decoding="async"/></td>
-<td>«لون داكن من الثيم»</td>
-</tr>
-<tr>
-<td><img alt="لوحة إعدادات — خلفية القسم" src="/coach-docs/assets/01-shared/03-section_bg-custom-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — خلفية القسم" src="/coach-docs/assets/01-shared/03-section_bg-custom-result.webp" loading="lazy" decoding="async"/></td>
-<td>«لون مخصص»</td>
-</tr>
-<tr>
-<td><img alt="لوحة إعدادات — خلفية القسم" src="/coach-docs/assets/01-shared/03-section_bg-image-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — خلفية القسم" src="/coach-docs/assets/01-shared/03-section_bg-image-result.webp" loading="lazy" decoding="async"/></td>
-<td>«صورة بطبقة من لون الثيم»</td>
-</tr>
-</tbody>
-</table></div>
-
+| اللوحة (نسخة مطابقة) | النتيجة | |
+|---|---|---|
+| <img src="/coach-docs/assets/01-shared/03-section_bg-none-panel.webp" alt="لوحة إعدادات — خلفية القسم" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/01-shared/00-desktop.webp" alt="معاينة — خلفية القسم" loading="lazy" decoding="async"/> | «بدون (كما هو)» |
+| <img src="/coach-docs/assets/01-shared/03-section_bg-white-panel.webp" alt="لوحة إعدادات — خلفية القسم" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/01-shared/03-section_bg-white-result.webp" alt="معاينة — خلفية القسم" loading="lazy" decoding="async"/> | «أبيض» |
+| <img src="/coach-docs/assets/01-shared/03-section_bg-soft-panel.webp" alt="لوحة إعدادات — خلفية القسم" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/01-shared/03-section_bg-soft-result.webp" alt="معاينة — خلفية القسم" loading="lazy" decoding="async"/> | «لون فاتح من الثيم» |
+| <img src="/coach-docs/assets/01-shared/03-section_bg-dark-panel.webp" alt="لوحة إعدادات — خلفية القسم" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/01-shared/03-section_bg-dark-result.webp" alt="معاينة — خلفية القسم" loading="lazy" decoding="async"/> | «لون داكن من الثيم» |
+| <img src="/coach-docs/assets/01-shared/03-section_bg-custom-panel.webp" alt="لوحة إعدادات — خلفية القسم" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/01-shared/03-section_bg-custom-result.webp" alt="معاينة — خلفية القسم" loading="lazy" decoding="async"/> | «لون مخصص» |
+| <img src="/coach-docs/assets/01-shared/03-section_bg-image-panel.webp" alt="لوحة إعدادات — خلفية القسم" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/01-shared/03-section_bg-image-result.webp" alt="معاينة — خلفية القسم" loading="lazy" decoding="async"/> | «صورة بطبقة من لون الثيم» |
 
 ### «لون الخلفية المخصص»
 
+- **النوع:** لون · **الافتراضي:** فارغ · المعرّف `section_bg_color`
+- **ماذا يفعل:** اللون الذي تختاره خلف القسم. لون النص يتكيّف معه تلقائياً.
+- **متى تستعمله:** حين لا تناسبك ألوان الثيم الجاهزة.
+- **حين يكون فارغاً:** فارغاً بلا لون مخصص.
+- **يظهر في اللوحة فقط حين:** «خلفية القسم» هو «لون مخصص»
 
-<ul>
-<li><strong>النوع:</strong> لون · <strong>الافتراضي:</strong> فارغ · المعرّف <code>section_bg_color</code></li>
-<li><strong>ماذا يفعل:</strong> اللون الذي تختاره خلف القسم. لون النص يتكيّف معه تلقائياً.</li>
-<li><strong>متى تستعمله:</strong> حين لا تناسبك ألوان الثيم الجاهزة.</li>
-<li><strong>حين يكون فارغاً:</strong> فارغاً بلا لون مخصص.</li>
-<li><strong>يظهر في اللوحة فقط حين:</strong> «خلفية القسم» هو «لون مخصص»</li>
-<li>شرحه تحت الحقل في المحرّر: لون النص يتكيّف معه.</li>
-</ul>
-<div class="table-scroll" tabindex="0" role="region" aria-label="صور الإعدادات والنتائج"><table>
-<thead>
-<tr>
-<th>اللوحة (نسخة مطابقة)</th>
-<th>النتيجة</th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><img alt="لوحة إعدادات — لون الخلفية المخصص" src="/coach-docs/assets/01-shared/04-section_bg_color-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — لون الخلفية المخصص" src="/coach-docs/assets/01-shared/04-section_bg_color-result.webp" loading="lazy" decoding="async"/></td>
-<td>النتيجة بلون تجريبي #1F6F78</td>
-</tr>
-</tbody>
-</table></div>
-
+| اللوحة (نسخة مطابقة) | النتيجة | |
+|---|---|---|
+| <img src="/coach-docs/assets/01-shared/04-section_bg_color-panel.webp" alt="لوحة إعدادات — لون الخلفية المخصص" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/01-shared/04-section_bg_color-result.webp" alt="معاينة — لون الخلفية المخصص" loading="lazy" decoding="async"/> | النتيجة بلون تجريبي #1F6F78 |
 
 ### «صورة خلفية القسم»
 
+- **النوع:** صورة ترفعها · **الافتراضي:** بلا صورة · المعرّف `section_bg_image`
+- **ماذا يفعل:** صورة خلف القسم، عريضة (١٦٠٠×٩٠٠ فأكبر)، عليها طبقة من لون الثيم لتبقى النصوص مقروءة.
+- **متى تستعمله:** لقسم تريده بصرياً أكثر، مثل الدعوة أو الإحصاءات.
+- **حين يكون فارغاً:** بدونها يظهر اللون الداكن من الثيم.
+- **يظهر في اللوحة فقط حين:** «خلفية القسم» هو «صورة بطبقة من لون الثيم»
+- شرحه تحت الحقل في المحرّر: 1600×900 فأكبر؛ بدونها الداكن.
 
-<ul>
-<li><strong>النوع:</strong> صورة ترفعها · <strong>الافتراضي:</strong> بلا صورة · المعرّف <code>section_bg_image</code></li>
-<li><strong>ماذا يفعل:</strong> صورة خلف القسم، عريضة (١٦٠٠×٩٠٠ فأكبر)، عليها طبقة من لون الثيم لتبقى النصوص مقروءة.</li>
-<li><strong>متى تستعمله:</strong> لقسم تريده بصرياً أكثر، مثل الدعوة أو الإحصاءات.</li>
-<li><strong>حين يكون فارغاً:</strong> بدونها يظهر اللون الداكن من الثيم.</li>
-<li><strong>يظهر في اللوحة فقط حين:</strong> «خلفية القسم» هو «صورة بطبقة من لون الثيم»</li>
-<li>شرحه تحت الحقل في المحرّر: 1600×900 فأكبر؛ بدونها الداكن.</li>
-</ul>
-<div class="table-scroll" tabindex="0" role="region" aria-label="صور الإعدادات والنتائج"><table>
-<thead>
-<tr>
-<th>اللوحة (نسخة مطابقة)</th>
-<th>النتيجة</th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><img alt="لوحة إعدادات — صورة خلفية القسم" src="/coach-docs/assets/01-shared/05-section_bg_image-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — صورة خلفية القسم" src="/coach-docs/assets/01-shared/05-section_bg_image-result.webp" loading="lazy" decoding="async"/></td>
-<td>النتيجة بصورة تجريبية</td>
-</tr>
-</tbody>
-</table></div>
-
+| اللوحة (نسخة مطابقة) | النتيجة | |
+|---|---|---|
+| <img src="/coach-docs/assets/01-shared/05-section_bg_image-panel.webp" alt="لوحة إعدادات — صورة خلفية القسم" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/01-shared/05-section_bg_image-result.webp" alt="معاينة — صورة خلفية القسم" loading="lazy" decoding="async"/> | النتيجة بصورة تجريبية |
 
 ### «قوة طبقة اللون فوق الصورة»
 
+- **النوع:** قائمة منسدلة · **الافتراضي:** متوسطة · المعرّف `section_bg_tint`
+- **ماذا يفعل:** قوة طبقة اللون فوق صورة الخلفية: خفيفة أو متوسطة أو قوية.
+- **متى تستعمله:** «قوية» للصور الفاتحة أو المزدحمة حتى تبقى النصوص واضحة.
+- **يظهر في اللوحة فقط حين:** «خلفية القسم» هو «صورة بطبقة من لون الثيم»
+- شرحه تحت الحقل في المحرّر: «قوية» للصور الفاتحة.
 
-<ul>
-<li><strong>النوع:</strong> قائمة منسدلة · <strong>الافتراضي:</strong> متوسطة · المعرّف <code>section_bg_tint</code></li>
-<li><strong>ماذا يفعل:</strong> قوة طبقة اللون فوق صورة الخلفية: خفيفة أو متوسطة أو قوية.</li>
-<li><strong>متى تستعمله:</strong> «قوية» للصور الفاتحة أو المزدحمة حتى تبقى النصوص واضحة.</li>
-<li><strong>يظهر في اللوحة فقط حين:</strong> «خلفية القسم» هو «صورة بطبقة من لون الثيم»</li>
-<li>شرحه تحت الحقل في المحرّر: «قوية» للصور الفاتحة.</li>
-</ul>
-<div class="table-scroll" tabindex="0" role="region" aria-label="صور الإعدادات والنتائج"><table>
-<thead>
-<tr>
-<th>اللوحة (نسخة مطابقة)</th>
-<th>النتيجة</th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><img alt="لوحة إعدادات — قوة طبقة اللون فوق الصورة" src="/coach-docs/assets/01-shared/06-section_bg_tint-light-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — قوة طبقة اللون فوق الصورة" src="/coach-docs/assets/01-shared/06-section_bg_tint-light-result.webp" loading="lazy" decoding="async"/></td>
-<td>«خفيفة»</td>
-</tr>
-<tr>
-<td><img alt="لوحة إعدادات — قوة طبقة اللون فوق الصورة" src="/coach-docs/assets/01-shared/06-section_bg_tint-medium-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — قوة طبقة اللون فوق الصورة" src="/coach-docs/assets/01-shared/06-section_bg_tint-medium-result.webp" loading="lazy" decoding="async"/></td>
-<td>«متوسطة»</td>
-</tr>
-<tr>
-<td><img alt="لوحة إعدادات — قوة طبقة اللون فوق الصورة" src="/coach-docs/assets/01-shared/06-section_bg_tint-strong-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — قوة طبقة اللون فوق الصورة" src="/coach-docs/assets/01-shared/06-section_bg_tint-strong-result.webp" loading="lazy" decoding="async"/></td>
-<td>«قوية»</td>
-</tr>
-</tbody>
-</table></div>
-
+| اللوحة (نسخة مطابقة) | النتيجة | |
+|---|---|---|
+| <img src="/coach-docs/assets/01-shared/06-section_bg_tint-light-panel.webp" alt="لوحة إعدادات — قوة طبقة اللون فوق الصورة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/01-shared/06-section_bg_tint-light-result.webp" alt="معاينة — قوة طبقة اللون فوق الصورة" loading="lazy" decoding="async"/> | «خفيفة» |
+| <img src="/coach-docs/assets/01-shared/06-section_bg_tint-medium-panel.webp" alt="لوحة إعدادات — قوة طبقة اللون فوق الصورة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/01-shared/06-section_bg_tint-medium-result.webp" alt="معاينة — قوة طبقة اللون فوق الصورة" loading="lazy" decoding="async"/> | «متوسطة» |
+| <img src="/coach-docs/assets/01-shared/06-section_bg_tint-strong-panel.webp" alt="لوحة إعدادات — قوة طبقة اللون فوق الصورة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/01-shared/06-section_bg_tint-strong-result.webp" alt="معاينة — قوة طبقة اللون فوق الصورة" loading="lazy" decoding="async"/> | «قوية» |
 
 ### «تمديد الخلفية بعرض الشاشة»
 
+- **النوع:** مفتاح تشغيل وإطفاء · **الافتراضي:** مطفأ · المعرّف `section_bg_full`
+- **ماذا يفعل:** يمدّ خلفية القسم بعرض الشاشة كاملة بدل عرض المحتوى بزوايا دائرية.
+- **متى تستعمله:** لأقسام تريدها شريطاً عريضاً يفصل الصفحة.
+- **حين يكون فارغاً:** مطفأ (الافتراضي): الخلفية بعرض المحتوى بزوايا دائرية.
 
-<ul>
-<li><strong>النوع:</strong> مفتاح تشغيل وإطفاء · <strong>الافتراضي:</strong> مطفأ · المعرّف <code>section_bg_full</code></li>
-<li><strong>ماذا يفعل:</strong> يمدّ خلفية القسم بعرض الشاشة كاملة بدل عرض المحتوى بزوايا دائرية.</li>
-<li><strong>متى تستعمله:</strong> لأقسام تريدها شريطاً عريضاً يفصل الصفحة.</li>
-<li><strong>حين يكون فارغاً:</strong> مطفأ (الافتراضي): الخلفية بعرض المحتوى بزوايا دائرية.</li>
-<li>شرحه تحت الحقل في المحرّر: بلا حواف دائرية.</li>
-</ul>
-<div class="table-scroll" tabindex="0" role="region" aria-label="صور الإعدادات والنتائج"><table>
-<thead>
-<tr>
-<th>اللوحة (نسخة مطابقة)</th>
-<th>النتيجة</th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><img alt="لوحة إعدادات — تمديد الخلفية بعرض الشاشة" src="/coach-docs/assets/01-shared/07-section_bg_full-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة مرجعية — تمديد الخلفية بعرض الشاشة" src="/coach-docs/assets/01-shared/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
-<td>النتيجة بعد تفعيله (الافتراضي مطفأ)</td>
-</tr>
-</tbody>
-</table></div>
-
+| اللوحة (نسخة مطابقة) | النتيجة | |
+|---|---|---|
+| <img src="/coach-docs/assets/01-shared/07-section_bg_full-panel.webp" alt="لوحة إعدادات — تمديد الخلفية بعرض الشاشة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/01-shared/00-desktop.webp" alt="معاينة — تمديد الخلفية بعرض الشاشة" loading="lazy" decoding="async"/> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
 
 ### «المسافة العلوية (بكسل)»
 
+- **النوع:** رقم · **الافتراضي:** 0 · المعرّف `top_spacing`
+- **ماذا يفعل:** مسافة إضافية فوق القسم بالبكسل.
+- **متى تستعمله:** حين تريد فصلاً أكبر عن القسم السابق.
+- **حين يكون فارغاً:** صفر: مسافة الثيم، ٦٤ بكسل على الكمبيوتر و٤٠ على الجوال.
+- شرحه تحت الحقل في المحرّر: صفر: ٦٤ (٤٠ للجوال).
 
-<ul>
-<li><strong>النوع:</strong> رقم · <strong>الافتراضي:</strong> 0 · المعرّف <code>top_spacing</code></li>
-<li><strong>ماذا يفعل:</strong> مسافة إضافية فوق القسم بالبكسل.</li>
-<li><strong>متى تستعمله:</strong> حين تريد فصلاً أكبر عن القسم السابق.</li>
-<li><strong>حين يكون فارغاً:</strong> صفر: مسافة الثيم، ٦٤ بكسل على الكمبيوتر و٤٠ على الجوال.</li>
-<li>شرحه تحت الحقل في المحرّر: صفر: ٦٤ (٤٠ للجوال).</li>
-</ul>
-<div class="table-scroll" tabindex="0" role="region" aria-label="صور الإعدادات والنتائج"><table>
-<thead>
-<tr>
-<th>اللوحة (نسخة مطابقة)</th>
-<th>النتيجة</th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><img alt="لوحة إعدادات — المسافة العلوية (بكسل)" src="/coach-docs/assets/01-shared/08-top_spacing-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة مرجعية — المسافة العلوية (بكسل)" src="/coach-docs/assets/01-shared/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
-<td>النتيجة: القسم بالقيمة الافتراضية</td>
-</tr>
-</tbody>
-</table></div>
-
+| اللوحة (نسخة مطابقة) | النتيجة | |
+|---|---|---|
+| <img src="/coach-docs/assets/01-shared/08-top_spacing-panel.webp" alt="لوحة إعدادات — المسافة العلوية (بكسل)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/01-shared/00-desktop.webp" alt="معاينة — المسافة العلوية (بكسل)" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «المسافة السفلية (بكسل)»
 
+- **النوع:** رقم · **الافتراضي:** 0 · المعرّف `bottom_spacing`
+- **ماذا يفعل:** مسافة إضافية تحت القسم بالبكسل.
+- **متى تستعمله:** نادراً: حين تريد مسافة أكبر قبل القسم التالي.
+- **حين يكون فارغاً:** صفر: بلا مسافة إضافية.
 
-<ul>
-<li><strong>النوع:</strong> رقم · <strong>الافتراضي:</strong> 0 · المعرّف <code>bottom_spacing</code></li>
-<li><strong>ماذا يفعل:</strong> مسافة إضافية تحت القسم بالبكسل.</li>
-<li><strong>متى تستعمله:</strong> نادراً: حين تريد مسافة أكبر قبل القسم التالي.</li>
-<li><strong>حين يكون فارغاً:</strong> صفر: بلا مسافة إضافية.</li>
-<li>شرحه تحت الحقل في المحرّر: صفر: بلا إضافة.</li>
-</ul>
-<div class="table-scroll" tabindex="0" role="region" aria-label="صور الإعدادات والنتائج"><table>
-<thead>
-<tr>
-<th>اللوحة (نسخة مطابقة)</th>
-<th>النتيجة</th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><img alt="لوحة إعدادات — المسافة السفلية (بكسل)" src="/coach-docs/assets/01-shared/09-bottom_spacing-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة مرجعية — المسافة السفلية (بكسل)" src="/coach-docs/assets/01-shared/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
-<td>النتيجة: القسم بالقيمة الافتراضية</td>
-</tr>
-</tbody>
-</table></div>
+| اللوحة (نسخة مطابقة) | النتيجة | |
+|---|---|---|
+| <img src="/coach-docs/assets/01-shared/09-bottom_spacing-panel.webp" alt="لوحة إعدادات — المسافة السفلية (بكسل)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/01-shared/00-desktop.webp" alt="معاينة — المسافة السفلية (بكسل)" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
 
 
-<div class="source-note">صور لوحات الإعدادات مرسومة من تعريفات الثيم وليست لقطات مباشرة من محرّر سلة؛ صور النتيجة من معاينة الثيم. اضغط على أي صورة لتكبيرها.</div>
+<div class="source-note">الإصدار 1.76.1 · صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>

@@ -413,7 +413,7 @@
    "pairs": [
     {
      "panel": "17-scroll_length-160-panel.webp",
-     "result": "17-scroll_length-160-result.webp",
+     "result": "01-layout-end-result.webp",
      "option": "قصير",
      "value": "160",
      "panel_ok": true,
@@ -421,7 +421,7 @@
     },
     {
      "panel": "17-scroll_length-200-panel.webp",
-     "result": "10-win_overlay-light-result.webp",
+     "result": "17-scroll_length-200-result.webp",
      "option": "متوسط (الافتراضي)",
      "value": "200",
      "panel_ok": true,

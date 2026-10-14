@@ -1,0 +1,330 @@
+{
+ "kind": "section",
+ "key": "coach-session",
+ "title": "استشارات · تفاصيل الجلسة",
+ "folder": "sections/12-coach-session",
+ "fields": [
+  {
+   "id": "eyebrow",
+   "label": "العنوان الصغير (فوق العنوان)",
+   "type": "نص بسطر واحد",
+   "default": "جلسة فردية",
+   "what": "سطر صغير فوق العنوان. ما تكتبه بعد العلامة | يظهر بجانبه كلمةً لاتينية، مثل «كتب | BOOKS».",
+   "when": "لتسمية القسم بكلمة أو كلمتين قبل العنوان.",
+   "empty": "فارغاً باللغتين لا يظهر.",
+   "editor_hint": "مثال: كتب | BOOKS",
+   "from_guide": "",
+   "shows_when": "",
+   "pairs": [
+    {
+     "panel": "01-eyebrow-panel.webp",
+     "result": "01-eyebrow-result.webp",
+     "note": "مكانه في القسم محاط بإطار برتقالي",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "title",
+   "label": "العنوان",
+   "type": "نص بسطر واحد",
+   "default": "جلسة [[توجيه مهني]] واحدة",
+   "what": "عنوان القسم. ضع كلمة بين [[ ]] لتظهر مميّزة بالشكل المختار في «تخصيص الثيم».",
+   "when": "جملة قصيرة تقول ما يجده الزائر في القسم.",
+   "empty": "فارغاً باللغتين لا يظهر. إن مسحته بالعربية وحدها ظهر النص الإنجليزي.",
+   "editor_hint": "فارغاً باللغتين يُخفى. [[كلمة]] بلون المتجر.",
+   "from_guide": "",
+   "shows_when": "",
+   "pairs": [
+    {
+     "panel": "02-title-panel.webp",
+     "result": "02-title-result.webp",
+     "note": "مكانه في القسم محاط بإطار برتقالي",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "description",
+   "label": "الوصف",
+   "type": "نص بعدة أسطر",
+   "default": "ساعة كاملة نراجع فيها المسار ونخرج بخطة مكتوبة.",
+   "what": "سطر أو سطران تحت العنوان.",
+   "when": "لتوضيح العنوان إن احتاج.",
+   "empty": "فارغاً باللغتين لا يظهر.",
+   "editor_hint": "فارغاً باللغتين يُخفى.",
+   "from_guide": "",
+   "shows_when": "",
+   "pairs": [
+    {
+     "panel": "03-description-panel.webp",
+     "result": "03-description-result.webp",
+     "note": "مكانه في القسم محاط بإطار برتقالي",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "mode",
+   "label": "الطريقة",
+   "type": "قائمة منسدلة",
+   "default": "أونلاين",
+   "what": "الحقائق:** «الطريقة» (أونلاين، أو حضوري، أو الاثنان)، و«المدة»، و«المنصة أو المكان»، و«عدد الجلسات». الحقل الفارغ لا يظهر.",
+   "when": "",
+   "empty": "",
+   "editor_hint": "",
+   "from_guide": "الحقائق:** «الطريقة» (أونلاين، أو حضوري، أو الاثنان)، و«المدة»، و«المنصة أو المكان»، و«عدد الجلسات». الحقل الفارغ لا يظهر.",
+   "shows_when": "",
+   "pairs": [
+    {
+     "panel": "04-mode-online-panel.webp",
+     "result": "04-mode-online-result.webp",
+     "option": "أونلاين",
+     "value": "online",
+     "panel_ok": true,
+     "result_ok": true
+    },
+    {
+     "panel": "04-mode-onsite-panel.webp",
+     "result": "04-mode-onsite-result.webp",
+     "option": "حضوري",
+     "value": "onsite",
+     "panel_ok": true,
+     "result_ok": true
+    },
+    {
+     "panel": "04-mode-both-panel.webp",
+     "result": "04-mode-both-result.webp",
+     "option": "الاثنان",
+     "value": "both",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "duration",
+   "label": "المدة",
+   "type": "نص بسطر واحد",
+   "default": "٦٠ دقيقة",
+   "what": "الحقائق:** «الطريقة» (أونلاين، أو حضوري، أو الاثنان)، و«المدة»، و«المنصة أو المكان»، و«عدد الجلسات». الحقل الفارغ لا يظهر.",
+   "when": "",
+   "empty": "",
+   "editor_hint": "",
+   "from_guide": "الحقائق:** «الطريقة» (أونلاين، أو حضوري، أو الاثنان)، و«المدة»، و«المنصة أو المكان»، و«عدد الجلسات». الحقل الفارغ لا يظهر.",
+   "shows_when": "",
+   "pairs": [
+    {
+     "panel": "05-duration-panel.webp",
+     "result": "05-duration-result.webp",
+     "note": "مكانه في القسم محاط بإطار برتقالي",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "place",
+   "label": "المنصة أو المكان",
+   "type": "نص بسطر واحد",
+   "default": "مكالمة فيديو",
+   "what": "الحقائق:** «الطريقة» (أونلاين، أو حضوري، أو الاثنان)، و«المدة»، و«المنصة أو المكان»، و«عدد الجلسات». الحقل الفارغ لا يظهر.",
+   "when": "",
+   "empty": "",
+   "editor_hint": "",
+   "from_guide": "الحقائق:** «الطريقة» (أونلاين، أو حضوري، أو الاثنان)، و«المدة»، و«المنصة أو المكان»، و«عدد الجلسات». الحقل الفارغ لا يظهر.",
+   "shows_when": "",
+   "pairs": [
+    {
+     "panel": "06-place-panel.webp",
+     "result": "06-place-result.webp",
+     "note": "مكانه في القسم محاط بإطار برتقالي",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "count",
+   "label": "عدد الجلسات",
+   "type": "نص بسطر واحد",
+   "default": "جلسة واحدة",
+   "what": "الحقائق:** «الطريقة» (أونلاين، أو حضوري، أو الاثنان)، و«المدة»، و«المنصة أو المكان»، و«عدد الجلسات». الحقل الفارغ لا يظهر.",
+   "when": "",
+   "empty": "",
+   "editor_hint": "",
+   "from_guide": "الحقائق:** «الطريقة» (أونلاين، أو حضوري، أو الاثنان)، و«المدة»، و«المنصة أو المكان»، و«عدد الجلسات». الحقل الفارغ لا يظهر.",
+   "shows_when": "",
+   "pairs": [
+    {
+     "panel": "07-count-panel.webp",
+     "result": "07-count-result.webp",
+     "note": "مكانه في القسم محاط بإطار برتقالي",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "includes",
+   "label": "ماذا تتضمّن (سطر لكل بند)",
+   "type": "نص بعدة أسطر",
+   "default": "خطة تطوير مكتوبة / مراجعة السيرة الذاتية / تسجيل الجلسة / متابعة بالرسائل أسبوعاً",
+   "what": "",
+   "when": "",
+   "empty": "",
+   "editor_hint": "",
+   "from_guide": "",
+   "shows_when": "",
+   "pairs": [
+    {
+     "panel": "08-includes-panel.webp",
+     "result": "08-includes-result.webp",
+     "note": "مكانه في القسم محاط بإطار برتقالي",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "audience",
+   "label": "لمن (سطر لكل بند)",
+   "type": "نص بعدة أسطر",
+   "default": "من يفكر في تغيير مساره / حديثو التخرج / من يستعد لمقابلة عمل",
+   "what": "",
+   "when": "",
+   "empty": "",
+   "editor_hint": "",
+   "from_guide": "",
+   "shows_when": "",
+   "pairs": [
+    {
+     "panel": "09-audience-panel.webp",
+     "result": "09-audience-result.webp",
+     "note": "مكانه في القسم محاط بإطار برتقالي",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "steps",
+   "label": "ماذا يحدث بعد الشراء",
+   "type": "عناصر متكررة (تضيفها وتحذفها وترتّبها)",
+   "default": "3 عناصر جاهزة",
+   "what": "حقائق الجلسة بأيقونات، وبطاقتا «ماذا تتضمّن الجلسة» و«لمن هذه الجلسة»، وخطوات «ماذا يحدث بعد الشراء». بلا تقويم ولا حجز.",
+   "when": "",
+   "empty": "",
+   "editor_hint": "",
+   "from_guide": "حقائق الجلسة بأيقونات، وبطاقتا «ماذا تتضمّن الجلسة» و«لمن هذه الجلسة»، وخطوات «ماذا يحدث بعد الشراء». بلا تقويم ولا حجز.",
+   "shows_when": "",
+   "pairs": [
+    {
+     "panel": "10-steps-panel.webp",
+     "result": "10-steps-result.webp",
+     "note": "أول عنصر محاط بإطار برتقالي",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ],
+   "item_fields": [
+    {
+     "id": "steps.title",
+     "label": "العنوان",
+     "type": "نص بسطر واحد",
+     "default": "فارغ",
+     "what": "",
+     "when": "",
+     "empty": "",
+     "editor_hint": "",
+     "from_guide": "",
+     "shows_when": "",
+     "pairs": [
+      {
+       "panel": "10-steps-title-panel.webp",
+       "result": "10-steps-result.webp",
+       "panel_ok": true,
+       "result_ok": true
+      }
+     ]
+    },
+    {
+     "id": "steps.text",
+     "label": "سطر تحته",
+     "type": "نص بسطر واحد",
+     "default": "فارغ",
+     "what": "",
+     "when": "",
+     "empty": "",
+     "editor_hint": "",
+     "from_guide": "",
+     "shows_when": "",
+     "pairs": [
+      {
+       "panel": "10-steps-text-panel.webp",
+       "result": "10-steps-result.webp",
+       "panel_ok": true,
+       "result_ok": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "product",
+   "label": "منتج الجلسة (للرئيسية)",
+   "type": "اختيار منتج من متجرك",
+   "default": "لا شيء — يختاره التاجر",
+   "what": "في الرئيسية:** الرأس والحقائق، وبطاقة «منتج الجلسة (للرئيسية)» بسعره وزر الإضافة للسلة.",
+   "when": "",
+   "empty": "",
+   "editor_hint": "",
+   "from_guide": "في الرئيسية:** الرأس والحقائق، وبطاقة «منتج الجلسة (للرئيسية)» بسعره وزر الإضافة للسلة.",
+   "shows_when": "",
+   "pairs": [
+    {
+     "panel": "11-product-panel.webp",
+     "result": "00-desktop.webp",
+     "note": "النتيجة: القسم بالقيمة الافتراضية",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "button_label",
+   "label": "نص زر الإضافة للسلة",
+   "type": "نص بسطر واحد",
+   "default": "أضف للسلة",
+   "what": "فارغاً يظهر «أضف للسلة».",
+   "when": "",
+   "empty": "فارغاً يظهر «أضف للسلة»",
+   "editor_hint": "فارغاً يظهر «أضف للسلة».",
+   "from_guide": "",
+   "shows_when": "",
+   "pairs": [
+    {
+     "panel": "12-button_label-panel.webp",
+     "result": "00-desktop.webp",
+     "note": "مكانه في القسم محاط بإطار برتقالي",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  }
+ ],
+ "slug": "coach-session",
+ "title_en": "Consultations · Session details",
+ "intro": "حقائق الجلسة وتفاصيلها وفي صفحة المنتج التفاصيل فقط.",
+ "when": "",
+ "desktop": "00-desktop.webp",
+ "mobile": "00-mobile.webp",
+ "shared": [
+  "المسافة العلوية (بكسل)",
+  "المسافة السفلية (بكسل)"
+ ],
+ "guide": "حقائق الجلسة بأيقونات، وبطاقتا «ماذا تتضمّن الجلسة» و«لمن هذه الجلسة»، وخطوات «ماذا يحدث بعد الشراء». بلا تقويم ولا حجز.\n\n- **الحقائق:** «الطريقة» (أونلاين، أو حضوري، أو الاثنان)، و«المدة»، و«المنصة أو المكان»، و«عدد الجلسات». الحقل الفارغ لا يظهر.\n- **التفاصيل:** «ماذا تتضمّن» و«لمن» سطر لكل بند، و«ماذا يحدث بعد الشراء» حتى ٤ خطوات (عنوان وسطر).\n- **في الرئيسية:** الرأس والحقائق، وبطاقة «منتج الجلسة (للرئيسية)» بسعره وزر الإضافة للسلة.\n- **في صفحة المنتج:** التفاصيل فقط بعرض الصفحة، بلا الرأس ولا بطاقة المنتج، وتختفي ملاحظة «لا حاجة لاختيار موعد الآن»."
+}

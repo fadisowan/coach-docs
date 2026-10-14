@@ -1,0 +1,125 @@
+{
+ "kind": "section",
+ "key": "slider-products-with-header",
+ "title": "متجر · منتجات متحركة مع خلفية",
+ "folder": "sections/32-slider-products-with-header",
+ "fields": [
+  {
+   "id": "background",
+   "label": "صورة الخلفية",
+   "type": "صورة ترفعها",
+   "default": "بلا صورة",
+   "what": "١٤٠٠×٥٨٠ تقريباً، تحت طبقة من لون الثيم؛ بدونها لون داكن.",
+   "when": "",
+   "empty": "بدونها لون داكن",
+   "editor_hint": "١٤٠٠×٥٨٠ تقريباً، تحت طبقة من لون الثيم؛ بدونها لون داكن.",
+   "from_guide": "أهم الإعدادات:** «صورة الخلفية» (١٤٠٠×٥٨٠ تقريباً، تحت طبقة من لون الثيم؛ بدونها لون داكن)، و«المنتجات» حتى ٨ (بدونها أحدث المنتجات)، و«رابط عرض الكل» (بدونه يُخفى).",
+   "shows_when": "",
+   "pairs": [
+    {
+     "panel": "01-background-panel.webp",
+     "result": "01-background-result.webp",
+     "note": "النتيجة بصورة تجريبية",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "title",
+   "label": "العنوان",
+   "type": "نص بسطر واحد",
+   "default": "فارغ",
+   "what": "عنوان القسم. ضع كلمة بين [[ ]] لتظهر مميّزة بالشكل المختار في «تخصيص الثيم».",
+   "when": "جملة قصيرة تقول ما يجده الزائر في القسم.",
+   "empty": "فارغاً باللغتين لا يظهر. إن مسحته بالعربية وحدها ظهر النص الإنجليزي.",
+   "editor_hint": "فارغاً باللغتين يُخفى. [[كلمة]] بلون المتجر.",
+   "from_guide": "",
+   "shows_when": "",
+   "pairs": [
+    {
+     "panel": "02-title-panel.webp",
+     "result": "02-title-result.webp",
+     "note": "النتيجة بنص تجريبي «مثال لنصّك هنا»",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "description",
+   "label": "الوصف",
+   "type": "نص بعدة أسطر",
+   "default": "فارغ",
+   "what": "سطر أو سطران تحت العنوان.",
+   "when": "لتوضيح العنوان إن احتاج.",
+   "empty": "فارغاً باللغتين لا يظهر.",
+   "editor_hint": "فارغاً لا يظهر.",
+   "from_guide": "",
+   "shows_when": "",
+   "pairs": [
+    {
+     "panel": "03-description-panel.webp",
+     "result": "03-description-result.webp",
+     "note": "النتيجة بنص تجريبي «مثال لنصّك هنا»",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "products",
+   "label": "المنتجات (بالترتيب)",
+   "type": "اختيار منتج أو أكثر من متجرك",
+   "default": "لا شيء — يختاره التاجر",
+   "what": "حتى ٨؛ بدونها أحدث المنتجات.",
+   "when": "",
+   "empty": "بدونها أحدث المنتجات",
+   "editor_hint": "حتى ٨؛ بدونها أحدث المنتجات.",
+   "from_guide": "",
+   "shows_when": "",
+   "pairs": [
+    {
+     "panel": "04-products-panel.webp",
+     "result": "00-desktop.webp",
+     "note": "النتيجة: القسم بالقيمة الافتراضية",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "display_all_url",
+   "label": "رابط «عرض الكل»",
+   "type": "رابط (منتج أو تصنيف أو صفحة أو رابط آخر)",
+   "default": "بلا رابط",
+   "what": "بدونه يُخفى.",
+   "when": "",
+   "empty": "بدونه يُخفى",
+   "editor_hint": "بدونه يُخفى.",
+   "from_guide": "",
+   "shows_when": "",
+   "pairs": [
+    {
+     "panel": "05-display_all_url-panel.webp",
+     "result": "00-desktop.webp",
+     "note": "النتيجة: القسم بالقيمة الافتراضية",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  }
+ ],
+ "slug": "slider-products-with-header",
+ "title_en": "Shop · Moving products with a background",
+ "intro": "شريط منتجات يرتفع فوق صورة عريضة بعنوان ووصف، وأسهم للتنقل.",
+ "when": "",
+ "desktop": "00-desktop.webp",
+ "mobile": "00-mobile.webp",
+ "shared": [
+  "حجم العنوان",
+  "المسافة العلوية (بكسل)",
+  "المسافة السفلية (بكسل)"
+ ],
+ "guide": "شريط بطاقات منتجات يرتفع فوق صورة عريضة، بعنوان ووصف و«عرض الكل».\n\n- **أهم الإعدادات:** «صورة الخلفية» (١٤٠٠×٥٨٠ تقريباً، تحت طبقة من لون الثيم؛ بدونها لون داكن)، و«المنتجات» حتى ٨ (بدونها أحدث المنتجات)، و«رابط عرض الكل» (بدونه يُخفى)."
+}

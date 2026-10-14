@@ -1,302 +1,506 @@
 [
   {
-    "slug": "01-colors",
+    "kind": "settings",
+    "key": "coach_title_colors",
     "title": "١ · الهوية — الألوان، شكل الكلمات المميّزة، والخط",
+    "folder": "00-theme/01-colors",
+    "slug": "01-colors",
     "category": "الإعدادات العامة"
   },
   {
+    "kind": "settings",
+    "key": "coach_title_motion",
+    "title": "٢ · الحركة والتأثيرات — حركة الأقسام، خلفية الصفحة، والمؤشر",
+    "folder": "00-theme/02-motion",
     "slug": "02-motion",
-    "title": "٢ · الحركة والتأثيرات — حركة الأقسام، خلفية الصفحة، المؤشر، وطيران المنتج",
     "category": "الإعدادات العامة"
   },
   {
-    "slug": "03-announcement",
+    "kind": "settings",
+    "key": "coach_title_announcement",
     "title": "٣ · الشريط الإعلاني — نص وكود خصم وعدّاد أعلى كل الصفحات",
+    "folder": "00-theme/03-announcement",
+    "slug": "03-announcement",
     "category": "الإعدادات العامة"
   },
   {
+    "kind": "settings",
+    "key": "coach_title_header",
+    "title": "٤ · الهيدر — الشكل والتثبيت والبحث والقائمة وزر الحجز",
+    "folder": "00-theme/04-header",
     "slug": "04-header",
-    "title": "٤ · الهيدر — الشكل والتثبيت والبحث والقائمة وزر الحجز وشريط الجوال السفلي",
     "category": "الإعدادات العامة"
   },
   {
-    "slug": "05-cart",
-    "title": "٥ · السلة — الجانبية والمصغّرة وما يحدث بعد الإضافة",
+    "kind": "settings",
+    "key": "coach_title_dock",
+    "title": "٥ · شريط الجوال السفلي — الأزرار والبحث والزر البارز",
+    "folder": "00-theme/05-dock",
+    "slug": "05-dock",
     "category": "الإعدادات العامة"
   },
   {
-    "slug": "06-card",
-    "title": "٦ · بطاقة المنتج — شكل الصورة، أشكال الأنواع، نسبة الخصم، وسم النوع و«أعلمني»",
+    "kind": "settings",
+    "key": "coach_title_cart",
+    "title": "٦ · السلة — الجانبية والمصغّرة وما يحدث بعد الإضافة",
+    "folder": "00-theme/06-cart",
+    "slug": "06-cart",
     "category": "الإعدادات العامة"
   },
   {
-    "slug": "07-product",
-    "title": "٧ · صفحة المنتج — الملاحظة و«يُشترى معاً» والصور والزر الثابت",
+    "kind": "settings",
+    "key": "coach_title_card",
+    "title": "٧ · بطاقة المنتج — شكل الصورة، أشكال الأنواع، نسبة الخصم، وسم النوع و«أعلمني»",
+    "folder": "00-theme/07-card",
+    "slug": "07-card",
     "category": "الإعدادات العامة"
   },
   {
-    "slug": "08-listing",
-    "title": "٨ · صفحات التصنيفات والبحث — رأس التصنيف بصورته ومسار التنقل",
+    "kind": "settings",
+    "key": "coach_title_product",
+    "title": "٨ · صفحة المنتج — الملاحظة و«يُشترى معاً» والصور والزر الثابت",
+    "folder": "00-theme/08-product",
+    "slug": "08-product",
     "category": "الإعدادات العامة"
   },
   {
-    "slug": "09-whatsapp",
-    "title": "٩ · أزرار الشاشة — واتساب العائم، العودة للأعلى، وشاشة التحميل",
+    "kind": "settings",
+    "key": "coach_title_listing",
+    "title": "٩ · صفحات التصنيفات والبحث — رأس التصنيف بصورته ومسار التنقل",
+    "folder": "00-theme/09-listing",
+    "slug": "09-listing",
     "category": "الإعدادات العامة"
   },
   {
-    "slug": "10-footer",
-    "title": "١٠ · الفوتر — العنوان الكبير، النبذة، بطاقة الدعوة، واسم المتجر",
+    "kind": "settings",
+    "key": "coach_title_whatsapp",
+    "title": "١٠ · أزرار الشاشة — واتساب العائم، العودة للأعلى، وشاشة التحميل",
+    "folder": "00-theme/10-whatsapp",
+    "slug": "10-whatsapp",
     "category": "الإعدادات العامة"
   },
   {
-    "slug": "11-exit",
-    "title": "١١ · نافذة العرض المنبثقة — عرض بكود خصم يظهر بعد ثوانٍ، مرة في كل زيارة",
+    "kind": "settings",
+    "key": "coach_title_footer",
+    "title": "١١ · الفوتر — العنوان الكبير، النبذة، بطاقة الدعوة، واسم المتجر",
+    "folder": "00-theme/11-footer",
+    "slug": "11-footer",
     "category": "الإعدادات العامة"
   },
   {
-    "slug": "12-raed",
-    "title": "١٢ · أقسام سلة الجاهزة — لأقسام رائد إن أضفتها للرئيسية",
+    "kind": "settings",
+    "key": "coach_title_exit",
+    "title": "١٢ · نافذة العرض المنبثقة — عرض بكود خصم يظهر بعد ثوانٍ، مرة في كل زيارة",
+    "folder": "00-theme/12-exit",
+    "slug": "12-exit",
     "category": "الإعدادات العامة"
   },
   {
-    "slug": "01-shared",
+    "kind": "settings",
+    "key": "coach_title_raed",
+    "title": "١٣ · أقسام سلة الجاهزة — إن أُضيفت للرئيسية",
+    "folder": "00-theme/13-raed",
+    "slug": "13-raed",
+    "category": "الإعدادات العامة"
+  },
+  {
+    "kind": "settings",
+    "key": "coach_title_article",
+    "title": "١٤ · صفحة المقالة — شريط القراءة، صندوق الكاتب، وبطاقة الدعوة",
+    "folder": "00-theme/14-article",
+    "slug": "14-article",
+    "category": "الإعدادات العامة"
+  },
+  {
+    "kind": "shared",
+    "key": "shared",
     "title": "الخيارات المشتركة بين الأقسام",
+    "folder": "01-shared",
+    "slug": "01-shared",
     "category": "الخيارات المشتركة"
   },
   {
-    "slug": "01-coach-hero",
+    "kind": "section",
+    "key": "coach-hero",
     "title": "واجهة · ترحيب المدرّب",
+    "folder": "sections/01-coach-hero",
+    "slug": "01-coach-hero",
     "category": "مكوّنات الصفحة الرئيسية"
   },
   {
-    "slug": "02-coach-hero-media",
+    "kind": "section",
+    "key": "coach-hero-media",
     "title": "واجهة · فيديو وصور (٦ أشكال)",
+    "folder": "sections/02-coach-hero-media",
+    "slug": "02-coach-hero-media",
     "category": "مكوّنات الصفحة الرئيسية"
   },
   {
-    "slug": "03-coach-hero-window",
+    "kind": "section",
+    "key": "coach-hero-window",
     "title": "واجهة · نافذة القوس",
+    "folder": "sections/03-coach-hero-window",
+    "slug": "03-coach-hero-window",
     "category": "مكوّنات الصفحة الرئيسية"
   },
   {
-    "slug": "04-coach-marquee",
+    "kind": "section",
+    "key": "coach-hero-programs",
+    "title": "واجهة · معرض البرامج (شكلان)",
+    "folder": "sections/04-coach-hero-programs",
+    "slug": "04-coach-hero-programs",
+    "category": "مكوّنات الصفحة الرئيسية"
+  },
+  {
+    "kind": "section",
+    "key": "coach-marquee",
     "title": "عام · شريط نصي متحرك",
+    "folder": "sections/05-coach-marquee",
+    "slug": "05-coach-marquee",
     "category": "مكوّنات الصفحة الرئيسية"
   },
   {
-    "slug": "05-coach-press",
+    "kind": "section",
+    "key": "coach-press",
     "title": "ثقة · ظهرتُ في",
+    "folder": "sections/06-coach-press",
+    "slug": "06-coach-press",
     "category": "مكوّنات الصفحة الرئيسية"
   },
   {
-    "slug": "06-coach-about",
+    "kind": "section",
+    "key": "coach-about",
     "title": "المدرّب · تعرّف عليّ",
+    "folder": "sections/07-coach-about",
+    "slug": "07-coach-about",
     "category": "مكوّنات الصفحة الرئيسية"
   },
   {
-    "slug": "07-coach-trainers",
+    "kind": "section",
+    "key": "coach-trainers",
     "title": "المدرّب · فريق التدريب",
+    "folder": "sections/08-coach-trainers",
+    "slug": "08-coach-trainers",
     "category": "مكوّنات الصفحة الرئيسية"
   },
   {
-    "slug": "08-coach-podcast",
+    "kind": "section",
+    "key": "coach-podcast",
     "title": "المدرّب · البودكاست",
+    "folder": "sections/09-coach-podcast",
+    "slug": "09-coach-podcast",
     "category": "مكوّنات الصفحة الرئيسية"
   },
   {
-    "slug": "09-coach-shop",
+    "kind": "section",
+    "key": "coach-shop",
     "title": "متجر · كل المنتجات بتبويبات",
+    "folder": "sections/10-coach-shop",
+    "slug": "10-coach-shop",
     "category": "مكوّنات الصفحة الرئيسية"
   },
   {
-    "slug": "10-coach-consult-plans",
+    "kind": "section",
+    "key": "coach-consult-plans",
     "title": "استشارات · باقات الجلسات الفردية",
+    "folder": "sections/11-coach-consult-plans",
+    "slug": "11-coach-consult-plans",
     "category": "مكوّنات الصفحة الرئيسية"
   },
   {
-    "slug": "11-coach-offer-banner",
+    "kind": "section",
+    "key": "coach-session",
+    "title": "استشارات · تفاصيل الجلسة",
+    "folder": "sections/12-coach-session",
+    "slug": "12-coach-session",
+    "category": "مكوّنات الصفحة الرئيسية"
+  },
+  {
+    "kind": "section",
+    "key": "coach-offer-banner",
     "title": "عروض · بانر عرض (٣ أشكال)",
+    "folder": "sections/13-coach-offer-banner",
+    "slug": "13-coach-offer-banner",
     "category": "مكوّنات الصفحة الرئيسية"
   },
   {
-    "slug": "12-coach-steps",
+    "kind": "section",
+    "key": "coach-steps",
     "title": "عام · خطوات البداية",
+    "folder": "sections/14-coach-steps",
+    "slug": "14-coach-steps",
     "category": "مكوّنات الصفحة الرئيسية"
   },
   {
-    "slug": "13-coach-reviews",
+    "kind": "section",
+    "key": "coach-reviews",
     "title": "ثقة · قصص نجاح المتعلّمين",
+    "folder": "sections/15-coach-reviews",
+    "slug": "15-coach-reviews",
     "category": "مكوّنات الصفحة الرئيسية"
   },
   {
-    "slug": "14-coach-faq",
+    "kind": "section",
+    "key": "custom-testimonials",
+    "title": "ثقة · آراء عملاء مخصصة",
+    "folder": "sections/16-custom-testimonials",
+    "slug": "16-custom-testimonials",
+    "category": "مكوّنات الصفحة الرئيسية"
+  },
+  {
+    "kind": "section",
+    "key": "coach-faq",
     "title": "عام · الأسئلة الشائعة",
+    "folder": "sections/17-coach-faq",
+    "slug": "17-coach-faq",
     "category": "مكوّنات الصفحة الرئيسية"
   },
   {
-    "slug": "15-coach-blog",
+    "kind": "section",
+    "key": "coach-blog",
     "title": "عام · من المدوّنة",
+    "folder": "sections/18-coach-blog",
+    "slug": "18-coach-blog",
     "category": "مكوّنات الصفحة الرئيسية"
   },
   {
-    "slug": "16-coach-stats",
+    "kind": "section",
+    "key": "coach-stats",
     "title": "ثقة · شريط الأرقام",
+    "folder": "sections/19-coach-stats",
+    "slug": "19-coach-stats",
     "category": "مكوّنات الصفحة الرئيسية"
   },
   {
-    "slug": "17-coach-curriculum",
-    "title": "دورة · منهج الدورة",
+    "kind": "section",
+    "key": "coach-curriculum",
+    "title": "دورة · منهج البرنامج",
+    "folder": "sections/20-coach-curriculum",
+    "slug": "20-coach-curriculum",
     "category": "مكوّنات الصفحة الرئيسية"
   },
   {
-    "slug": "18-coach-book-formats",
-    "title": "كتب · الكتاب بصيغ متعددة",
-    "category": "مكوّنات الصفحة الرئيسية"
-  },
-  {
-    "slug": "19-coach-product-finder",
+    "kind": "section",
+    "key": "coach-product-finder",
     "title": "تحويل · اختبار «ما البرنامج المناسب لي؟»",
+    "folder": "sections/21-coach-product-finder",
+    "slug": "21-coach-product-finder",
     "category": "مكوّنات الصفحة الرئيسية"
   },
   {
-    "slug": "20-coach-learning-path",
-    "title": "دورة · مسار التعلّم",
-    "category": "مكوّنات الصفحة الرئيسية"
-  },
-  {
-    "slug": "21-coach-program",
+    "kind": "section",
+    "key": "coach-program",
     "title": "دورة · البرنامج بمراحله",
+    "folder": "sections/22-coach-program",
+    "slug": "22-coach-program",
     "category": "مكوّنات الصفحة الرئيسية"
   },
   {
-    "slug": "22-coach-live-event",
+    "kind": "section",
+    "key": "coach-live-event",
     "title": "استشارات · لقاء مباشر قادم",
+    "folder": "sections/23-coach-live-event",
+    "slug": "23-coach-live-event",
     "category": "مكوّنات الصفحة الرئيسية"
   },
   {
-    "slug": "23-coach-hero-book",
+    "kind": "section",
+    "key": "coach-hero-book",
     "title": "واجهة · إطلاق كتاب",
+    "folder": "sections/24-coach-hero-book",
+    "slug": "24-coach-hero-book",
     "category": "مكوّنات الصفحة الرئيسية"
   },
   {
-    "slug": "24-coach-outcomes",
+    "kind": "section",
+    "key": "coach-outcomes",
     "title": "دورة · ماذا ستتعلّم",
+    "folder": "sections/25-coach-outcomes",
+    "slug": "25-coach-outcomes",
     "category": "مكوّنات الصفحة الرئيسية"
   },
   {
-    "slug": "25-coach-audience",
+    "kind": "section",
+    "key": "coach-audience",
     "title": "دورة · لمن هذا البرنامج",
+    "folder": "sections/26-coach-audience",
+    "slug": "26-coach-audience",
     "category": "مكوّنات الصفحة الرئيسية"
   },
   {
-    "slug": "26-coach-book-shelf",
+    "kind": "section",
+    "key": "coach-book-shelf",
     "title": "كتب · رفّ الكتب",
+    "folder": "sections/27-coach-book-shelf",
+    "slug": "27-coach-book-shelf",
     "category": "مكوّنات الصفحة الرئيسية"
   },
   {
-    "slug": "27-coach-book-toc",
-    "title": "كتب · فهرس الكتاب",
-    "category": "مكوّنات الصفحة الرئيسية"
-  },
-  {
-    "slug": "29-coach-audio-sample",
-    "title": "كتب · عيّنة صوتية",
-    "category": "مكوّنات الصفحة الرئيسية"
-  },
-  {
-    "slug": "30-coach-book-series",
-    "title": "كتب · سلسلة الكتب",
-    "category": "مكوّنات الصفحة الرئيسية"
-  },
-  {
-    "slug": "31-coach-bundle",
+    "kind": "section",
+    "key": "coach-bundle",
     "title": "عروض · يُشترى معاً",
+    "folder": "sections/28-coach-bundle",
+    "slug": "28-coach-bundle",
     "category": "مكوّنات الصفحة الرئيسية"
   },
   {
-    "slug": "32-coach-delivery",
+    "kind": "section",
+    "key": "coach-delivery",
     "title": "عام · كيف يصلك المنتج",
+    "folder": "sections/29-coach-delivery",
+    "slug": "29-coach-delivery",
     "category": "مكوّنات الصفحة الرئيسية"
   },
   {
-    "slug": "33-coach-guarantee",
+    "kind": "section",
+    "key": "coach-guarantee",
     "title": "ثقة · ضمان الاسترجاع",
+    "folder": "sections/30-coach-guarantee",
+    "slug": "30-coach-guarantee",
     "category": "مكوّنات الصفحة الرئيسية"
   },
   {
-    "slug": "34-coach-carousel",
+    "kind": "section",
+    "key": "coach-carousel",
     "title": "متجر · شريط منتجات متحرّك",
+    "folder": "sections/31-coach-carousel",
+    "slug": "31-coach-carousel",
     "category": "مكوّنات الصفحة الرئيسية"
   },
   {
-    "slug": "35-coach-ranked",
+    "kind": "section",
+    "key": "slider-products-with-header",
+    "title": "متجر · منتجات متحركة مع خلفية",
+    "folder": "sections/32-slider-products-with-header",
+    "slug": "32-slider-products-with-header",
+    "category": "مكوّنات الصفحة الرئيسية"
+  },
+  {
+    "kind": "section",
+    "key": "coach-ranked",
     "title": "متجر · الأكثر مبيعاً",
+    "folder": "sections/33-coach-ranked",
+    "slug": "33-coach-ranked",
     "category": "مكوّنات الصفحة الرئيسية"
   },
   {
-    "slug": "36-coach-spotlight",
+    "kind": "section",
+    "key": "coach-spotlight",
     "title": "متجر · المنتج المميّز",
+    "folder": "sections/34-coach-spotlight",
+    "slug": "34-coach-spotlight",
     "category": "مكوّنات الصفحة الرئيسية"
   },
   {
-    "slug": "37-coach-shelf-3d",
+    "kind": "section",
+    "key": "coach-shelf-3d",
     "title": "متجر · رف ثلاثي الأبعاد",
+    "folder": "sections/35-coach-shelf-3d",
+    "slug": "35-coach-shelf-3d",
     "category": "مكوّنات الصفحة الرئيسية"
   },
   {
-    "slug": "38-coach-reveal",
-    "title": "متجر · بطاقات بمعاينة",
-    "category": "مكوّنات الصفحة الرئيسية"
-  },
-  {
-    "slug": "39-coach-spines",
+    "kind": "section",
+    "key": "coach-spines",
     "title": "كتب · رفّ تفاعلي بالكعوب",
+    "folder": "sections/36-coach-spines",
+    "slug": "36-coach-spines",
     "category": "مكوّنات الصفحة الرئيسية"
   },
   {
-    "slug": "40-coach-free-guide",
+    "kind": "section",
+    "key": "coach-free-guide",
     "title": "تحويل · الدليل المجاني",
+    "folder": "sections/37-coach-free-guide",
+    "slug": "37-coach-free-guide",
     "category": "مكوّنات الصفحة الرئيسية"
   },
   {
-    "slug": "41-coach-booklet",
+    "kind": "section",
+    "key": "coach-booklet",
     "title": "كتب · كتيّب يقلّب",
+    "folder": "sections/38-coach-booklet",
+    "slug": "38-coach-booklet",
     "category": "مكوّنات الصفحة الرئيسية"
   },
   {
-    "slug": "42-coach-reels",
+    "kind": "section",
+    "key": "coach-reels",
     "title": "عام · مقاطع فيديو قصيرة",
+    "folder": "sections/39-coach-reels",
+    "slug": "39-coach-reels",
     "category": "مكوّنات الصفحة الرئيسية"
   },
   {
-    "slug": "43-coach-departments",
+    "kind": "section",
+    "key": "coach-departments",
     "title": "متجر · أقسام المتجر",
+    "folder": "sections/40-coach-departments",
+    "slug": "40-coach-departments",
     "category": "مكوّنات الصفحة الرئيسية"
   },
   {
-    "slug": "44-coach-categories",
+    "kind": "section",
+    "key": "coach-categories",
     "title": "متجر · التصنيفات بالصور (٦ أشكال)",
+    "folder": "sections/41-coach-categories",
+    "slug": "41-coach-categories",
     "category": "مكوّنات الصفحة الرئيسية"
   },
   {
-    "slug": "45-coach-cta",
-    "title": "تحويل · دعوة للإجراء (٦ أشكال)",
+    "kind": "section",
+    "key": "main-links",
+    "title": "متجر · روابط سريعة",
+    "folder": "sections/42-main-links",
+    "slug": "42-main-links",
     "category": "مكوّنات الصفحة الرئيسية"
   },
   {
-    "slug": "46-coach-final-cta",
+    "kind": "section",
+    "key": "coach-cta",
+    "title": "تحويل · دعوة للإجراء (٣ أشكال)",
+    "folder": "sections/43-coach-cta",
+    "slug": "43-coach-cta",
+    "category": "مكوّنات الصفحة الرئيسية"
+  },
+  {
+    "kind": "section",
+    "key": "coach-final-cta",
     "title": "تحويل · دعوة أخيرة بكلمات متحركة",
+    "folder": "sections/44-coach-final-cta",
+    "slug": "44-coach-final-cta",
     "category": "مكوّنات الصفحة الرئيسية"
   },
   {
-    "slug": "47-coach-living-word",
+    "kind": "section",
+    "key": "coach-living-word",
     "title": "قصة التحوّل · الكلمة الحيّة",
+    "folder": "sections/45-coach-living-word",
+    "slug": "45-coach-living-word",
     "category": "مكوّنات الصفحة الرئيسية"
   },
   {
-    "slug": "48-brands",
+    "kind": "section",
+    "key": "enhanced-slider",
+    "title": "صور متحركة (محسّنة)",
+    "folder": "sections/46-enhanced-slider",
+    "slug": "46-enhanced-slider",
+    "category": "مكوّنات الصفحة الرئيسية"
+  },
+  {
+    "kind": "section",
+    "key": "enhanced-square-banners",
+    "title": "صور مربعة (محسّنة)",
+    "folder": "sections/47-enhanced-square-banners",
+    "slug": "47-enhanced-square-banners",
+    "category": "مكوّنات الصفحة الرئيسية"
+  },
+  {
+    "kind": "section",
+    "key": "brands",
     "title": "الماركات التجارية",
+    "folder": "sections/48-brands",
+    "slug": "48-brands",
     "category": "مكوّنات الصفحة الرئيسية"
   }
 ]

@@ -1,184 +1,100 @@
 ---
 title: "٣ · الشريط الإعلاني — نص وكود خصم وعدّاد أعلى كل الصفحات"
-description: "شرح ٣ · الشريط الإعلاني — نص وكود خصم وعدّاد أعلى كل الصفحات في ثيم كوتش مع صور الإعدادات والنتائج."
+description: "دليل ثيم كوتش 1.76.1 — ٣ · الشريط الإعلاني — نص وكود خصم وعدّاد أعلى كل الصفحات"
 editUrl: false
 ---
 
 
-<p>من «تخصيص الثيم» في محرّر سلة. تنطبق على المتجر كله.</p>
-<p><strong>ما فيها:</strong> شريط رفيع باللون الأساسي أعلى كل الصفحات: نص قصير، وكود خصم يُنسخ، وعدّاد حتى تاريخ، ورابط.</p>
-<p>النتيجة مصوّرة على الصفحة الرئيسية مع <code>announcement_enabled</code> مفعّلاً ليظهر ما تتحكم به المجموعة.</p>
-<div class="table-scroll" tabindex="0" role="region" aria-label="صور الإعدادات والنتائج"><table>
-<thead>
-<tr>
-<th>النتيجة الافتراضية</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><img alt="معاينة النتيجة — ٣ · الشريط الإعلاني — نص وكود خصم وعدّاد أعلى كل الصفحات" src="/coach-docs/assets/00-theme/03-announcement/00-default-result.webp" loading="lazy" decoding="async"/></td>
-</tr>
-</tbody>
-</table></div>
-<details><summary>من دليل التاجر</summary>
-<ul>
-<li>«إظهار الشريط الإعلاني»: شريط رفيع باللون الأساسي أعلى كل صفحات المتجر. مطفأ افتراضياً.</li>
-<li>«نص الشريط»: سطر قصير، حتى ١٢٠ حرفاً.</li>
-<li>«كود الخصم (اختياري)»: يظهر في كبسولة بجانب النص، ويُنسخ بضغطة واحدة (إن منع المتصفح النسخ تظهر رسالة فيها الكود ليكتبه الزائر). اكتبه بحروف إنجليزية وأرقام فقط (تُقبل الشرطة - والشرطة السفلية _)، بلا مسافات، من حرفين إلى ٢٤.</li>
-<li>«عدّاد حتى تاريخ (اختياري)»: مثل 2026-12-31 23:59 أو 31/12/2026 8:00 م. يختفي الشريط كاملاً عند انتهاء المدة.</li>
-<li>«رابط الشريط (اختياري)»: يصبح النص رابطاً إلى صفحة العرض.</li>
-</ul>
-<p>إن تركت النص والكود والعدّاد فارغة كلها، لا يظهر الشريط حتى لو كان مفعّلاً.</p>
-</details>
+من «تخصيص الثيم» في محرّر سلة. تنطبق على المتجر كله.
 
+**ما فيها:** شريط رفيع باللون الأساسي أعلى كل الصفحات: نص قصير، وكود خصم يُنسخ، وعدّاد حتى تاريخ، ورابط.
+
+النتيجة مصوّرة على الصفحة الرئيسية مع `announcement_enabled` مفعّلاً ليظهر ما تتحكم به المجموعة.
+
+| النتيجة الافتراضية |
+|---|
+| <img src="/coach-docs/assets/00-theme/03-announcement/00-default-result.webp" alt="معاينة — ٣ · الشريط الإعلاني — نص وكود خصم وعدّاد أعلى كل الصفحات" loading="lazy" decoding="async"/> |
+
+<details><summary>من دليل التاجر</summary>
+
+- «إظهار الشريط الإعلاني»: شريط رفيع باللون الأساسي أعلى كل صفحات المتجر. مطفأ افتراضياً.
+- «نص الشريط»: سطر قصير، حتى ١٢٠ حرفاً.
+- «كود الخصم (اختياري)»: يظهر في كبسولة بجانب النص، ويُنسخ بضغطة واحدة (إن منع المتصفح النسخ تظهر رسالة فيها الكود ليكتبه الزائر). اكتبه بحروف إنجليزية وأرقام فقط (تُقبل الشرطة - والشرطة السفلية _)، بلا مسافات، من حرفين إلى ٢٤.
+- «عدّاد حتى تاريخ (اختياري)»: مثل 2026-12-31 23:59 أو 31/12/2026 8:00 م. يختفي الشريط كاملاً عند انتهاء المدة.
+- «رابط الشريط (اختياري)»: يصبح النص رابطاً إلى صفحة العرض.
+
+إن تركت النص والكود والعدّاد فارغة كلها، لا يظهر الشريط حتى لو كان مفعّلاً.
+
+</details>
 
 ## الإعدادات بترتيبها في اللوحة
 
-
-
-
 ### «إظهار الشريط الإعلاني»
 
+- **النوع:** مفتاح تشغيل وإطفاء · **الافتراضي:** مطفأ · المعرّف `announcement_enabled`
+- **ماذا يفعل:** شريط رفيع باللون الأساسي أعلى كل صفحات المتجر.
+- **متى تستعمله:** لعرض أو خبر يراه كل زائر.
+- **حين يكون فارغاً:** مطفأ (الافتراضي): بلا شريط.
+- شرحه تحت الحقل في المحرّر: شريط رفيع بلون أساسي أعلى كل صفحات المتجر.
 
-<ul>
-<li><strong>النوع:</strong> مفتاح تشغيل وإطفاء · <strong>الافتراضي:</strong> مطفأ · المعرّف <code>announcement_enabled</code></li>
-<li><strong>ماذا يفعل:</strong> شريط رفيع باللون الأساسي أعلى كل صفحات المتجر.</li>
-<li><strong>متى تستعمله:</strong> لعرض أو خبر يراه كل زائر.</li>
-<li><strong>حين يكون فارغاً:</strong> مطفأ (الافتراضي): بلا شريط.</li>
-<li>شرحه تحت الحقل في المحرّر: شريط رفيع بلون أساسي أعلى كل صفحات المتجر.</li>
-</ul>
-<div class="table-scroll" tabindex="0" role="region" aria-label="صور الإعدادات والنتائج"><table>
-<thead>
-<tr>
-<th>اللوحة (نسخة مطابقة)</th>
-<th>النتيجة</th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><img alt="لوحة إعدادات — إظهار الشريط الإعلاني" src="/coach-docs/assets/00-theme/03-announcement/01-announcement_enabled-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة مرجعية — إظهار الشريط الإعلاني" src="/coach-docs/assets/00-theme/03-announcement/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
-<td>النتيجة بعد تفعيله (الافتراضي مطفأ)</td>
-</tr>
-</tbody>
-</table></div>
-
+| اللوحة (نسخة مطابقة) | النتيجة | |
+|---|---|---|
+| <img src="/coach-docs/assets/00-theme/03-announcement/01-announcement_enabled-panel.webp" alt="لوحة إعدادات — إظهار الشريط الإعلاني" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/03-announcement/00-default-result.webp" alt="معاينة — إظهار الشريط الإعلاني" loading="lazy" decoding="async"/> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
 
 ### «نص الشريط»
 
+- **النوع:** نص بسطر واحد · **الافتراضي:** خصم ٢٠٪ على جميع البرامج حتى نهاية الشهر · المعرّف `announcement_text`
+- **ماذا يفعل:** نص الشريط، سطر قصير حتى ١٢٠ حرفاً.
+- **متى تستعمله:** للعرض أو الخبر في جملة.
+- **حين يكون فارغاً:** إن فرغ مع الكود والعدّاد لا يظهر الشريط حتى لو كان مفعّلاً.
+- **يظهر في اللوحة فقط حين:** «إظهار الشريط الإعلاني» هو «مفعّل»
+- شرحه تحت الحقل في المحرّر: أعلى كل صفحة؛ إن فرغ مع الكود والعدّاد لا يظهر الشريط.
 
-<ul>
-<li><strong>النوع:</strong> نص بسطر واحد · <strong>الافتراضي:</strong> خصم ٢٠٪ على جميع البرامج حتى نهاية الشهر · المعرّف <code>announcement_text</code></li>
-<li><strong>ماذا يفعل:</strong> نص الشريط، سطر قصير حتى ١٢٠ حرفاً.</li>
-<li><strong>متى تستعمله:</strong> للعرض أو الخبر في جملة.</li>
-<li><strong>حين يكون فارغاً:</strong> إن فرغ مع الكود والعدّاد لا يظهر الشريط حتى لو كان مفعّلاً.</li>
-<li>شرحه تحت الحقل في المحرّر: أعلى كل صفحة؛ إن فرغ مع الكود والعدّاد لا يظهر الشريط.</li>
-</ul>
-<div class="table-scroll" tabindex="0" role="region" aria-label="صور الإعدادات والنتائج"><table>
-<thead>
-<tr>
-<th>اللوحة (نسخة مطابقة)</th>
-<th>النتيجة</th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><img alt="لوحة إعدادات — نص الشريط" src="/coach-docs/assets/00-theme/03-announcement/02-announcement_text-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — نص الشريط" src="/coach-docs/assets/00-theme/03-announcement/02-announcement_text-result.webp" loading="lazy" decoding="async"/></td>
-<td>مكانه محاط بإطار برتقالي</td>
-</tr>
-</tbody>
-</table></div>
-
+| اللوحة (نسخة مطابقة) | النتيجة | |
+|---|---|---|
+| <img src="/coach-docs/assets/00-theme/03-announcement/02-announcement_text-panel.webp" alt="لوحة إعدادات — نص الشريط" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/03-announcement/02-announcement_text-result.webp" alt="معاينة — نص الشريط" loading="lazy" decoding="async"/> | مكانه محاط بإطار برتقالي |
 
 ### «كود الخصم (اختياري)»
 
+- **النوع:** نص بسطر واحد · **الافتراضي:** فارغ · المعرّف `announcement_code`
+- **ماذا يفعل:** كود خصم في كبسولة بجانب النص، يُنسخ بضغطة. حروف إنجليزية وأرقام بلا مسافات، من حرفين إلى ٢٤. أنشئه أولاً في «التسويق ← كوبونات التخفيض» في سلة.
+- **متى تستعمله:** لعرض بكود.
+- **حين يكون فارغاً:** فارغاً لا تظهر الكبسولة.
+- **يظهر في اللوحة فقط حين:** «إظهار الشريط الإعلاني» هو «مفعّل»
+- شرحه تحت الحقل في المحرّر: يُنسخ بضغطة. من «التسويق ← كوبونات التخفيض» في سلة.
 
-<ul>
-<li><strong>النوع:</strong> نص بسطر واحد · <strong>الافتراضي:</strong> فارغ · المعرّف <code>announcement_code</code></li>
-<li><strong>ماذا يفعل:</strong> كود خصم في كبسولة بجانب النص، يُنسخ بضغطة. حروف إنجليزية وأرقام بلا مسافات، من حرفين إلى ٢٤. أنشئه أولاً في «التسويق ← كوبونات التخفيض» في سلة.</li>
-<li><strong>متى تستعمله:</strong> لعرض بكود.</li>
-<li><strong>حين يكون فارغاً:</strong> فارغاً لا تظهر الكبسولة.</li>
-<li>شرحه تحت الحقل في المحرّر: يُنسخ بضغطة. من «التسويق ← كوبونات التخفيض» في سلة.</li>
-</ul>
-<div class="table-scroll" tabindex="0" role="region" aria-label="صور الإعدادات والنتائج"><table>
-<thead>
-<tr>
-<th>اللوحة (نسخة مطابقة)</th>
-<th>النتيجة</th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><img alt="لوحة إعدادات — كود الخصم (اختياري)" src="/coach-docs/assets/00-theme/03-announcement/03-announcement_code-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة مرجعية — كود الخصم (اختياري)" src="/coach-docs/assets/00-theme/03-announcement/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
-<td>النتيجة بالقيمة الافتراضية</td>
-</tr>
-</tbody>
-</table></div>
-
+| اللوحة (نسخة مطابقة) | النتيجة | |
+|---|---|---|
+| <img src="/coach-docs/assets/00-theme/03-announcement/03-announcement_code-panel.webp" alt="لوحة إعدادات — كود الخصم (اختياري)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/03-announcement/00-default-result.webp" alt="معاينة — كود الخصم (اختياري)" loading="lazy" decoding="async"/> | النتيجة بالقيمة الافتراضية |
 
 ### «عدّاد حتى تاريخ (اختياري)»
 
+- **النوع:** نص بسطر واحد · **الافتراضي:** فارغ · المعرّف `announcement_countdown`
+- **ماذا يفعل:** عدّاد حتى تاريخ، مثل 2026-12-31 23:59 أو 31/12/2026 8:00 م. يختفي الشريط كاملاً عند انتهائه.
+- **متى تستعمله:** لعرض محدود المدة.
+- **حين يكون فارغاً:** فارغاً بلا عدّاد.
+- **يظهر في اللوحة فقط حين:** «إظهار الشريط الإعلاني» هو «مفعّل»
+- شرحه تحت الحقل في المحرّر: مثل 2026-12-31 23:59 أو 31/12/2026 8:00 م؛ يختفي الشريط بعده.
 
-<ul>
-<li><strong>النوع:</strong> نص بسطر واحد · <strong>الافتراضي:</strong> فارغ · المعرّف <code>announcement_countdown</code></li>
-<li><strong>ماذا يفعل:</strong> عدّاد حتى تاريخ، مثل 2026-12-31 23:59 أو 31/12/2026 8:00 م. يختفي الشريط كاملاً عند انتهائه.</li>
-<li><strong>متى تستعمله:</strong> لعرض محدود المدة.</li>
-<li><strong>حين يكون فارغاً:</strong> فارغاً بلا عدّاد.</li>
-<li>شرحه تحت الحقل في المحرّر: مثل 2026-12-31 23:59 أو 31/12/2026 8:00 م؛ يختفي الشريط بعده.</li>
-</ul>
-<div class="table-scroll" tabindex="0" role="region" aria-label="صور الإعدادات والنتائج"><table>
-<thead>
-<tr>
-<th>اللوحة (نسخة مطابقة)</th>
-<th>النتيجة</th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><img alt="لوحة إعدادات — عدّاد حتى تاريخ (اختياري)" src="/coach-docs/assets/00-theme/03-announcement/04-announcement_countdown-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة مرجعية — عدّاد حتى تاريخ (اختياري)" src="/coach-docs/assets/00-theme/03-announcement/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
-<td>النتيجة بنص تجريبي «مثال لنصّك هنا»</td>
-</tr>
-</tbody>
-</table></div>
-
+| اللوحة (نسخة مطابقة) | النتيجة | |
+|---|---|---|
+| <img src="/coach-docs/assets/00-theme/03-announcement/04-announcement_countdown-panel.webp" alt="لوحة إعدادات — عدّاد حتى تاريخ (اختياري)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/03-announcement/00-default-result.webp" alt="معاينة — عدّاد حتى تاريخ (اختياري)" loading="lazy" decoding="async"/> | النتيجة بنص تجريبي «مثال لنصّك هنا» |
 
 ### «رابط الشريط (اختياري)»
 
+- **النوع:** نص بسطر واحد · **الافتراضي:** فارغ · المعرّف `announcement_link`
+- **ماذا يفعل:** يجعل نص الشريط رابطاً إلى صفحة العرض.
+- **متى تستعمله:** لتصنيف العرض أو صفحته.
+- **حين يكون فارغاً:** فارغاً النص بلا رابط.
+- **يظهر في اللوحة فقط حين:** «إظهار الشريط الإعلاني» هو «مفعّل»
+- شرحه تحت الحقل في المحرّر: يصبح النص رابطاً إلى صفحة العرض.
 
-<ul>
-<li><strong>النوع:</strong> نص بسطر واحد · <strong>الافتراضي:</strong> فارغ · المعرّف <code>announcement_link</code></li>
-<li><strong>ماذا يفعل:</strong> يجعل نص الشريط رابطاً إلى صفحة العرض.</li>
-<li><strong>متى تستعمله:</strong> لتصنيف العرض أو صفحته.</li>
-<li><strong>حين يكون فارغاً:</strong> فارغاً النص بلا رابط.</li>
-<li>شرحه تحت الحقل في المحرّر: يصبح النص رابطاً إلى صفحة العرض.</li>
-</ul>
-<div class="table-scroll" tabindex="0" role="region" aria-label="صور الإعدادات والنتائج"><table>
-<thead>
-<tr>
-<th>اللوحة (نسخة مطابقة)</th>
-<th>النتيجة</th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><img alt="لوحة إعدادات — رابط الشريط (اختياري)" src="/coach-docs/assets/00-theme/03-announcement/05-announcement_link-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة مرجعية — رابط الشريط (اختياري)" src="/coach-docs/assets/00-theme/03-announcement/00-default-result.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
-<td>النتيجة بالقيمة الافتراضية</td>
-</tr>
-</tbody>
-</table></div>
-<hr/>
-<blockquote>
-<p>ملاحظات البناء: لم يُعثر على النص لتمييزه: 00-default-result.webp</p>
-</blockquote>
+| اللوحة (نسخة مطابقة) | النتيجة | |
+|---|---|---|
+| <img src="/coach-docs/assets/00-theme/03-announcement/05-announcement_link-panel.webp" alt="لوحة إعدادات — رابط الشريط (اختياري)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/03-announcement/00-default-result.webp" alt="معاينة — رابط الشريط (اختياري)" loading="lazy" decoding="async"/> | النتيجة بالقيمة الافتراضية |
+
+---
+> ملاحظات البناء: لم يُعثر على النص لتمييزه: 00-default-result.webp
 
 
-<div class="source-note">صور لوحات الإعدادات مرسومة من تعريفات الثيم وليست لقطات مباشرة من محرّر سلة؛ صور النتيجة من معاينة الثيم. اضغط على أي صورة لتكبيرها.</div>
+<div class="source-note">الإصدار 1.76.1 · صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>

@@ -1,707 +1,311 @@
 ---
 title: "واجهة · فيديو وصور (٦ أشكال)"
-description: "شرح واجهة · فيديو وصور (٦ أشكال) في ثيم كوتش مع صور الإعدادات والنتائج."
+description: "دليل ثيم كوتش 1.76.1 — واجهة · فيديو وصور (٦ أشكال)"
 editUrl: false
 ---
 
 
-<p>اسمه في المتجر الإنجليزي: <em>Hero · Video and pictures (6 layouts)</em> · مساره <code>home.coach-hero-media</code></p>
-<p><strong>ما يعرضه:</strong> واجهة بالفيديو والصور في ستة أشكال. النصوص والأزرار والصور مشتركة بين الأشكال، فتبدّل الشكل دون أن تعيد الكتابة، وكل شكل يعمل بالصور وحدها.</p>
-<p><strong>متى تضيفه:</strong> أول الصفحة إن كان عندك فيديو تعريفي أو صور قوية لجلساتك.</p>
-<div class="table-scroll" tabindex="0" role="region" aria-label="صور الإعدادات والنتائج"><table>
-<thead>
-<tr>
-<th>كمبيوتر (1440)</th>
-<th>جوال (390)</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><img alt="معاينة النتيجة — واجهة · فيديو وصور (٦ أشكال)" src="/coach-docs/assets/sections/02-coach-hero-media/00-desktop.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة الجوال — واجهة · فيديو وصور (٦ أشكال)" src="/coach-docs/assets/sections/02-coach-hero-media/00-mobile.webp" loading="lazy" decoding="async"/></td>
-</tr>
-</tbody>
-</table></div>
-<p>خيارات مشتركة في هذا القسم، مشروحة مرة واحدة في <code>../../01-shared/</code>: «حجم العنوان»، «المسافة العلوية (بكسل)»، «المسافة السفلية (بكسل)».</p>
-<details><summary>من دليل التاجر</summary>
-<p>واجهة بالفيديو والصور تختار شكلها من «الشكل». النصوص والصور تبقى كما هي حين تغيّر الشكل، وكل شكل جاهز بصوره من أول إضافة.</p>
-<div class="table-scroll" tabindex="0" role="region" aria-label="صور الإعدادات والنتائج"><table>
-<thead>
-<tr>
-<th>الشكل</th>
-<th>كيف يبدو</th>
-<th>الصور والفيديو فيه</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>١ · فيديو خلفية</td>
-<td>لوحة داكنة والنص عليها</td>
-<td>«الصورة الرئيسية» خلف النص، والفيديو صامتاً فوقها على الحاسوب، وزر «شاهد…» يفتحه بالصوت</td>
-</tr>
-<tr>
-<td>٢ · وسائط بالأعلى والنص تحتها</td>
-<td>صورة عريضة، وتحتها العنوان والوصف والأزرار</td>
-<td>«صورة الفيديو» (أو الرئيسية) بالأعلى، وعليها زر التشغيل وزر «شاهد…» بأيقونة الفيديو</td>
-</tr>
-<tr>
-<td>٣ · قوس وفيديو عائم</td>
-<td>النص بجانب قوس، وبطاقة فيديو عائمة</td>
-<td>«الصورة الرئيسية» في القوس، و«صورة الفيديو» في البطاقة العائمة</td>
-</tr>
-<tr>
-<td>٤ · في الوسط بثلاث صور</td>
-<td>النص في الوسط، وتحته ثلاثة أقواس</td>
-<td>«الصورة الجانبية الأولى» ثم «الرئيسية» (وعليها «شاهد…») ثم «الجانبية الثانية»</td>
-</tr>
-<tr>
-<td>٥ · فيديوهان</td>
-<td>لوحة داكنة، وبطاقة زجاجية بجانب النص</td>
-<td>«صورة الفيديو» خلف النص (أو الفيديو صامتاً)، وزر «شاهد…»، و«الفيديو الثاني» وصورته في البطاقة الزجاجية</td>
-</tr>
-<tr>
-<td>٦ · صورة وفيديو بالأعلى والنص تحتهما</td>
-<td>صورتان متجاورتان، والنص في الوسط تحتهما مع رابط ثالث</td>
-<td>«الصورة الرئيسية» بجانب «صورة الفيديو» (أو الفيديو صامتاً)، وعليها «شاهد…»</td>
-</tr>
-</tbody>
-</table></div>
-<p>الشرح نفسه في أعلى إعدادات القسم في المحرّر. النصوص والأزرار والصورة الرئيسية والفيديو مشتركة بين الأشكال، فتبقى كما هي حين تجرّب شكلاً آخر.</p>
-<ul>
-<li><strong>النصوص:</strong> «السطر الصغير» حبّة بأيقونة، و«العنوان» يقبل سطراً جديداً وكلمة ملوّنة بين قوسين مزدوجين: [[كلمة]]. في الشكل ٣ يظهر «سطر الترحيب» مكان السطر الصغير.</li>
-<li><strong>الأزرار:</strong> «رابط الزر الأساسي» فارغاً يأخذ الزائر إلى «متجر · كل المنتجات بتبويبات». و«رابط الزر الثاني» فارغاً إلى «استشارات · باقات الجلسات الفردية»، ويختفي الزر إن لم يكن القسم في الصفحة. الرابط النصي الثالث للشكل ٦ فقط.</li>
-<li><strong>الفيديو:</strong> ملف MP4 في «رابط الفيديو» يعمل صامتاً في الخلفية على الحاسوب، في الشكلين ١ و٥ ومكان الفيديو في الشكل ٦. رابط YouTube أو Vimeo يفتح في نافذة فقط. زر الفيديو يفتحه بالصوت. على الجوال ومع «تقليل الحركة» تظهر صورته فقط. بلا فيديو تبقى الصور وحدها ويختفي زر الفيديو.</li>
-<li><strong>الصور:</strong> كل حقل صورة يأتي بصورة جاهزة، فاستبدلها بصورك: «الصورة الرئيسية» صورتك (١٦٠٠ بكسل عرضاً تقريباً)، و«صورة الفيديو» تظهر مكانه قبل أن يعمل. الصورتان الجانبيتان تظهران مع الشكل ٤، والفيديو الثاني مع الشكل ٥.</li>
-<li><strong>الحركة:</strong> «حركة خفيفة للبطاقات» (مفعّلة) كما في «واجهة · ترحيب المدرّب»: بطاقة الفيديو في الشكل ٣ تطفو ببطء، وهي والبطاقة الزجاجية في الشكل ٥ تميلان بخفة نحو مؤشر الفأرة. الميل للحاسوب فقط، ولا حركة مع «تقليل الحركة» أو بلا «التأثيرات المتحركة».</li>
-</ul>
-</details>
+اسمه في المتجر الإنجليزي: *Hero · Video and pictures (6 layouts)* · مساره `home.coach-hero-media`
 
+**ما يعرضه:** واجهة بالفيديو والصور في ستة أشكال. النصوص والأزرار والصور مشتركة بين الأشكال، فتبدّل الشكل دون أن تعيد الكتابة، وكل شكل يعمل بالصور وحدها.
+
+**متى تضيفه:** أول الصفحة إن كان عندك فيديو تعريفي أو صور قوية لجلساتك.
+
+| كمبيوتر (1440) | جوال (390) |
+|---|---|
+| <img src="/coach-docs/assets/sections/02-coach-hero-media/00-desktop.webp" alt="معاينة — واجهة · فيديو وصور (٦ أشكال)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/02-coach-hero-media/00-mobile.webp" alt="معاينة — واجهة · فيديو وصور (٦ أشكال)" loading="lazy" decoding="async"/> |
+
+خيارات مشتركة في هذا القسم، مشروحة مرة واحدة في [الخيارات المشتركة](/coach-docs/docs/01-shared/): «حجم العنوان»، «المسافة العلوية (بكسل)»، «المسافة السفلية (بكسل)».
+
+<details><summary>من دليل التاجر</summary>
+
+واجهة بالفيديو والصور تختار شكلها من «الشكل». النصوص والصور تبقى كما هي حين تغيّر الشكل، وكل شكل جاهز بصوره من أول إضافة.
+
+| الشكل | كيف يبدو | الصور والفيديو فيه |
+|---|---|---|
+| ١ · فيديو خلفية | لوحة داكنة والنص عليها | «الصورة الرئيسية» خلف النص، والفيديو صامتاً فوقها على الحاسوب، وزر «شاهد…» يفتحه بالصوت |
+| ٢ · وسائط بالأعلى والنص تحتها | صورة عريضة، وتحتها العنوان والوصف والأزرار | «صورة الفيديو» (أو الرئيسية) بالأعلى، وعليها زر التشغيل وزر «شاهد…» بأيقونة الفيديو |
+| ٣ · قوس وفيديو عائم | النص بجانب قوس، وبطاقة فيديو عائمة | «الصورة الرئيسية» في القوس، و«صورة الفيديو» في البطاقة العائمة |
+| ٤ · في الوسط بثلاث صور | النص في الوسط، وتحته ثلاثة أقواس | «الصورة الجانبية الأولى» ثم «الرئيسية» (وعليها «شاهد…») ثم «الجانبية الثانية» |
+| ٥ · فيديوهان | لوحة داكنة، وبطاقة زجاجية بجانب النص | «صورة الفيديو» خلف النص (أو الفيديو صامتاً)، وزر «شاهد…»، و«الفيديو الثاني» وصورته في البطاقة الزجاجية |
+| ٦ · صورة وفيديو بالأعلى والنص تحتهما | صورتان متجاورتان، والنص في الوسط تحتهما مع رابط ثالث | «الصورة الرئيسية» بجانب «صورة الفيديو» (أو الفيديو صامتاً)، وعليها «شاهد…» |
+
+الشرح نفسه في أعلى إعدادات القسم في المحرّر. النصوص والأزرار والصورة الرئيسية والفيديو مشتركة بين الأشكال، فتبقى كما هي حين تجرّب شكلاً آخر.
+
+- **النصوص:** «السطر الصغير» حبّة بأيقونة، و«العنوان» يقبل سطراً جديداً وكلمة ملوّنة بين قوسين مزدوجين: [[كلمة]]. في الشكل ٣ يظهر «سطر الترحيب» مكان السطر الصغير.
+- **الأزرار:** «رابط الزر الأساسي» فارغاً يأخذ الزائر إلى «متجر · كل المنتجات بتبويبات». و«رابط الزر الثاني» فارغاً إلى «استشارات · باقات الجلسات الفردية»، ويختفي الزر إن لم يكن القسم في الصفحة. الرابط النصي الثالث للشكل ٦ فقط.
+- **الفيديو:** ملف MP4 في «رابط الفيديو» يعمل صامتاً في الخلفية على الحاسوب، في الشكلين ١ و٥ ومكان الفيديو في الشكل ٦. رابط YouTube أو Vimeo يفتح في نافذة فقط. زر الفيديو يفتحه بالصوت. على الجوال ومع «تقليل الحركة» تظهر صورته فقط. بلا فيديو تبقى الصور وحدها ويختفي زر الفيديو.
+- **الصور:** كل حقل صورة يأتي بصورة جاهزة، فاستبدلها بصورك: «الصورة الرئيسية» صورتك (١٦٠٠ بكسل عرضاً تقريباً)، و«صورة الفيديو» تظهر مكانه قبل أن يعمل. الصورتان الجانبيتان تظهران مع الشكل ٤، والفيديو الثاني مع الشكل ٥.
+- **الحركة:** «حركة خفيفة للبطاقات» (مفعّلة) كما في «واجهة · ترحيب المدرّب»: بطاقة الفيديو في الشكل ٣ تطفو ببطء، وهي والبطاقة الزجاجية في الشكل ٥ تميلان بخفة نحو مؤشر الفأرة. الميل للحاسوب فقط، ولا حركة مع «تقليل الحركة» أو بلا «التأثيرات المتحركة».
+
+</details>
 
 ## الإعدادات بترتيبها في اللوحة
 
-
-
-
 ### «الشكل»
 
+- **النوع:** قائمة منسدلة · **الافتراضي:** ١ · فيديو خلفية · المعرّف `layout`
+- **ماذا يفعل:** شكل الواجهة: فيديو خلفية، أو وسائط بالأعلى والنص تحتها، أو قوس وفيديو عائم، أو في الوسط بثلاث صور، أو فيديوهان، أو صورة وفيديو بالأعلى.
+- **متى تستعمله:** اختر الشكل حسب ما عندك: فيديو واحد عريض، أو صورة لك، أو عدة صور.
+- شرحه تحت الحقل في المحرّر: حقول كل شكل تظهر معه؛ عمود واحد على الجوال.
 
-<ul>
-<li><strong>النوع:</strong> قائمة منسدلة · <strong>الافتراضي:</strong> ١ · فيديو خلفية · المعرّف <code>layout</code></li>
-<li><strong>ماذا يفعل:</strong> شكل الواجهة: فيديو خلفية، أو وسائط بالأعلى والنص تحتها، أو قوس وفيديو عائم، أو في الوسط بثلاث صور، أو فيديوهان، أو صورة وفيديو بالأعلى.</li>
-<li><strong>متى تستعمله:</strong> اختر الشكل حسب ما عندك: فيديو واحد عريض، أو صورة لك، أو عدة صور.</li>
-<li>شرحه تحت الحقل في المحرّر: حقول كل شكل تظهر معه؛ عمود واحد على الجوال.</li>
-</ul>
-<div class="table-scroll" tabindex="0" role="region" aria-label="صور الإعدادات والنتائج"><table>
-<thead>
-<tr>
-<th>اللوحة (نسخة مطابقة)</th>
-<th>النتيجة</th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><img alt="لوحة إعدادات — الشكل" src="/coach-docs/assets/sections/02-coach-hero-media/01-layout-video-bg-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة مرجعية — الشكل" src="/coach-docs/assets/sections/02-coach-hero-media/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
-<td>«١ · فيديو خلفية»</td>
-</tr>
-<tr>
-<td><img alt="لوحة إعدادات — الشكل" src="/coach-docs/assets/sections/02-coach-hero-media/01-layout-media-top-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — الشكل" src="/coach-docs/assets/sections/02-coach-hero-media/01-layout-media-top-result.webp" loading="lazy" decoding="async"/></td>
-<td>«٢ · وسائط بالأعلى والنص تحتها»</td>
-</tr>
-<tr>
-<td><img alt="لوحة إعدادات — الشكل" src="/coach-docs/assets/sections/02-coach-hero-media/01-layout-arch-video-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — الشكل" src="/coach-docs/assets/sections/02-coach-hero-media/01-layout-arch-video-result.webp" loading="lazy" decoding="async"/></td>
-<td>«٣ · قوس وفيديو عائم»</td>
-</tr>
-<tr>
-<td><img alt="لوحة إعدادات — الشكل" src="/coach-docs/assets/sections/02-coach-hero-media/01-layout-center-tri-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — الشكل" src="/coach-docs/assets/sections/02-coach-hero-media/01-layout-center-tri-result.webp" loading="lazy" decoding="async"/></td>
-<td>«٤ · في الوسط بثلاث صور»</td>
-</tr>
-<tr>
-<td><img alt="لوحة إعدادات — الشكل" src="/coach-docs/assets/sections/02-coach-hero-media/01-layout-dual-video-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — الشكل" src="/coach-docs/assets/sections/02-coach-hero-media/01-layout-dual-video-result.webp" loading="lazy" decoding="async"/></td>
-<td>«٥ · فيديوهان»</td>
-</tr>
-<tr>
-<td><img alt="لوحة إعدادات — الشكل" src="/coach-docs/assets/sections/02-coach-hero-media/01-layout-pair-top-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — الشكل" src="/coach-docs/assets/sections/02-coach-hero-media/01-layout-pair-top-result.webp" loading="lazy" decoding="async"/></td>
-<td>«٦ · صورة وفيديو بالأعلى والنص تحتهما»</td>
-</tr>
-</tbody>
-</table></div>
-
+| اللوحة (نسخة مطابقة) | النتيجة | |
+|---|---|---|
+| <img src="/coach-docs/assets/sections/02-coach-hero-media/01-layout-video-bg-panel.webp" alt="لوحة إعدادات — الشكل" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/02-coach-hero-media/00-desktop.webp" alt="معاينة — الشكل" loading="lazy" decoding="async"/> | «١ · فيديو خلفية» |
+| <img src="/coach-docs/assets/sections/02-coach-hero-media/01-layout-media-top-panel.webp" alt="لوحة إعدادات — الشكل" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/02-coach-hero-media/01-layout-media-top-result.webp" alt="معاينة — الشكل" loading="lazy" decoding="async"/> | «٢ · وسائط بالأعلى والنص تحتها» |
+| <img src="/coach-docs/assets/sections/02-coach-hero-media/01-layout-arch-video-panel.webp" alt="لوحة إعدادات — الشكل" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/02-coach-hero-media/01-layout-arch-video-result.webp" alt="معاينة — الشكل" loading="lazy" decoding="async"/> | «٣ · قوس وفيديو عائم» |
+| <img src="/coach-docs/assets/sections/02-coach-hero-media/01-layout-center-tri-panel.webp" alt="لوحة إعدادات — الشكل" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/02-coach-hero-media/01-layout-center-tri-result.webp" alt="معاينة — الشكل" loading="lazy" decoding="async"/> | «٤ · في الوسط بثلاث صور» |
+| <img src="/coach-docs/assets/sections/02-coach-hero-media/01-layout-dual-video-panel.webp" alt="لوحة إعدادات — الشكل" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/02-coach-hero-media/01-layout-dual-video-result.webp" alt="معاينة — الشكل" loading="lazy" decoding="async"/> | «٥ · فيديوهان» |
+| <img src="/coach-docs/assets/sections/02-coach-hero-media/01-layout-pair-top-panel.webp" alt="لوحة إعدادات — الشكل" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/02-coach-hero-media/01-layout-pair-top-result.webp" alt="معاينة — الشكل" loading="lazy" decoding="async"/> | «٦ · صورة وفيديو بالأعلى والنص تحتهما» |
 
 ### «السطر الصغير»
 
+- **النوع:** نص بسطر واحد · **الافتراضي:** د. لمى الدوسري · مدرّبة تطوير مهني · المعرّف `eyebrow`
+- **ماذا يفعل:** سطر صغير فوق العنوان، مثل اسمك ولقبك.
+- **متى تستعمله:** لاسمك أو وصف قصير لما تقدّمه.
+- **حين يكون فارغاً:** فارغاً باللغتين لا يظهر.
+- شرحه تحت الحقل في المحرّر: فارغاً يُخفى.
 
-<ul>
-<li><strong>النوع:</strong> نص بسطر واحد · <strong>الافتراضي:</strong> د. لمى الدوسري · مدرّبة تطوير مهني · المعرّف <code>eyebrow</code></li>
-<li><strong>ماذا يفعل:</strong> سطر صغير فوق العنوان، مثل اسمك ولقبك.</li>
-<li><strong>متى تستعمله:</strong> لاسمك أو وصف قصير لما تقدّمه.</li>
-<li><strong>حين يكون فارغاً:</strong> فارغاً باللغتين لا يظهر.</li>
-<li>شرحه تحت الحقل في المحرّر: فارغاً يُخفى.</li>
-</ul>
-<div class="table-scroll" tabindex="0" role="region" aria-label="صور الإعدادات والنتائج"><table>
-<thead>
-<tr>
-<th>اللوحة (نسخة مطابقة)</th>
-<th>النتيجة</th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><img alt="لوحة إعدادات — السطر الصغير" src="/coach-docs/assets/sections/02-coach-hero-media/02-eyebrow-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — السطر الصغير" src="/coach-docs/assets/sections/02-coach-hero-media/02-eyebrow-result.webp" loading="lazy" decoding="async"/></td>
-<td>مكانه في القسم محاط بإطار برتقالي</td>
-</tr>
-</tbody>
-</table></div>
-
+| اللوحة (نسخة مطابقة) | النتيجة | |
+|---|---|---|
+| <img src="/coach-docs/assets/sections/02-coach-hero-media/02-eyebrow-panel.webp" alt="لوحة إعدادات — السطر الصغير" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/02-coach-hero-media/02-eyebrow-result.webp" alt="معاينة — السطر الصغير" loading="lazy" decoding="async"/> | مكانه في القسم محاط بإطار برتقالي |
 
 ### «سطر الترحيب»
 
+- **النوع:** نص بسطر واحد · **الافتراضي:** مرحباً، أنا د. لمى · المعرّف `floating_badge`
+- **ماذا يفعل:** في الشكل ٣ فقط: سطر ترحيب يحلّ محل السطر الصغير، مثل «مرحباً، أنا د. لمى».
+- **متى تستعمله:** لترحيب شخصي في شكل القوس.
+- **حين يكون فارغاً:** فارغاً يبقى «السطر الصغير».
+- **يظهر في اللوحة فقط حين:** «الشكل» هو «٣ · قوس وفيديو عائم»
+- شرحه تحت الحقل في المحرّر: بدل السطر الصغير في الشكل ٣؛ فارغاً يبقى.
 
-<ul>
-<li><strong>النوع:</strong> نص بسطر واحد · <strong>الافتراضي:</strong> مرحباً، أنا د. لمى · المعرّف <code>floating_badge</code></li>
-<li><strong>ماذا يفعل:</strong> في الشكل ٣ فقط: سطر ترحيب يحلّ محل السطر الصغير، مثل «مرحباً، أنا د. لمى».</li>
-<li><strong>متى تستعمله:</strong> لترحيب شخصي في شكل القوس.</li>
-<li><strong>حين يكون فارغاً:</strong> فارغاً يبقى «السطر الصغير».</li>
-<li><strong>يظهر في اللوحة فقط حين:</strong> «الشكل» هو «٣ · قوس وفيديو عائم»</li>
-<li>شرحه تحت الحقل في المحرّر: بدل السطر الصغير في الشكل ٣؛ فارغاً يبقى.</li>
-</ul>
-<div class="table-scroll" tabindex="0" role="region" aria-label="صور الإعدادات والنتائج"><table>
-<thead>
-<tr>
-<th>اللوحة (نسخة مطابقة)</th>
-<th>النتيجة</th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><img alt="لوحة إعدادات — سطر الترحيب" src="/coach-docs/assets/sections/02-coach-hero-media/03-floating_badge-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة مرجعية — سطر الترحيب" src="/coach-docs/assets/sections/02-coach-hero-media/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
-<td>النتيجة: القسم بالقيمة الافتراضية</td>
-</tr>
-</tbody>
-</table></div>
-
+| اللوحة (نسخة مطابقة) | النتيجة | |
+|---|---|---|
+| <img src="/coach-docs/assets/sections/02-coach-hero-media/03-floating_badge-panel.webp" alt="لوحة إعدادات — سطر الترحيب" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/02-coach-hero-media/00-desktop.webp" alt="معاينة — سطر الترحيب" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «العنوان»
 
+- **النوع:** نص بعدة أسطر · **الافتراضي:** خطوات صغيرة، أثر يبقى · المعرّف `title`
+- **ماذا يفعل:** العنوان الكبير. كل سطر تكتبه سطر في العنوان، و[[كلمة]] تظهر مميّزة.
+- **متى تستعمله:** جملة قصيرة تلخّص رسالتك.
+- **حين يكون فارغاً:** فارغاً باللغتين لا يظهر.
+- شرحه تحت الحقل في المحرّر: كل سطر هنا سطر في العنوان. [[كلمة]] بلون المتجر.
 
-<ul>
-<li><strong>النوع:</strong> نص بعدة أسطر · <strong>الافتراضي:</strong> خطوات صغيرة، أثر يبقى · المعرّف <code>title</code></li>
-<li><strong>ماذا يفعل:</strong> العنوان الكبير. كل سطر تكتبه سطر في العنوان، و[[كلمة]] تظهر مميّزة.</li>
-<li><strong>متى تستعمله:</strong> جملة قصيرة تلخّص رسالتك.</li>
-<li><strong>حين يكون فارغاً:</strong> فارغاً باللغتين لا يظهر.</li>
-<li>شرحه تحت الحقل في المحرّر: كل سطر هنا سطر في العنوان. [[كلمة]] بلون المتجر.</li>
-</ul>
-<div class="table-scroll" tabindex="0" role="region" aria-label="صور الإعدادات والنتائج"><table>
-<thead>
-<tr>
-<th>اللوحة (نسخة مطابقة)</th>
-<th>النتيجة</th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><img alt="لوحة إعدادات — العنوان" src="/coach-docs/assets/sections/02-coach-hero-media/04-title-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — العنوان" src="/coach-docs/assets/sections/02-coach-hero-media/04-title-result.webp" loading="lazy" decoding="async"/></td>
-<td>مكانه في القسم محاط بإطار برتقالي</td>
-</tr>
-</tbody>
-</table></div>
-
+| اللوحة (نسخة مطابقة) | النتيجة | |
+|---|---|---|
+| <img src="/coach-docs/assets/sections/02-coach-hero-media/04-title-panel.webp" alt="لوحة إعدادات — العنوان" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/02-coach-hero-media/04-title-result.webp" alt="معاينة — العنوان" loading="lazy" decoding="async"/> | مكانه في القسم محاط بإطار برتقالي |
 
 ### «الوصف»
 
+- **النوع:** نص بعدة أسطر · **الافتراضي:** برامج وكتب وأدوات رقمية، وجلسات فردية حين تحتاج من يمشي معك. · المعرّف `description`
+- **ماذا يفعل:** سطر أو سطران تحت العنوان.
+- **متى تستعمله:** لما تقدّمه: دورات وكتب وجلسات.
+- **حين يكون فارغاً:** فارغاً باللغتين لا يظهر.
 
-<ul>
-<li><strong>النوع:</strong> نص بعدة أسطر · <strong>الافتراضي:</strong> دورات وكتب وأدوات رقمية، وجلسات فردية حين تحتاج من يمشي معك. · المعرّف <code>description</code></li>
-<li><strong>ماذا يفعل:</strong> سطر أو سطران تحت العنوان.</li>
-<li><strong>متى تستعمله:</strong> لما تقدّمه: دورات وكتب وجلسات.</li>
-<li><strong>حين يكون فارغاً:</strong> فارغاً باللغتين لا يظهر.</li>
-</ul>
-<div class="table-scroll" tabindex="0" role="region" aria-label="صور الإعدادات والنتائج"><table>
-<thead>
-<tr>
-<th>اللوحة (نسخة مطابقة)</th>
-<th>النتيجة</th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><img alt="لوحة إعدادات — الوصف" src="/coach-docs/assets/sections/02-coach-hero-media/05-description-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — الوصف" src="/coach-docs/assets/sections/02-coach-hero-media/05-description-result.webp" loading="lazy" decoding="async"/></td>
-<td>مكانه في القسم محاط بإطار برتقالي</td>
-</tr>
-</tbody>
-</table></div>
-
+| اللوحة (نسخة مطابقة) | النتيجة | |
+|---|---|---|
+| <img src="/coach-docs/assets/sections/02-coach-hero-media/05-description-panel.webp" alt="لوحة إعدادات — الوصف" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/02-coach-hero-media/05-description-result.webp" alt="معاينة — الوصف" loading="lazy" decoding="async"/> | مكانه في القسم محاط بإطار برتقالي |
 
 ### «الصورة الرئيسية (صورتك)»
 
+- **النوع:** صورة ترفعها · **الافتراضي:** بلا صورة · المعرّف `image_main`
+- **ماذا يفعل:** الصورة الرئيسية، عرضها نحو ١٦٠٠ بكسل. مكانها يختلف بالشكل: خلف النص، أو في القوس، أو في الوسط.
+- **متى تستعمله:** صورتك أو صورة من جلساتك.
+- **حين يكون فارغاً:** بدونها مكانها بخطوط مائلة بلون الثيم.
+- شرحه تحت الحقل في المحرّر: عرضها ١٦٠٠ بكسل تقريباً.
 
-<ul>
-<li><strong>النوع:</strong> صورة ترفعها · <strong>الافتراضي:</strong> بلا صورة · المعرّف <code>image_main</code></li>
-<li><strong>ماذا يفعل:</strong> الصورة الرئيسية، عرضها نحو ١٦٠٠ بكسل. مكانها يختلف بالشكل: خلف النص، أو في القوس، أو في الوسط.</li>
-<li><strong>متى تستعمله:</strong> صورتك أو صورة من جلساتك.</li>
-<li><strong>حين يكون فارغاً:</strong> بدونها مكانها بخطوط مائلة بلون الثيم.</li>
-<li>شرحه تحت الحقل في المحرّر: عرضها ١٦٠٠ بكسل تقريباً.</li>
-</ul>
-<div class="table-scroll" tabindex="0" role="region" aria-label="صور الإعدادات والنتائج"><table>
-<thead>
-<tr>
-<th>اللوحة (نسخة مطابقة)</th>
-<th>النتيجة</th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><img alt="لوحة إعدادات — الصورة الرئيسية (صورتك)" src="/coach-docs/assets/sections/02-coach-hero-media/06-image_main-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — الصورة الرئيسية (صورتك)" src="/coach-docs/assets/sections/02-coach-hero-media/06-image_main-result.webp" loading="lazy" decoding="async"/></td>
-<td>النتيجة بصورة تجريبية</td>
-</tr>
-</tbody>
-</table></div>
-
+| اللوحة (نسخة مطابقة) | النتيجة | |
+|---|---|---|
+| <img src="/coach-docs/assets/sections/02-coach-hero-media/06-image_main-panel.webp" alt="لوحة إعدادات — الصورة الرئيسية (صورتك)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/02-coach-hero-media/06-image_main-result.webp" alt="معاينة — الصورة الرئيسية (صورتك)" loading="lazy" decoding="async"/> | النتيجة بصورة تجريبية |
 
 ### «الصورة الجانبية الأولى»
 
+- **النوع:** صورة ترفعها · **الافتراضي:** بلا صورة · المعرّف `image_side_1`
+- **ماذا يفعل:** في الشكل ٤ فقط: القوس الجانبي الأول (الأيمن في العربية).
+- **متى تستعمله:** لصورة ثانية من جلساتك أو كتبك.
+- **حين يكون فارغاً:** بدونها لا يظهر القوس الجانبي.
+- **يظهر في اللوحة فقط حين:** «الشكل» هو «٤ · في الوسط بثلاث صور»
+- شرحه تحت الحقل في المحرّر: القوس الأيمن (الأيسر بالإنجليزية).
 
-<ul>
-<li><strong>النوع:</strong> صورة ترفعها · <strong>الافتراضي:</strong> بلا صورة · المعرّف <code>image_side_1</code></li>
-<li><strong>ماذا يفعل:</strong> في الشكل ٤ فقط: القوس الجانبي الأول (الأيمن في العربية).</li>
-<li><strong>متى تستعمله:</strong> لصورة ثانية من جلساتك أو كتبك.</li>
-<li><strong>حين يكون فارغاً:</strong> بدونها لا يظهر القوس الجانبي.</li>
-<li><strong>يظهر في اللوحة فقط حين:</strong> «الشكل» هو «٤ · في الوسط بثلاث صور»</li>
-<li>شرحه تحت الحقل في المحرّر: القوس الأيمن (الأيسر بالإنجليزية).</li>
-</ul>
-<div class="table-scroll" tabindex="0" role="region" aria-label="صور الإعدادات والنتائج"><table>
-<thead>
-<tr>
-<th>اللوحة (نسخة مطابقة)</th>
-<th>النتيجة</th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><img alt="لوحة إعدادات — الصورة الجانبية الأولى" src="/coach-docs/assets/sections/02-coach-hero-media/07-image_side_1-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — الصورة الجانبية الأولى" src="/coach-docs/assets/sections/02-coach-hero-media/07-image_side_1-result.webp" loading="lazy" decoding="async"/></td>
-<td>النتيجة بصورة تجريبية</td>
-</tr>
-</tbody>
-</table></div>
-
+| اللوحة (نسخة مطابقة) | النتيجة | |
+|---|---|---|
+| <img src="/coach-docs/assets/sections/02-coach-hero-media/07-image_side_1-panel.webp" alt="لوحة إعدادات — الصورة الجانبية الأولى" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/02-coach-hero-media/07-image_side_1-result.webp" alt="معاينة — الصورة الجانبية الأولى" loading="lazy" decoding="async"/> | النتيجة بصورة تجريبية |
 
 ### «الصورة الجانبية الثانية»
 
+- **النوع:** صورة ترفعها · **الافتراضي:** بلا صورة · المعرّف `image_side_2`
+- **ماذا يفعل:** في الشكل ٤ فقط: القوس الجانبي الثاني (الأيسر في العربية).
+- **متى تستعمله:** لصورة ثالثة تكمل المشهد.
+- **حين يكون فارغاً:** بدونها لا يظهر القوس الجانبي.
+- **يظهر في اللوحة فقط حين:** «الشكل» هو «٤ · في الوسط بثلاث صور»
+- شرحه تحت الحقل في المحرّر: القوس الأيسر.
 
-<ul>
-<li><strong>النوع:</strong> صورة ترفعها · <strong>الافتراضي:</strong> بلا صورة · المعرّف <code>image_side_2</code></li>
-<li><strong>ماذا يفعل:</strong> في الشكل ٤ فقط: القوس الجانبي الثاني (الأيسر في العربية).</li>
-<li><strong>متى تستعمله:</strong> لصورة ثالثة تكمل المشهد.</li>
-<li><strong>حين يكون فارغاً:</strong> بدونها لا يظهر القوس الجانبي.</li>
-<li><strong>يظهر في اللوحة فقط حين:</strong> «الشكل» هو «٤ · في الوسط بثلاث صور»</li>
-<li>شرحه تحت الحقل في المحرّر: القوس الأيسر.</li>
-</ul>
-<div class="table-scroll" tabindex="0" role="region" aria-label="صور الإعدادات والنتائج"><table>
-<thead>
-<tr>
-<th>اللوحة (نسخة مطابقة)</th>
-<th>النتيجة</th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><img alt="لوحة إعدادات — الصورة الجانبية الثانية" src="/coach-docs/assets/sections/02-coach-hero-media/08-image_side_2-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — الصورة الجانبية الثانية" src="/coach-docs/assets/sections/02-coach-hero-media/08-image_side_2-result.webp" loading="lazy" decoding="async"/></td>
-<td>النتيجة بصورة تجريبية</td>
-</tr>
-</tbody>
-</table></div>
-
+| اللوحة (نسخة مطابقة) | النتيجة | |
+|---|---|---|
+| <img src="/coach-docs/assets/sections/02-coach-hero-media/08-image_side_2-panel.webp" alt="لوحة إعدادات — الصورة الجانبية الثانية" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/02-coach-hero-media/08-image_side_2-result.webp" alt="معاينة — الصورة الجانبية الثانية" loading="lazy" decoding="async"/> | النتيجة بصورة تجريبية |
 
 ### «رابط الفيديو»
 
+- **النوع:** نص بسطر واحد · **الافتراضي:** فارغ · المعرّف `video_url`
+- **ماذا يفعل:** رابط الفيديو: ملف MP4 يعمل صامتاً في الخلفية، أو YouTube أو Vimeo. يفتح كاملاً بالصوت عند الضغط.
+- **متى تستعمله:** لفيديو تعريفي قصير.
+- **حين يكون فارغاً:** فارغاً تبقى الصور وحدها بلا زر فيديو.
+- شرحه تحت الحقل في المحرّر: MP4 أو YouTube أو Vimeo؛ فارغاً تبقى الصور وحدها.
 
-<ul>
-<li><strong>النوع:</strong> نص بسطر واحد · <strong>الافتراضي:</strong> فارغ · المعرّف <code>video_url</code></li>
-<li><strong>ماذا يفعل:</strong> رابط الفيديو: ملف MP4 يعمل صامتاً في الخلفية، أو YouTube أو Vimeo. يفتح كاملاً بالصوت عند الضغط.</li>
-<li><strong>متى تستعمله:</strong> لفيديو تعريفي قصير.</li>
-<li><strong>حين يكون فارغاً:</strong> فارغاً تبقى الصور وحدها بلا زر فيديو.</li>
-<li>شرحه تحت الحقل في المحرّر: MP4 أو YouTube أو Vimeo؛ فارغاً تبقى الصور وحدها.</li>
-</ul>
-<div class="table-scroll" tabindex="0" role="region" aria-label="صور الإعدادات والنتائج"><table>
-<thead>
-<tr>
-<th>اللوحة (نسخة مطابقة)</th>
-<th>النتيجة</th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><img alt="لوحة إعدادات — رابط الفيديو" src="/coach-docs/assets/sections/02-coach-hero-media/09-video_url-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة مرجعية — رابط الفيديو" src="/coach-docs/assets/sections/02-coach-hero-media/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
-<td>النتيجة: القسم بالقيمة الافتراضية</td>
-</tr>
-</tbody>
-</table></div>
-
+| اللوحة (نسخة مطابقة) | النتيجة | |
+|---|---|---|
+| <img src="/coach-docs/assets/sections/02-coach-hero-media/09-video_url-panel.webp" alt="لوحة إعدادات — رابط الفيديو" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/02-coach-hero-media/00-desktop.webp" alt="معاينة — رابط الفيديو" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «صورة الفيديو»
 
+- **النوع:** صورة ترفعها · **الافتراضي:** بلا صورة · المعرّف `video_poster`
+- **ماذا يفعل:** صورة تظهر قبل تشغيل الفيديو، وعلى الجوال، وحين لا فيديو.
+- **متى تستعمله:** لقطة واضحة من الفيديو.
+- **حين يكون فارغاً:** فارغاً تظهر الصورة الرئيسية، ومع يوتيوب صورته المصغّرة.
+- شرحه تحت الحقل في المحرّر: قبل التشغيل وعلى الجوال وبلا فيديو؛ فارغاً مع يوتيوب صورته المصغّرة.
 
-<ul>
-<li><strong>النوع:</strong> صورة ترفعها · <strong>الافتراضي:</strong> بلا صورة · المعرّف <code>video_poster</code></li>
-<li><strong>ماذا يفعل:</strong> صورة تظهر قبل تشغيل الفيديو، وعلى الجوال، وحين لا فيديو.</li>
-<li><strong>متى تستعمله:</strong> لقطة واضحة من الفيديو.</li>
-<li><strong>حين يكون فارغاً:</strong> فارغاً تظهر الصورة الرئيسية، ومع يوتيوب صورته المصغّرة.</li>
-<li>شرحه تحت الحقل في المحرّر: قبل التشغيل وعلى الجوال وبلا فيديو؛ فارغاً مع يوتيوب صورته المصغّرة.</li>
-</ul>
-<div class="table-scroll" tabindex="0" role="region" aria-label="صور الإعدادات والنتائج"><table>
-<thead>
-<tr>
-<th>اللوحة (نسخة مطابقة)</th>
-<th>النتيجة</th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><img alt="لوحة إعدادات — صورة الفيديو" src="/coach-docs/assets/sections/02-coach-hero-media/10-video_poster-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — صورة الفيديو" src="/coach-docs/assets/sections/02-coach-hero-media/06-image_main-result.webp" loading="lazy" decoding="async"/></td>
-<td>النتيجة بصورة تجريبية</td>
-</tr>
-</tbody>
-</table></div>
-
+| اللوحة (نسخة مطابقة) | النتيجة | |
+|---|---|---|
+| <img src="/coach-docs/assets/sections/02-coach-hero-media/10-video_poster-panel.webp" alt="لوحة إعدادات — صورة الفيديو" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/02-coach-hero-media/10-video_poster-result.webp" alt="معاينة — صورة الفيديو" loading="lazy" decoding="async"/> | النتيجة بصورة تجريبية |
 
 ### «رابط الفيديو الثاني»
 
+- **النوع:** نص بسطر واحد · **الافتراضي:** فارغ · المعرّف `video2_url`
+- **ماذا يفعل:** في الشكل ٥ فقط: فيديو ثانٍ في البطاقة الزجاجية الصغيرة. ملف MP4 يعمل صامتاً فيها.
+- **متى تستعمله:** لجولة قصيرة داخل برنامجك.
+- **حين يكون فارغاً:** بدونه تبقى صورة البطاقة وحدها.
+- **يظهر في اللوحة فقط حين:** «الشكل» هو «٥ · فيديوهان»
+- شرحه تحت الحقل في المحرّر: ملف MP4 للبطاقة الزجاجية؛ بدونه تبقى صورته.
 
-<ul>
-<li><strong>النوع:</strong> نص بسطر واحد · <strong>الافتراضي:</strong> فارغ · المعرّف <code>video2_url</code></li>
-<li><strong>ماذا يفعل:</strong> في الشكل ٥ فقط: فيديو ثانٍ في البطاقة الزجاجية الصغيرة. ملف MP4 يعمل صامتاً فيها.</li>
-<li><strong>متى تستعمله:</strong> لجولة قصيرة داخل برنامجك.</li>
-<li><strong>حين يكون فارغاً:</strong> بدونه تبقى صورة البطاقة وحدها.</li>
-<li><strong>يظهر في اللوحة فقط حين:</strong> «الشكل» هو «٥ · فيديوهان»</li>
-<li>شرحه تحت الحقل في المحرّر: ملف MP4 للبطاقة الزجاجية؛ بدونه تبقى صورته.</li>
-</ul>
-<div class="table-scroll" tabindex="0" role="region" aria-label="صور الإعدادات والنتائج"><table>
-<thead>
-<tr>
-<th>اللوحة (نسخة مطابقة)</th>
-<th>النتيجة</th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><img alt="لوحة إعدادات — رابط الفيديو الثاني" src="/coach-docs/assets/sections/02-coach-hero-media/11-video2_url-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة مرجعية — رابط الفيديو الثاني" src="/coach-docs/assets/sections/02-coach-hero-media/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
-<td>النتيجة: القسم بالقيمة الافتراضية</td>
-</tr>
-</tbody>
-</table></div>
-
+| اللوحة (نسخة مطابقة) | النتيجة | |
+|---|---|---|
+| <img src="/coach-docs/assets/sections/02-coach-hero-media/11-video2_url-panel.webp" alt="لوحة إعدادات — رابط الفيديو الثاني" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/02-coach-hero-media/00-desktop.webp" alt="معاينة — رابط الفيديو الثاني" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «صورة الفيديو الثاني»
 
+- **النوع:** صورة ترفعها · **الافتراضي:** بلا صورة · المعرّف `video2_poster`
+- **ماذا يفعل:** في الشكل ٥ فقط: صورة البطاقة الزجاجية.
+- **متى تستعمله:** لقطة من الفيديو الثاني.
+- **حين يكون فارغاً:** بدونها البطاقة بخطوط مائلة فاتحة.
+- **يظهر في اللوحة فقط حين:** «الشكل» هو «٥ · فيديوهان»
 
-<ul>
-<li><strong>النوع:</strong> صورة ترفعها · <strong>الافتراضي:</strong> بلا صورة · المعرّف <code>video2_poster</code></li>
-<li><strong>ماذا يفعل:</strong> في الشكل ٥ فقط: صورة البطاقة الزجاجية.</li>
-<li><strong>متى تستعمله:</strong> لقطة من الفيديو الثاني.</li>
-<li><strong>حين يكون فارغاً:</strong> بدونها البطاقة بخطوط مائلة فاتحة.</li>
-<li><strong>يظهر في اللوحة فقط حين:</strong> «الشكل» هو «٥ · فيديوهان»</li>
-</ul>
-<div class="table-scroll" tabindex="0" role="region" aria-label="صور الإعدادات والنتائج"><table>
-<thead>
-<tr>
-<th>اللوحة (نسخة مطابقة)</th>
-<th>النتيجة</th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><img alt="لوحة إعدادات — صورة الفيديو الثاني" src="/coach-docs/assets/sections/02-coach-hero-media/12-video2_poster-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — صورة الفيديو الثاني" src="/coach-docs/assets/sections/02-coach-hero-media/12-video2_poster-result.webp" loading="lazy" decoding="async"/></td>
-<td>النتيجة بصورة تجريبية</td>
-</tr>
-</tbody>
-</table></div>
-
+| اللوحة (نسخة مطابقة) | النتيجة | |
+|---|---|---|
+| <img src="/coach-docs/assets/sections/02-coach-hero-media/12-video2_poster-panel.webp" alt="لوحة إعدادات — صورة الفيديو الثاني" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/02-coach-hero-media/12-video2_poster-result.webp" alt="معاينة — صورة الفيديو الثاني" loading="lazy" decoding="async"/> | النتيجة بصورة تجريبية |
 
 ### «نص الفيديو الثاني»
 
+- **النوع:** نص بسطر واحد · **الافتراضي:** جولة داخل البرنامج · المعرّف `video2_label`
+- **ماذا يفعل:** في الشكل ٥ فقط: سطر تحت البطاقة الزجاجية، مثل «جولة · ٢:١٠».
+- **متى تستعمله:** ليعرف الزائر ما في الفيديو ومدته.
+- **حين يكون فارغاً:** فارغاً لا يظهر السطر.
+- **يظهر في اللوحة فقط حين:** «الشكل» هو «٥ · فيديوهان»
+- شرحه تحت الحقل في المحرّر: تحت البطاقة الزجاجية، مثل «جولة · ٢:١٠».
 
-<ul>
-<li><strong>النوع:</strong> نص بسطر واحد · <strong>الافتراضي:</strong> جولة داخل البرنامج · المعرّف <code>video2_label</code></li>
-<li><strong>ماذا يفعل:</strong> في الشكل ٥ فقط: سطر تحت البطاقة الزجاجية، مثل «جولة · ٢:١٠».</li>
-<li><strong>متى تستعمله:</strong> ليعرف الزائر ما في الفيديو ومدته.</li>
-<li><strong>حين يكون فارغاً:</strong> فارغاً لا يظهر السطر.</li>
-<li><strong>يظهر في اللوحة فقط حين:</strong> «الشكل» هو «٥ · فيديوهان»</li>
-<li>شرحه تحت الحقل في المحرّر: تحت البطاقة الزجاجية، مثل «جولة · ٢:١٠».</li>
-</ul>
-<div class="table-scroll" tabindex="0" role="region" aria-label="صور الإعدادات والنتائج"><table>
-<thead>
-<tr>
-<th>اللوحة (نسخة مطابقة)</th>
-<th>النتيجة</th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><img alt="لوحة إعدادات — نص الفيديو الثاني" src="/coach-docs/assets/sections/02-coach-hero-media/13-video2_label-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة مرجعية — نص الفيديو الثاني" src="/coach-docs/assets/sections/02-coach-hero-media/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
-<td>النتيجة: القسم بالقيمة الافتراضية</td>
-</tr>
-</tbody>
-</table></div>
-
+| اللوحة (نسخة مطابقة) | النتيجة | |
+|---|---|---|
+| <img src="/coach-docs/assets/sections/02-coach-hero-media/13-video2_label-panel.webp" alt="لوحة إعدادات — نص الفيديو الثاني" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/02-coach-hero-media/00-desktop.webp" alt="معاينة — نص الفيديو الثاني" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «حركة خفيفة للبطاقات»
 
+- **النوع:** مفتاح تشغيل وإطفاء · **الافتراضي:** مفعّل · المعرّف `motion`
+- **ماذا يفعل:** البطاقة العائمة في الشكل ٣ تطفو وتميل مع الفأرة، والزجاجية في الشكل ٥ تميل. الميل على الكمبيوتر فقط.
+- **متى تستعمله:** اتركه مفعّلاً لواجهة حيّة.
+- **حين يكون فارغاً:** مطفأ: البطاقات ثابتة.
+- شرحه تحت الحقل في المحرّر: بطاقة الشكل ٣ تطفو وتميل مع الفأرة، والزجاجية في ٥ تميل؛ الميل على الحاسوب فقط.
 
-<ul>
-<li><strong>النوع:</strong> مفتاح تشغيل وإطفاء · <strong>الافتراضي:</strong> مفعّل · المعرّف <code>motion</code></li>
-<li><strong>ماذا يفعل:</strong> البطاقة العائمة في الشكل ٣ تطفو وتميل مع الفأرة، والزجاجية في الشكل ٥ تميل. الميل على الكمبيوتر فقط.</li>
-<li><strong>متى تستعمله:</strong> اتركه مفعّلاً لواجهة حيّة.</li>
-<li><strong>حين يكون فارغاً:</strong> مطفأ: البطاقات ثابتة.</li>
-<li>شرحه تحت الحقل في المحرّر: بطاقة الشكل ٣ تطفو وتميل مع الفأرة، والزجاجية في ٥ تميل؛ الميل على الحاسوب فقط.</li>
-</ul>
-<div class="table-scroll" tabindex="0" role="region" aria-label="صور الإعدادات والنتائج"><table>
-<thead>
-<tr>
-<th>اللوحة (نسخة مطابقة)</th>
-<th>النتيجة</th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><img alt="لوحة إعدادات — حركة خفيفة للبطاقات" src="/coach-docs/assets/sections/02-coach-hero-media/14-motion-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة مرجعية — حركة خفيفة للبطاقات" src="/coach-docs/assets/sections/02-coach-hero-media/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
-<td>النتيجة بعد إطفائه (الافتراضي مفعّل)</td>
-</tr>
-</tbody>
-</table></div>
-
+| اللوحة (نسخة مطابقة) | النتيجة | |
+|---|---|---|
+| <img src="/coach-docs/assets/sections/02-coach-hero-media/14-motion-panel.webp" alt="لوحة إعدادات — حركة خفيفة للبطاقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/02-coach-hero-media/00-desktop.webp" alt="معاينة — حركة خفيفة للبطاقات" loading="lazy" decoding="async"/> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
 
 ### «نص الزر الأساسي»
 
+- **النوع:** نص بسطر واحد · **الافتراضي:** تصفّح البرامج · المعرّف `primary_label`
+- **ماذا يفعل:** نص الزر الأساسي.
+- **متى تستعمله:** لأهم إجراء: تصفّح البرامج.
+- **حين يكون فارغاً:** فارغاً يُخفى الزر.
+- شرحه تحت الحقل في المحرّر: فارغاً يُخفى الزر.
 
-<ul>
-<li><strong>النوع:</strong> نص بسطر واحد · <strong>الافتراضي:</strong> تصفّح البرامج · المعرّف <code>primary_label</code></li>
-<li><strong>ماذا يفعل:</strong> نص الزر الأساسي.</li>
-<li><strong>متى تستعمله:</strong> لأهم إجراء: تصفّح البرامج.</li>
-<li><strong>حين يكون فارغاً:</strong> فارغاً يُخفى الزر.</li>
-<li>شرحه تحت الحقل في المحرّر: فارغاً يُخفى الزر.</li>
-</ul>
-<div class="table-scroll" tabindex="0" role="region" aria-label="صور الإعدادات والنتائج"><table>
-<thead>
-<tr>
-<th>اللوحة (نسخة مطابقة)</th>
-<th>النتيجة</th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><img alt="لوحة إعدادات — نص الزر الأساسي" src="/coach-docs/assets/sections/02-coach-hero-media/15-primary_label-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — نص الزر الأساسي" src="/coach-docs/assets/sections/02-coach-hero-media/15-primary_label-result.webp" loading="lazy" decoding="async"/></td>
-<td>مكانه في القسم محاط بإطار برتقالي</td>
-</tr>
-</tbody>
-</table></div>
-
+| اللوحة (نسخة مطابقة) | النتيجة | |
+|---|---|---|
+| <img src="/coach-docs/assets/sections/02-coach-hero-media/15-primary_label-panel.webp" alt="لوحة إعدادات — نص الزر الأساسي" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/02-coach-hero-media/15-primary_label-result.webp" alt="معاينة — نص الزر الأساسي" loading="lazy" decoding="async"/> | مكانه في القسم محاط بإطار برتقالي |
 
 ### «رابط الزر الأساسي»
 
+- **النوع:** رابط (منتج أو تصنيف أو صفحة أو رابط آخر) · **الافتراضي:** بلا رابط · المعرّف `primary_link`
+- **ماذا يفعل:** إلى أين يذهب الزر الأساسي.
+- **متى تستعمله:** لتصنيف أو منتج بعينه.
+- **حين يكون فارغاً:** بدونه ينزل إلى «متجر · كل المنتجات بتبويبات» إن وُجد، وإلا إلى أول قسم منتجات، وإلا إلى صفحة المنتجات.
+- شرحه تحت الحقل في المحرّر: بدونه ينزل إلى قسم «متجر · كل المنتجات بتبويبات».
 
-<ul>
-<li><strong>النوع:</strong> رابط (منتج أو تصنيف أو صفحة أو رابط آخر) · <strong>الافتراضي:</strong> بلا رابط · المعرّف <code>primary_link</code></li>
-<li><strong>ماذا يفعل:</strong> إلى أين يذهب الزر الأساسي.</li>
-<li><strong>متى تستعمله:</strong> لتصنيف أو منتج بعينه.</li>
-<li><strong>حين يكون فارغاً:</strong> بدونه ينزل إلى «متجر · كل المنتجات بتبويبات» إن وُجد، وإلا إلى أول قسم منتجات، وإلا إلى صفحة المنتجات.</li>
-<li>شرحه تحت الحقل في المحرّر: بدونه ينزل إلى قسم «متجر · كل المنتجات بتبويبات».</li>
-</ul>
-<div class="table-scroll" tabindex="0" role="region" aria-label="صور الإعدادات والنتائج"><table>
-<thead>
-<tr>
-<th>اللوحة (نسخة مطابقة)</th>
-<th>النتيجة</th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><img alt="لوحة إعدادات — رابط الزر الأساسي" src="/coach-docs/assets/sections/02-coach-hero-media/16-primary_link-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة مرجعية — رابط الزر الأساسي" src="/coach-docs/assets/sections/02-coach-hero-media/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
-<td>النتيجة: القسم بالقيمة الافتراضية</td>
-</tr>
-</tbody>
-</table></div>
-
+| اللوحة (نسخة مطابقة) | النتيجة | |
+|---|---|---|
+| <img src="/coach-docs/assets/sections/02-coach-hero-media/16-primary_link-panel.webp" alt="لوحة إعدادات — رابط الزر الأساسي" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/02-coach-hero-media/00-desktop.webp" alt="معاينة — رابط الزر الأساسي" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «نص الزر الثاني»
 
+- **النوع:** نص بسطر واحد · **الافتراضي:** باقات الجلسات · المعرّف `secondary_label`
+- **ماذا يفعل:** نص الزر الثاني، بإطار.
+- **متى تستعمله:** لإجراء ثانٍ: الجلسات الفردية.
+- **حين يكون فارغاً:** فارغاً يُخفى الزر.
+- شرحه تحت الحقل في المحرّر: فارغاً يُخفى الزر.
 
-<ul>
-<li><strong>النوع:</strong> نص بسطر واحد · <strong>الافتراضي:</strong> باقات الجلسات · المعرّف <code>secondary_label</code></li>
-<li><strong>ماذا يفعل:</strong> نص الزر الثاني، بإطار.</li>
-<li><strong>متى تستعمله:</strong> لإجراء ثانٍ: الجلسات الفردية.</li>
-<li><strong>حين يكون فارغاً:</strong> فارغاً يُخفى الزر.</li>
-<li>شرحه تحت الحقل في المحرّر: فارغاً يُخفى الزر.</li>
-</ul>
-<div class="table-scroll" tabindex="0" role="region" aria-label="صور الإعدادات والنتائج"><table>
-<thead>
-<tr>
-<th>اللوحة (نسخة مطابقة)</th>
-<th>النتيجة</th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><img alt="لوحة إعدادات — نص الزر الثاني" src="/coach-docs/assets/sections/02-coach-hero-media/17-secondary_label-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة النتيجة — نص الزر الثاني" src="/coach-docs/assets/sections/02-coach-hero-media/17-secondary_label-result.webp" loading="lazy" decoding="async"/></td>
-<td>مكانه في القسم محاط بإطار برتقالي</td>
-</tr>
-</tbody>
-</table></div>
-
+| اللوحة (نسخة مطابقة) | النتيجة | |
+|---|---|---|
+| <img src="/coach-docs/assets/sections/02-coach-hero-media/17-secondary_label-panel.webp" alt="لوحة إعدادات — نص الزر الثاني" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/02-coach-hero-media/17-secondary_label-result.webp" alt="معاينة — نص الزر الثاني" loading="lazy" decoding="async"/> | مكانه في القسم محاط بإطار برتقالي |
 
 ### «رابط الزر الثاني»
 
+- **النوع:** رابط (منتج أو تصنيف أو صفحة أو رابط آخر) · **الافتراضي:** بلا رابط · المعرّف `secondary_link`
+- **ماذا يفعل:** إلى أين يذهب الزر الثاني.
+- **متى تستعمله:** لصفحة الحجز أو منتج الاستشارة.
+- **حين يكون فارغاً:** بدونه ينزل إلى «استشارات · باقات الجلسات الفردية» إن وُجد في الصفحة، وإلا يُخفى الزر عن الزوار.
+- شرحه تحت الحقل في المحرّر: بدونه ينزل إلى «استشارات · باقات الجلسات الفردية» إن وُجد.
 
-<ul>
-<li><strong>النوع:</strong> رابط (منتج أو تصنيف أو صفحة أو رابط آخر) · <strong>الافتراضي:</strong> بلا رابط · المعرّف <code>secondary_link</code></li>
-<li><strong>ماذا يفعل:</strong> إلى أين يذهب الزر الثاني.</li>
-<li><strong>متى تستعمله:</strong> لصفحة الحجز أو منتج الاستشارة.</li>
-<li><strong>حين يكون فارغاً:</strong> بدونه ينزل إلى «استشارات · باقات الجلسات الفردية» إن وُجد في الصفحة، وإلا يُخفى الزر عن الزوار.</li>
-<li>شرحه تحت الحقل في المحرّر: بدونه ينزل إلى «استشارات · باقات الجلسات الفردية» إن وُجد.</li>
-</ul>
-<div class="table-scroll" tabindex="0" role="region" aria-label="صور الإعدادات والنتائج"><table>
-<thead>
-<tr>
-<th>اللوحة (نسخة مطابقة)</th>
-<th>النتيجة</th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><img alt="لوحة إعدادات — رابط الزر الثاني" src="/coach-docs/assets/sections/02-coach-hero-media/18-secondary_link-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة مرجعية — رابط الزر الثاني" src="/coach-docs/assets/sections/02-coach-hero-media/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
-<td>النتيجة: القسم بالقيمة الافتراضية</td>
-</tr>
-</tbody>
-</table></div>
+| اللوحة (نسخة مطابقة) | النتيجة | |
+|---|---|---|
+| <img src="/coach-docs/assets/sections/02-coach-hero-media/18-secondary_link-panel.webp" alt="لوحة إعدادات — رابط الزر الثاني" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/02-coach-hero-media/00-desktop.webp" alt="معاينة — رابط الزر الثاني" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
 
+### «نص الرابط الثالث»
 
-### «رابط نصي ثالث»
+- **النوع:** نص بسطر واحد · **الافتراضي:** تعرّف عليّ · المعرّف `tertiary_label`
+- **ماذا يفعل:** في الشكل ٦ فقط: رابط نصي ثالث بجانب الزرين.
+- **متى تستعمله:** لصفحة «من أنا» مثلاً.
+- **حين يكون فارغاً:** فارغاً لا يظهر.
+- **يظهر في اللوحة فقط حين:** «الشكل» هو «٦ · صورة وفيديو بالأعلى والنص تحتهما»
+- شرحه تحت الحقل في المحرّر: بجانب الزرين؛ فارغاً يُخفى.
 
+| اللوحة (نسخة مطابقة) | النتيجة | |
+|---|---|---|
+| <img src="/coach-docs/assets/sections/02-coach-hero-media/19-tertiary_label-panel.webp" alt="لوحة إعدادات — نص الرابط الثالث" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/02-coach-hero-media/00-desktop.webp" alt="معاينة — نص الرابط الثالث" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
 
-<ul>
-<li><strong>النوع:</strong> نص بسطر واحد · <strong>الافتراضي:</strong> تعرّف عليّ · المعرّف <code>tertiary_label</code></li>
-<li><strong>ماذا يفعل:</strong> في الشكل ٦ فقط: رابط نصي ثالث بجانب الزرين.</li>
-<li><strong>متى تستعمله:</strong> لصفحة «من أنا» مثلاً.</li>
-<li><strong>حين يكون فارغاً:</strong> فارغاً لا يظهر.</li>
-<li><strong>يظهر في اللوحة فقط حين:</strong> «الشكل» هو «٦ · صورة وفيديو بالأعلى والنص تحتهما»</li>
-<li>شرحه تحت الحقل في المحرّر: بجانب الزرين؛ فارغاً يُخفى.</li>
-</ul>
-<div class="table-scroll" tabindex="0" role="region" aria-label="صور الإعدادات والنتائج"><table>
-<thead>
-<tr>
-<th>اللوحة (نسخة مطابقة)</th>
-<th>النتيجة</th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><img alt="لوحة إعدادات — رابط نصي ثالث" src="/coach-docs/assets/sections/02-coach-hero-media/19-tertiary_label-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة مرجعية — رابط نصي ثالث" src="/coach-docs/assets/sections/02-coach-hero-media/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
-<td>النتيجة: القسم بالقيمة الافتراضية</td>
-</tr>
-</tbody>
-</table></div>
+### «وجهة الرابط الثالث»
 
+- **النوع:** رابط (منتج أو تصنيف أو صفحة أو رابط آخر) · **الافتراضي:** بلا رابط · المعرّف `tertiary_link`
+- **ماذا يفعل:** إلى أين يذهب الرابط النصي في الشكل ٦.
+- **متى تستعمله:** لصفحة تعريفية عنك.
+- **حين يكون فارغاً:** بدونه ينزل إلى «المدرّب · تعرّف عليّ» إن وُجد، وإلا يُخفى عن الزوار.
+- **يظهر في اللوحة فقط حين:** «الشكل» هو «٦ · صورة وفيديو بالأعلى والنص تحتهما»
+- شرحه تحت الحقل في المحرّر: بدونه ينزل إلى «المدرّب · تعرّف عليّ» إن وُجد.
 
-### «رابط الرابط النصي»
-
-
-<ul>
-<li><strong>النوع:</strong> رابط (منتج أو تصنيف أو صفحة أو رابط آخر) · <strong>الافتراضي:</strong> بلا رابط · المعرّف <code>tertiary_link</code></li>
-<li><strong>ماذا يفعل:</strong> إلى أين يذهب الرابط النصي في الشكل ٦.</li>
-<li><strong>متى تستعمله:</strong> لصفحة تعريفية عنك.</li>
-<li><strong>حين يكون فارغاً:</strong> بدونه ينزل إلى «المدرّب · تعرّف عليّ» إن وُجد، وإلا يُخفى عن الزوار.</li>
-<li><strong>يظهر في اللوحة فقط حين:</strong> «الشكل» هو «٦ · صورة وفيديو بالأعلى والنص تحتهما»</li>
-<li>شرحه تحت الحقل في المحرّر: بدونه ينزل إلى «المدرّب · تعرّف عليّ» إن وُجد.</li>
-</ul>
-<div class="table-scroll" tabindex="0" role="region" aria-label="صور الإعدادات والنتائج"><table>
-<thead>
-<tr>
-<th>اللوحة (نسخة مطابقة)</th>
-<th>النتيجة</th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><img alt="لوحة إعدادات — رابط الرابط النصي" src="/coach-docs/assets/sections/02-coach-hero-media/20-tertiary_link-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة مرجعية — رابط الرابط النصي" src="/coach-docs/assets/sections/02-coach-hero-media/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
-<td>النتيجة: القسم بالقيمة الافتراضية</td>
-</tr>
-</tbody>
-</table></div>
-
+| اللوحة (نسخة مطابقة) | النتيجة | |
+|---|---|---|
+| <img src="/coach-docs/assets/sections/02-coach-hero-media/20-tertiary_link-panel.webp" alt="لوحة إعدادات — وجهة الرابط الثالث" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/02-coach-hero-media/00-desktop.webp" alt="معاينة — وجهة الرابط الثالث" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «نص زر الفيديو»
 
+- **النوع:** نص بسطر واحد · **الافتراضي:** شاهد رسالتي · المعرّف `video_label`
+- **ماذا يفعل:** نص زر الفيديو، مثل «شاهد رسالتي · ١:٤٥». يظهر حين يكون للفيديو رابط.
+- **متى تستعمله:** ليعرف الزائر ما في الفيديو ومدته.
+- **حين يكون فارغاً:** فارغاً يظهر «فيديو».
+- شرحه تحت الحقل في المحرّر: مثل «شاهد رسالتي · ١:٤٥»؛ يظهر مع رابط الفيديو فقط.
 
-<ul>
-<li><strong>النوع:</strong> نص بسطر واحد · <strong>الافتراضي:</strong> شاهد رسالتي · المعرّف <code>video_label</code></li>
-<li><strong>ماذا يفعل:</strong> نص زر الفيديو، مثل «شاهد رسالتي · ١:٤٥». يظهر حين يكون للفيديو رابط.</li>
-<li><strong>متى تستعمله:</strong> ليعرف الزائر ما في الفيديو ومدته.</li>
-<li><strong>حين يكون فارغاً:</strong> فارغاً يظهر «فيديو».</li>
-<li>شرحه تحت الحقل في المحرّر: مثل «شاهد رسالتي · ١:٤٥»؛ يظهر مع رابط الفيديو فقط.</li>
-</ul>
-<div class="table-scroll" tabindex="0" role="region" aria-label="صور الإعدادات والنتائج"><table>
-<thead>
-<tr>
-<th>اللوحة (نسخة مطابقة)</th>
-<th>النتيجة</th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><img alt="لوحة إعدادات — نص زر الفيديو" src="/coach-docs/assets/sections/02-coach-hero-media/21-video_label-panel.webp" loading="lazy" decoding="async"/></td>
-<td><img alt="معاينة مرجعية — نص زر الفيديو" src="/coach-docs/assets/sections/02-coach-hero-media/00-desktop.webp" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة وفق ملفات التوثيق الأصلية.</small></td>
-<td>مكانه في القسم محاط بإطار برتقالي</td>
-</tr>
-</tbody>
-</table></div>
-<hr/>
-<blockquote>
-<p>ملاحظات البناء: لم يُعثر على النص لتمييزه: 00-desktop.webp</p>
-</blockquote>
+| اللوحة (نسخة مطابقة) | النتيجة | |
+|---|---|---|
+| <img src="/coach-docs/assets/sections/02-coach-hero-media/21-video_label-panel.webp" alt="لوحة إعدادات — نص زر الفيديو" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/02-coach-hero-media/00-desktop.webp" alt="معاينة — نص زر الفيديو" loading="lazy" decoding="async"/> | مكانه في القسم محاط بإطار برتقالي |
+
+---
+> ملاحظات البناء: لم يُعثر على النص لتمييزه: 00-desktop.webp
 
 
-<div class="source-note">صور لوحات الإعدادات مرسومة من تعريفات الثيم وليست لقطات مباشرة من محرّر سلة؛ صور النتيجة من معاينة الثيم. اضغط على أي صورة لتكبيرها.</div>
+<div class="source-note">الإصدار 1.76.1 · صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>

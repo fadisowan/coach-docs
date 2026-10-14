@@ -1,0 +1,42 @@
+# لقطات لم تُصوَّر
+
+حُذفت من manifest.json لأن المعاينة بلا متجر لا تعرضها:
+
+- `sections/16-custom-testimonials/00-desktop.webp`
+- `sections/16-custom-testimonials/00-desktop.webp`
+- `sections/16-custom-testimonials/00-desktop.webp`
+- `sections/16-custom-testimonials/00-desktop.webp`
+- `sections/16-custom-testimonials/00-desktop.webp`
+- `sections/16-custom-testimonials/00-desktop.webp`
+- `sections/16-custom-testimonials/00-mobile.webp`
+- `sections/16-custom-testimonials/01-title-result.webp`
+- `sections/18-coach-blog/01-layout-editorial-result.webp`
+- `sections/21-coach-product-finder/08-chat_float-on-result.webp`
+- `sections/37-coach-free-guide/11-compare_price-result.webp`
+- `sections/42-main-links/03-show_cats-on-result.webp`
+- `sections/46-enhanced-slider/00-desktop.webp`
+- `sections/46-enhanced-slider/00-desktop.webp`
+- `sections/46-enhanced-slider/00-desktop.webp`
+- `sections/46-enhanced-slider/00-desktop.webp`
+- `sections/46-enhanced-slider/00-desktop.webp`
+- `sections/46-enhanced-slider/00-desktop.webp`
+- `sections/46-enhanced-slider/00-desktop.webp`
+- `sections/46-enhanced-slider/00-desktop.webp`
+- `sections/46-enhanced-slider/00-mobile.webp`
+- `sections/46-enhanced-slider/01-eyebrow-result.webp`
+- `sections/46-enhanced-slider/02-title-result.webp`
+- `sections/46-enhanced-slider/03-description-result.webp`
+- `sections/47-enhanced-square-banners/00-desktop.webp`
+- `sections/47-enhanced-square-banners/00-desktop.webp`
+- `sections/47-enhanced-square-banners/00-desktop.webp`
+- `sections/47-enhanced-square-banners/00-desktop.webp`
+- `sections/47-enhanced-square-banners/00-desktop.webp`
+- `sections/47-enhanced-square-banners/00-desktop.webp`
+- `sections/47-enhanced-square-banners/00-mobile.webp`
+- `sections/47-enhanced-square-banners/01-eyebrow-result.webp`
+- `sections/47-enhanced-square-banners/02-title-result.webp`
+- `sections/47-enhanced-square-banners/03-description-result.webp`
+- `sections/48-brands/00-desktop.webp`
+- `sections/48-brands/00-desktop.webp`
+- `sections/48-brands/00-mobile.webp`
+- `sections/48-brands/01-title-result.webp`

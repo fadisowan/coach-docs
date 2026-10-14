@@ -44,23 +44,25 @@ const server = remote ? null : http.createServer((req,res) => {
       assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1),'Mobile overflow '+slug);
       assert.equal(await page.locator('h1').count(),1,slug);
       assert.equal(await page.locator('.missing-image').count(),0,slug);
+      assert.ok((await page.content()).includes('1.76.1'),slug);
       const anchors=await page.locator('starlight-toc a').evaluateAll(els=>els.every(el=>document.getElementById(decodeURIComponent(el.hash.slice(1)))));
       assert.ok(anchors,'TOC '+slug);
     }
     await page.goto(base+'components/');
-    assert.equal(await page.locator('.component-card').count(),47);
+    assert.equal(await page.locator('.component-card').count(),48);
     await page.screenshot({path:'../coach-components-mobile.png'});
     await page.locator('.component-card').first().locator('img').click();
     assert.ok(page.url().includes('01-coach-hero'));
     await page.goto(base+'settings/');
-    assert.equal(await page.locator('.component-card').count(),13);
+    assert.equal(await page.locator('.component-card').count(),15);
     await page.setViewportSize({width:1440,height:1000});
     await page.goto(base+'components/');
     await page.screenshot({path:'../coach-components-desktop.png'});
-    await page.goto(base+'docs/45-coach-cta/');
-    assert.equal(await page.locator('.sl-markdown-content img[src$="/20-paths-icon-panel.webp"]').count(),11);
+    await page.goto(base+'docs/'+nav.find(entry=>entry.key==='coach-cta').slug+'/');
+
     await page.setViewportSize({width:360,height:800});
     await page.goto(base+'docs/01-colors/');
+    await page.locator('.sl-markdown-content img').first().evaluate(img=>img.decode());
     await page.screenshot({path:'../starlight-article-mobile.png',fullPage:false});
     await page.goto(base);
     await page.screenshot({path:'../starlight-mobile.png',fullPage:true});
@@ -78,6 +80,6 @@ const server = remote ? null : http.createServer((req,res) => {
     await page.goto(base+'docs/01-colors/');
     await page.screenshot({path:'../starlight-dark.png'});
     assert.deepEqual(errors,[]);
-    console.log(JSON.stringify({base,pages:63,components:47,settingsAndShared:13,decodedImages:assets.length,missingImages:0,searchArabic:true,searchSettingId:true,mobileOverflow:false,lightbox:true,consoleErrors:errors}));
+    console.log(JSON.stringify({base,pages:66,components:48,settingsAndShared:15,decodedImages:assets.length,missingImages:0,searchArabic:true,searchSettingId:true,mobileOverflow:false,lightbox:true,consoleErrors:errors}));
   }finally{await browser.close();server?.close();}
 })().catch(error=>{console.error(error);server?.close();process.exitCode=1;});

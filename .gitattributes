@@ -1,0 +1,3 @@
+# Keep release evidence byte-for-byte identical on Windows and Linux.
+source-docs/** -text
+assets/** -text
