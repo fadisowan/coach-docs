@@ -77,7 +77,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/27-coach-book-shelf/04-categories-panel.webp" alt="لوحة إعدادات — التصنيفات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/27-coach-book-shelf/00-desktop.webp" alt="معاينة — التصنيفات" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/27-coach-book-shelf/04-categories-panel.webp" alt="لوحة إعدادات — التصنيفات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/27-coach-book-shelf/00-desktop.webp" alt="معاينة — التصنيفات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «الكتب»
 
@@ -90,7 +90,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/27-coach-book-shelf/05-products-panel.webp" alt="لوحة إعدادات — الكتب" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/27-coach-book-shelf/00-desktop.webp" alt="معاينة — الكتب" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/27-coach-book-shelf/05-products-panel.webp" alt="لوحة إعدادات — الكتب" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/27-coach-book-shelf/00-desktop.webp" alt="معاينة — الكتب" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «عدد الكتب (٢–١٠)»
 
@@ -101,7 +101,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/27-coach-book-shelf/06-limit-panel.webp" alt="لوحة إعدادات — عدد الكتب (٢–١٠)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/27-coach-book-shelf/00-desktop.webp" alt="معاينة — عدد الكتب (٢–١٠)" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/27-coach-book-shelf/06-limit-panel.webp" alt="لوحة إعدادات — عدد الكتب (٢–١٠)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/27-coach-book-shelf/00-desktop.webp" alt="معاينة — عدد الكتب (٢–١٠)" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «نص رابط «كل الكتب»»
 
@@ -113,7 +113,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/27-coach-book-shelf/07-link_label-panel.webp" alt="لوحة إعدادات — نص رابط «كل الكتب»" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/27-coach-book-shelf/00-desktop.webp" alt="معاينة — نص رابط «كل الكتب»" loading="lazy" decoding="async"/> | مكانه في القسم محاط بإطار برتقالي |
+| <img src="/coach-docs/assets/sections/27-coach-book-shelf/07-link_label-panel.webp" alt="لوحة إعدادات — نص رابط «كل الكتب»" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/27-coach-book-shelf/00-desktop.webp" alt="معاينة — نص رابط «كل الكتب»" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | مكانه في القسم محاط بإطار برتقالي |
 
 ### «رابط «كل الكتب»»
 
@@ -125,7 +125,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/27-coach-book-shelf/08-link-panel.webp" alt="لوحة إعدادات — رابط «كل الكتب»" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/27-coach-book-shelf/00-desktop.webp" alt="معاينة — رابط «كل الكتب»" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/27-coach-book-shelf/08-link-panel.webp" alt="لوحة إعدادات — رابط «كل الكتب»" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/27-coach-book-shelf/00-desktop.webp" alt="معاينة — رابط «كل الكتب»" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «نص زر الإضافة للسلة»
 
@@ -137,7 +137,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/27-coach-book-shelf/09-button_label-panel.webp" alt="لوحة إعدادات — نص زر الإضافة للسلة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/27-coach-book-shelf/00-desktop.webp" alt="معاينة — نص زر الإضافة للسلة" loading="lazy" decoding="async"/> | مكانه في القسم محاط بإطار برتقالي |
+| <img src="/coach-docs/assets/sections/27-coach-book-shelf/09-button_label-panel.webp" alt="لوحة إعدادات — نص زر الإضافة للسلة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/27-coach-book-shelf/00-desktop.webp" alt="معاينة — نص زر الإضافة للسلة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | مكانه في القسم محاط بإطار برتقالي |
 
 ### «كتاب بعمق: كعب وصفحات»
 

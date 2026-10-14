@@ -39,7 +39,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/10-coach-shop/01-card_style-theme-panel.webp" alt="لوحة إعدادات — شكل البطاقات في هذا القسم" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/10-coach-shop/00-desktop.webp" alt="معاينة — شكل البطاقات في هذا القسم" loading="lazy" decoding="async"/> | «كما في إعدادات الثيم (٧ · بطاقة المنتج)» |
+| <img src="/coach-docs/assets/sections/10-coach-shop/01-card_style-theme-panel.webp" alt="لوحة إعدادات — شكل البطاقات في هذا القسم" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/10-coach-shop/00-desktop.webp" alt="معاينة — شكل البطاقات في هذا القسم" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «كما في إعدادات الثيم (٧ · بطاقة المنتج)» |
 | <img src="/coach-docs/assets/sections/10-coach-shop/01-card_style-plain-panel.webp" alt="لوحة إعدادات — شكل البطاقات في هذا القسم" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/10-coach-shop/01-card_style-plain-result.webp" alt="معاينة — شكل البطاقات في هذا القسم" loading="lazy" decoding="async"/> | «عادية لكل المنتجات» |
 
 ### «العنوان الصغير (فوق العنوان)»
@@ -134,7 +134,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/10-coach-shop/09-tab1_categories-panel.webp" alt="لوحة إعدادات — التصنيفات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/10-coach-shop/00-desktop.webp" alt="معاينة — التصنيفات" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/10-coach-shop/09-tab1_categories-panel.webp" alt="لوحة إعدادات — التصنيفات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/10-coach-shop/00-desktop.webp" alt="معاينة — التصنيفات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «شكل البطاقات»
 
@@ -144,11 +144,11 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/10-coach-shop/10-tab1_kind-auto-panel.webp" alt="لوحة إعدادات — شكل البطاقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/10-coach-shop/00-desktop.webp" alt="معاينة — شكل البطاقات" loading="lazy" decoding="async"/> | «تلقائي (حسب نوع المنتج)» |
-| <img src="/coach-docs/assets/sections/10-coach-shop/10-tab1_kind-course-panel.webp" alt="لوحة إعدادات — شكل البطاقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/10-coach-shop/10-tab1_kind-course-result.webp" alt="معاينة — شكل البطاقات" loading="lazy" decoding="async"/> | «برنامج» |
-| <img src="/coach-docs/assets/sections/10-coach-shop/10-tab1_kind-book-panel.webp" alt="لوحة إعدادات — شكل البطاقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/10-coach-shop/10-tab1_kind-book-result.webp" alt="معاينة — شكل البطاقات" loading="lazy" decoding="async"/> | «كتاب» |
-| <img src="/coach-docs/assets/sections/10-coach-shop/10-tab1_kind-digital-panel.webp" alt="لوحة إعدادات — شكل البطاقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/10-coach-shop/10-tab1_kind-digital-result.webp" alt="معاينة — شكل البطاقات" loading="lazy" decoding="async"/> | «منتج رقمي (تحميل فوري)» |
-| <img src="/coach-docs/assets/sections/10-coach-shop/10-tab1_kind-service-panel.webp" alt="لوحة إعدادات — شكل البطاقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/10-coach-shop/10-tab1_kind-service-result.webp" alt="معاينة — شكل البطاقات" loading="lazy" decoding="async"/> | «استشارة» |
+| <img src="/coach-docs/assets/sections/10-coach-shop/10-tab1_kind-auto-panel.webp" alt="لوحة إعدادات — شكل البطاقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/10-coach-shop/00-desktop.webp" alt="معاينة — شكل البطاقات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «تلقائي (حسب نوع المنتج)» |
+| <img src="/coach-docs/assets/sections/10-coach-shop/10-tab1_kind-course-panel.webp" alt="لوحة إعدادات — شكل البطاقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/10-coach-shop/10-tab1_kind-course-result.webp" alt="معاينة — شكل البطاقات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «برنامج» |
+| <img src="/coach-docs/assets/sections/10-coach-shop/10-tab1_kind-book-panel.webp" alt="لوحة إعدادات — شكل البطاقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/10-coach-shop/10-tab1_kind-book-result.webp" alt="معاينة — شكل البطاقات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «كتاب» |
+| <img src="/coach-docs/assets/sections/10-coach-shop/10-tab1_kind-digital-panel.webp" alt="لوحة إعدادات — شكل البطاقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/10-coach-shop/10-tab1_kind-digital-result.webp" alt="معاينة — شكل البطاقات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «منتج رقمي (تحميل فوري)» |
+| <img src="/coach-docs/assets/sections/10-coach-shop/10-tab1_kind-service-panel.webp" alt="لوحة إعدادات — شكل البطاقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/10-coach-shop/10-tab1_kind-service-result.webp" alt="معاينة — شكل البطاقات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «استشارة» |
 
 ### «اسم التبويب»
 
@@ -171,7 +171,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/10-coach-shop/12-tab2_categories-panel.webp" alt="لوحة إعدادات — التصنيفات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/10-coach-shop/00-desktop.webp" alt="معاينة — التصنيفات" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/10-coach-shop/12-tab2_categories-panel.webp" alt="لوحة إعدادات — التصنيفات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/10-coach-shop/00-desktop.webp" alt="معاينة — التصنيفات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «شكل البطاقات»
 
@@ -181,11 +181,11 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/10-coach-shop/13-tab2_kind-auto-panel.webp" alt="لوحة إعدادات — شكل البطاقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/10-coach-shop/00-desktop.webp" alt="معاينة — شكل البطاقات" loading="lazy" decoding="async"/> | «تلقائي (حسب نوع المنتج)» |
-| <img src="/coach-docs/assets/sections/10-coach-shop/13-tab2_kind-course-panel.webp" alt="لوحة إعدادات — شكل البطاقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/10-coach-shop/10-tab1_kind-course-result.webp" alt="معاينة — شكل البطاقات" loading="lazy" decoding="async"/> | «برنامج» |
-| <img src="/coach-docs/assets/sections/10-coach-shop/13-tab2_kind-book-panel.webp" alt="لوحة إعدادات — شكل البطاقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/10-coach-shop/10-tab1_kind-book-result.webp" alt="معاينة — شكل البطاقات" loading="lazy" decoding="async"/> | «كتاب» |
-| <img src="/coach-docs/assets/sections/10-coach-shop/13-tab2_kind-digital-panel.webp" alt="لوحة إعدادات — شكل البطاقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/10-coach-shop/10-tab1_kind-digital-result.webp" alt="معاينة — شكل البطاقات" loading="lazy" decoding="async"/> | «منتج رقمي (تحميل فوري)» |
-| <img src="/coach-docs/assets/sections/10-coach-shop/13-tab2_kind-service-panel.webp" alt="لوحة إعدادات — شكل البطاقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/10-coach-shop/10-tab1_kind-service-result.webp" alt="معاينة — شكل البطاقات" loading="lazy" decoding="async"/> | «استشارة» |
+| <img src="/coach-docs/assets/sections/10-coach-shop/13-tab2_kind-auto-panel.webp" alt="لوحة إعدادات — شكل البطاقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/10-coach-shop/00-desktop.webp" alt="معاينة — شكل البطاقات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «تلقائي (حسب نوع المنتج)» |
+| <img src="/coach-docs/assets/sections/10-coach-shop/13-tab2_kind-course-panel.webp" alt="لوحة إعدادات — شكل البطاقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/10-coach-shop/10-tab1_kind-course-result.webp" alt="معاينة — شكل البطاقات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «برنامج» |
+| <img src="/coach-docs/assets/sections/10-coach-shop/13-tab2_kind-book-panel.webp" alt="لوحة إعدادات — شكل البطاقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/10-coach-shop/10-tab1_kind-book-result.webp" alt="معاينة — شكل البطاقات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «كتاب» |
+| <img src="/coach-docs/assets/sections/10-coach-shop/13-tab2_kind-digital-panel.webp" alt="لوحة إعدادات — شكل البطاقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/10-coach-shop/10-tab1_kind-digital-result.webp" alt="معاينة — شكل البطاقات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «منتج رقمي (تحميل فوري)» |
+| <img src="/coach-docs/assets/sections/10-coach-shop/13-tab2_kind-service-panel.webp" alt="لوحة إعدادات — شكل البطاقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/10-coach-shop/10-tab1_kind-service-result.webp" alt="معاينة — شكل البطاقات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «استشارة» |
 
 ### «اسم التبويب»
 
@@ -208,7 +208,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/10-coach-shop/15-tab3_categories-panel.webp" alt="لوحة إعدادات — التصنيفات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/10-coach-shop/00-desktop.webp" alt="معاينة — التصنيفات" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/10-coach-shop/15-tab3_categories-panel.webp" alt="لوحة إعدادات — التصنيفات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/10-coach-shop/00-desktop.webp" alt="معاينة — التصنيفات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «شكل البطاقات»
 
@@ -218,11 +218,11 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/10-coach-shop/16-tab3_kind-auto-panel.webp" alt="لوحة إعدادات — شكل البطاقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/10-coach-shop/00-desktop.webp" alt="معاينة — شكل البطاقات" loading="lazy" decoding="async"/> | «تلقائي (حسب نوع المنتج)» |
-| <img src="/coach-docs/assets/sections/10-coach-shop/16-tab3_kind-course-panel.webp" alt="لوحة إعدادات — شكل البطاقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/10-coach-shop/10-tab1_kind-course-result.webp" alt="معاينة — شكل البطاقات" loading="lazy" decoding="async"/> | «برنامج» |
-| <img src="/coach-docs/assets/sections/10-coach-shop/16-tab3_kind-book-panel.webp" alt="لوحة إعدادات — شكل البطاقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/10-coach-shop/10-tab1_kind-book-result.webp" alt="معاينة — شكل البطاقات" loading="lazy" decoding="async"/> | «كتاب» |
-| <img src="/coach-docs/assets/sections/10-coach-shop/16-tab3_kind-digital-panel.webp" alt="لوحة إعدادات — شكل البطاقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/10-coach-shop/10-tab1_kind-digital-result.webp" alt="معاينة — شكل البطاقات" loading="lazy" decoding="async"/> | «منتج رقمي (تحميل فوري)» |
-| <img src="/coach-docs/assets/sections/10-coach-shop/16-tab3_kind-service-panel.webp" alt="لوحة إعدادات — شكل البطاقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/10-coach-shop/10-tab1_kind-service-result.webp" alt="معاينة — شكل البطاقات" loading="lazy" decoding="async"/> | «استشارة» |
+| <img src="/coach-docs/assets/sections/10-coach-shop/16-tab3_kind-auto-panel.webp" alt="لوحة إعدادات — شكل البطاقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/10-coach-shop/00-desktop.webp" alt="معاينة — شكل البطاقات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «تلقائي (حسب نوع المنتج)» |
+| <img src="/coach-docs/assets/sections/10-coach-shop/16-tab3_kind-course-panel.webp" alt="لوحة إعدادات — شكل البطاقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/10-coach-shop/10-tab1_kind-course-result.webp" alt="معاينة — شكل البطاقات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «برنامج» |
+| <img src="/coach-docs/assets/sections/10-coach-shop/16-tab3_kind-book-panel.webp" alt="لوحة إعدادات — شكل البطاقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/10-coach-shop/10-tab1_kind-book-result.webp" alt="معاينة — شكل البطاقات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «كتاب» |
+| <img src="/coach-docs/assets/sections/10-coach-shop/16-tab3_kind-digital-panel.webp" alt="لوحة إعدادات — شكل البطاقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/10-coach-shop/10-tab1_kind-digital-result.webp" alt="معاينة — شكل البطاقات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «منتج رقمي (تحميل فوري)» |
+| <img src="/coach-docs/assets/sections/10-coach-shop/16-tab3_kind-service-panel.webp" alt="لوحة إعدادات — شكل البطاقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/10-coach-shop/10-tab1_kind-service-result.webp" alt="معاينة — شكل البطاقات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «استشارة» |
 
 ### «اسم التبويب»
 
@@ -245,7 +245,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/10-coach-shop/18-tab4_categories-panel.webp" alt="لوحة إعدادات — التصنيفات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/10-coach-shop/00-desktop.webp" alt="معاينة — التصنيفات" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/10-coach-shop/18-tab4_categories-panel.webp" alt="لوحة إعدادات — التصنيفات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/10-coach-shop/00-desktop.webp" alt="معاينة — التصنيفات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «شكل البطاقات»
 
@@ -255,9 +255,9 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/10-coach-shop/19-tab4_kind-auto-panel.webp" alt="لوحة إعدادات — شكل البطاقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/10-coach-shop/19-tab4_kind-auto-result.webp" alt="معاينة — شكل البطاقات" loading="lazy" decoding="async"/> | «تلقائي (حسب نوع المنتج)» |
-| <img src="/coach-docs/assets/sections/10-coach-shop/19-tab4_kind-course-panel.webp" alt="لوحة إعدادات — شكل البطاقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/10-coach-shop/19-tab4_kind-auto-result.webp" alt="معاينة — شكل البطاقات" loading="lazy" decoding="async"/> | «برنامج» |
-| <img src="/coach-docs/assets/sections/10-coach-shop/19-tab4_kind-book-panel.webp" alt="لوحة إعدادات — شكل البطاقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/10-coach-shop/19-tab4_kind-book-result.webp" alt="معاينة — شكل البطاقات" loading="lazy" decoding="async"/> | «كتاب» |
+| <img src="/coach-docs/assets/sections/10-coach-shop/19-tab4_kind-auto-panel.webp" alt="لوحة إعدادات — شكل البطاقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/10-coach-shop/19-tab4_kind-auto-result.webp" alt="معاينة — شكل البطاقات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «تلقائي (حسب نوع المنتج)» |
+| <img src="/coach-docs/assets/sections/10-coach-shop/19-tab4_kind-course-panel.webp" alt="لوحة إعدادات — شكل البطاقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/10-coach-shop/19-tab4_kind-auto-result.webp" alt="معاينة — شكل البطاقات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «برنامج» |
+| <img src="/coach-docs/assets/sections/10-coach-shop/19-tab4_kind-book-panel.webp" alt="لوحة إعدادات — شكل البطاقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/10-coach-shop/19-tab4_kind-book-result.webp" alt="معاينة — شكل البطاقات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «كتاب» |
 | <img src="/coach-docs/assets/sections/10-coach-shop/19-tab4_kind-digital-panel.webp" alt="لوحة إعدادات — شكل البطاقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/10-coach-shop/19-tab4_kind-digital-result.webp" alt="معاينة — شكل البطاقات" loading="lazy" decoding="async"/> | «منتج رقمي (تحميل فوري)» |
 | <img src="/coach-docs/assets/sections/10-coach-shop/19-tab4_kind-service-panel.webp" alt="لوحة إعدادات — شكل البطاقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/10-coach-shop/19-tab4_kind-service-result.webp" alt="معاينة — شكل البطاقات" loading="lazy" decoding="async"/> | «استشارة» |
 
@@ -271,7 +271,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/10-coach-shop/20-limit-panel.webp" alt="لوحة إعدادات — عدد المنتجات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/10-coach-shop/00-desktop.webp" alt="معاينة — عدد المنتجات" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/10-coach-shop/20-limit-panel.webp" alt="لوحة إعدادات — عدد المنتجات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/10-coach-shop/00-desktop.webp" alt="معاينة — عدد المنتجات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «نص زر الإضافة للسلة»
 
@@ -283,7 +283,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/10-coach-shop/21-button_label-panel.webp" alt="لوحة إعدادات — نص زر الإضافة للسلة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/10-coach-shop/00-desktop.webp" alt="معاينة — نص زر الإضافة للسلة" loading="lazy" decoding="async"/> | مكانه في القسم محاط بإطار برتقالي |
+| <img src="/coach-docs/assets/sections/10-coach-shop/21-button_label-panel.webp" alt="لوحة إعدادات — نص زر الإضافة للسلة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/10-coach-shop/00-desktop.webp" alt="معاينة — نص زر الإضافة للسلة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | مكانه في القسم محاط بإطار برتقالي |
 
 ### «حركة تبديل التبويب»
 
@@ -294,9 +294,9 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/10-coach-shop/22-tab_motion-none-panel.webp" alt="لوحة إعدادات — حركة تبديل التبويب" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/10-coach-shop/19-tab4_kind-auto-result.webp" alt="معاينة — حركة تبديل التبويب" loading="lazy" decoding="async"/> | «بلا حركة» |
-| <img src="/coach-docs/assets/sections/10-coach-shop/22-tab_motion-stagger-panel.webp" alt="لوحة إعدادات — حركة تبديل التبويب" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/10-coach-shop/19-tab4_kind-auto-result.webp" alt="معاينة — حركة تبديل التبويب" loading="lazy" decoding="async"/> | «دخول تباعاً» |
-| <img src="/coach-docs/assets/sections/10-coach-shop/22-tab_motion-flip-panel.webp" alt="لوحة إعدادات — حركة تبديل التبويب" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/10-coach-shop/19-tab4_kind-book-result.webp" alt="معاينة — حركة تبديل التبويب" loading="lazy" decoding="async"/> | «إعادة ترتيب سلسة» |
+| <img src="/coach-docs/assets/sections/10-coach-shop/22-tab_motion-none-panel.webp" alt="لوحة إعدادات — حركة تبديل التبويب" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/10-coach-shop/19-tab4_kind-auto-result.webp" alt="معاينة — حركة تبديل التبويب" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «بلا حركة» |
+| <img src="/coach-docs/assets/sections/10-coach-shop/22-tab_motion-stagger-panel.webp" alt="لوحة إعدادات — حركة تبديل التبويب" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/10-coach-shop/19-tab4_kind-auto-result.webp" alt="معاينة — حركة تبديل التبويب" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «دخول تباعاً» |
+| <img src="/coach-docs/assets/sections/10-coach-shop/22-tab_motion-flip-panel.webp" alt="لوحة إعدادات — حركة تبديل التبويب" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/10-coach-shop/19-tab4_kind-book-result.webp" alt="معاينة — حركة تبديل التبويب" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «إعادة ترتيب سلسة» |
 
 ### «دخول البطاقات تباعاً (الإعداد السابق)»
 
@@ -308,7 +308,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/10-coach-shop/23-tab_stagger-panel.webp" alt="لوحة إعدادات — دخول البطاقات تباعاً (الإعداد السابق)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/10-coach-shop/00-desktop.webp" alt="معاينة — دخول البطاقات تباعاً (الإعداد السابق)" loading="lazy" decoding="async"/> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
+| <img src="/coach-docs/assets/sections/10-coach-shop/23-tab_stagger-panel.webp" alt="لوحة إعدادات — دخول البطاقات تباعاً (الإعداد السابق)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/10-coach-shop/00-desktop.webp" alt="معاينة — دخول البطاقات تباعاً (الإعداد السابق)" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
 
 
 <div class="source-note">صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>

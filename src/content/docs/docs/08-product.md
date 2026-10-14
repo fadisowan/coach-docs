@@ -11,6 +11,11 @@ editUrl: false
 
 النتيجة مصوّرة على صفحة المنتج.
 
+<!-- preview-audit -->
+:::caution[حدود المعاينات المتاحة]
+لقطة خيار تكبير الصور تعرض صفحة خطأ 404، وليست معاينة للتكبير. احتُفظ بلقطة المصدر داخل قسم واضح بأنها غير صالحة للمعاينة؛ لا تتوفر لقطة صحيحة لهذا الخيار في الحزمة.
+:::
+
 | النتيجة الافتراضية |
 |---|
 | <img src="/coach-docs/assets/00-theme/08-product/00-default-result.webp" alt="معاينة — ٨ · صفحة المنتج — الملاحظة و«يُشترى معاً» والصور والزر الثابت" loading="lazy" decoding="async"/> |
@@ -55,7 +60,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/08-product/02-product_sections-panel.webp" alt="لوحة إعدادات — أقسام الوصف بعناوينها" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/08-product/02-product_sections-off-result.webp" alt="معاينة — أقسام الوصف بعناوينها" loading="lazy" decoding="async"/> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
+| <img src="/coach-docs/assets/00-theme/08-product/02-product_sections-panel.webp" alt="لوحة إعدادات — أقسام الوصف بعناوينها" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/08-product/02-product_sections-off-result.webp" alt="معاينة — أقسام الوصف بعناوينها" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
 
 ### ««يُشترى معاً» في صفحة المنتج»
 
@@ -67,7 +72,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/08-product/03-fbt_enabled-panel.webp" alt="لوحة إعدادات — «يُشترى معاً» في صفحة المنتج" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/08-product/00-default-result.webp" alt="معاينة — «يُشترى معاً» في صفحة المنتج" loading="lazy" decoding="async"/> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
+| <img src="/coach-docs/assets/00-theme/08-product/03-fbt_enabled-panel.webp" alt="لوحة إعدادات — «يُشترى معاً» في صفحة المنتج" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/08-product/00-default-result.webp" alt="معاينة — «يُشترى معاً» في صفحة المنتج" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
 
 ### «عنوان «يُشترى معاً»»
 
@@ -105,7 +110,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/08-product/06-sticky_add_to_cart-panel.webp" alt="لوحة إعدادات — تثبيت زر الإضافة والكمية أسفل شاشة الجوال" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/08-product/06-sticky_add_to_cart-off-result.webp" alt="معاينة — تثبيت زر الإضافة والكمية أسفل شاشة الجوال" loading="lazy" decoding="async"/> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
+| <img src="/coach-docs/assets/00-theme/08-product/06-sticky_add_to_cart-panel.webp" alt="لوحة إعدادات — تثبيت زر الإضافة والكمية أسفل شاشة الجوال" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/08-product/06-sticky_add_to_cart-off-result.webp" alt="معاينة — تثبيت زر الإضافة والكمية أسفل شاشة الجوال" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
 
 ### «الكمية للمنتج الرقمي والخدمة»
 
@@ -129,7 +134,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/08-product/08-imagezoom-panel.webp" alt="لوحة إعدادات — تكبير الصور في سلايدر صور المنتج" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/08-product/08-imagezoom-on-result.webp" alt="معاينة — تكبير الصور في سلايدر صور المنتج" loading="lazy" decoding="async"/> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
+| <img src="/coach-docs/assets/00-theme/08-product/08-imagezoom-panel.webp" alt="لوحة إعدادات — تكبير الصور في سلايدر صور المنتج" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">لا توجد معاينة صالحة لهذا الخيار في المصدر؛ اللقطة المرفقة تعرض خطأ 404.</span><details class="preview-rejected"><summary>عرض لقطة المصدر غير الصالحة للمعاينة</summary><img src="/coach-docs/assets/00-theme/08-product/08-imagezoom-on-result.webp" alt="لقطة المصدر: صفحة خطأ 404، وليست معاينة لتكبير الصورة" loading="lazy" decoding="async"/></details> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
 
 ### «طريقة عرض الصور في سلايدر صور المنتج»
 
@@ -141,7 +146,7 @@ editUrl: false
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
 | <img src="/coach-docs/assets/00-theme/08-product/09-slider_background_size-cover-panel.webp" alt="لوحة إعدادات — طريقة عرض الصور في سلايدر صور المنتج" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/08-product/09-slider_background_size-cover-result.webp" alt="معاينة — طريقة عرض الصور في سلايدر صور المنتج" loading="lazy" decoding="async"/> | «تغطية الصورة كامل المساحة مع المحافظة على أبعاد الصورة (Cover)» |
-| <img src="/coach-docs/assets/00-theme/08-product/09-slider_background_size-contain-panel.webp" alt="لوحة إعدادات — طريقة عرض الصور في سلايدر صور المنتج" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/08-product/06-sticky_add_to_cart-off-result.webp" alt="معاينة — طريقة عرض الصور في سلايدر صور المنتج" loading="lazy" decoding="async"/> | «إظهار الصورة كاملةً في المنتصف (Contain)» |
+| <img src="/coach-docs/assets/00-theme/08-product/09-slider_background_size-contain-panel.webp" alt="لوحة إعدادات — طريقة عرض الصور في سلايدر صور المنتج" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/08-product/06-sticky_add_to_cart-off-result.webp" alt="معاينة — طريقة عرض الصور في سلايدر صور المنتج" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «إظهار الصورة كاملةً في المنتصف (Contain)» |
 
 ### «إظهار الوسوم»
 
@@ -152,7 +157,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/08-product/10-show_tags-panel.webp" alt="لوحة إعدادات — إظهار الوسوم" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/08-product/02-product_sections-off-result.webp" alt="معاينة — إظهار الوسوم" loading="lazy" decoding="async"/> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
+| <img src="/coach-docs/assets/00-theme/08-product/10-show_tags-panel.webp" alt="لوحة إعدادات — إظهار الوسوم" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/08-product/02-product_sections-off-result.webp" alt="معاينة — إظهار الوسوم" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
 
 ### «إظهار مسار التنقل في صفحة المنتج»
 

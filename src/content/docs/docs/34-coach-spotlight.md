@@ -76,7 +76,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/34-coach-spotlight/04-products-panel.webp" alt="لوحة إعدادات — المنتجات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/34-coach-spotlight/00-desktop.webp" alt="معاينة — المنتجات" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/34-coach-spotlight/04-products-panel.webp" alt="لوحة إعدادات — المنتجات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/34-coach-spotlight/00-desktop.webp" alt="معاينة — المنتجات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «شارة كل منتج وميزاته»
 
@@ -88,7 +88,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/34-coach-spotlight/05-badges-panel.webp" alt="لوحة إعدادات — شارة كل منتج وميزاته" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/34-coach-spotlight/05-badges-result.webp" alt="معاينة — شارة كل منتج وميزاته" loading="lazy" decoding="async"/> | أول عنصر محاط بإطار برتقالي |
+| <img src="/coach-docs/assets/sections/34-coach-spotlight/05-badges-panel.webp" alt="لوحة إعدادات — شارة كل منتج وميزاته" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/34-coach-spotlight/05-badges-result.webp" alt="معاينة — شارة كل منتج وميزاته" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | أول عنصر محاط بإطار برتقالي |
 
 #### «الشارة»
 
@@ -98,7 +98,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/34-coach-spotlight/05-badges-text-panel.webp" alt="لوحة إعدادات — شارة كل منتج وميزاته" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/34-coach-spotlight/05-badges-result.webp" alt="معاينة — شارة كل منتج وميزاته" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/34-coach-spotlight/05-badges-text-panel.webp" alt="لوحة إعدادات — شارة كل منتج وميزاته" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/34-coach-spotlight/05-badges-result.webp" alt="معاينة — شارة كل منتج وميزاته" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 #### «الميزات»
 
@@ -109,7 +109,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/34-coach-spotlight/05-badges-points-panel.webp" alt="لوحة إعدادات — شارة كل منتج وميزاته" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/34-coach-spotlight/05-badges-result.webp" alt="معاينة — شارة كل منتج وميزاته" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/34-coach-spotlight/05-badges-points-panel.webp" alt="لوحة إعدادات — شارة كل منتج وميزاته" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/34-coach-spotlight/05-badges-result.webp" alt="معاينة — شارة كل منتج وميزاته" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 ### «نص زر الإضافة للسلة»
 
@@ -121,7 +121,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/34-coach-spotlight/06-button_label-panel.webp" alt="لوحة إعدادات — نص زر الإضافة للسلة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/34-coach-spotlight/00-desktop.webp" alt="معاينة — نص زر الإضافة للسلة" loading="lazy" decoding="async"/> | مكانه في القسم محاط بإطار برتقالي |
+| <img src="/coach-docs/assets/sections/34-coach-spotlight/06-button_label-panel.webp" alt="لوحة إعدادات — نص زر الإضافة للسلة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/34-coach-spotlight/00-desktop.webp" alt="معاينة — نص زر الإضافة للسلة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | مكانه في القسم محاط بإطار برتقالي |
 
 ### «شارة الخصم على الصورة»
 
@@ -133,7 +133,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/34-coach-spotlight/07-show_discount-panel.webp" alt="لوحة إعدادات — شارة الخصم على الصورة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/34-coach-spotlight/00-desktop.webp" alt="معاينة — شارة الخصم على الصورة" loading="lazy" decoding="async"/> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
+| <img src="/coach-docs/assets/sections/34-coach-spotlight/07-show_discount-panel.webp" alt="لوحة إعدادات — شارة الخصم على الصورة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/34-coach-spotlight/00-desktop.webp" alt="معاينة — شارة الخصم على الصورة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
 
 ### «عدّاد انتهاء العرض»
 
@@ -169,7 +169,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/34-coach-spotlight/10-tilt-panel.webp" alt="لوحة إعدادات — ميلان الصورة مع الفأرة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/34-coach-spotlight/10-tilt-on-result.webp" alt="معاينة — ميلان الصورة مع الفأرة" loading="lazy" decoding="async"/> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
+| <img src="/coach-docs/assets/sections/34-coach-spotlight/10-tilt-panel.webp" alt="لوحة إعدادات — ميلان الصورة مع الفأرة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/34-coach-spotlight/10-tilt-on-result.webp" alt="معاينة — ميلان الصورة مع الفأرة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
 
 ### «خلفية من ألوان صورة المنتج»
 
@@ -181,7 +181,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/34-coach-spotlight/11-ambient-panel.webp" alt="لوحة إعدادات — خلفية من ألوان صورة المنتج" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/34-coach-spotlight/00-desktop.webp" alt="معاينة — خلفية من ألوان صورة المنتج" loading="lazy" decoding="async"/> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
+| <img src="/coach-docs/assets/sections/34-coach-spotlight/11-ambient-panel.webp" alt="لوحة إعدادات — خلفية من ألوان صورة المنتج" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/34-coach-spotlight/00-desktop.webp" alt="معاينة — خلفية من ألوان صورة المنتج" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
 
 ### «قلب البطاقة عند تبديل المنتج»
 
@@ -205,7 +205,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/34-coach-spotlight/13-float-panel.webp" alt="لوحة إعدادات — صورة المنتج تطفو" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/34-coach-spotlight/10-tilt-on-result.webp" alt="معاينة — صورة المنتج تطفو" loading="lazy" decoding="async"/> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
+| <img src="/coach-docs/assets/sections/34-coach-spotlight/13-float-panel.webp" alt="لوحة إعدادات — صورة المنتج تطفو" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/34-coach-spotlight/10-tilt-on-result.webp" alt="معاينة — صورة المنتج تطفو" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
 
 
 <div class="source-note">صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>

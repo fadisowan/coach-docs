@@ -11,6 +11,11 @@ editUrl: false
 
 **متى تضيفه:** إن كانت منتجاتك كثيرة ويحتار الزائر من أين يبدأ.
 
+<!-- preview-audit -->
+:::caution[حدود المعاينات المتاحة]
+صور واجهة الأسئلة متاحة. صور إعدادات النتائج تعرض مرحلة السؤال، ولا تُظهر بطاقة النتيجة بعد إكمال الاختبار أو حركة قلبها. حالة المحادثة العائمة موضّحة أيضًا كمعاينة غير ملتقطة في الحزمة.
+:::
+
 | كمبيوتر (1440) | جوال (390) |
 |---|---|
 | <img src="/coach-docs/assets/sections/21-coach-product-finder/00-desktop.webp" alt="معاينة — تحويل · اختبار «ما البرنامج المناسب لي؟»" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/21-coach-product-finder/00-mobile.webp" alt="معاينة — تحويل · اختبار «ما البرنامج المناسب لي؟»" loading="lazy" decoding="async"/> |
@@ -63,7 +68,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/21-coach-product-finder/01-layout_style-default-panel.webp" alt="لوحة إعدادات — شكل عرض الاختبار" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/21-coach-product-finder/00-desktop.webp" alt="معاينة — شكل عرض الاختبار" loading="lazy" decoding="async"/> | «الشكل الحالي (افتراضي)» |
+| <img src="/coach-docs/assets/sections/21-coach-product-finder/01-layout_style-default-panel.webp" alt="لوحة إعدادات — شكل عرض الاختبار" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/21-coach-product-finder/00-desktop.webp" alt="معاينة — شكل عرض الاختبار" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «الشكل الحالي (افتراضي)» |
 | <img src="/coach-docs/assets/sections/21-coach-product-finder/01-layout_style-cards-panel.webp" alt="لوحة إعدادات — شكل عرض الاختبار" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/21-coach-product-finder/01-layout_style-cards-result.webp" alt="معاينة — شكل عرض الاختبار" loading="lazy" decoding="async"/> | «بطاقات اختيار كبيرة · لوح داكن» |
 | <img src="/coach-docs/assets/sections/21-coach-product-finder/01-layout_style-chat-panel.webp" alt="لوحة إعدادات — شكل عرض الاختبار" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/21-coach-product-finder/01-layout_style-chat-result.webp" alt="معاينة — شكل عرض الاختبار" loading="lazy" decoding="async"/> | «محادثة مع الكوتش» |
 | <img src="/coach-docs/assets/sections/21-coach-product-finder/01-layout_style-split-panel.webp" alt="لوحة إعدادات — شكل عرض الاختبار" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/21-coach-product-finder/01-layout_style-split-result.webp" alt="معاينة — شكل عرض الاختبار" loading="lazy" decoding="async"/> | «شاشة مقسومة بصورة» |
@@ -114,7 +119,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/21-coach-product-finder/05-coach_name-panel.webp" alt="لوحة إعدادات — اسم الكوتش" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/21-coach-product-finder/00-desktop.webp" alt="معاينة — اسم الكوتش" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/21-coach-product-finder/05-coach_name-panel.webp" alt="لوحة إعدادات — اسم الكوتش" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/21-coach-product-finder/00-desktop.webp" alt="معاينة — اسم الكوتش" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «صورة الكوتش»
 
@@ -138,7 +143,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/21-coach-product-finder/07-coach_status-panel.webp" alt="لوحة إعدادات — سطر الحالة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/21-coach-product-finder/00-desktop.webp" alt="معاينة — سطر الحالة" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/21-coach-product-finder/07-coach_status-panel.webp" alt="لوحة إعدادات — سطر الحالة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/21-coach-product-finder/00-desktop.webp" alt="معاينة — سطر الحالة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «محادثة عائمة»
 
@@ -163,7 +168,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/21-coach-product-finder/09-float_label-panel.webp" alt="لوحة إعدادات — نص الزر العائم" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/21-coach-product-finder/00-desktop.webp" alt="معاينة — نص الزر العائم" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/21-coach-product-finder/09-float_label-panel.webp" alt="لوحة إعدادات — نص الزر العائم" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/21-coach-product-finder/00-desktop.webp" alt="معاينة — نص الزر العائم" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «النتائج»
 
@@ -174,7 +179,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/21-coach-product-finder/10-results-panel.webp" alt="لوحة إعدادات — النتائج" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/21-coach-product-finder/10-results-result.webp" alt="معاينة — النتائج" loading="lazy" decoding="async"/> | أول عنصر محاط بإطار برتقالي |
+| <img src="/coach-docs/assets/sections/21-coach-product-finder/10-results-panel.webp" alt="لوحة إعدادات — النتائج" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/21-coach-product-finder/10-results-result.webp" alt="معاينة — النتائج" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية؛ لا تُظهر الحالة الفعلية لهذا الخيار.</small> | أول عنصر محاط بإطار برتقالي |
 
 #### «اسم النتيجة»
 
@@ -184,7 +189,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/21-coach-product-finder/10-results-title-panel.webp" alt="لوحة إعدادات — النتائج" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/21-coach-product-finder/10-results-result.webp" alt="معاينة — النتائج" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/21-coach-product-finder/10-results-title-panel.webp" alt="لوحة إعدادات — النتائج" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/21-coach-product-finder/10-results-result.webp" alt="معاينة — النتائج" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية؛ لا تُظهر الحالة الفعلية لهذا الخيار.</small> |  |
 
 #### «لماذا تناسبه (سطر قصير)»
 
@@ -194,7 +199,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/21-coach-product-finder/10-results-text-panel.webp" alt="لوحة إعدادات — النتائج" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/21-coach-product-finder/10-results-result.webp" alt="معاينة — النتائج" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/21-coach-product-finder/10-results-text-panel.webp" alt="لوحة إعدادات — النتائج" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/21-coach-product-finder/10-results-result.webp" alt="معاينة — النتائج" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية؛ لا تُظهر الحالة الفعلية لهذا الخيار.</small> |  |
 
 #### «منتجات النتيجة (الأول المرشّح)»
 
@@ -204,7 +209,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/21-coach-product-finder/10-results-products-panel.webp" alt="لوحة إعدادات — النتائج" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/21-coach-product-finder/10-results-result.webp" alt="معاينة — النتائج" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/21-coach-product-finder/10-results-products-panel.webp" alt="لوحة إعدادات — النتائج" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/21-coach-product-finder/10-results-result.webp" alt="معاينة — النتائج" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية؛ لا تُظهر الحالة الفعلية لهذا الخيار.</small> |  |
 
 ### «الأسئلة»
 
@@ -215,7 +220,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/21-coach-product-finder/11-questions-panel.webp" alt="لوحة إعدادات — الأسئلة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/21-coach-product-finder/00-desktop.webp" alt="معاينة — الأسئلة" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/21-coach-product-finder/11-questions-panel.webp" alt="لوحة إعدادات — الأسئلة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/21-coach-product-finder/00-desktop.webp" alt="معاينة — الأسئلة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 #### «نص السؤال»
 
@@ -225,7 +230,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/21-coach-product-finder/11-questions-question-panel.webp" alt="لوحة إعدادات — الأسئلة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/21-coach-product-finder/00-desktop.webp" alt="معاينة — الأسئلة" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/21-coach-product-finder/11-questions-question-panel.webp" alt="لوحة إعدادات — الأسئلة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/21-coach-product-finder/00-desktop.webp" alt="معاينة — الأسئلة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 #### «الإجابة ١»
 
@@ -235,7 +240,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/21-coach-product-finder/11-questions-answer1-panel.webp" alt="لوحة إعدادات — الأسئلة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/21-coach-product-finder/00-desktop.webp" alt="معاينة — الأسئلة" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/21-coach-product-finder/11-questions-answer1-panel.webp" alt="لوحة إعدادات — الأسئلة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/21-coach-product-finder/00-desktop.webp" alt="معاينة — الأسئلة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 #### «الإجابة ١ ← رقم النتيجة»
 
@@ -245,7 +250,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/21-coach-product-finder/11-questions-to1-panel.webp" alt="لوحة إعدادات — الأسئلة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/21-coach-product-finder/00-desktop.webp" alt="معاينة — الأسئلة" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/21-coach-product-finder/11-questions-to1-panel.webp" alt="لوحة إعدادات — الأسئلة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/21-coach-product-finder/00-desktop.webp" alt="معاينة — الأسئلة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 #### «الإجابة ٢»
 
@@ -255,7 +260,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/21-coach-product-finder/11-questions-answer2-panel.webp" alt="لوحة إعدادات — الأسئلة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/21-coach-product-finder/00-desktop.webp" alt="معاينة — الأسئلة" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/21-coach-product-finder/11-questions-answer2-panel.webp" alt="لوحة إعدادات — الأسئلة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/21-coach-product-finder/00-desktop.webp" alt="معاينة — الأسئلة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 #### «الإجابة ٢ ← رقم النتيجة»
 
@@ -265,7 +270,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/21-coach-product-finder/11-questions-to2-panel.webp" alt="لوحة إعدادات — الأسئلة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/21-coach-product-finder/00-desktop.webp" alt="معاينة — الأسئلة" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/21-coach-product-finder/11-questions-to2-panel.webp" alt="لوحة إعدادات — الأسئلة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/21-coach-product-finder/00-desktop.webp" alt="معاينة — الأسئلة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 #### «الإجابة ٣»
 
@@ -275,7 +280,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/21-coach-product-finder/11-questions-answer3-panel.webp" alt="لوحة إعدادات — الأسئلة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/21-coach-product-finder/00-desktop.webp" alt="معاينة — الأسئلة" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/21-coach-product-finder/11-questions-answer3-panel.webp" alt="لوحة إعدادات — الأسئلة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/21-coach-product-finder/00-desktop.webp" alt="معاينة — الأسئلة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 #### «الإجابة ٣ ← رقم النتيجة»
 
@@ -285,7 +290,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/21-coach-product-finder/11-questions-to3-panel.webp" alt="لوحة إعدادات — الأسئلة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/21-coach-product-finder/00-desktop.webp" alt="معاينة — الأسئلة" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/21-coach-product-finder/11-questions-to3-panel.webp" alt="لوحة إعدادات — الأسئلة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/21-coach-product-finder/00-desktop.webp" alt="معاينة — الأسئلة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 #### «الإجابة ٤»
 
@@ -295,7 +300,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/21-coach-product-finder/11-questions-answer4-panel.webp" alt="لوحة إعدادات — الأسئلة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/21-coach-product-finder/00-desktop.webp" alt="معاينة — الأسئلة" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/21-coach-product-finder/11-questions-answer4-panel.webp" alt="لوحة إعدادات — الأسئلة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/21-coach-product-finder/00-desktop.webp" alt="معاينة — الأسئلة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 #### «الإجابة ٤ ← رقم النتيجة»
 
@@ -305,7 +310,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/21-coach-product-finder/11-questions-to4-panel.webp" alt="لوحة إعدادات — الأسئلة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/21-coach-product-finder/00-desktop.webp" alt="معاينة — الأسئلة" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/21-coach-product-finder/11-questions-to4-panel.webp" alt="لوحة إعدادات — الأسئلة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/21-coach-product-finder/00-desktop.webp" alt="معاينة — الأسئلة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 #### «إخفاء هذا السؤال»
 
@@ -316,7 +321,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/21-coach-product-finder/11-questions-hide-panel.webp" alt="لوحة إعدادات — الأسئلة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/21-coach-product-finder/00-desktop.webp" alt="معاينة — الأسئلة" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/21-coach-product-finder/11-questions-hide-panel.webp" alt="لوحة إعدادات — الأسئلة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/21-coach-product-finder/00-desktop.webp" alt="معاينة — الأسئلة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 ### «الشارة فوق النتيجة»
 
@@ -327,7 +332,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/21-coach-product-finder/12-result_label-panel.webp" alt="لوحة إعدادات — الشارة فوق النتيجة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/21-coach-product-finder/10-results-result.webp" alt="معاينة — الشارة فوق النتيجة" loading="lazy" decoding="async"/> | مكانه في القسم محاط بإطار برتقالي |
+| <img src="/coach-docs/assets/sections/21-coach-product-finder/12-result_label-panel.webp" alt="لوحة إعدادات — الشارة فوق النتيجة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/21-coach-product-finder/10-results-result.webp" alt="معاينة — الشارة فوق النتيجة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية؛ لا تُظهر الحالة الفعلية لهذا الخيار.</small> | مكانه في القسم محاط بإطار برتقالي |
 
 ### «بداية سطر السبب»
 
@@ -339,7 +344,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/21-coach-product-finder/13-why_label-panel.webp" alt="لوحة إعدادات — بداية سطر السبب" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/21-coach-product-finder/00-desktop.webp" alt="معاينة — بداية سطر السبب" loading="lazy" decoding="async"/> | مكانه في القسم محاط بإطار برتقالي |
+| <img src="/coach-docs/assets/sections/21-coach-product-finder/13-why_label-panel.webp" alt="لوحة إعدادات — بداية سطر السبب" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/21-coach-product-finder/00-desktop.webp" alt="معاينة — بداية سطر السبب" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | مكانه في القسم محاط بإطار برتقالي |
 
 ### «عدد منتجات النتيجة المعروضة»
 
@@ -350,7 +355,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/21-coach-product-finder/14-result_limit-panel.webp" alt="لوحة إعدادات — عدد منتجات النتيجة المعروضة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/21-coach-product-finder/00-desktop.webp" alt="معاينة — عدد منتجات النتيجة المعروضة" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/21-coach-product-finder/14-result_limit-panel.webp" alt="لوحة إعدادات — عدد منتجات النتيجة المعروضة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/21-coach-product-finder/00-desktop.webp" alt="معاينة — عدد منتجات النتيجة المعروضة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية؛ لا تُظهر الحالة الفعلية لهذا الخيار.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «نص رابط التفاصيل»
 
@@ -362,7 +367,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/21-coach-product-finder/15-result_button-panel.webp" alt="لوحة إعدادات — نص رابط التفاصيل" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/21-coach-product-finder/00-desktop.webp" alt="معاينة — نص رابط التفاصيل" loading="lazy" decoding="async"/> | مكانه في القسم محاط بإطار برتقالي |
+| <img src="/coach-docs/assets/sections/21-coach-product-finder/15-result_button-panel.webp" alt="لوحة إعدادات — نص رابط التفاصيل" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/21-coach-product-finder/00-desktop.webp" alt="معاينة — نص رابط التفاصيل" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية؛ لا تُظهر الحالة الفعلية لهذا الخيار.</small> | مكانه في القسم محاط بإطار برتقالي |
 
 ### «نص زر الإضافة للسلة»
 
@@ -374,7 +379,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/21-coach-product-finder/16-add_label-panel.webp" alt="لوحة إعدادات — نص زر الإضافة للسلة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/21-coach-product-finder/00-desktop.webp" alt="معاينة — نص زر الإضافة للسلة" loading="lazy" decoding="async"/> | مكانه في القسم محاط بإطار برتقالي |
+| <img src="/coach-docs/assets/sections/21-coach-product-finder/16-add_label-panel.webp" alt="لوحة إعدادات — نص زر الإضافة للسلة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/21-coach-product-finder/00-desktop.webp" alt="معاينة — نص زر الإضافة للسلة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | مكانه في القسم محاط بإطار برتقالي |
 
 ### «نص زر إضافة الترشيح كله»
 
@@ -386,7 +391,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/21-coach-product-finder/17-add_all_label-panel.webp" alt="لوحة إعدادات — نص زر إضافة الترشيح كله" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/21-coach-product-finder/10-results-result.webp" alt="معاينة — نص زر إضافة الترشيح كله" loading="lazy" decoding="async"/> | مكانه في القسم محاط بإطار برتقالي |
+| <img src="/coach-docs/assets/sections/21-coach-product-finder/17-add_all_label-panel.webp" alt="لوحة إعدادات — نص زر إضافة الترشيح كله" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/21-coach-product-finder/10-results-result.webp" alt="معاينة — نص زر إضافة الترشيح كله" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | مكانه في القسم محاط بإطار برتقالي |
 
 ### «تذكّر نتيجة الزائر عند عودته»
 
@@ -398,7 +403,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/21-coach-product-finder/18-remember_result-panel.webp" alt="لوحة إعدادات — تذكّر نتيجة الزائر عند عودته" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/21-coach-product-finder/00-desktop.webp" alt="معاينة — تذكّر نتيجة الزائر عند عودته" loading="lazy" decoding="async"/> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
+| <img src="/coach-docs/assets/sections/21-coach-product-finder/18-remember_result-panel.webp" alt="لوحة إعدادات — تذكّر نتيجة الزائر عند عودته" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/21-coach-product-finder/00-desktop.webp" alt="معاينة — تذكّر نتيجة الزائر عند عودته" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية؛ لا تُظهر الحالة الفعلية لهذا الخيار.</small> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
 
 ### «انتقال الأسئلة»
 
@@ -410,7 +415,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/21-coach-product-finder/19-question_fx-panel.webp" alt="لوحة إعدادات — انتقال الأسئلة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/21-coach-product-finder/00-desktop.webp" alt="معاينة — انتقال الأسئلة" loading="lazy" decoding="async"/> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
+| <img src="/coach-docs/assets/sections/21-coach-product-finder/19-question_fx-panel.webp" alt="لوحة إعدادات — انتقال الأسئلة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/21-coach-product-finder/00-desktop.webp" alt="معاينة — انتقال الأسئلة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
 
 ### «ظهور النتيجة بقلبة»
 
@@ -422,7 +427,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/21-coach-product-finder/20-result_flip-panel.webp" alt="لوحة إعدادات — ظهور النتيجة بقلبة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/21-coach-product-finder/20-result_flip-on-result.webp" alt="معاينة — ظهور النتيجة بقلبة" loading="lazy" decoding="async"/> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
+| <img src="/coach-docs/assets/sections/21-coach-product-finder/20-result_flip-panel.webp" alt="لوحة إعدادات — ظهور النتيجة بقلبة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/21-coach-product-finder/20-result_flip-on-result.webp" alt="معاينة — ظهور النتيجة بقلبة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية؛ لا تُظهر الحالة الفعلية لهذا الخيار.</small> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
 
 ---
 > ملاحظات البناء: لم يُعثر على النص لتمييزه: 00-desktop.webp · لم يُعثر على النص لتمييزه: 00-desktop.webp · لم يُعثر على النص لتمييزه: 00-desktop.webp · لا عنصر: 08-chat_float-on-result.webp

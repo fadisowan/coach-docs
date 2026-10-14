@@ -11,6 +11,11 @@ editUrl: false
 
 النتيجة مصوّرة على الصفحة الرئيسية مع `whatsapp_enabled` مفعّلاً ليظهر ما تتحكم به المجموعة.
 
+<!-- preview-audit -->
+:::caution[حدود المعاينات المتاحة]
+معاينة زر واتساب العائم موجودة فعلًا. أما الخيارات الخاصة بالرسالة الجاهزة والعودة للأعلى وشاشة التحميل فتستخدم لقطة الزر نفسها ولا تُظهر هذه الحالات بصورة مستقلة.
+:::
+
 | النتيجة الافتراضية |
 |---|
 | <img src="/coach-docs/assets/00-theme/10-whatsapp/00-default-result.webp" alt="معاينة — ١٠ · أزرار الشاشة — واتساب العائم، العودة للأعلى، وشاشة التحميل" loading="lazy" decoding="async"/> |
@@ -40,7 +45,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/10-whatsapp/01-whatsapp_number-panel.webp" alt="لوحة إعدادات — رقم واتساب" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/10-whatsapp/00-default-result.webp" alt="معاينة — رقم واتساب" loading="lazy" decoding="async"/> | النتيجة بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/00-theme/10-whatsapp/01-whatsapp_number-panel.webp" alt="لوحة إعدادات — رقم واتساب" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/10-whatsapp/00-default-result.webp" alt="معاينة — رقم واتساب" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة بالقيمة الافتراضية |
 
 ### «زر واتساب عائم»
 
@@ -52,7 +57,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/10-whatsapp/02-whatsapp_enabled-panel.webp" alt="لوحة إعدادات — زر واتساب عائم" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/10-whatsapp/02-whatsapp_enabled-on-result.webp" alt="معاينة — زر واتساب عائم" loading="lazy" decoding="async"/> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
+| <img src="/coach-docs/assets/00-theme/10-whatsapp/02-whatsapp_enabled-panel.webp" alt="لوحة إعدادات — زر واتساب عائم" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/10-whatsapp/02-whatsapp_enabled-on-result.webp" alt="معاينة — زر واتساب عائم" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
 
 ### «نص الزر العائم»
 
@@ -78,7 +83,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/10-whatsapp/04-whatsapp_message-panel.webp" alt="لوحة إعدادات — رسالة جاهزة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/10-whatsapp/02-whatsapp_enabled-on-result.webp" alt="معاينة — رسالة جاهزة" loading="lazy" decoding="async"/> | مكانه محاط بإطار برتقالي |
+| <img src="/coach-docs/assets/00-theme/10-whatsapp/04-whatsapp_message-panel.webp" alt="لوحة إعدادات — رسالة جاهزة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/10-whatsapp/02-whatsapp_enabled-on-result.webp" alt="معاينة — رسالة جاهزة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية؛ لا تُظهر الحالة الفعلية لهذا الخيار.</small> | مكانه محاط بإطار برتقالي |
 
 ### «زر العودة للأعلى»
 
@@ -90,7 +95,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/10-whatsapp/05-back_to_top_enabled-panel.webp" alt="لوحة إعدادات — زر العودة للأعلى" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/10-whatsapp/02-whatsapp_enabled-on-result.webp" alt="معاينة — زر العودة للأعلى" loading="lazy" decoding="async"/> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
+| <img src="/coach-docs/assets/00-theme/10-whatsapp/05-back_to_top_enabled-panel.webp" alt="لوحة إعدادات — زر العودة للأعلى" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/10-whatsapp/02-whatsapp_enabled-on-result.webp" alt="معاينة — زر العودة للأعلى" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية؛ لا تُظهر الحالة الفعلية لهذا الخيار.</small> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
 
 ### «شاشة التحميل»
 
@@ -102,7 +107,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/10-whatsapp/06-preloader_enabled-panel.webp" alt="لوحة إعدادات — شاشة التحميل" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/10-whatsapp/02-whatsapp_enabled-on-result.webp" alt="معاينة — شاشة التحميل" loading="lazy" decoding="async"/> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
+| <img src="/coach-docs/assets/00-theme/10-whatsapp/06-preloader_enabled-panel.webp" alt="لوحة إعدادات — شاشة التحميل" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/10-whatsapp/02-whatsapp_enabled-on-result.webp" alt="معاينة — شاشة التحميل" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية؛ لا تُظهر الحالة الفعلية لهذا الخيار.</small> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
 
 ---
 > ملاحظات البناء: لم يُعثر على النص لتمييزه: 02-whatsapp_enabled-on-result.webp

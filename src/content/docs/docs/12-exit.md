@@ -11,6 +11,11 @@ editUrl: false
 
 النتيجة مصوّرة على الصفحة الرئيسية.
 
+<!-- preview-audit -->
+:::caution[حدود المعاينات المتاحة]
+الصور المرفقة تعرض الصفحة والنافذة المنبثقة مغلقة؛ لا تُظهر شكل العرض المنبثق المفتوح أو نصوصه أو العداد أثناء التشغيل.
+:::
+
 | النتيجة الافتراضية |
 |---|
 | <img src="/coach-docs/assets/00-theme/12-exit/00-default-result.webp" alt="معاينة — ١٢ · نافذة العرض المنبثقة — عرض بكود خصم يظهر بعد ثوانٍ، مرة في كل زيارة" loading="lazy" decoding="async"/> |
@@ -37,9 +42,9 @@ editUrl: false
 - **حين يكون فارغاً:** مطفأ: بلا نافذة. ومفعّلة لا تظهر حتى تكتب «كود الخصم».
 - شرحه تحت الحقل في المحرّر: مرة في الزيارة ولا تعود بعد إغلاقها. تحتاج كود خصم، ولا تظهر في السلة والشكر والحساب.
 
-| اللوحة (نسخة مطابقة) | النتيجة | |
+| اللوحة (نسخة مطابقة) | المعاينة المرجعية المتاحة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/12-exit/01-exit_enabled-panel.webp" alt="لوحة إعدادات — نافذة العرض المنبثقة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/12-exit/01-exit_enabled-off-result.webp" alt="معاينة — نافذة العرض المنبثقة" loading="lazy" decoding="async"/> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
+| <img src="/coach-docs/assets/00-theme/12-exit/01-exit_enabled-panel.webp" alt="لوحة إعدادات — نافذة العرض المنبثقة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/12-exit/01-exit_enabled-off-result.webp" alt="معاينة — نافذة العرض المنبثقة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية؛ لا تُظهر الحالة الفعلية لهذا الخيار.</small> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
 
 ### «كود الخصم»
 
@@ -50,9 +55,9 @@ editUrl: false
 - **يظهر في اللوحة فقط حين:** «نافذة العرض المنبثقة» هو «مفعّل»
 - شرحه تحت الحقل في المحرّر: من «التسويق ← كوبونات التخفيض» في سلة؛ فارغاً لا تظهر النافذة.
 
-| اللوحة (نسخة مطابقة) | النتيجة | |
+| اللوحة (نسخة مطابقة) | المعاينة المرجعية المتاحة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/12-exit/02-exit_code-panel.webp" alt="لوحة إعدادات — كود الخصم" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/12-exit/00-default-result.webp" alt="معاينة — كود الخصم" loading="lazy" decoding="async"/> | النتيجة بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/00-theme/12-exit/02-exit_code-panel.webp" alt="لوحة إعدادات — كود الخصم" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/12-exit/00-default-result.webp" alt="معاينة — كود الخصم" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية؛ لا تُظهر الحالة الفعلية لهذا الخيار.</small> | النتيجة بالقيمة الافتراضية |
 
 ### «السطر الصغير»
 
@@ -63,9 +68,9 @@ editUrl: false
 - **يظهر في اللوحة فقط حين:** «نافذة العرض المنبثقة» هو «مفعّل»
 - شرحه تحت الحقل في المحرّر: فوق العرض، صغيراً.
 
-| اللوحة (نسخة مطابقة) | النتيجة | |
+| اللوحة (نسخة مطابقة) | المعاينة المرجعية المتاحة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/12-exit/03-exit_title-panel.webp" alt="لوحة إعدادات — السطر الصغير" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/12-exit/01-exit_enabled-off-result.webp" alt="معاينة — السطر الصغير" loading="lazy" decoding="async"/> | مكانه محاط بإطار برتقالي |
+| <img src="/coach-docs/assets/00-theme/12-exit/03-exit_title-panel.webp" alt="لوحة إعدادات — السطر الصغير" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/12-exit/01-exit_enabled-off-result.webp" alt="معاينة — السطر الصغير" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية؛ لا تُظهر الحالة الفعلية لهذا الخيار.</small> | مكانه محاط بإطار برتقالي |
 
 ### «العرض»
 
@@ -76,9 +81,9 @@ editUrl: false
 - **يظهر في اللوحة فقط حين:** «نافذة العرض المنبثقة» هو «مفعّل»
 - شرحه تحت الحقل في المحرّر: عنوان النافذة؛ أي نسبة أو مبلغ فيه يطابق الكوبون. فارغاً يظهر الكود مكانه.
 
-| اللوحة (نسخة مطابقة) | النتيجة | |
+| اللوحة (نسخة مطابقة) | المعاينة المرجعية المتاحة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/12-exit/04-exit_offer-panel.webp" alt="لوحة إعدادات — العرض" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/12-exit/01-exit_enabled-off-result.webp" alt="معاينة — العرض" loading="lazy" decoding="async"/> | مكانه محاط بإطار برتقالي |
+| <img src="/coach-docs/assets/00-theme/12-exit/04-exit_offer-panel.webp" alt="لوحة إعدادات — العرض" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/12-exit/01-exit_enabled-off-result.webp" alt="معاينة — العرض" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية؛ لا تُظهر الحالة الفعلية لهذا الخيار.</small> | مكانه محاط بإطار برتقالي |
 
 ### «سطر تحت العرض»
 
@@ -89,9 +94,9 @@ editUrl: false
 - **يظهر في اللوحة فقط حين:** «نافذة العرض المنبثقة» هو «مفعّل»
 - شرحه تحت الحقل في المحرّر: اختياري؛ فارغاً لا يظهر.
 
-| اللوحة (نسخة مطابقة) | النتيجة | |
+| اللوحة (نسخة مطابقة) | المعاينة المرجعية المتاحة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/12-exit/05-exit_text-panel.webp" alt="لوحة إعدادات — سطر تحت العرض" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/12-exit/01-exit_enabled-off-result.webp" alt="معاينة — سطر تحت العرض" loading="lazy" decoding="async"/> | مكانه محاط بإطار برتقالي |
+| <img src="/coach-docs/assets/00-theme/12-exit/05-exit_text-panel.webp" alt="لوحة إعدادات — سطر تحت العرض" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/12-exit/01-exit_enabled-off-result.webp" alt="معاينة — سطر تحت العرض" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية؛ لا تُظهر الحالة الفعلية لهذا الخيار.</small> | مكانه محاط بإطار برتقالي |
 
 ### «زر المتابعة»
 
@@ -102,9 +107,9 @@ editUrl: false
 - **يظهر في اللوحة فقط حين:** «نافذة العرض المنبثقة» هو «مفعّل»
 - شرحه تحت الحقل في المحرّر: يغلق النافذة ويبقي الزائر في الصفحة.
 
-| اللوحة (نسخة مطابقة) | النتيجة | |
+| اللوحة (نسخة مطابقة) | المعاينة المرجعية المتاحة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/12-exit/06-exit_button-panel.webp" alt="لوحة إعدادات — زر المتابعة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/12-exit/01-exit_enabled-off-result.webp" alt="معاينة — زر المتابعة" loading="lazy" decoding="async"/> | مكانه محاط بإطار برتقالي |
+| <img src="/coach-docs/assets/00-theme/12-exit/06-exit_button-panel.webp" alt="لوحة إعدادات — زر المتابعة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/12-exit/01-exit_enabled-off-result.webp" alt="معاينة — زر المتابعة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية؛ لا تُظهر الحالة الفعلية لهذا الخيار.</small> | مكانه محاط بإطار برتقالي |
 
 ### «متى تظهر»
 
@@ -114,14 +119,14 @@ editUrl: false
 - **يظهر في اللوحة فقط حين:** «نافذة العرض المنبثقة» هو «مفعّل»
 - شرحه تحت الحقل في المحرّر: من بدء الزيارة، ويُحسب عبر الصفحات.
 
-| اللوحة (نسخة مطابقة) | النتيجة | |
+| اللوحة (نسخة مطابقة) | المعاينة المرجعية المتاحة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/12-exit/07-exit_delay-3-panel.webp" alt="لوحة إعدادات — متى تظهر" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/12-exit/01-exit_enabled-off-result.webp" alt="معاينة — متى تظهر" loading="lazy" decoding="async"/> | «بعد ٣ ثوانٍ» |
-| <img src="/coach-docs/assets/00-theme/12-exit/07-exit_delay-5-panel.webp" alt="لوحة إعدادات — متى تظهر" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/12-exit/07-exit_delay-5-result.webp" alt="معاينة — متى تظهر" loading="lazy" decoding="async"/> | «بعد ٥ ثوانٍ» |
-| <img src="/coach-docs/assets/00-theme/12-exit/07-exit_delay-10-panel.webp" alt="لوحة إعدادات — متى تظهر" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/12-exit/01-exit_enabled-off-result.webp" alt="معاينة — متى تظهر" loading="lazy" decoding="async"/> | «بعد ١٠ ثوانٍ» |
-| <img src="/coach-docs/assets/00-theme/12-exit/07-exit_delay-20-panel.webp" alt="لوحة إعدادات — متى تظهر" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/12-exit/01-exit_enabled-off-result.webp" alt="معاينة — متى تظهر" loading="lazy" decoding="async"/> | «بعد ٢٠ ثانية» |
-| <img src="/coach-docs/assets/00-theme/12-exit/07-exit_delay-30-panel.webp" alt="لوحة إعدادات — متى تظهر" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/12-exit/01-exit_enabled-off-result.webp" alt="معاينة — متى تظهر" loading="lazy" decoding="async"/> | «بعد ٣٠ ثانية» |
-| <img src="/coach-docs/assets/00-theme/12-exit/07-exit_delay-60-panel.webp" alt="لوحة إعدادات — متى تظهر" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/12-exit/01-exit_enabled-off-result.webp" alt="معاينة — متى تظهر" loading="lazy" decoding="async"/> | «بعد دقيقة» |
+| <img src="/coach-docs/assets/00-theme/12-exit/07-exit_delay-3-panel.webp" alt="لوحة إعدادات — متى تظهر" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/12-exit/01-exit_enabled-off-result.webp" alt="معاينة — متى تظهر" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية؛ لا تُظهر الحالة الفعلية لهذا الخيار.</small> | «بعد ٣ ثوانٍ» |
+| <img src="/coach-docs/assets/00-theme/12-exit/07-exit_delay-5-panel.webp" alt="لوحة إعدادات — متى تظهر" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/12-exit/07-exit_delay-5-result.webp" alt="معاينة — متى تظهر" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية؛ لا تُظهر الحالة الفعلية لهذا الخيار.</small> | «بعد ٥ ثوانٍ» |
+| <img src="/coach-docs/assets/00-theme/12-exit/07-exit_delay-10-panel.webp" alt="لوحة إعدادات — متى تظهر" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/12-exit/01-exit_enabled-off-result.webp" alt="معاينة — متى تظهر" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية؛ لا تُظهر الحالة الفعلية لهذا الخيار.</small> | «بعد ١٠ ثوانٍ» |
+| <img src="/coach-docs/assets/00-theme/12-exit/07-exit_delay-20-panel.webp" alt="لوحة إعدادات — متى تظهر" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/12-exit/01-exit_enabled-off-result.webp" alt="معاينة — متى تظهر" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية؛ لا تُظهر الحالة الفعلية لهذا الخيار.</small> | «بعد ٢٠ ثانية» |
+| <img src="/coach-docs/assets/00-theme/12-exit/07-exit_delay-30-panel.webp" alt="لوحة إعدادات — متى تظهر" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/12-exit/01-exit_enabled-off-result.webp" alt="معاينة — متى تظهر" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية؛ لا تُظهر الحالة الفعلية لهذا الخيار.</small> | «بعد ٣٠ ثانية» |
+| <img src="/coach-docs/assets/00-theme/12-exit/07-exit_delay-60-panel.webp" alt="لوحة إعدادات — متى تظهر" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/12-exit/01-exit_enabled-off-result.webp" alt="معاينة — متى تظهر" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية؛ لا تُظهر الحالة الفعلية لهذا الخيار.</small> | «بعد دقيقة» |
 
 ---
 > ملاحظات البناء: لم يُعثر على النص لتمييزه: 01-exit_enabled-off-result.webp · لم يُعثر على النص لتمييزه: 01-exit_enabled-off-result.webp · لم يُعثر على النص لتمييزه: 01-exit_enabled-off-result.webp · لم يُعثر على النص لتمييزه: 01-exit_enabled-off-result.webp

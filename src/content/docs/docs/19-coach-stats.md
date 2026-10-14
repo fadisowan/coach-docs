@@ -36,7 +36,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/19-coach-stats/01-style-light-panel.webp" alt="لوحة إعدادات — الشكل" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/19-coach-stats/00-desktop.webp" alt="معاينة — الشكل" loading="lazy" decoding="async"/> | «بطاقة فاتحة بفواصل بين الأرقام» |
+| <img src="/coach-docs/assets/sections/19-coach-stats/01-style-light-panel.webp" alt="لوحة إعدادات — الشكل" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/19-coach-stats/00-desktop.webp" alt="معاينة — الشكل" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «بطاقة فاتحة بفواصل بين الأرقام» |
 | <img src="/coach-docs/assets/sections/19-coach-stats/01-style-plain-panel.webp" alt="لوحة إعدادات — الشكل" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/19-coach-stats/01-style-plain-result.webp" alt="معاينة — الشكل" loading="lazy" decoding="async"/> | «الأرقام على خلفية الصفحة بلا بطاقة» |
 | <img src="/coach-docs/assets/sections/19-coach-stats/01-style-primary-panel.webp" alt="لوحة إعدادات — الشكل" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/19-coach-stats/01-style-primary-result.webp" alt="معاينة — الشكل" loading="lazy" decoding="async"/> | «لوحة باللون الأساسي» |
 
@@ -49,7 +49,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/19-coach-stats/02-items-panel.webp" alt="لوحة إعدادات — الأرقام" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/19-coach-stats/02-items-result.webp" alt="معاينة — الأرقام" loading="lazy" decoding="async"/> | أول عنصر محاط بإطار برتقالي |
+| <img src="/coach-docs/assets/sections/19-coach-stats/02-items-panel.webp" alt="لوحة إعدادات — الأرقام" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/19-coach-stats/02-items-result.webp" alt="معاينة — الأرقام" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | أول عنصر محاط بإطار برتقالي |
 
 #### «الرقم»
 
@@ -60,7 +60,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/19-coach-stats/02-items-value-panel.webp" alt="لوحة إعدادات — الأرقام" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/19-coach-stats/02-items-result.webp" alt="معاينة — الأرقام" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/19-coach-stats/02-items-value-panel.webp" alt="لوحة إعدادات — الأرقام" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/19-coach-stats/02-items-result.webp" alt="معاينة — الأرقام" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 #### «قبله (اختياري)»
 
@@ -70,7 +70,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/19-coach-stats/02-items-prefix-panel.webp" alt="لوحة إعدادات — الأرقام" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/19-coach-stats/02-items-result.webp" alt="معاينة — الأرقام" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/19-coach-stats/02-items-prefix-panel.webp" alt="لوحة إعدادات — الأرقام" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/19-coach-stats/02-items-result.webp" alt="معاينة — الأرقام" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 #### «بعده (اختياري)»
 
@@ -80,7 +80,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/19-coach-stats/02-items-suffix-panel.webp" alt="لوحة إعدادات — الأرقام" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/19-coach-stats/02-items-result.webp" alt="معاينة — الأرقام" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/19-coach-stats/02-items-suffix-panel.webp" alt="لوحة إعدادات — الأرقام" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/19-coach-stats/02-items-result.webp" alt="معاينة — الأرقام" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 #### «الوصف»
 
@@ -90,7 +90,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/19-coach-stats/02-items-label-panel.webp" alt="لوحة إعدادات — الأرقام" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/19-coach-stats/02-items-result.webp" alt="معاينة — الأرقام" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/19-coach-stats/02-items-label-panel.webp" alt="لوحة إعدادات — الأرقام" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/19-coach-stats/02-items-result.webp" alt="معاينة — الأرقام" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 #### «الأيقونة (اختيارية)»
 
@@ -100,7 +100,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/19-coach-stats/02-items-icon-panel.webp" alt="لوحة إعدادات — الأرقام" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/19-coach-stats/02-items-result.webp" alt="معاينة — الأرقام" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/19-coach-stats/02-items-icon-panel.webp" alt="لوحة إعدادات — الأرقام" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/19-coach-stats/02-items-result.webp" alt="معاينة — الأرقام" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 ### «لون اللوحة»
 

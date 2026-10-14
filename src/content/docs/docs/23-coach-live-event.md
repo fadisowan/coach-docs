@@ -52,7 +52,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/23-coach-live-event/01-product-panel.webp" alt="لوحة إعدادات — منتج التذكرة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/23-coach-live-event/00-desktop.webp" alt="معاينة — منتج التذكرة" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/23-coach-live-event/01-product-panel.webp" alt="لوحة إعدادات — منتج التذكرة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/23-coach-live-event/00-desktop.webp" alt="معاينة — منتج التذكرة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «الشارة»
 
@@ -97,7 +97,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/23-coach-live-event/05-date-panel.webp" alt="لوحة إعدادات — موعد اللقاء" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/23-coach-live-event/00-desktop.webp" alt="معاينة — موعد اللقاء" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/23-coach-live-event/05-date-panel.webp" alt="لوحة إعدادات — موعد اللقاء" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/23-coach-live-event/00-desktop.webp" alt="معاينة — موعد اللقاء" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «الوقت كما يظهر (اختياري)»
 
@@ -143,7 +143,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/23-coach-live-event/09-total_seats-panel.webp" alt="لوحة إعدادات — إجمالي المقاعد" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/23-coach-live-event/00-desktop.webp" alt="معاينة — إجمالي المقاعد" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/23-coach-live-event/09-total_seats-panel.webp" alt="لوحة إعدادات — إجمالي المقاعد" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/23-coach-live-event/00-desktop.webp" alt="معاينة — إجمالي المقاعد" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «نص زر الإضافة للسلة»
 
@@ -155,7 +155,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/23-coach-live-event/10-button_label-panel.webp" alt="لوحة إعدادات — نص زر الإضافة للسلة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/23-coach-live-event/00-desktop.webp" alt="معاينة — نص زر الإضافة للسلة" loading="lazy" decoding="async"/> | مكانه في القسم محاط بإطار برتقالي |
+| <img src="/coach-docs/assets/sections/23-coach-live-event/10-button_label-panel.webp" alt="لوحة إعدادات — نص زر الإضافة للسلة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/23-coach-live-event/00-desktop.webp" alt="معاينة — نص زر الإضافة للسلة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | مكانه في القسم محاط بإطار برتقالي |
 
 ### «صورة اللقاء»
 
@@ -179,7 +179,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/23-coach-live-event/12-image_tag-panel.webp" alt="لوحة إعدادات — وسم على الصورة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/23-coach-live-event/00-desktop.webp" alt="معاينة — وسم على الصورة" loading="lazy" decoding="async"/> | النتيجة بنص تجريبي «مثال لنصّك هنا» |
+| <img src="/coach-docs/assets/sections/23-coach-live-event/12-image_tag-panel.webp" alt="لوحة إعدادات — وسم على الصورة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/23-coach-live-event/00-desktop.webp" alt="معاينة — وسم على الصورة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة بنص تجريبي «مثال لنصّك هنا» |
 
 ### «التفاصيل»
 
@@ -202,7 +202,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/23-coach-live-event/14-agenda-panel.webp" alt="لوحة إعدادات — جدول اللقاء" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/23-coach-live-event/00-desktop.webp" alt="معاينة — جدول اللقاء" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/23-coach-live-event/14-agenda-panel.webp" alt="لوحة إعدادات — جدول اللقاء" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/23-coach-live-event/00-desktop.webp" alt="معاينة — جدول اللقاء" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 #### «الوقت»
 
@@ -212,7 +212,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/23-coach-live-event/14-agenda-time-panel.webp" alt="لوحة إعدادات — جدول اللقاء" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/23-coach-live-event/00-desktop.webp" alt="معاينة — جدول اللقاء" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/23-coach-live-event/14-agenda-time-panel.webp" alt="لوحة إعدادات — جدول اللقاء" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/23-coach-live-event/00-desktop.webp" alt="معاينة — جدول اللقاء" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 #### «البند»
 
@@ -222,7 +222,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/23-coach-live-event/14-agenda-item-panel.webp" alt="لوحة إعدادات — جدول اللقاء" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/23-coach-live-event/00-desktop.webp" alt="معاينة — جدول اللقاء" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/23-coach-live-event/14-agenda-item-panel.webp" alt="لوحة إعدادات — جدول اللقاء" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/23-coach-live-event/00-desktop.webp" alt="معاينة — جدول اللقاء" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 ### «نص زر التفاصيل»
 
@@ -234,7 +234,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/23-coach-live-event/15-details_label-panel.webp" alt="لوحة إعدادات — نص زر التفاصيل" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/23-coach-live-event/00-desktop.webp" alt="معاينة — نص زر التفاصيل" loading="lazy" decoding="async"/> | النتيجة بنص تجريبي «مثال لنصّك هنا» |
+| <img src="/coach-docs/assets/sections/23-coach-live-event/15-details_label-panel.webp" alt="لوحة إعدادات — نص زر التفاصيل" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/23-coach-live-event/00-desktop.webp" alt="معاينة — نص زر التفاصيل" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة بنص تجريبي «مثال لنصّك هنا» |
 
 ### «السعر شريطاً على حافة البطاقة»
 
@@ -258,7 +258,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/23-coach-live-event/17-fx_motion-panel.webp" alt="لوحة إعدادات — خلفية متحركة بالألوان" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/23-coach-live-event/17-fx_motion-on-result.webp" alt="معاينة — خلفية متحركة بالألوان" loading="lazy" decoding="async"/> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
+| <img src="/coach-docs/assets/sections/23-coach-live-event/17-fx_motion-panel.webp" alt="لوحة إعدادات — خلفية متحركة بالألوان" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/23-coach-live-event/17-fx_motion-on-result.webp" alt="معاينة — خلفية متحركة بالألوان" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
 
 ### «سرعة الحركة»
 
@@ -282,7 +282,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/23-coach-live-event/19-fx_palette-theme-panel.webp" alt="لوحة إعدادات — ألوان الخلفية المتحركة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/23-coach-live-event/17-fx_motion-on-result.webp" alt="معاينة — ألوان الخلفية المتحركة" loading="lazy" decoding="async"/> | «ألوان الثيم» |
+| <img src="/coach-docs/assets/sections/23-coach-live-event/19-fx_palette-theme-panel.webp" alt="لوحة إعدادات — ألوان الخلفية المتحركة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/23-coach-live-event/17-fx_motion-on-result.webp" alt="معاينة — ألوان الخلفية المتحركة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «ألوان الثيم» |
 | <img src="/coach-docs/assets/sections/23-coach-live-event/19-fx_palette-night-panel.webp" alt="لوحة إعدادات — ألوان الخلفية المتحركة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/23-coach-live-event/19-fx_palette-night-result.webp" alt="معاينة — ألوان الخلفية المتحركة" loading="lazy" decoding="async"/> | «ليلي» |
 | <img src="/coach-docs/assets/sections/23-coach-live-event/19-fx_palette-warm-panel.webp" alt="لوحة إعدادات — ألوان الخلفية المتحركة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/23-coach-live-event/19-fx_palette-warm-result.webp" alt="معاينة — ألوان الخلفية المتحركة" loading="lazy" decoding="async"/> | «دافئ» |
 

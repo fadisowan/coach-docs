@@ -38,7 +38,7 @@ const server = remote ? null : http.createServer((req,res) => {
     assert.ok(await page.locator('#starlight__sidebar').evaluate(el=>el.matches(':popover-open')));
     await page.keyboard.press('Escape');
     const nav=JSON.parse(fs.readFileSync('data.json','utf8'));
-    for (const slug of ['', 'components/', 'settings/', ...nav.map(x=>'docs/'+x.slug+'/')]) {
+    for (const slug of ['', 'components/', 'settings/', 'preview-status/', ...nav.map(x=>'docs/'+x.slug+'/')]) {
       assert.equal((await page.goto(base+slug)).status(),200,slug);
       assert.equal(await page.locator('html').getAttribute('dir'),'rtl');
       assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1),'Mobile overflow '+slug);
@@ -70,6 +70,11 @@ const server = remote ? null : http.createServer((req,res) => {
     await page.locator('.pagefind-ui__search-input').fill('اللون');
     await page.locator('.pagefind-ui__result-link').first().waitFor();
     await page.keyboard.press('Escape');
+    await page.goto(base+'docs/08-product/');
+    const rejected=page.locator('.preview-rejected');
+    assert.equal(await rejected.count(),1);
+    assert.equal(await rejected.evaluate(el=>el.open),false);
+    assert.equal(await rejected.locator('img[src$="/08-imagezoom-on-result.webp"]').count(),1);
     const assets=fs.readdirSync('assets',{recursive:true}).filter(x=>x.endsWith('.webp'));
     for(let i=0;i<assets.length;i+=24) {
       const results=await page.evaluate(async urls=>Promise.all(urls.map(url=>new Promise(resolve=>{let img=new Image();img.onload=()=>resolve(img.naturalWidth>0);img.onerror=()=>resolve(false);img.src=url;}))),assets.slice(i,i+24).map(x=>base+'assets/'+x.replaceAll('\\','/')));
@@ -80,6 +85,6 @@ const server = remote ? null : http.createServer((req,res) => {
     await page.goto(base+'docs/01-colors/');
     await page.screenshot({path:'../starlight-dark.png'});
     assert.deepEqual(errors,[]);
-    console.log(JSON.stringify({base,pages:66,components:48,settingsAndShared:15,decodedImages:assets.length,missingImages:0,searchArabic:true,searchSettingId:true,mobileOverflow:false,lightbox:true,consoleErrors:errors}));
+    console.log(JSON.stringify({base,pages:67,components:48,settingsAndShared:15,decodedImages:assets.length,missingImages:0,searchArabic:true,searchSettingId:true,mobileOverflow:false,lightbox:true,consoleErrors:errors}));
   }finally{await browser.close();server?.close();}
 })().catch(error=>{console.error(error);server?.close();process.exitCode=1;});

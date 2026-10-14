@@ -78,7 +78,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/39-coach-reels/04-reels-panel.webp" alt="لوحة إعدادات — المقاطع (منتج كل مقطع في الحقل التالي)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/39-coach-reels/04-reels-result.webp" alt="معاينة — المقاطع (منتج كل مقطع في الحقل التالي)" loading="lazy" decoding="async"/> | أول عنصر محاط بإطار برتقالي |
+| <img src="/coach-docs/assets/sections/39-coach-reels/04-reels-panel.webp" alt="لوحة إعدادات — المقاطع (منتج كل مقطع في الحقل التالي)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/39-coach-reels/04-reels-result.webp" alt="معاينة — المقاطع (منتج كل مقطع في الحقل التالي)" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | أول عنصر محاط بإطار برتقالي |
 
 #### «صورة الغلاف (عمودية ٩:١٥)»
 
@@ -89,7 +89,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/39-coach-reels/04-reels-cover-panel.webp" alt="لوحة إعدادات — المقاطع (منتج كل مقطع في الحقل التالي)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/39-coach-reels/04-reels-result.webp" alt="معاينة — المقاطع (منتج كل مقطع في الحقل التالي)" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/39-coach-reels/04-reels-cover-panel.webp" alt="لوحة إعدادات — المقاطع (منتج كل مقطع في الحقل التالي)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/39-coach-reels/04-reels-result.webp" alt="معاينة — المقاطع (منتج كل مقطع في الحقل التالي)" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 #### «رابط الفيديو»
 
@@ -100,7 +100,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/39-coach-reels/04-reels-video_url-panel.webp" alt="لوحة إعدادات — المقاطع (منتج كل مقطع في الحقل التالي)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/39-coach-reels/04-reels-result.webp" alt="معاينة — المقاطع (منتج كل مقطع في الحقل التالي)" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/39-coach-reels/04-reels-video_url-panel.webp" alt="لوحة إعدادات — المقاطع (منتج كل مقطع في الحقل التالي)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/39-coach-reels/04-reels-result.webp" alt="معاينة — المقاطع (منتج كل مقطع في الحقل التالي)" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 #### «العنوان»
 
@@ -110,7 +110,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/39-coach-reels/04-reels-title-panel.webp" alt="لوحة إعدادات — المقاطع (منتج كل مقطع في الحقل التالي)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/39-coach-reels/04-reels-result.webp" alt="معاينة — المقاطع (منتج كل مقطع في الحقل التالي)" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/39-coach-reels/04-reels-title-panel.webp" alt="لوحة إعدادات — المقاطع (منتج كل مقطع في الحقل التالي)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/39-coach-reels/04-reels-result.webp" alt="معاينة — المقاطع (منتج كل مقطع في الحقل التالي)" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 #### «المدة»
 
@@ -120,7 +120,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/39-coach-reels/04-reels-duration-panel.webp" alt="لوحة إعدادات — المقاطع (منتج كل مقطع في الحقل التالي)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/39-coach-reels/04-reels-result.webp" alt="معاينة — المقاطع (منتج كل مقطع في الحقل التالي)" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/39-coach-reels/04-reels-duration-panel.webp" alt="لوحة إعدادات — المقاطع (منتج كل مقطع في الحقل التالي)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/39-coach-reels/04-reels-result.webp" alt="معاينة — المقاطع (منتج كل مقطع في الحقل التالي)" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 #### «المشاهدات (اختياري)»
 
@@ -130,7 +130,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/39-coach-reels/04-reels-views-panel.webp" alt="لوحة إعدادات — المقاطع (منتج كل مقطع في الحقل التالي)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/39-coach-reels/04-reels-result.webp" alt="معاينة — المقاطع (منتج كل مقطع في الحقل التالي)" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/39-coach-reels/04-reels-views-panel.webp" alt="لوحة إعدادات — المقاطع (منتج كل مقطع في الحقل التالي)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/39-coach-reels/04-reels-result.webp" alt="معاينة — المقاطع (منتج كل مقطع في الحقل التالي)" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 ### «منتجات المقاطع (بنفس الترتيب)»
 
@@ -142,7 +142,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/39-coach-reels/05-products-panel.webp" alt="لوحة إعدادات — منتجات المقاطع (بنفس الترتيب)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/39-coach-reels/00-desktop.webp" alt="معاينة — منتجات المقاطع (بنفس الترتيب)" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/39-coach-reels/05-products-panel.webp" alt="لوحة إعدادات — منتجات المقاطع (بنفس الترتيب)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/39-coach-reels/00-desktop.webp" alt="معاينة — منتجات المقاطع (بنفس الترتيب)" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 
 <div class="source-note">صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>

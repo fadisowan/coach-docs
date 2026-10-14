@@ -37,7 +37,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/31-coach-carousel/01-frame-panel-panel.webp" alt="لوحة إعدادات — إطار الشريط" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/31-coach-carousel/00-desktop.webp" alt="معاينة — إطار الشريط" loading="lazy" decoding="async"/> | «بخلفية وإطار» |
+| <img src="/coach-docs/assets/sections/31-coach-carousel/01-frame-panel-panel.webp" alt="لوحة إعدادات — إطار الشريط" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/31-coach-carousel/00-desktop.webp" alt="معاينة — إطار الشريط" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «بخلفية وإطار» |
 | <img src="/coach-docs/assets/sections/31-coach-carousel/01-frame-plain-panel.webp" alt="لوحة إعدادات — إطار الشريط" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/31-coach-carousel/01-frame-plain-result.webp" alt="معاينة — إطار الشريط" loading="lazy" decoding="async"/> | «بلا خلفية ولا إطار» |
 
 ### «العنوان الصغير (فوق العنوان)»
@@ -84,7 +84,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/31-coach-carousel/05-source-selected-panel.webp" alt="لوحة إعدادات — مصدر المنتجات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/31-coach-carousel/00-desktop.webp" alt="معاينة — مصدر المنتجات" loading="lazy" decoding="async"/> | «منتجات أختارها» |
+| <img src="/coach-docs/assets/sections/31-coach-carousel/05-source-selected-panel.webp" alt="لوحة إعدادات — مصدر المنتجات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/31-coach-carousel/00-desktop.webp" alt="معاينة — مصدر المنتجات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «منتجات أختارها» |
 | <img src="/coach-docs/assets/sections/31-coach-carousel/05-source-latest-panel.webp" alt="لوحة إعدادات — مصدر المنتجات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/31-coach-carousel/05-source-latest-result.webp" alt="معاينة — مصدر المنتجات" loading="lazy" decoding="async"/> | «الأحدث» |
 | <img src="/coach-docs/assets/sections/31-coach-carousel/05-source-sales-panel.webp" alt="لوحة إعدادات — مصدر المنتجات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/31-coach-carousel/05-source-sales-result.webp" alt="معاينة — مصدر المنتجات" loading="lazy" decoding="async"/> | «الأكثر مبيعاً» |
 | <img src="/coach-docs/assets/sections/31-coach-carousel/05-source-categories-panel.webp" alt="لوحة إعدادات — مصدر المنتجات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/31-coach-carousel/05-source-categories-result.webp" alt="معاينة — مصدر المنتجات" loading="lazy" decoding="async"/> | «من تصنيفات محددة» |
@@ -100,7 +100,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/31-coach-carousel/06-products-panel.webp" alt="لوحة إعدادات — المنتجات (بالترتيب)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/31-coach-carousel/00-desktop.webp" alt="معاينة — المنتجات (بالترتيب)" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/31-coach-carousel/06-products-panel.webp" alt="لوحة إعدادات — المنتجات (بالترتيب)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/31-coach-carousel/00-desktop.webp" alt="معاينة — المنتجات (بالترتيب)" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «التصنيفات»
 
@@ -113,7 +113,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/31-coach-carousel/07-categories-panel.webp" alt="لوحة إعدادات — التصنيفات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/31-coach-carousel/00-desktop.webp" alt="معاينة — التصنيفات" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/31-coach-carousel/07-categories-panel.webp" alt="لوحة إعدادات — التصنيفات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/31-coach-carousel/00-desktop.webp" alt="معاينة — التصنيفات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «عدد المنتجات (٣–١٢)»
 
@@ -125,7 +125,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/31-coach-carousel/08-limit-panel.webp" alt="لوحة إعدادات — عدد المنتجات (٣–١٢)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/31-coach-carousel/00-desktop.webp" alt="معاينة — عدد المنتجات (٣–١٢)" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/31-coach-carousel/08-limit-panel.webp" alt="لوحة إعدادات — عدد المنتجات (٣–١٢)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/31-coach-carousel/00-desktop.webp" alt="معاينة — عدد المنتجات (٣–١٢)" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «نص زر الإضافة للسلة»
 
@@ -137,7 +137,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/31-coach-carousel/09-button_label-panel.webp" alt="لوحة إعدادات — نص زر الإضافة للسلة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/31-coach-carousel/00-desktop.webp" alt="معاينة — نص زر الإضافة للسلة" loading="lazy" decoding="async"/> | مكانه في القسم محاط بإطار برتقالي |
+| <img src="/coach-docs/assets/sections/31-coach-carousel/09-button_label-panel.webp" alt="لوحة إعدادات — نص زر الإضافة للسلة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/31-coach-carousel/00-desktop.webp" alt="معاينة — نص زر الإضافة للسلة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | مكانه في القسم محاط بإطار برتقالي |
 
 ### «تحريك تلقائي»
 
@@ -149,7 +149,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/31-coach-carousel/10-autoplay-panel.webp" alt="لوحة إعدادات — تحريك تلقائي" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/31-coach-carousel/00-desktop.webp" alt="معاينة — تحريك تلقائي" loading="lazy" decoding="async"/> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
+| <img src="/coach-docs/assets/sections/31-coach-carousel/10-autoplay-panel.webp" alt="لوحة إعدادات — تحريك تلقائي" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/31-coach-carousel/00-desktop.webp" alt="معاينة — تحريك تلقائي" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
 
 ### «المدة بين الحركات (٢–١٠ ثوانٍ)»
 
@@ -161,7 +161,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/31-coach-carousel/11-interval-panel.webp" alt="لوحة إعدادات — المدة بين الحركات (٢–١٠ ثوانٍ)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/31-coach-carousel/00-desktop.webp" alt="معاينة — المدة بين الحركات (٢–١٠ ثوانٍ)" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/31-coach-carousel/11-interval-panel.webp" alt="لوحة إعدادات — المدة بين الحركات (٢–١٠ ثوانٍ)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/31-coach-carousel/00-desktop.webp" alt="معاينة — المدة بين الحركات (٢–١٠ ثوانٍ)" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 
 <div class="source-note">صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>

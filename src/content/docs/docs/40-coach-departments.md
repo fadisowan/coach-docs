@@ -77,7 +77,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/40-coach-departments/04-rows-panel.webp" alt="لوحة إعدادات — الأقسام" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/40-coach-departments/04-rows-result.webp" alt="معاينة — الأقسام" loading="lazy" decoding="async"/> | أول عنصر محاط بإطار برتقالي |
+| <img src="/coach-docs/assets/sections/40-coach-departments/04-rows-panel.webp" alt="لوحة إعدادات — الأقسام" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/40-coach-departments/04-rows-result.webp" alt="معاينة — الأقسام" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | أول عنصر محاط بإطار برتقالي |
 
 #### «اسم القسم»
 
@@ -87,7 +87,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/40-coach-departments/04-rows-title-panel.webp" alt="لوحة إعدادات — الأقسام" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/40-coach-departments/04-rows-result.webp" alt="معاينة — الأقسام" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/40-coach-departments/04-rows-title-panel.webp" alt="لوحة إعدادات — الأقسام" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/40-coach-departments/04-rows-result.webp" alt="معاينة — الأقسام" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 #### «الوصف»
 
@@ -97,7 +97,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/40-coach-departments/04-rows-description-panel.webp" alt="لوحة إعدادات — الأقسام" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/40-coach-departments/04-rows-result.webp" alt="معاينة — الأقسام" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/40-coach-departments/04-rows-description-panel.webp" alt="لوحة إعدادات — الأقسام" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/40-coach-departments/04-rows-result.webp" alt="معاينة — الأقسام" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 #### «العدد كما يظهر (اختياري)»
 
@@ -107,7 +107,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/40-coach-departments/04-rows-count-panel.webp" alt="لوحة إعدادات — الأقسام" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/40-coach-departments/04-rows-result.webp" alt="معاينة — الأقسام" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/40-coach-departments/04-rows-count-panel.webp" alt="لوحة إعدادات — الأقسام" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/40-coach-departments/04-rows-result.webp" alt="معاينة — الأقسام" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 #### «الرابط»
 
@@ -118,7 +118,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/40-coach-departments/04-rows-link-panel.webp" alt="لوحة إعدادات — الأقسام" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/40-coach-departments/04-rows-result.webp" alt="معاينة — الأقسام" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/40-coach-departments/04-rows-link-panel.webp" alt="لوحة إعدادات — الأقسام" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/40-coach-departments/04-rows-result.webp" alt="معاينة — الأقسام" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 #### «صورة القسم (اختيارية)»
 
@@ -129,7 +129,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/40-coach-departments/04-rows-image-panel.webp" alt="لوحة إعدادات — الأقسام" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/40-coach-departments/04-rows-result.webp" alt="معاينة — الأقسام" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/40-coach-departments/04-rows-image-panel.webp" alt="لوحة إعدادات — الأقسام" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/40-coach-departments/04-rows-result.webp" alt="معاينة — الأقسام" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 
 <div class="source-note">صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>

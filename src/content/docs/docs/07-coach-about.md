@@ -72,7 +72,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/07-coach-about/04-timeline-panel.webp" alt="لوحة إعدادات — المحطات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/07-coach-about/04-timeline-result.webp" alt="معاينة — المحطات" loading="lazy" decoding="async"/> | أول عنصر محاط بإطار برتقالي |
+| <img src="/coach-docs/assets/sections/07-coach-about/04-timeline-panel.webp" alt="لوحة إعدادات — المحطات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/07-coach-about/04-timeline-result.webp" alt="معاينة — المحطات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | أول عنصر محاط بإطار برتقالي |
 
 #### «السنة»
 
@@ -82,7 +82,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/07-coach-about/04-timeline-year-panel.webp" alt="لوحة إعدادات — المحطات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/07-coach-about/04-timeline-result.webp" alt="معاينة — المحطات" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/07-coach-about/04-timeline-year-panel.webp" alt="لوحة إعدادات — المحطات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/07-coach-about/04-timeline-result.webp" alt="معاينة — المحطات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 #### «العنوان»
 
@@ -92,7 +92,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/07-coach-about/04-timeline-title-panel.webp" alt="لوحة إعدادات — المحطات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/07-coach-about/04-timeline-result.webp" alt="معاينة — المحطات" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/07-coach-about/04-timeline-title-panel.webp" alt="لوحة إعدادات — المحطات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/07-coach-about/04-timeline-result.webp" alt="معاينة — المحطات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 #### «سطر تحته»
 
@@ -102,7 +102,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/07-coach-about/04-timeline-description-panel.webp" alt="لوحة إعدادات — المحطات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/07-coach-about/04-timeline-result.webp" alt="معاينة — المحطات" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/07-coach-about/04-timeline-description-panel.webp" alt="لوحة إعدادات — المحطات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/07-coach-about/04-timeline-result.webp" alt="معاينة — المحطات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 #### «محطة مميّزة (نقطة مشمشية)»
 
@@ -112,7 +112,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/07-coach-about/04-timeline-highlight-panel.webp" alt="لوحة إعدادات — المحطات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/07-coach-about/04-timeline-result.webp" alt="معاينة — المحطات" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/07-coach-about/04-timeline-highlight-panel.webp" alt="لوحة إعدادات — المحطات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/07-coach-about/04-timeline-result.webp" alt="معاينة — المحطات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 ### «رقم الخبرة»
 
@@ -182,7 +182,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/07-coach-about/10-button_link-panel.webp" alt="لوحة إعدادات — صفحة الزر" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/07-coach-about/00-desktop.webp" alt="معاينة — صفحة الزر" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/07-coach-about/10-button_link-panel.webp" alt="لوحة إعدادات — صفحة الزر" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/07-coach-about/00-desktop.webp" alt="معاينة — صفحة الزر" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «تثبيت الجزء الجانبي أثناء التمرير»
 

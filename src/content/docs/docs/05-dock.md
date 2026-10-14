@@ -10,6 +10,11 @@ editUrl: false
 
 النتيجة مصوّرة على الصفحة الرئيسية.
 
+<!-- preview-audit -->
+:::caution[حدود المعاينات المتاحة]
+صور النتيجة تعرض الصفحة على الكمبيوتر ولا تُظهر شريط التنقل السفلي للجوال. لوحات الخيارات موجودة، لكن معاينة الشريط الفعلية تحتاج تصويرًا جديدًا.
+:::
+
 | النتيجة الافتراضية |
 |---|
 | <img src="/coach-docs/assets/00-theme/05-dock/00-default-result.webp" alt="معاينة — ٥ · شريط الجوال السفلي — الأزرار والبحث والزر البارز" loading="lazy" decoding="async"/> |
@@ -41,9 +46,9 @@ editUrl: false
 - **حين يكون فارغاً:** مطفأ (الافتراضي): لا شريط ولا ملف إضافي يُحمَّل، والمتجر كما هو تماماً.
 - شرحه تحت الحقل في المحرّر: للجوال فقط: الرئيسية، الأقسام، البحث، السلة بعددها، حسابي. يظهر في المعاينة بعد الحفظ.
 
-| اللوحة (نسخة مطابقة) | النتيجة | |
+| اللوحة (نسخة مطابقة) | المعاينة المرجعية المتاحة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/05-dock/01-mobile_dock_enabled-panel.webp" alt="لوحة إعدادات — شريط تنقّل سفلي للجوال" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/05-dock/00-default-result.webp" alt="معاينة — شريط تنقّل سفلي للجوال" loading="lazy" decoding="async"/> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
+| <img src="/coach-docs/assets/00-theme/05-dock/01-mobile_dock_enabled-panel.webp" alt="لوحة إعدادات — شريط تنقّل سفلي للجوال" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/05-dock/00-default-result.webp" alt="معاينة — شريط تنقّل سفلي للجوال" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية؛ لا تُظهر الحالة الفعلية لهذا الخيار.</small> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
 
 ### «شكل الشريط السفلي»
 
@@ -53,10 +58,10 @@ editUrl: false
 - **يظهر في اللوحة فقط حين:** «شريط تنقّل سفلي للجوال» هو «مفعّل»
 - شرحه تحت الحقل في المحرّر: العائمة بأيقونة ونص، والممتدة بخط ثانوي فوق النشط.
 
-| اللوحة (نسخة مطابقة) | النتيجة | |
+| اللوحة (نسخة مطابقة) | المعاينة المرجعية المتاحة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/05-dock/02-mobile_dock_style-capsule-panel.webp" alt="لوحة إعدادات — شكل الشريط السفلي" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/05-dock/00-default-result.webp" alt="معاينة — شكل الشريط السفلي" loading="lazy" decoding="async"/> | «كبسولة عائمة» |
-| <img src="/coach-docs/assets/00-theme/05-dock/02-mobile_dock_style-line-panel.webp" alt="لوحة إعدادات — شكل الشريط السفلي" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/05-dock/00-default-result.webp" alt="معاينة — شكل الشريط السفلي" loading="lazy" decoding="async"/> | «شريط بعرض الشاشة» |
+| <img src="/coach-docs/assets/00-theme/05-dock/02-mobile_dock_style-capsule-panel.webp" alt="لوحة إعدادات — شكل الشريط السفلي" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/05-dock/00-default-result.webp" alt="معاينة — شكل الشريط السفلي" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية؛ لا تُظهر الحالة الفعلية لهذا الخيار.</small> | «كبسولة عائمة» |
+| <img src="/coach-docs/assets/00-theme/05-dock/02-mobile_dock_style-line-panel.webp" alt="لوحة إعدادات — شكل الشريط السفلي" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/05-dock/00-default-result.webp" alt="معاينة — شكل الشريط السفلي" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية؛ لا تُظهر الحالة الفعلية لهذا الخيار.</small> | «شريط بعرض الشاشة» |
 
 ### «البحث في الشريط السفلي»
 
@@ -67,9 +72,9 @@ editUrl: false
 - **يظهر في اللوحة فقط حين:** «شريط تنقّل سفلي للجوال» هو «مفعّل»
 - شرحه تحت الحقل في المحرّر: ولو أطفأت بحث الهيدر.
 
-| اللوحة (نسخة مطابقة) | النتيجة | |
+| اللوحة (نسخة مطابقة) | المعاينة المرجعية المتاحة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/05-dock/03-mobile_dock_search-panel.webp" alt="لوحة إعدادات — البحث في الشريط السفلي" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/05-dock/00-default-result.webp" alt="معاينة — البحث في الشريط السفلي" loading="lazy" decoding="async"/> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
+| <img src="/coach-docs/assets/00-theme/05-dock/03-mobile_dock_search-panel.webp" alt="لوحة إعدادات — البحث في الشريط السفلي" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/05-dock/00-default-result.webp" alt="معاينة — البحث في الشريط السفلي" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية؛ لا تُظهر الحالة الفعلية لهذا الخيار.</small> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
 
 ### ««حسابي» في الشريط السفلي»
 
@@ -80,9 +85,9 @@ editUrl: false
 - **يظهر في اللوحة فقط حين:** «شريط تنقّل سفلي للجوال» هو «مفعّل»
 - شرحه تحت الحقل في المحرّر: للمسجّل قائمة حسابه، وللزائر الدخول.
 
-| اللوحة (نسخة مطابقة) | النتيجة | |
+| اللوحة (نسخة مطابقة) | المعاينة المرجعية المتاحة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/05-dock/04-mobile_dock_account-panel.webp" alt="لوحة إعدادات — «حسابي» في الشريط السفلي" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/05-dock/00-default-result.webp" alt="معاينة — «حسابي» في الشريط السفلي" loading="lazy" decoding="async"/> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
+| <img src="/coach-docs/assets/00-theme/05-dock/04-mobile_dock_account-panel.webp" alt="لوحة إعدادات — «حسابي» في الشريط السفلي" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/05-dock/00-default-result.webp" alt="معاينة — «حسابي» في الشريط السفلي" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية؛ لا تُظهر الحالة الفعلية لهذا الخيار.</small> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
 
 ### «زر بارز في الشريط السفلي: نصّه (اختياري)»
 
@@ -93,9 +98,9 @@ editUrl: false
 - **يظهر في اللوحة فقط حين:** «شريط تنقّل سفلي للجوال» هو «مفعّل»
 - شرحه تحت الحقل في المحرّر: مثل «احجز». بلا نص أو رابط لا يظهر.
 
-| اللوحة (نسخة مطابقة) | النتيجة | |
+| اللوحة (نسخة مطابقة) | المعاينة المرجعية المتاحة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/05-dock/05-mobile_dock_cta_label-panel.webp" alt="لوحة إعدادات — زر بارز في الشريط السفلي: نصّه (اختياري)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/05-dock/00-default-result.webp" alt="معاينة — زر بارز في الشريط السفلي: نصّه (اختياري)" loading="lazy" decoding="async"/> | النتيجة بنص تجريبي «مثال لنصّك هنا» |
+| <img src="/coach-docs/assets/00-theme/05-dock/05-mobile_dock_cta_label-panel.webp" alt="لوحة إعدادات — زر بارز في الشريط السفلي: نصّه (اختياري)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/05-dock/00-default-result.webp" alt="معاينة — زر بارز في الشريط السفلي: نصّه (اختياري)" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية؛ لا تُظهر الحالة الفعلية لهذا الخيار.</small> | النتيجة بنص تجريبي «مثال لنصّك هنا» |
 
 ### «زر بارز في الشريط السفلي: رابطه»
 
@@ -106,9 +111,9 @@ editUrl: false
 - **يظهر في اللوحة فقط حين:** «شريط تنقّل سفلي للجوال» هو «مفعّل»
 - شرحه تحت الحقل في المحرّر: رابط أو #consult.
 
-| اللوحة (نسخة مطابقة) | النتيجة | |
+| اللوحة (نسخة مطابقة) | المعاينة المرجعية المتاحة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/05-dock/06-mobile_dock_cta_link-panel.webp" alt="لوحة إعدادات — زر بارز في الشريط السفلي: رابطه" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/05-dock/00-default-result.webp" alt="معاينة — زر بارز في الشريط السفلي: رابطه" loading="lazy" decoding="async"/> | النتيجة بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/00-theme/05-dock/06-mobile_dock_cta_link-panel.webp" alt="لوحة إعدادات — زر بارز في الشريط السفلي: رابطه" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/05-dock/00-default-result.webp" alt="معاينة — زر بارز في الشريط السفلي: رابطه" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية؛ لا تُظهر الحالة الفعلية لهذا الخيار.</small> | النتيجة بالقيمة الافتراضية |
 
 ### «إخفاء الشريط السفلي أثناء النزول»
 
@@ -119,9 +124,9 @@ editUrl: false
 - **يظهر في اللوحة فقط حين:** «شريط تنقّل سفلي للجوال» هو «مفعّل»
 - شرحه تحت الحقل في المحرّر: ثابت في السلة والمنتج ولـ«تقليل الحركة».
 
-| اللوحة (نسخة مطابقة) | النتيجة | |
+| اللوحة (نسخة مطابقة) | المعاينة المرجعية المتاحة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/05-dock/07-mobile_dock_hide-panel.webp" alt="لوحة إعدادات — إخفاء الشريط السفلي أثناء النزول" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/05-dock/00-default-result.webp" alt="معاينة — إخفاء الشريط السفلي أثناء النزول" loading="lazy" decoding="async"/> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
+| <img src="/coach-docs/assets/00-theme/05-dock/07-mobile_dock_hide-panel.webp" alt="لوحة إعدادات — إخفاء الشريط السفلي أثناء النزول" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/05-dock/00-default-result.webp" alt="معاينة — إخفاء الشريط السفلي أثناء النزول" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية؛ لا تُظهر الحالة الفعلية لهذا الخيار.</small> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
 
 ---
 > ملاحظات البناء: لم يُعثر على النص لتمييزه: 00-default-result.webp

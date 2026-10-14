@@ -10,6 +10,11 @@ editUrl: false
 
 النتيجة مصوّرة على الصفحة الرئيسية.
 
+<!-- preview-audit -->
+:::caution[حدود المعاينات المتاحة]
+الصورة المرفقة تعرض واجهة الصفحة الرئيسية وليست صفحة مقالة. شريط القراءة وصندوق الكاتب وبطاقة الدعوة موثّقة بلوحات الإعداد، لكن نتائجها الفعلية غير مصوّرة هنا.
+:::
+
 | النتيجة الافتراضية |
 |---|
 | <img src="/coach-docs/assets/00-theme/14-article/00-default-result.webp" alt="معاينة — ١٤ · صفحة المقالة — شريط القراءة، صندوق الكاتب، وبطاقة الدعوة" loading="lazy" decoding="async"/> |
@@ -33,18 +38,18 @@ editUrl: false
 - **النوع:** مفتاح تشغيل وإطفاء · **الافتراضي:** مطفأ · المعرّف `article_progress`
 - **ماذا يفعل:** خط رفيع أعلى الشاشة يمتلئ مع القراءة.
 
-| اللوحة (نسخة مطابقة) | النتيجة | |
+| اللوحة (نسخة مطابقة) | المعاينة المرجعية المتاحة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/14-article/01-article_progress-panel.webp" alt="لوحة إعدادات — شريط تقدّم القراءة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/14-article/00-default-result.webp" alt="معاينة — شريط تقدّم القراءة" loading="lazy" decoding="async"/> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
+| <img src="/coach-docs/assets/00-theme/14-article/01-article_progress-panel.webp" alt="لوحة إعدادات — شريط تقدّم القراءة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/14-article/00-default-result.webp" alt="معاينة — شريط تقدّم القراءة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية؛ لا تُظهر الحالة الفعلية لهذا الخيار.</small> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
 
 ### «صندوق الكاتب أسفل المقالة»
 
 - **النوع:** مفتاح تشغيل وإطفاء · **الافتراضي:** مطفأ · المعرّف `article_author_box`
 - **ماذا يفعل:** اسم الكاتب من سلة، مع الصورة والنبذة التاليتين.
 
-| اللوحة (نسخة مطابقة) | النتيجة | |
+| اللوحة (نسخة مطابقة) | المعاينة المرجعية المتاحة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/14-article/02-article_author_box-panel.webp" alt="لوحة إعدادات — صندوق الكاتب أسفل المقالة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/14-article/00-default-result.webp" alt="معاينة — صندوق الكاتب أسفل المقالة" loading="lazy" decoding="async"/> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
+| <img src="/coach-docs/assets/00-theme/14-article/02-article_author_box-panel.webp" alt="لوحة إعدادات — صندوق الكاتب أسفل المقالة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/14-article/00-default-result.webp" alt="معاينة — صندوق الكاتب أسفل المقالة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية؛ لا تُظهر الحالة الفعلية لهذا الخيار.</small> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
 
 ### «صندوق الكاتب: الصورة»
 
@@ -53,9 +58,9 @@ editUrl: false
 - **حين يكون فارغاً:** فارغة تُخفى
 - **يظهر في اللوحة فقط حين:** «صندوق الكاتب أسفل المقالة» هو «مفعّل»
 
-| اللوحة (نسخة مطابقة) | النتيجة | |
+| اللوحة (نسخة مطابقة) | المعاينة المرجعية المتاحة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/14-article/03-article_author_image-panel.webp" alt="لوحة إعدادات — صندوق الكاتب: الصورة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/14-article/00-default-result.webp" alt="معاينة — صندوق الكاتب: الصورة" loading="lazy" decoding="async"/> | النتيجة بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/00-theme/14-article/03-article_author_image-panel.webp" alt="لوحة إعدادات — صندوق الكاتب: الصورة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/14-article/00-default-result.webp" alt="معاينة — صندوق الكاتب: الصورة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية؛ لا تُظهر الحالة الفعلية لهذا الخيار.</small> | النتيجة بالقيمة الافتراضية |
 
 ### «صندوق الكاتب: النبذة»
 
@@ -64,18 +69,18 @@ editUrl: false
 - **حين يكون فارغاً:** فارغة تُخفى
 - **يظهر في اللوحة فقط حين:** «صندوق الكاتب أسفل المقالة» هو «مفعّل»
 
-| اللوحة (نسخة مطابقة) | النتيجة | |
+| اللوحة (نسخة مطابقة) | المعاينة المرجعية المتاحة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/14-article/04-article_author_bio-panel.webp" alt="لوحة إعدادات — صندوق الكاتب: النبذة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/14-article/00-default-result.webp" alt="معاينة — صندوق الكاتب: النبذة" loading="lazy" decoding="async"/> | النتيجة بنص تجريبي «مثال لنصّك هنا» |
+| <img src="/coach-docs/assets/00-theme/14-article/04-article_author_bio-panel.webp" alt="لوحة إعدادات — صندوق الكاتب: النبذة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/14-article/00-default-result.webp" alt="معاينة — صندوق الكاتب: النبذة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية؛ لا تُظهر الحالة الفعلية لهذا الخيار.</small> | النتيجة بنص تجريبي «مثال لنصّك هنا» |
 
 ### «بطاقة الدعوة أسفل المقالة»
 
 - **النوع:** مفتاح تشغيل وإطفاء · **الافتراضي:** مطفأ · المعرّف `article_cta`
 - **ماذا يفعل:** عنوان ونص وزران يقودان لبرنامج أو استشارة.
 
-| اللوحة (نسخة مطابقة) | النتيجة | |
+| اللوحة (نسخة مطابقة) | المعاينة المرجعية المتاحة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/14-article/05-article_cta-panel.webp" alt="لوحة إعدادات — بطاقة الدعوة أسفل المقالة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/14-article/00-default-result.webp" alt="معاينة — بطاقة الدعوة أسفل المقالة" loading="lazy" decoding="async"/> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
+| <img src="/coach-docs/assets/00-theme/14-article/05-article_cta-panel.webp" alt="لوحة إعدادات — بطاقة الدعوة أسفل المقالة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/14-article/00-default-result.webp" alt="معاينة — بطاقة الدعوة أسفل المقالة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية؛ لا تُظهر الحالة الفعلية لهذا الخيار.</small> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
 
 ### «بطاقة الدعوة: العنوان»
 
@@ -83,9 +88,9 @@ editUrl: false
 - **ماذا يفعل:** سطر قصير.
 - **يظهر في اللوحة فقط حين:** «بطاقة الدعوة أسفل المقالة» هو «مفعّل»
 
-| اللوحة (نسخة مطابقة) | النتيجة | |
+| اللوحة (نسخة مطابقة) | المعاينة المرجعية المتاحة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/14-article/06-article_cta_title-panel.webp" alt="لوحة إعدادات — بطاقة الدعوة: العنوان" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/14-article/00-default-result.webp" alt="معاينة — بطاقة الدعوة: العنوان" loading="lazy" decoding="async"/> | مكانه محاط بإطار برتقالي |
+| <img src="/coach-docs/assets/00-theme/14-article/06-article_cta_title-panel.webp" alt="لوحة إعدادات — بطاقة الدعوة: العنوان" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/14-article/00-default-result.webp" alt="معاينة — بطاقة الدعوة: العنوان" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية؛ لا تُظهر الحالة الفعلية لهذا الخيار.</small> | مكانه محاط بإطار برتقالي |
 
 ### «بطاقة الدعوة: النص»
 
@@ -94,9 +99,9 @@ editUrl: false
 - **حين يكون فارغاً:** فارغاً يُخفى
 - **يظهر في اللوحة فقط حين:** «بطاقة الدعوة أسفل المقالة» هو «مفعّل»
 
-| اللوحة (نسخة مطابقة) | النتيجة | |
+| اللوحة (نسخة مطابقة) | المعاينة المرجعية المتاحة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/14-article/07-article_cta_text-panel.webp" alt="لوحة إعدادات — بطاقة الدعوة: النص" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/14-article/00-default-result.webp" alt="معاينة — بطاقة الدعوة: النص" loading="lazy" decoding="async"/> | مكانه محاط بإطار برتقالي |
+| <img src="/coach-docs/assets/00-theme/14-article/07-article_cta_text-panel.webp" alt="لوحة إعدادات — بطاقة الدعوة: النص" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/14-article/00-default-result.webp" alt="معاينة — بطاقة الدعوة: النص" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية؛ لا تُظهر الحالة الفعلية لهذا الخيار.</small> | مكانه محاط بإطار برتقالي |
 
 ### «الزر الأول: نصّه»
 
@@ -104,9 +109,9 @@ editUrl: false
 - **ماذا يفعل:** زر بلون الثيم.
 - **يظهر في اللوحة فقط حين:** «بطاقة الدعوة أسفل المقالة» هو «مفعّل»
 
-| اللوحة (نسخة مطابقة) | النتيجة | |
+| اللوحة (نسخة مطابقة) | المعاينة المرجعية المتاحة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/14-article/08-article_cta_button-panel.webp" alt="لوحة إعدادات — الزر الأول: نصّه" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/14-article/00-default-result.webp" alt="معاينة — الزر الأول: نصّه" loading="lazy" decoding="async"/> | مكانه محاط بإطار برتقالي |
+| <img src="/coach-docs/assets/00-theme/14-article/08-article_cta_button-panel.webp" alt="لوحة إعدادات — الزر الأول: نصّه" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/14-article/00-default-result.webp" alt="معاينة — الزر الأول: نصّه" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية؛ لا تُظهر الحالة الفعلية لهذا الخيار.</small> | مكانه محاط بإطار برتقالي |
 
 ### «الزر الأول: رابطه»
 
@@ -115,9 +120,9 @@ editUrl: false
 - **حين يكون فارغاً:** فارغاً يُخفى الزر
 - **يظهر في اللوحة فقط حين:** «بطاقة الدعوة أسفل المقالة» هو «مفعّل»
 
-| اللوحة (نسخة مطابقة) | النتيجة | |
+| اللوحة (نسخة مطابقة) | المعاينة المرجعية المتاحة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/14-article/09-article_cta_link-panel.webp" alt="لوحة إعدادات — الزر الأول: رابطه" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/14-article/00-default-result.webp" alt="معاينة — الزر الأول: رابطه" loading="lazy" decoding="async"/> | النتيجة بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/00-theme/14-article/09-article_cta_link-panel.webp" alt="لوحة إعدادات — الزر الأول: رابطه" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/14-article/00-default-result.webp" alt="معاينة — الزر الأول: رابطه" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية؛ لا تُظهر الحالة الفعلية لهذا الخيار.</small> | النتيجة بالقيمة الافتراضية |
 
 ### «الزر الثاني: نصّه»
 
@@ -125,9 +130,9 @@ editUrl: false
 - **ماذا يفعل:** زر بإطار.
 - **يظهر في اللوحة فقط حين:** «بطاقة الدعوة أسفل المقالة» هو «مفعّل»
 
-| اللوحة (نسخة مطابقة) | النتيجة | |
+| اللوحة (نسخة مطابقة) | المعاينة المرجعية المتاحة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/14-article/10-article_cta_button2-panel.webp" alt="لوحة إعدادات — الزر الثاني: نصّه" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/14-article/00-default-result.webp" alt="معاينة — الزر الثاني: نصّه" loading="lazy" decoding="async"/> | مكانه محاط بإطار برتقالي |
+| <img src="/coach-docs/assets/00-theme/14-article/10-article_cta_button2-panel.webp" alt="لوحة إعدادات — الزر الثاني: نصّه" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/14-article/00-default-result.webp" alt="معاينة — الزر الثاني: نصّه" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية؛ لا تُظهر الحالة الفعلية لهذا الخيار.</small> | مكانه محاط بإطار برتقالي |
 
 ### «الزر الثاني: رابطه»
 
@@ -136,9 +141,9 @@ editUrl: false
 - **حين يكون فارغاً:** فارغاً يُخفى الزر
 - **يظهر في اللوحة فقط حين:** «بطاقة الدعوة أسفل المقالة» هو «مفعّل»
 
-| اللوحة (نسخة مطابقة) | النتيجة | |
+| اللوحة (نسخة مطابقة) | المعاينة المرجعية المتاحة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/14-article/11-article_cta_link2-panel.webp" alt="لوحة إعدادات — الزر الثاني: رابطه" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/14-article/00-default-result.webp" alt="معاينة — الزر الثاني: رابطه" loading="lazy" decoding="async"/> | النتيجة بنص تجريبي «مثال لنصّك هنا» |
+| <img src="/coach-docs/assets/00-theme/14-article/11-article_cta_link2-panel.webp" alt="لوحة إعدادات — الزر الثاني: رابطه" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/14-article/00-default-result.webp" alt="معاينة — الزر الثاني: رابطه" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية؛ لا تُظهر الحالة الفعلية لهذا الخيار.</small> | النتيجة بنص تجريبي «مثال لنصّك هنا» |
 
 ---
 > ملاحظات البناء: لم يُعثر على النص لتمييزه: 00-default-result.webp · لم يُعثر على النص لتمييزه: 00-default-result.webp · لم يُعثر على النص لتمييزه: 00-default-result.webp · لم يُعثر على النص لتمييزه: 00-default-result.webp · لم يُعثر على النص لتمييزه: 00-default-result.webp

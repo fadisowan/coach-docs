@@ -41,7 +41,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/13-coach-offer-banner/01-layout-split-panel.webp" alt="لوحة إعدادات — الشكل" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/13-coach-offer-banner/00-desktop.webp" alt="معاينة — الشكل" loading="lazy" decoding="async"/> | «١ · منقسم على خلفية خوخية» |
+| <img src="/coach-docs/assets/sections/13-coach-offer-banner/01-layout-split-panel.webp" alt="لوحة إعدادات — الشكل" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/13-coach-offer-banner/00-desktop.webp" alt="معاينة — الشكل" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «١ · منقسم على خلفية خوخية» |
 | <img src="/coach-docs/assets/sections/13-coach-offer-banner/01-layout-arch-panel.webp" alt="لوحة إعدادات — الشكل" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/13-coach-offer-banner/01-layout-arch-result.webp" alt="معاينة — الشكل" loading="lazy" decoding="async"/> | «٢ · قوس على خلفية خضراء» |
 | <img src="/coach-docs/assets/sections/13-coach-offer-banner/01-layout-strip-panel.webp" alt="لوحة إعدادات — الشكل" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/13-coach-offer-banner/01-layout-strip-result.webp" alt="معاينة — الشكل" loading="lazy" decoding="async"/> | «٣ · شريط أبيض أفقي» |
 
@@ -68,7 +68,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/13-coach-offer-banner/03-big_number-panel.webp" alt="لوحة إعدادات — الرقم الكبير" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/13-coach-offer-banner/00-desktop.webp" alt="معاينة — الرقم الكبير" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/13-coach-offer-banner/03-big_number-panel.webp" alt="لوحة إعدادات — الرقم الكبير" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/13-coach-offer-banner/00-desktop.webp" alt="معاينة — الرقم الكبير" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «السطر الصغير»
 
@@ -81,7 +81,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/13-coach-offer-banner/04-eyebrow-panel.webp" alt="لوحة إعدادات — السطر الصغير" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/13-coach-offer-banner/00-desktop.webp" alt="معاينة — السطر الصغير" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/13-coach-offer-banner/04-eyebrow-panel.webp" alt="لوحة إعدادات — السطر الصغير" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/13-coach-offer-banner/00-desktop.webp" alt="معاينة — السطر الصغير" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «العنوان»
 
@@ -116,7 +116,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/13-coach-offer-banner/07-code-panel.webp" alt="لوحة إعدادات — كود الخصم" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/13-coach-offer-banner/00-desktop.webp" alt="معاينة — كود الخصم" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/13-coach-offer-banner/07-code-panel.webp" alt="لوحة إعدادات — كود الخصم" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/13-coach-offer-banner/00-desktop.webp" alt="معاينة — كود الخصم" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «الصورة»
 
@@ -152,7 +152,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/13-coach-offer-banner/10-cta_link-panel.webp" alt="لوحة إعدادات — رابط الزر" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/13-coach-offer-banner/00-desktop.webp" alt="معاينة — رابط الزر" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/13-coach-offer-banner/10-cta_link-panel.webp" alt="لوحة إعدادات — رابط الزر" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/13-coach-offer-banner/00-desktop.webp" alt="معاينة — رابط الزر" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «ينتهي العرض في»
 
@@ -164,7 +164,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/13-coach-offer-banner/11-end_date-panel.webp" alt="لوحة إعدادات — ينتهي العرض في" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/13-coach-offer-banner/00-desktop.webp" alt="معاينة — ينتهي العرض في" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/13-coach-offer-banner/11-end_date-panel.webp" alt="لوحة إعدادات — ينتهي العرض في" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/13-coach-offer-banner/00-desktop.webp" alt="معاينة — ينتهي العرض في" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «نص الشريط»
 
@@ -188,7 +188,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/13-coach-offer-banner/13-strip_scroll-panel.webp" alt="لوحة إعدادات — تحريك الشريط بلا نهاية" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/13-coach-offer-banner/00-desktop.webp" alt="معاينة — تحريك الشريط بلا نهاية" loading="lazy" decoding="async"/> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
+| <img src="/coach-docs/assets/sections/13-coach-offer-banner/13-strip_scroll-panel.webp" alt="لوحة إعدادات — تحريك الشريط بلا نهاية" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/13-coach-offer-banner/00-desktop.webp" alt="معاينة — تحريك الشريط بلا نهاية" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
 
 ### «التوقف عند مرور المؤشر»
 
@@ -200,7 +200,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/13-coach-offer-banner/14-strip_hold-panel.webp" alt="لوحة إعدادات — التوقف عند مرور المؤشر" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/13-coach-offer-banner/00-desktop.webp" alt="معاينة — التوقف عند مرور المؤشر" loading="lazy" decoding="async"/> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
+| <img src="/coach-docs/assets/sections/13-coach-offer-banner/14-strip_hold-panel.webp" alt="لوحة إعدادات — التوقف عند مرور المؤشر" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/13-coach-offer-banner/00-desktop.webp" alt="معاينة — التوقف عند مرور المؤشر" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
 
 ### «خلفية متحركة بالألوان»
 
@@ -224,9 +224,9 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/13-coach-offer-banner/16-fx_speed-slow-panel.webp" alt="لوحة إعدادات — سرعة الحركة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/13-coach-offer-banner/00-desktop.webp" alt="معاينة — سرعة الحركة" loading="lazy" decoding="async"/> | «هادئة» |
-| <img src="/coach-docs/assets/sections/13-coach-offer-banner/16-fx_speed-normal-panel.webp" alt="لوحة إعدادات — سرعة الحركة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/13-coach-offer-banner/16-fx_speed-normal-result.webp" alt="معاينة — سرعة الحركة" loading="lazy" decoding="async"/> | «متوسطة» |
-| <img src="/coach-docs/assets/sections/13-coach-offer-banner/16-fx_speed-fast-panel.webp" alt="لوحة إعدادات — سرعة الحركة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/13-coach-offer-banner/16-fx_speed-fast-result.webp" alt="معاينة — سرعة الحركة" loading="lazy" decoding="async"/> | «أسرع» |
+| <img src="/coach-docs/assets/sections/13-coach-offer-banner/16-fx_speed-slow-panel.webp" alt="لوحة إعدادات — سرعة الحركة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/13-coach-offer-banner/00-desktop.webp" alt="معاينة — سرعة الحركة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «هادئة» |
+| <img src="/coach-docs/assets/sections/13-coach-offer-banner/16-fx_speed-normal-panel.webp" alt="لوحة إعدادات — سرعة الحركة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/13-coach-offer-banner/16-fx_speed-normal-result.webp" alt="معاينة — سرعة الحركة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «متوسطة» |
+| <img src="/coach-docs/assets/sections/13-coach-offer-banner/16-fx_speed-fast-panel.webp" alt="لوحة إعدادات — سرعة الحركة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/13-coach-offer-banner/16-fx_speed-fast-result.webp" alt="معاينة — سرعة الحركة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «أسرع» |
 
 ### «ألوان الخلفية المتحركة»
 
@@ -237,9 +237,9 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/13-coach-offer-banner/17-fx_palette-theme-panel.webp" alt="لوحة إعدادات — ألوان الخلفية المتحركة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/13-coach-offer-banner/00-desktop.webp" alt="معاينة — ألوان الخلفية المتحركة" loading="lazy" decoding="async"/> | «ألوان الثيم» |
-| <img src="/coach-docs/assets/sections/13-coach-offer-banner/17-fx_palette-night-panel.webp" alt="لوحة إعدادات — ألوان الخلفية المتحركة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/13-coach-offer-banner/16-fx_speed-normal-result.webp" alt="معاينة — ألوان الخلفية المتحركة" loading="lazy" decoding="async"/> | «ليلي» |
-| <img src="/coach-docs/assets/sections/13-coach-offer-banner/17-fx_palette-warm-panel.webp" alt="لوحة إعدادات — ألوان الخلفية المتحركة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/13-coach-offer-banner/16-fx_speed-fast-result.webp" alt="معاينة — ألوان الخلفية المتحركة" loading="lazy" decoding="async"/> | «دافئ» |
+| <img src="/coach-docs/assets/sections/13-coach-offer-banner/17-fx_palette-theme-panel.webp" alt="لوحة إعدادات — ألوان الخلفية المتحركة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/13-coach-offer-banner/00-desktop.webp" alt="معاينة — ألوان الخلفية المتحركة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «ألوان الثيم» |
+| <img src="/coach-docs/assets/sections/13-coach-offer-banner/17-fx_palette-night-panel.webp" alt="لوحة إعدادات — ألوان الخلفية المتحركة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/13-coach-offer-banner/16-fx_speed-normal-result.webp" alt="معاينة — ألوان الخلفية المتحركة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «ليلي» |
+| <img src="/coach-docs/assets/sections/13-coach-offer-banner/17-fx_palette-warm-panel.webp" alt="لوحة إعدادات — ألوان الخلفية المتحركة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/13-coach-offer-banner/16-fx_speed-fast-result.webp" alt="معاينة — ألوان الخلفية المتحركة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «دافئ» |
 
 
 <div class="source-note">صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>

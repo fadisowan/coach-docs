@@ -46,7 +46,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/01-shared/03-section_bg-none-panel.webp" alt="لوحة إعدادات — خلفية القسم" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/01-shared/00-desktop.webp" alt="معاينة — خلفية القسم" loading="lazy" decoding="async"/> | «بدون (كما هو)» |
+| <img src="/coach-docs/assets/01-shared/03-section_bg-none-panel.webp" alt="لوحة إعدادات — خلفية القسم" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/01-shared/00-desktop.webp" alt="معاينة — خلفية القسم" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «بدون (كما هو)» |
 | <img src="/coach-docs/assets/01-shared/03-section_bg-white-panel.webp" alt="لوحة إعدادات — خلفية القسم" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/01-shared/03-section_bg-white-result.webp" alt="معاينة — خلفية القسم" loading="lazy" decoding="async"/> | «أبيض» |
 | <img src="/coach-docs/assets/01-shared/03-section_bg-soft-panel.webp" alt="لوحة إعدادات — خلفية القسم" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/01-shared/03-section_bg-soft-result.webp" alt="معاينة — خلفية القسم" loading="lazy" decoding="async"/> | «لون فاتح من الثيم» |
 | <img src="/coach-docs/assets/01-shared/03-section_bg-dark-panel.webp" alt="لوحة إعدادات — خلفية القسم" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/01-shared/03-section_bg-dark-result.webp" alt="معاينة — خلفية القسم" loading="lazy" decoding="async"/> | «لون داكن من الثيم» |
@@ -101,7 +101,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/01-shared/07-section_bg_full-panel.webp" alt="لوحة إعدادات — تمديد الخلفية بعرض الشاشة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/01-shared/00-desktop.webp" alt="معاينة — تمديد الخلفية بعرض الشاشة" loading="lazy" decoding="async"/> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
+| <img src="/coach-docs/assets/01-shared/07-section_bg_full-panel.webp" alt="لوحة إعدادات — تمديد الخلفية بعرض الشاشة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/01-shared/00-desktop.webp" alt="معاينة — تمديد الخلفية بعرض الشاشة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
 
 ### «المسافة العلوية (بكسل)»
 
@@ -113,7 +113,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/01-shared/08-top_spacing-panel.webp" alt="لوحة إعدادات — المسافة العلوية (بكسل)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/01-shared/00-desktop.webp" alt="معاينة — المسافة العلوية (بكسل)" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/01-shared/08-top_spacing-panel.webp" alt="لوحة إعدادات — المسافة العلوية (بكسل)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/01-shared/00-desktop.webp" alt="معاينة — المسافة العلوية (بكسل)" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «المسافة السفلية (بكسل)»
 
@@ -124,7 +124,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/01-shared/09-bottom_spacing-panel.webp" alt="لوحة إعدادات — المسافة السفلية (بكسل)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/01-shared/00-desktop.webp" alt="معاينة — المسافة السفلية (بكسل)" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/01-shared/09-bottom_spacing-panel.webp" alt="لوحة إعدادات — المسافة السفلية (بكسل)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/01-shared/00-desktop.webp" alt="معاينة — المسافة السفلية (بكسل)" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 
 <div class="source-note">الإصدار 1.76.1 · صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>

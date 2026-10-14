@@ -37,8 +37,8 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/35-coach-shelf-3d/01-layout-3-panel.webp" alt="لوحة إعدادات — عدد البطاقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/35-coach-shelf-3d/01-layout-3-result.webp" alt="معاينة — عدد البطاقات" loading="lazy" decoding="async"/> | «ثلاث» |
-| <img src="/coach-docs/assets/sections/35-coach-shelf-3d/01-layout-5-panel.webp" alt="لوحة إعدادات — عدد البطاقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/35-coach-shelf-3d/01-layout-5-result.webp" alt="معاينة — عدد البطاقات" loading="lazy" decoding="async"/> | «خمس» |
+| <img src="/coach-docs/assets/sections/35-coach-shelf-3d/01-layout-3-panel.webp" alt="لوحة إعدادات — عدد البطاقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/35-coach-shelf-3d/01-layout-3-result.webp" alt="معاينة — عدد البطاقات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «ثلاث» |
+| <img src="/coach-docs/assets/sections/35-coach-shelf-3d/01-layout-5-panel.webp" alt="لوحة إعدادات — عدد البطاقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/35-coach-shelf-3d/01-layout-5-result.webp" alt="معاينة — عدد البطاقات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «خمس» |
 
 ### «العنوان الصغير (فوق العنوان)»
 
@@ -86,7 +86,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/35-coach-shelf-3d/05-products-panel.webp" alt="لوحة إعدادات — المنتجات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/35-coach-shelf-3d/00-desktop.webp" alt="معاينة — المنتجات" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/35-coach-shelf-3d/05-products-panel.webp" alt="لوحة إعدادات — المنتجات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/35-coach-shelf-3d/00-desktop.webp" alt="معاينة — المنتجات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «نص الزر الأول»
 
@@ -110,7 +110,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/35-coach-shelf-3d/07-primary_link-panel.webp" alt="لوحة إعدادات — رابط الزر الأول" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/35-coach-shelf-3d/00-desktop.webp" alt="معاينة — رابط الزر الأول" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/35-coach-shelf-3d/07-primary_link-panel.webp" alt="لوحة إعدادات — رابط الزر الأول" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/35-coach-shelf-3d/00-desktop.webp" alt="معاينة — رابط الزر الأول" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «نص الزر الثاني (يظهر مع رابطه)»
 
@@ -121,7 +121,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/35-coach-shelf-3d/08-secondary_label-panel.webp" alt="لوحة إعدادات — نص الزر الثاني (يظهر مع رابطه)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/35-coach-shelf-3d/00-desktop.webp" alt="معاينة — نص الزر الثاني (يظهر مع رابطه)" loading="lazy" decoding="async"/> | مكانه في القسم محاط بإطار برتقالي |
+| <img src="/coach-docs/assets/sections/35-coach-shelf-3d/08-secondary_label-panel.webp" alt="لوحة إعدادات — نص الزر الثاني (يظهر مع رابطه)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/35-coach-shelf-3d/00-desktop.webp" alt="معاينة — نص الزر الثاني (يظهر مع رابطه)" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | مكانه في القسم محاط بإطار برتقالي |
 
 ### «رابط الزر الثاني»
 
@@ -133,7 +133,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/35-coach-shelf-3d/09-secondary_link-panel.webp" alt="لوحة إعدادات — رابط الزر الثاني" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/35-coach-shelf-3d/00-desktop.webp" alt="معاينة — رابط الزر الثاني" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/35-coach-shelf-3d/09-secondary_link-panel.webp" alt="لوحة إعدادات — رابط الزر الثاني" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/35-coach-shelf-3d/00-desktop.webp" alt="معاينة — رابط الزر الثاني" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «عند مرور الفأرة»
 
@@ -143,8 +143,8 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/35-coach-shelf-3d/10-hover-glow-panel.webp" alt="لوحة إعدادات — عند مرور الفأرة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/35-coach-shelf-3d/01-layout-3-result.webp" alt="معاينة — عند مرور الفأرة" loading="lazy" decoding="async"/> | «لمعة» |
-| <img src="/coach-docs/assets/sections/35-coach-shelf-3d/10-hover-tilt-panel.webp" alt="لوحة إعدادات — عند مرور الفأرة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/35-coach-shelf-3d/01-layout-5-result.webp" alt="معاينة — عند مرور الفأرة" loading="lazy" decoding="async"/> | «ميلان نحو المؤشر» |
+| <img src="/coach-docs/assets/sections/35-coach-shelf-3d/10-hover-glow-panel.webp" alt="لوحة إعدادات — عند مرور الفأرة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/35-coach-shelf-3d/01-layout-3-result.webp" alt="معاينة — عند مرور الفأرة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «لمعة» |
+| <img src="/coach-docs/assets/sections/35-coach-shelf-3d/10-hover-tilt-panel.webp" alt="لوحة إعدادات — عند مرور الفأرة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/35-coach-shelf-3d/01-layout-5-result.webp" alt="معاينة — عند مرور الفأرة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «ميلان نحو المؤشر» |
 | <img src="/coach-docs/assets/sections/35-coach-shelf-3d/10-hover-lift-panel.webp" alt="لوحة إعدادات — عند مرور الفأرة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/35-coach-shelf-3d/10-hover-lift-result.webp" alt="معاينة — عند مرور الفأرة" loading="lazy" decoding="async"/> | «رفع البطاقة» |
 | <img src="/coach-docs/assets/sections/35-coach-shelf-3d/10-hover-none-panel.webp" alt="لوحة إعدادات — عند مرور الفأرة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/35-coach-shelf-3d/10-hover-none-result.webp" alt="معاينة — عند مرور الفأرة" loading="lazy" decoding="async"/> | «بلا» |
 
@@ -157,8 +157,8 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/35-coach-shelf-3d/11-phone-css-panel.webp" alt="لوحة إعدادات — على الجوال" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/35-coach-shelf-3d/01-layout-3-result.webp" alt="معاينة — على الجوال" loading="lazy" decoding="async"/> | «نسخة خفيفة» |
-| <img src="/coach-docs/assets/sections/35-coach-shelf-3d/11-phone-webgl-panel.webp" alt="لوحة إعدادات — على الجوال" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/35-coach-shelf-3d/01-layout-5-result.webp" alt="معاينة — على الجوال" loading="lazy" decoding="async"/> | «ثلاثي الأبعاد كامل» |
+| <img src="/coach-docs/assets/sections/35-coach-shelf-3d/11-phone-css-panel.webp" alt="لوحة إعدادات — على الجوال" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/35-coach-shelf-3d/01-layout-3-result.webp" alt="معاينة — على الجوال" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «نسخة خفيفة» |
+| <img src="/coach-docs/assets/sections/35-coach-shelf-3d/11-phone-webgl-panel.webp" alt="لوحة إعدادات — على الجوال" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/35-coach-shelf-3d/01-layout-5-result.webp" alt="معاينة — على الجوال" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «ثلاثي الأبعاد كامل» |
 
 ---
 > ملاحظات البناء: لم يُعثر على النص لتمييزه: 00-desktop.webp

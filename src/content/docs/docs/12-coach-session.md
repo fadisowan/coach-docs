@@ -125,7 +125,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/12-coach-session/10-steps-panel.webp" alt="لوحة إعدادات — ماذا يحدث بعد الشراء" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/12-coach-session/10-steps-result.webp" alt="معاينة — ماذا يحدث بعد الشراء" loading="lazy" decoding="async"/> | أول عنصر محاط بإطار برتقالي |
+| <img src="/coach-docs/assets/sections/12-coach-session/10-steps-panel.webp" alt="لوحة إعدادات — ماذا يحدث بعد الشراء" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/12-coach-session/10-steps-result.webp" alt="معاينة — ماذا يحدث بعد الشراء" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | أول عنصر محاط بإطار برتقالي |
 
 #### «العنوان»
 
@@ -133,7 +133,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/12-coach-session/10-steps-title-panel.webp" alt="لوحة إعدادات — ماذا يحدث بعد الشراء" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/12-coach-session/10-steps-result.webp" alt="معاينة — ماذا يحدث بعد الشراء" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/12-coach-session/10-steps-title-panel.webp" alt="لوحة إعدادات — ماذا يحدث بعد الشراء" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/12-coach-session/10-steps-result.webp" alt="معاينة — ماذا يحدث بعد الشراء" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 #### «سطر تحته»
 
@@ -141,7 +141,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/12-coach-session/10-steps-text-panel.webp" alt="لوحة إعدادات — ماذا يحدث بعد الشراء" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/12-coach-session/10-steps-result.webp" alt="معاينة — ماذا يحدث بعد الشراء" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/12-coach-session/10-steps-text-panel.webp" alt="لوحة إعدادات — ماذا يحدث بعد الشراء" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/12-coach-session/10-steps-result.webp" alt="معاينة — ماذا يحدث بعد الشراء" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 ### «منتج الجلسة (للرئيسية)»
 
@@ -150,7 +150,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/12-coach-session/11-product-panel.webp" alt="لوحة إعدادات — منتج الجلسة (للرئيسية)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/12-coach-session/00-desktop.webp" alt="معاينة — منتج الجلسة (للرئيسية)" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/12-coach-session/11-product-panel.webp" alt="لوحة إعدادات — منتج الجلسة (للرئيسية)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/12-coach-session/00-desktop.webp" alt="معاينة — منتج الجلسة (للرئيسية)" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «نص زر الإضافة للسلة»
 
@@ -160,7 +160,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/12-coach-session/12-button_label-panel.webp" alt="لوحة إعدادات — نص زر الإضافة للسلة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/12-coach-session/00-desktop.webp" alt="معاينة — نص زر الإضافة للسلة" loading="lazy" decoding="async"/> | مكانه في القسم محاط بإطار برتقالي |
+| <img src="/coach-docs/assets/sections/12-coach-session/12-button_label-panel.webp" alt="لوحة إعدادات — نص زر الإضافة للسلة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/12-coach-session/00-desktop.webp" alt="معاينة — نص زر الإضافة للسلة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | مكانه في القسم محاط بإطار برتقالي |
 
 ---
 > ملاحظات البناء: لم يُعثر على النص لتمييزه: 00-desktop.webp

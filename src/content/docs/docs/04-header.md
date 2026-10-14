@@ -56,8 +56,8 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/04-header/01-header_mode-classic-panel.webp" alt="لوحة إعدادات — شكل الهيدر" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/04-header/00-default-result.webp" alt="معاينة — شكل الهيدر" loading="lazy" decoding="async"/> | «الافتراضي» |
-| <img src="/coach-docs/assets/00-theme/04-header/01-header_mode-merge-panel.webp" alt="لوحة إعدادات — شكل الهيدر" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/04-header/01-header_mode-merge-result.webp" alt="معاينة — شكل الهيدر" loading="lazy" decoding="async"/> | «مدمج مع الواجهة (هيدر نافذة القوس)» |
+| <img src="/coach-docs/assets/00-theme/04-header/01-header_mode-classic-panel.webp" alt="لوحة إعدادات — شكل الهيدر" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/04-header/00-default-result.webp" alt="معاينة — شكل الهيدر" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «الافتراضي» |
+| <img src="/coach-docs/assets/00-theme/04-header/01-header_mode-merge-panel.webp" alt="لوحة إعدادات — شكل الهيدر" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/04-header/01-header_mode-merge-result.webp" alt="معاينة — شكل الهيدر" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «مدمج مع الواجهة (هيدر نافذة القوس)» |
 
 ### «الهيدر فوق صورة الواجهة»
 
@@ -69,7 +69,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/04-header/02-header_over_image-shade-panel.webp" alt="لوحة إعدادات — الهيدر فوق صورة الواجهة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/04-header/01-header_mode-merge-result.webp" alt="معاينة — الهيدر فوق صورة الواجهة" loading="lazy" decoding="async"/> | «تدرّج داكن (الافتراضي)» |
+| <img src="/coach-docs/assets/00-theme/04-header/02-header_over_image-shade-panel.webp" alt="لوحة إعدادات — الهيدر فوق صورة الواجهة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/04-header/01-header_mode-merge-result.webp" alt="معاينة — الهيدر فوق صورة الواجهة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «تدرّج داكن (الافتراضي)» |
 | <img src="/coach-docs/assets/00-theme/04-header/02-header_over_image-none-panel.webp" alt="لوحة إعدادات — الهيدر فوق صورة الواجهة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/04-header/02-header_over_image-none-result.webp" alt="معاينة — الهيدر فوق صورة الواجهة" loading="lazy" decoding="async"/> | «بلا طبقة — مدمج بالصورة» |
 
 ### «تثبيت الهيدر أعلى الصفحة»
@@ -82,7 +82,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/04-header/03-header_sticky-panel.webp" alt="لوحة إعدادات — تثبيت الهيدر أعلى الصفحة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/04-header/00-default-result.webp" alt="معاينة — تثبيت الهيدر أعلى الصفحة" loading="lazy" decoding="async"/> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
+| <img src="/coach-docs/assets/00-theme/04-header/03-header_sticky-panel.webp" alt="لوحة إعدادات — تثبيت الهيدر أعلى الصفحة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/04-header/00-default-result.webp" alt="معاينة — تثبيت الهيدر أعلى الصفحة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
 
 ### «خط خفيف أسفل الهيدر»
 
@@ -118,7 +118,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/04-header/06-enable_more_menu-panel.webp" alt="لوحة إعدادات — طيّ الروابط الزائدة في قائمة «المزيد»" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/04-header/00-default-result.webp" alt="معاينة — طيّ الروابط الزائدة في قائمة «المزيد»" loading="lazy" decoding="async"/> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
+| <img src="/coach-docs/assets/00-theme/04-header/06-enable_more_menu-panel.webp" alt="لوحة إعدادات — طيّ الروابط الزائدة في قائمة «المزيد»" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/04-header/00-default-result.webp" alt="معاينة — طيّ الروابط الزائدة في قائمة «المزيد»" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
 
 ### «زر الحجز في الهيدر»
 
@@ -140,7 +140,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/04-header/08-header_cta_label-panel.webp" alt="لوحة إعدادات — نص زر الهيدر" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/04-header/00-default-result.webp" alt="معاينة — نص زر الهيدر" loading="lazy" decoding="async"/> | مكانه محاط بإطار برتقالي |
+| <img src="/coach-docs/assets/00-theme/04-header/08-header_cta_label-panel.webp" alt="لوحة إعدادات — نص زر الهيدر" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/04-header/00-default-result.webp" alt="معاينة — نص زر الهيدر" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | مكانه محاط بإطار برتقالي |
 
 ### «رابط زر الهيدر»
 
@@ -153,7 +153,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/04-header/09-header_cta_link-panel.webp" alt="لوحة إعدادات — رابط زر الهيدر" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/04-header/00-default-result.webp" alt="معاينة — رابط زر الهيدر" loading="lazy" decoding="async"/> | النتيجة بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/00-theme/04-header/09-header_cta_link-panel.webp" alt="لوحة إعدادات — رابط زر الهيدر" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/04-header/00-default-result.webp" alt="معاينة — رابط زر الهيدر" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة بالقيمة الافتراضية |
 
 
 <div class="source-note">الإصدار 1.76.1 · صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>

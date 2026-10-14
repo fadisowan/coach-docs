@@ -67,7 +67,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/32-slider-products-with-header/04-products-panel.webp" alt="لوحة إعدادات — المنتجات (بالترتيب)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/32-slider-products-with-header/00-desktop.webp" alt="معاينة — المنتجات (بالترتيب)" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/32-slider-products-with-header/04-products-panel.webp" alt="لوحة إعدادات — المنتجات (بالترتيب)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/32-slider-products-with-header/00-desktop.webp" alt="معاينة — المنتجات (بالترتيب)" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «رابط «عرض الكل»»
 
@@ -77,7 +77,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/32-slider-products-with-header/05-display_all_url-panel.webp" alt="لوحة إعدادات — رابط «عرض الكل»" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/32-slider-products-with-header/00-desktop.webp" alt="معاينة — رابط «عرض الكل»" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/32-slider-products-with-header/05-display_all_url-panel.webp" alt="لوحة إعدادات — رابط «عرض الكل»" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/32-slider-products-with-header/00-desktop.webp" alt="معاينة — رابط «عرض الكل»" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 
 <div class="source-note">صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>

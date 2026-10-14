@@ -66,7 +66,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/28-coach-bundle/03-product1-panel.webp" alt="لوحة إعدادات — المنتج الأول" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/28-coach-bundle/00-desktop.webp" alt="معاينة — المنتج الأول" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/28-coach-bundle/03-product1-panel.webp" alt="لوحة إعدادات — المنتج الأول" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/28-coach-bundle/00-desktop.webp" alt="معاينة — المنتج الأول" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «المنتج الثاني»
 
@@ -78,7 +78,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/28-coach-bundle/04-product2-panel.webp" alt="لوحة إعدادات — المنتج الثاني" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/28-coach-bundle/00-desktop.webp" alt="معاينة — المنتج الثاني" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/28-coach-bundle/04-product2-panel.webp" alt="لوحة إعدادات — المنتج الثاني" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/28-coach-bundle/00-desktop.webp" alt="معاينة — المنتج الثاني" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «المنتج الثالث (اختياري)»
 
@@ -90,7 +90,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/28-coach-bundle/05-product3-panel.webp" alt="لوحة إعدادات — المنتج الثالث (اختياري)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/28-coach-bundle/00-desktop.webp" alt="معاينة — المنتج الثالث (اختياري)" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/28-coach-bundle/05-product3-panel.webp" alt="لوحة إعدادات — المنتج الثالث (اختياري)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/28-coach-bundle/00-desktop.webp" alt="معاينة — المنتج الثالث (اختياري)" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «سطر تحت المجموع (اختياري)»
 

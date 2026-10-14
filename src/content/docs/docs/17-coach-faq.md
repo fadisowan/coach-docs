@@ -74,7 +74,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/17-coach-faq/04-items-panel.webp" alt="لوحة إعدادات — الأسئلة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/17-coach-faq/00-desktop.webp" alt="معاينة — الأسئلة" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/17-coach-faq/04-items-panel.webp" alt="لوحة إعدادات — الأسئلة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/17-coach-faq/00-desktop.webp" alt="معاينة — الأسئلة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 #### «السؤال»
 
@@ -84,7 +84,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/17-coach-faq/04-items-question-panel.webp" alt="لوحة إعدادات — الأسئلة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/17-coach-faq/00-desktop.webp" alt="معاينة — الأسئلة" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/17-coach-faq/04-items-question-panel.webp" alt="لوحة إعدادات — الأسئلة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/17-coach-faq/00-desktop.webp" alt="معاينة — الأسئلة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 #### «الإجابة»
 
@@ -94,7 +94,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/17-coach-faq/04-items-answer-panel.webp" alt="لوحة إعدادات — الأسئلة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/17-coach-faq/00-desktop.webp" alt="معاينة — الأسئلة" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/17-coach-faq/04-items-answer-panel.webp" alt="لوحة إعدادات — الأسئلة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/17-coach-faq/00-desktop.webp" alt="معاينة — الأسئلة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 ### «نص زر التواصل»
 
@@ -118,7 +118,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/17-coach-faq/06-contact_link-panel.webp" alt="لوحة إعدادات — رابط الزر" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/17-coach-faq/00-desktop.webp" alt="معاينة — رابط الزر" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/17-coach-faq/06-contact_link-panel.webp" alt="لوحة إعدادات — رابط الزر" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/17-coach-faq/00-desktop.webp" alt="معاينة — رابط الزر" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «السؤال الأول مفتوح عند التحميل»
 
@@ -141,7 +141,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/17-coach-faq/08-schema-panel.webp" alt="لوحة إعدادات — عرض الأسئلة في نتائج البحث" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/17-coach-faq/00-desktop.webp" alt="معاينة — عرض الأسئلة في نتائج البحث" loading="lazy" decoding="async"/> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
+| <img src="/coach-docs/assets/sections/17-coach-faq/08-schema-panel.webp" alt="لوحة إعدادات — عرض الأسئلة في نتائج البحث" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/17-coach-faq/00-desktop.webp" alt="معاينة — عرض الأسئلة في نتائج البحث" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
 
 ### «تثبيت الجزء الجانبي أثناء التمرير»
 

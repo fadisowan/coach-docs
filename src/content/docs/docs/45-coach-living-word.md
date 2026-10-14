@@ -53,7 +53,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/45-coach-living-word/02-font-display-panel.webp" alt="لوحة إعدادات — خط الكلمة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/45-coach-living-word/00-desktop.webp" alt="معاينة — خط الكلمة" loading="lazy" decoding="async"/> | «خط العناوين (الافتراضي)» |
+| <img src="/coach-docs/assets/sections/45-coach-living-word/02-font-display-panel.webp" alt="لوحة إعدادات — خط الكلمة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/45-coach-living-word/00-desktop.webp" alt="معاينة — خط الكلمة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «خط العناوين (الافتراضي)» |
 | <img src="/coach-docs/assets/sections/45-coach-living-word/02-font-body-panel.webp" alt="لوحة إعدادات — خط الكلمة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/45-coach-living-word/02-font-body-result.webp" alt="معاينة — خط الكلمة" loading="lazy" decoding="async"/> | «خط النص» |
 
 ### «الكلمات بالترتيب»
@@ -65,7 +65,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/45-coach-living-word/03-words-panel.webp" alt="لوحة إعدادات — الكلمات بالترتيب" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/45-coach-living-word/03-words-result.webp" alt="معاينة — الكلمات بالترتيب" loading="lazy" decoding="async"/> | أول عنصر محاط بإطار برتقالي |
+| <img src="/coach-docs/assets/sections/45-coach-living-word/03-words-panel.webp" alt="لوحة إعدادات — الكلمات بالترتيب" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/45-coach-living-word/03-words-result.webp" alt="معاينة — الكلمات بالترتيب" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | أول عنصر محاط بإطار برتقالي |
 
 #### «الكلمة»
 
@@ -76,7 +76,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/45-coach-living-word/03-words-word-panel.webp" alt="لوحة إعدادات — الكلمات بالترتيب" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/45-coach-living-word/03-words-result.webp" alt="معاينة — الكلمات بالترتيب" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/45-coach-living-word/03-words-word-panel.webp" alt="لوحة إعدادات — الكلمات بالترتيب" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/45-coach-living-word/03-words-result.webp" alt="معاينة — الكلمات بالترتيب" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 #### «تحتها»
 
@@ -86,7 +86,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/45-coach-living-word/03-words-label-panel.webp" alt="لوحة إعدادات — الكلمات بالترتيب" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/45-coach-living-word/03-words-result.webp" alt="معاينة — الكلمات بالترتيب" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/45-coach-living-word/03-words-label-panel.webp" alt="لوحة إعدادات — الكلمات بالترتيب" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/45-coach-living-word/03-words-result.webp" alt="معاينة — الكلمات بالترتيب" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 ### «العنوان»
 
@@ -134,7 +134,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/45-coach-living-word/07-button_link-panel.webp" alt="لوحة إعدادات — رابط الزر" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/45-coach-living-word/00-desktop.webp" alt="معاينة — رابط الزر" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/45-coach-living-word/07-button_link-panel.webp" alt="لوحة إعدادات — رابط الزر" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/45-coach-living-word/00-desktop.webp" alt="معاينة — رابط الزر" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «تتبدّل الكلمة كل»
 

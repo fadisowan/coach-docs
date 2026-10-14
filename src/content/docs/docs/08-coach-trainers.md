@@ -62,7 +62,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/08-coach-trainers/03-trainers-panel.webp" alt="لوحة إعدادات — المدرّبون" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/08-coach-trainers/03-trainers-result.webp" alt="معاينة — المدرّبون" loading="lazy" decoding="async"/> | أول عنصر محاط بإطار برتقالي |
+| <img src="/coach-docs/assets/sections/08-coach-trainers/03-trainers-panel.webp" alt="لوحة إعدادات — المدرّبون" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/08-coach-trainers/03-trainers-result.webp" alt="معاينة — المدرّبون" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | أول عنصر محاط بإطار برتقالي |
 
 #### «الصورة»
 
@@ -73,7 +73,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/08-coach-trainers/03-trainers-photo-panel.webp" alt="لوحة إعدادات — المدرّبون" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/08-coach-trainers/03-trainers-result.webp" alt="معاينة — المدرّبون" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/08-coach-trainers/03-trainers-photo-panel.webp" alt="لوحة إعدادات — المدرّبون" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/08-coach-trainers/03-trainers-result.webp" alt="معاينة — المدرّبون" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 #### «الاسم»
 
@@ -83,7 +83,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/08-coach-trainers/03-trainers-name-panel.webp" alt="لوحة إعدادات — المدرّبون" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/08-coach-trainers/03-trainers-result.webp" alt="معاينة — المدرّبون" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/08-coach-trainers/03-trainers-name-panel.webp" alt="لوحة إعدادات — المدرّبون" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/08-coach-trainers/03-trainers-result.webp" alt="معاينة — المدرّبون" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 #### «المسمّى»
 
@@ -93,7 +93,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/08-coach-trainers/03-trainers-role-panel.webp" alt="لوحة إعدادات — المدرّبون" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/08-coach-trainers/03-trainers-result.webp" alt="معاينة — المدرّبون" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/08-coach-trainers/03-trainers-role-panel.webp" alt="لوحة إعدادات — المدرّبون" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/08-coach-trainers/03-trainers-result.webp" alt="معاينة — المدرّبون" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 #### «وسم التخصص (على الصورة)»
 
@@ -103,7 +103,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/08-coach-trainers/03-trainers-tag-panel.webp" alt="لوحة إعدادات — المدرّبون" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/08-coach-trainers/03-trainers-result.webp" alt="معاينة — المدرّبون" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/08-coach-trainers/03-trainers-tag-panel.webp" alt="لوحة إعدادات — المدرّبون" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/08-coach-trainers/03-trainers-result.webp" alt="معاينة — المدرّبون" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 #### «سطر الأرقام»
 
@@ -113,7 +113,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/08-coach-trainers/03-trainers-count-panel.webp" alt="لوحة إعدادات — المدرّبون" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/08-coach-trainers/03-trainers-result.webp" alt="معاينة — المدرّبون" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/08-coach-trainers/03-trainers-count-panel.webp" alt="لوحة إعدادات — المدرّبون" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/08-coach-trainers/03-trainers-result.webp" alt="معاينة — المدرّبون" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 #### «النبذة»
 
@@ -123,7 +123,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/08-coach-trainers/03-trainers-bio-panel.webp" alt="لوحة إعدادات — المدرّبون" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/08-coach-trainers/03-trainers-result.webp" alt="معاينة — المدرّبون" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/08-coach-trainers/03-trainers-bio-panel.webp" alt="لوحة إعدادات — المدرّبون" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/08-coach-trainers/03-trainers-result.webp" alt="معاينة — المدرّبون" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 #### «المهارات»
 
@@ -134,7 +134,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/08-coach-trainers/03-trainers-skills-panel.webp" alt="لوحة إعدادات — المدرّبون" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/08-coach-trainers/03-trainers-result.webp" alt="معاينة — المدرّبون" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/08-coach-trainers/03-trainers-skills-panel.webp" alt="لوحة إعدادات — المدرّبون" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/08-coach-trainers/03-trainers-result.webp" alt="معاينة — المدرّبون" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 #### «نص رابط البرامج»
 
@@ -144,7 +144,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/08-coach-trainers/03-trainers-courses_label-panel.webp" alt="لوحة إعدادات — المدرّبون" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/08-coach-trainers/03-trainers-result.webp" alt="معاينة — المدرّبون" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/08-coach-trainers/03-trainers-courses_label-panel.webp" alt="لوحة إعدادات — المدرّبون" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/08-coach-trainers/03-trainers-result.webp" alt="معاينة — المدرّبون" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 #### «رابط البرامج»
 
@@ -155,7 +155,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/08-coach-trainers/03-trainers-courses_link-panel.webp" alt="لوحة إعدادات — المدرّبون" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/08-coach-trainers/03-trainers-result.webp" alt="معاينة — المدرّبون" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/08-coach-trainers/03-trainers-courses_link-panel.webp" alt="لوحة إعدادات — المدرّبون" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/08-coach-trainers/03-trainers-result.webp" alt="معاينة — المدرّبون" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 #### «رابط صفحة المدرّب»
 
@@ -166,7 +166,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/08-coach-trainers/03-trainers-profile_link-panel.webp" alt="لوحة إعدادات — المدرّبون" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/08-coach-trainers/03-trainers-result.webp" alt="معاينة — المدرّبون" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/08-coach-trainers/03-trainers-profile_link-panel.webp" alt="لوحة إعدادات — المدرّبون" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/08-coach-trainers/03-trainers-result.webp" alt="معاينة — المدرّبون" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 
 <div class="source-note">صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>

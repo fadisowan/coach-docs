@@ -78,7 +78,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/38-coach-booklet/04-facts-panel.webp" alt="لوحة إعدادات — أرقام الكتيّب" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/38-coach-booklet/04-facts-result.webp" alt="معاينة — أرقام الكتيّب" loading="lazy" decoding="async"/> | أول عنصر محاط بإطار برتقالي |
+| <img src="/coach-docs/assets/sections/38-coach-booklet/04-facts-panel.webp" alt="لوحة إعدادات — أرقام الكتيّب" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/38-coach-booklet/04-facts-result.webp" alt="معاينة — أرقام الكتيّب" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | أول عنصر محاط بإطار برتقالي |
 
 #### «الرقم أو الكلمة»
 
@@ -88,7 +88,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/38-coach-booklet/04-facts-value-panel.webp" alt="لوحة إعدادات — أرقام الكتيّب" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/38-coach-booklet/04-facts-result.webp" alt="معاينة — أرقام الكتيّب" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/38-coach-booklet/04-facts-value-panel.webp" alt="لوحة إعدادات — أرقام الكتيّب" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/38-coach-booklet/04-facts-result.webp" alt="معاينة — أرقام الكتيّب" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 #### «تحته»
 
@@ -98,7 +98,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/38-coach-booklet/04-facts-label-panel.webp" alt="لوحة إعدادات — أرقام الكتيّب" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/38-coach-booklet/04-facts-result.webp" alt="معاينة — أرقام الكتيّب" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/38-coach-booklet/04-facts-label-panel.webp" alt="لوحة إعدادات — أرقام الكتيّب" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/38-coach-booklet/04-facts-result.webp" alt="معاينة — أرقام الكتيّب" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 ### «صورة الغلاف»
 
@@ -155,7 +155,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/38-coach-booklet/09-dedication-panel.webp" alt="لوحة إعدادات — داخل الغلاف (الإهداء)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/38-coach-booklet/00-desktop.webp" alt="معاينة — داخل الغلاف (الإهداء)" loading="lazy" decoding="async"/> | مكانه في القسم محاط بإطار برتقالي |
+| <img src="/coach-docs/assets/sections/38-coach-booklet/09-dedication-panel.webp" alt="لوحة إعدادات — داخل الغلاف (الإهداء)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/38-coach-booklet/00-desktop.webp" alt="معاينة — داخل الغلاف (الإهداء)" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | مكانه في القسم محاط بإطار برتقالي |
 
 ### «صفحات العينة»
 
@@ -166,7 +166,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/38-coach-booklet/10-pages-panel.webp" alt="لوحة إعدادات — صفحات العينة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/38-coach-booklet/00-desktop.webp" alt="معاينة — صفحات العينة" loading="lazy" decoding="async"/> | أول عنصر محاط بإطار برتقالي |
+| <img src="/coach-docs/assets/sections/38-coach-booklet/10-pages-panel.webp" alt="لوحة إعدادات — صفحات العينة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/38-coach-booklet/00-desktop.webp" alt="معاينة — صفحات العينة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | أول عنصر محاط بإطار برتقالي |
 
 #### «صورة الصفحة»
 
@@ -177,7 +177,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/38-coach-booklet/10-pages-image-panel.webp" alt="لوحة إعدادات — صفحات العينة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/38-coach-booklet/00-desktop.webp" alt="معاينة — صفحات العينة" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/38-coach-booklet/10-pages-image-panel.webp" alt="لوحة إعدادات — صفحات العينة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/38-coach-booklet/00-desktop.webp" alt="معاينة — صفحات العينة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 #### «عنوان الصفحة»
 
@@ -187,7 +187,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/38-coach-booklet/10-pages-title-panel.webp" alt="لوحة إعدادات — صفحات العينة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/38-coach-booklet/00-desktop.webp" alt="معاينة — صفحات العينة" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/38-coach-booklet/10-pages-title-panel.webp" alt="لوحة إعدادات — صفحات العينة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/38-coach-booklet/00-desktop.webp" alt="معاينة — صفحات العينة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 #### «نص الصفحة»
 
@@ -198,7 +198,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/38-coach-booklet/10-pages-text-panel.webp" alt="لوحة إعدادات — صفحات العينة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/38-coach-booklet/00-desktop.webp" alt="معاينة — صفحات العينة" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/38-coach-booklet/10-pages-text-panel.webp" alt="لوحة إعدادات — صفحات العينة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/38-coach-booklet/00-desktop.webp" alt="معاينة — صفحات العينة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 ### «منتج الكتيّب»
 
@@ -210,7 +210,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/38-coach-booklet/11-product-panel.webp" alt="لوحة إعدادات — منتج الكتيّب" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/38-coach-booklet/00-desktop.webp" alt="معاينة — منتج الكتيّب" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/38-coach-booklet/11-product-panel.webp" alt="لوحة إعدادات — منتج الكتيّب" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/38-coach-booklet/00-desktop.webp" alt="معاينة — منتج الكتيّب" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «نص زر الإضافة للسلة»
 
@@ -222,7 +222,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/38-coach-booklet/12-button_label-panel.webp" alt="لوحة إعدادات — نص زر الإضافة للسلة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/38-coach-booklet/00-desktop.webp" alt="معاينة — نص زر الإضافة للسلة" loading="lazy" decoding="async"/> | مكانه في القسم محاط بإطار برتقالي |
+| <img src="/coach-docs/assets/sections/38-coach-booklet/12-button_label-panel.webp" alt="لوحة إعدادات — نص زر الإضافة للسلة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/38-coach-booklet/00-desktop.webp" alt="معاينة — نص زر الإضافة للسلة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | مكانه في القسم محاط بإطار برتقالي |
 
 ### «نص زر العينة»
 

@@ -7,7 +7,7 @@ const release = JSON.parse(fs.readFileSync('release-manifest.json','utf8'));
 const retired = release.removedRoutes;
 const inventory = JSON.parse(fs.readFileSync('source-docs/manifest.json','utf8'));
 assert.deepEqual(inventory.units.map(unit=>unit.folder.split('/').at(-1)).sort(), nav.map(entry=>entry.slug).sort(), 'All original documentation units must be published');
-const files = ['index.html', '404.html', 'components/index.html', 'settings/index.html', ...nav.map(entry => `docs/${entry.slug}/index.html`)];
+const files = ['index.html', '404.html', 'components/index.html', 'settings/index.html', 'preview-status/index.html', ...nav.map(entry => `docs/${entry.slug}/index.html`)];
 let links = 0, images = 0;
 const referencedAssets = new Set();
 for (const file of files) {
@@ -68,4 +68,10 @@ assert.deepEqual(builtAssets,Object.keys(release.assets).sort(),'Stale deployed 
 const builtPages=fs.readdirSync('dist',{recursive:true}).filter(f=>f.endsWith('.html')).map(f=>f.replaceAll('\\','/')).sort();
 assert.deepEqual(builtPages,[...files].sort(),'Stale deployed pages');
 assert.ok(fs.existsSync('dist/pagefind/pagefind.js'), 'Missing full text search index');
+const previewAudit=JSON.parse(fs.readFileSync('preview-audit.json','utf8'));
+for(const issue of previewAudit.issues){
+ const html=fs.readFileSync(`dist/docs/${issue.slug}/index.html`,'utf8');
+ assert.ok(html.includes('حدود المعاينات المتاحة'),`${issue.slug}: preview limitation must be visible`);
+}
+assert.ok(fs.readFileSync('dist/docs/08-product/index.html','utf8').includes('class="preview-rejected"'),'Error screenshot must be clearly labelled');
 console.log(JSON.stringify({builtPages:files.length,internalReferences:links,imageReferences:images,preservedOriginalImages:assets.length,manifestFields,manifestPairs,brokenImages:0,uncapturedSlots:release.uncaptured.length,components:48}));

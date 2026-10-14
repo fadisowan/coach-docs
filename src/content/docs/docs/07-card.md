@@ -47,7 +47,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/07-card/01-product_image_ratio-landscape-4-3-panel.webp" alt="لوحة إعدادات — شكل صورة المنتج في البطاقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/07-card/00-default-result.webp" alt="معاينة — شكل صورة المنتج في البطاقات" loading="lazy" decoding="async"/> | «عرضي 4:3 (الافتراضي)» |
+| <img src="/coach-docs/assets/00-theme/07-card/01-product_image_ratio-landscape-4-3-panel.webp" alt="لوحة إعدادات — شكل صورة المنتج في البطاقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/07-card/00-default-result.webp" alt="معاينة — شكل صورة المنتج في البطاقات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «عرضي 4:3 (الافتراضي)» |
 | <img src="/coach-docs/assets/00-theme/07-card/01-product_image_ratio-square-panel.webp" alt="لوحة إعدادات — شكل صورة المنتج في البطاقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/07-card/01-product_image_ratio-square-result.webp" alt="معاينة — شكل صورة المنتج في البطاقات" loading="lazy" decoding="async"/> | «مربع 1:1» |
 | <img src="/coach-docs/assets/00-theme/07-card/01-product_image_ratio-portrait-3-4-panel.webp" alt="لوحة إعدادات — شكل صورة المنتج في البطاقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/07-card/01-product_image_ratio-portrait-3-4-result.webp" alt="معاينة — شكل صورة المنتج في البطاقات" loading="lazy" decoding="async"/> | «طولي 3:4» |
 | <img src="/coach-docs/assets/00-theme/07-card/01-product_image_ratio-portrait-4-5-panel.webp" alt="لوحة إعدادات — شكل صورة المنتج في البطاقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/07-card/01-product_image_ratio-portrait-4-5-result.webp" alt="معاينة — شكل صورة المنتج في البطاقات" loading="lazy" decoding="async"/> | «طولي خفيف 4:5» |
@@ -74,7 +74,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/07-card/03-card_show_discount-panel.webp" alt="لوحة إعدادات — نسبة الخصم على المنتجات المخفّضة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/07-card/00-default-result.webp" alt="معاينة — نسبة الخصم على المنتجات المخفّضة" loading="lazy" decoding="async"/> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
+| <img src="/coach-docs/assets/00-theme/07-card/03-card_show_discount-panel.webp" alt="لوحة إعدادات — نسبة الخصم على المنتجات المخفّضة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/07-card/00-default-result.webp" alt="معاينة — نسبة الخصم على المنتجات المخفّضة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
 
 ### «وسم نوع المنتج (برنامج، كتاب، تحميل فوري…)»
 
@@ -97,7 +97,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/07-card/05-card_kind_source-auto-panel.webp" alt="لوحة إعدادات — نوع المنتج في البطاقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/07-card/00-default-result.webp" alt="معاينة — نوع المنتج في البطاقات" loading="lazy" decoding="async"/> | «تلقائي: اسم التصنيف ثم نوع المنتج في سلة» |
+| <img src="/coach-docs/assets/00-theme/07-card/05-card_kind_source-auto-panel.webp" alt="لوحة إعدادات — نوع المنتج في البطاقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/07-card/00-default-result.webp" alt="معاينة — نوع المنتج في البطاقات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «تلقائي: اسم التصنيف ثم نوع المنتج في سلة» |
 | <img src="/coach-docs/assets/00-theme/07-card/05-card_kind_source-type-panel.webp" alt="لوحة إعدادات — نوع المنتج في البطاقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/07-card/05-card_kind_source-type-result.webp" alt="معاينة — نوع المنتج في البطاقات" loading="lazy" decoding="async"/> | «نوع المنتج في سلة فقط» |
 | <img src="/coach-docs/assets/00-theme/07-card/05-card_kind_source-none-panel.webp" alt="لوحة إعدادات — نوع المنتج في البطاقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/07-card/05-card_kind_source-none-result.webp" alt="معاينة — نوع المنتج في البطاقات" loading="lazy" decoding="async"/> | «بلا أنواع: كل البطاقات عادية» |
 
@@ -110,7 +110,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/07-card/06-card_course_style-chips-panel.webp" alt="لوحة إعدادات — بطاقة البرامج" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/07-card/00-default-result.webp" alt="معاينة — بطاقة البرامج" loading="lazy" decoding="async"/> | «المستوى والمدة على الصورة» |
+| <img src="/coach-docs/assets/00-theme/07-card/06-card_course_style-chips-panel.webp" alt="لوحة إعدادات — بطاقة البرامج" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/07-card/00-default-result.webp" alt="معاينة — بطاقة البرامج" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «المستوى والمدة على الصورة» |
 | <img src="/coach-docs/assets/00-theme/07-card/06-card_course_style-plain-panel.webp" alt="لوحة إعدادات — بطاقة البرامج" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/07-card/06-card_course_style-plain-result.webp" alt="معاينة — بطاقة البرامج" loading="lazy" decoding="async"/> | «عادية» |
 
 ### «بطاقة الكتب»
@@ -122,7 +122,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/07-card/07-card_book_style-cover-panel.webp" alt="لوحة إعدادات — بطاقة الكتب" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/07-card/00-default-result.webp" alt="معاينة — بطاقة الكتب" loading="lazy" decoding="async"/> | «الغلاف قائماً على أرضية ملوّنة» |
+| <img src="/coach-docs/assets/00-theme/07-card/07-card_book_style-cover-panel.webp" alt="لوحة إعدادات — بطاقة الكتب" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/07-card/00-default-result.webp" alt="معاينة — بطاقة الكتب" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «الغلاف قائماً على أرضية ملوّنة» |
 | <img src="/coach-docs/assets/00-theme/07-card/07-card_book_style-plain-panel.webp" alt="لوحة إعدادات — بطاقة الكتب" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/07-card/07-card_book_style-plain-result.webp" alt="معاينة — بطاقة الكتب" loading="lazy" decoding="async"/> | «عادية» |
 
 ### «بطاقة المنتجات الرقمية»
@@ -134,8 +134,8 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/07-card/08-card_digital_style-plain-panel.webp" alt="لوحة إعدادات — بطاقة المنتجات الرقمية" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/07-card/00-default-result.webp" alt="معاينة — بطاقة المنتجات الرقمية" loading="lazy" decoding="async"/> | «عادية: السعر بجانب الزر» |
-| <img src="/coach-docs/assets/00-theme/07-card/08-card_digital_style-wide-panel.webp" alt="لوحة إعدادات — بطاقة المنتجات الرقمية" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/07-card/00-default-result.webp" alt="معاينة — بطاقة المنتجات الرقمية" loading="lazy" decoding="async"/> | «زر عريض فيه السعر» |
+| <img src="/coach-docs/assets/00-theme/07-card/08-card_digital_style-plain-panel.webp" alt="لوحة إعدادات — بطاقة المنتجات الرقمية" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/07-card/00-default-result.webp" alt="معاينة — بطاقة المنتجات الرقمية" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «عادية: السعر بجانب الزر» |
+| <img src="/coach-docs/assets/00-theme/07-card/08-card_digital_style-wide-panel.webp" alt="لوحة إعدادات — بطاقة المنتجات الرقمية" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/07-card/00-default-result.webp" alt="معاينة — بطاقة المنتجات الرقمية" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «زر عريض فيه السعر» |
 
 ### «إظهار زر "أعلمني عند التوفر" في بطاقة المنتج»
 

@@ -38,7 +38,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/05-coach-marquee/01-shape-straight-panel.webp" alt="لوحة إعدادات — الشكل" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/05-coach-marquee/00-desktop.webp" alt="معاينة — الشكل" loading="lazy" decoding="async"/> | «مستقيم» |
+| <img src="/coach-docs/assets/sections/05-coach-marquee/01-shape-straight-panel.webp" alt="لوحة إعدادات — الشكل" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/05-coach-marquee/00-desktop.webp" alt="معاينة — الشكل" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «مستقيم» |
 | <img src="/coach-docs/assets/sections/05-coach-marquee/01-shape-tilted-panel.webp" alt="لوحة إعدادات — الشكل" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/05-coach-marquee/01-shape-tilted-result.webp" alt="معاينة — الشكل" loading="lazy" decoding="async"/> | «مائل» |
 | <img src="/coach-docs/assets/sections/05-coach-marquee/01-shape-crossed-panel.webp" alt="لوحة إعدادات — الشكل" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/05-coach-marquee/01-shape-crossed-result.webp" alt="معاينة — الشكل" loading="lazy" decoding="async"/> | «شريطان متقاطعان» |
 
@@ -51,7 +51,7 @@ editUrl: false
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
 | <img src="/coach-docs/assets/sections/05-coach-marquee/02-size-small-panel.webp" alt="لوحة إعدادات — حجم النص" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/05-coach-marquee/02-size-small-result.webp" alt="معاينة — حجم النص" loading="lazy" decoding="async"/> | «صغير» |
-| <img src="/coach-docs/assets/sections/05-coach-marquee/02-size-medium-panel.webp" alt="لوحة إعدادات — حجم النص" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/05-coach-marquee/00-desktop.webp" alt="معاينة — حجم النص" loading="lazy" decoding="async"/> | «متوسط» |
+| <img src="/coach-docs/assets/sections/05-coach-marquee/02-size-medium-panel.webp" alt="لوحة إعدادات — حجم النص" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/05-coach-marquee/00-desktop.webp" alt="معاينة — حجم النص" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «متوسط» |
 | <img src="/coach-docs/assets/sections/05-coach-marquee/02-size-large-panel.webp" alt="لوحة إعدادات — حجم النص" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/05-coach-marquee/02-size-large-result.webp" alt="معاينة — حجم النص" loading="lazy" decoding="async"/> | «كبير» |
 
 ### «الفاصل بين النصوص»
@@ -62,7 +62,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/05-coach-marquee/03-separator-star-panel.webp" alt="لوحة إعدادات — الفاصل بين النصوص" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/05-coach-marquee/00-desktop.webp" alt="معاينة — الفاصل بين النصوص" loading="lazy" decoding="async"/> | «نجمة ✦» |
+| <img src="/coach-docs/assets/sections/05-coach-marquee/03-separator-star-panel.webp" alt="لوحة إعدادات — الفاصل بين النصوص" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/05-coach-marquee/00-desktop.webp" alt="معاينة — الفاصل بين النصوص" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «نجمة ✦» |
 | <img src="/coach-docs/assets/sections/05-coach-marquee/03-separator-dot-panel.webp" alt="لوحة إعدادات — الفاصل بين النصوص" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/05-coach-marquee/03-separator-dot-result.webp" alt="معاينة — الفاصل بين النصوص" loading="lazy" decoding="async"/> | «نقطة ●» |
 | <img src="/coach-docs/assets/sections/05-coach-marquee/03-separator-diamond-panel.webp" alt="لوحة إعدادات — الفاصل بين النصوص" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/05-coach-marquee/03-separator-diamond-result.webp" alt="معاينة — الفاصل بين النصوص" loading="lazy" decoding="async"/> | «معيّن ◆» |
 | <img src="/coach-docs/assets/sections/05-coach-marquee/03-separator-dash-panel.webp" alt="لوحة إعدادات — الفاصل بين النصوص" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/05-coach-marquee/03-separator-dash-result.webp" alt="معاينة — الفاصل بين النصوص" loading="lazy" decoding="async"/> | «شرطة —» |
@@ -101,7 +101,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/05-coach-marquee/06-items-panel.webp" alt="لوحة إعدادات — العناصر" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/05-coach-marquee/00-desktop.webp" alt="معاينة — العناصر" loading="lazy" decoding="async"/> | أول عنصر محاط بإطار برتقالي |
+| <img src="/coach-docs/assets/sections/05-coach-marquee/06-items-panel.webp" alt="لوحة إعدادات — العناصر" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/05-coach-marquee/00-desktop.webp" alt="معاينة — العناصر" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | أول عنصر محاط بإطار برتقالي |
 
 #### «النص»
 
@@ -111,7 +111,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/05-coach-marquee/06-items-text-panel.webp" alt="لوحة إعدادات — العناصر" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/05-coach-marquee/00-desktop.webp" alt="معاينة — العناصر" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/05-coach-marquee/06-items-text-panel.webp" alt="لوحة إعدادات — العناصر" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/05-coach-marquee/00-desktop.webp" alt="معاينة — العناصر" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 ### «نصوص الشريط الثاني»
 
@@ -124,7 +124,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/05-coach-marquee/07-items_b-panel.webp" alt="لوحة إعدادات — نصوص الشريط الثاني" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/05-coach-marquee/00-desktop.webp" alt="معاينة — نصوص الشريط الثاني" loading="lazy" decoding="async"/> | أول عنصر محاط بإطار برتقالي |
+| <img src="/coach-docs/assets/sections/05-coach-marquee/07-items_b-panel.webp" alt="لوحة إعدادات — نصوص الشريط الثاني" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/05-coach-marquee/00-desktop.webp" alt="معاينة — نصوص الشريط الثاني" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | أول عنصر محاط بإطار برتقالي |
 
 #### «النص»
 
@@ -134,7 +134,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/05-coach-marquee/07-items_b-text-panel.webp" alt="لوحة إعدادات — نصوص الشريط الثاني" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/05-coach-marquee/00-desktop.webp" alt="معاينة — نصوص الشريط الثاني" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/05-coach-marquee/07-items_b-text-panel.webp" alt="لوحة إعدادات — نصوص الشريط الثاني" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/05-coach-marquee/00-desktop.webp" alt="معاينة — نصوص الشريط الثاني" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 ### «اتجاه الحركة»
 
@@ -145,8 +145,8 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/05-coach-marquee/08-direction-reading-panel.webp" alt="لوحة إعدادات — اتجاه الحركة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/05-coach-marquee/00-desktop.webp" alt="معاينة — اتجاه الحركة" loading="lazy" decoding="async"/> | «مع اتجاه القراءة» |
-| <img src="/coach-docs/assets/sections/05-coach-marquee/08-direction-reverse-panel.webp" alt="لوحة إعدادات — اتجاه الحركة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/05-coach-marquee/00-desktop.webp" alt="معاينة — اتجاه الحركة" loading="lazy" decoding="async"/> | «عكس اتجاه القراءة» |
+| <img src="/coach-docs/assets/sections/05-coach-marquee/08-direction-reading-panel.webp" alt="لوحة إعدادات — اتجاه الحركة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/05-coach-marquee/00-desktop.webp" alt="معاينة — اتجاه الحركة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «مع اتجاه القراءة» |
+| <img src="/coach-docs/assets/sections/05-coach-marquee/08-direction-reverse-panel.webp" alt="لوحة إعدادات — اتجاه الحركة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/05-coach-marquee/00-desktop.webp" alt="معاينة — اتجاه الحركة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «عكس اتجاه القراءة» |
 
 ### «السرعة»
 
@@ -157,8 +157,8 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/05-coach-marquee/09-pace-slow-panel.webp" alt="لوحة إعدادات — السرعة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/05-coach-marquee/09-pace-normal-result.webp" alt="معاينة — السرعة" loading="lazy" decoding="async"/> | «هادئة» |
-| <img src="/coach-docs/assets/sections/05-coach-marquee/09-pace-normal-panel.webp" alt="لوحة إعدادات — السرعة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/05-coach-marquee/09-pace-normal-result.webp" alt="معاينة — السرعة" loading="lazy" decoding="async"/> | «متوسطة» |
+| <img src="/coach-docs/assets/sections/05-coach-marquee/09-pace-slow-panel.webp" alt="لوحة إعدادات — السرعة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/05-coach-marquee/09-pace-normal-result.webp" alt="معاينة — السرعة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «هادئة» |
+| <img src="/coach-docs/assets/sections/05-coach-marquee/09-pace-normal-panel.webp" alt="لوحة إعدادات — السرعة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/05-coach-marquee/09-pace-normal-result.webp" alt="معاينة — السرعة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «متوسطة» |
 | <img src="/coach-docs/assets/sections/05-coach-marquee/09-pace-fast-panel.webp" alt="لوحة إعدادات — السرعة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/05-coach-marquee/09-pace-fast-result.webp" alt="معاينة — السرعة" loading="lazy" decoding="async"/> | «سريعة» |
 
 ### «يتوقف عند مرور مؤشر الفأرة»
@@ -171,7 +171,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/05-coach-marquee/10-pause_hover-panel.webp" alt="لوحة إعدادات — يتوقف عند مرور مؤشر الفأرة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/05-coach-marquee/00-desktop.webp" alt="معاينة — يتوقف عند مرور مؤشر الفأرة" loading="lazy" decoding="async"/> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
+| <img src="/coach-docs/assets/sections/05-coach-marquee/10-pause_hover-panel.webp" alt="لوحة إعدادات — يتوقف عند مرور مؤشر الفأرة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/05-coach-marquee/00-desktop.webp" alt="معاينة — يتوقف عند مرور مؤشر الفأرة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
 
 ### «زر إيقاف وتشغيل للشريط»
 
@@ -183,7 +183,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/05-coach-marquee/11-pause_button-panel.webp" alt="لوحة إعدادات — زر إيقاف وتشغيل للشريط" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/05-coach-marquee/00-desktop.webp" alt="معاينة — زر إيقاف وتشغيل للشريط" loading="lazy" decoding="async"/> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
+| <img src="/coach-docs/assets/sections/05-coach-marquee/11-pause_button-panel.webp" alt="لوحة إعدادات — زر إيقاف وتشغيل للشريط" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/05-coach-marquee/00-desktop.webp" alt="معاينة — زر إيقاف وتشغيل للشريط" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
 
 ---
 > ملاحظات البناء: لم يُعثر على النص لتمييزه: 00-desktop.webp

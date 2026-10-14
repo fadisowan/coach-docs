@@ -39,7 +39,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/03-announcement/01-announcement_enabled-panel.webp" alt="لوحة إعدادات — إظهار الشريط الإعلاني" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/03-announcement/00-default-result.webp" alt="معاينة — إظهار الشريط الإعلاني" loading="lazy" decoding="async"/> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
+| <img src="/coach-docs/assets/00-theme/03-announcement/01-announcement_enabled-panel.webp" alt="لوحة إعدادات — إظهار الشريط الإعلاني" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/03-announcement/00-default-result.webp" alt="معاينة — إظهار الشريط الإعلاني" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
 
 ### «نص الشريط»
 
@@ -65,7 +65,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/03-announcement/03-announcement_code-panel.webp" alt="لوحة إعدادات — كود الخصم (اختياري)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/03-announcement/00-default-result.webp" alt="معاينة — كود الخصم (اختياري)" loading="lazy" decoding="async"/> | النتيجة بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/00-theme/03-announcement/03-announcement_code-panel.webp" alt="لوحة إعدادات — كود الخصم (اختياري)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/03-announcement/00-default-result.webp" alt="معاينة — كود الخصم (اختياري)" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة بالقيمة الافتراضية |
 
 ### «عدّاد حتى تاريخ (اختياري)»
 
@@ -78,7 +78,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/03-announcement/04-announcement_countdown-panel.webp" alt="لوحة إعدادات — عدّاد حتى تاريخ (اختياري)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/03-announcement/00-default-result.webp" alt="معاينة — عدّاد حتى تاريخ (اختياري)" loading="lazy" decoding="async"/> | النتيجة بنص تجريبي «مثال لنصّك هنا» |
+| <img src="/coach-docs/assets/00-theme/03-announcement/04-announcement_countdown-panel.webp" alt="لوحة إعدادات — عدّاد حتى تاريخ (اختياري)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/03-announcement/00-default-result.webp" alt="معاينة — عدّاد حتى تاريخ (اختياري)" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة بنص تجريبي «مثال لنصّك هنا» |
 
 ### «رابط الشريط (اختياري)»
 
@@ -91,7 +91,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/03-announcement/05-announcement_link-panel.webp" alt="لوحة إعدادات — رابط الشريط (اختياري)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/03-announcement/00-default-result.webp" alt="معاينة — رابط الشريط (اختياري)" loading="lazy" decoding="async"/> | النتيجة بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/00-theme/03-announcement/05-announcement_link-panel.webp" alt="لوحة إعدادات — رابط الشريط (اختياري)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/03-announcement/00-default-result.webp" alt="معاينة — رابط الشريط (اختياري)" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة بالقيمة الافتراضية |
 
 ---
 > ملاحظات البناء: لم يُعثر على النص لتمييزه: 00-default-result.webp

@@ -61,7 +61,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/14-coach-steps/03-steps-panel.webp" alt="لوحة إعدادات — الخطوات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/14-coach-steps/03-steps-result.webp" alt="معاينة — الخطوات" loading="lazy" decoding="async"/> | أول عنصر محاط بإطار برتقالي |
+| <img src="/coach-docs/assets/sections/14-coach-steps/03-steps-panel.webp" alt="لوحة إعدادات — الخطوات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/14-coach-steps/03-steps-result.webp" alt="معاينة — الخطوات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | أول عنصر محاط بإطار برتقالي |
 
 #### «العنوان»
 
@@ -71,7 +71,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/14-coach-steps/03-steps-title-panel.webp" alt="لوحة إعدادات — الخطوات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/14-coach-steps/03-steps-result.webp" alt="معاينة — الخطوات" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/14-coach-steps/03-steps-title-panel.webp" alt="لوحة إعدادات — الخطوات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/14-coach-steps/03-steps-result.webp" alt="معاينة — الخطوات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 #### «الوصف»
 
@@ -81,7 +81,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/14-coach-steps/03-steps-description-panel.webp" alt="لوحة إعدادات — الخطوات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/14-coach-steps/03-steps-result.webp" alt="معاينة — الخطوات" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/14-coach-steps/03-steps-description-panel.webp" alt="لوحة إعدادات — الخطوات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/14-coach-steps/03-steps-result.webp" alt="معاينة — الخطوات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 ### «حركة مع التمرير»
 
@@ -93,7 +93,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/14-coach-steps/04-scroll_motion-panel.webp" alt="لوحة إعدادات — حركة مع التمرير" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/14-coach-steps/00-desktop.webp" alt="معاينة — حركة مع التمرير" loading="lazy" decoding="async"/> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
+| <img src="/coach-docs/assets/sections/14-coach-steps/04-scroll_motion-panel.webp" alt="لوحة إعدادات — حركة مع التمرير" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/14-coach-steps/00-desktop.webp" alt="معاينة — حركة مع التمرير" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
 
 
 <div class="source-note">صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>

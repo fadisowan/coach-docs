@@ -38,7 +38,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/11-coach-consult-plans/01-layout-tabs-panel.webp" alt="لوحة إعدادات — طريقة عرض الباقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/11-coach-consult-plans/00-desktop.webp" alt="معاينة — طريقة عرض الباقات" loading="lazy" decoding="async"/> | «تبويبات فوق بطاقة الباقة» |
+| <img src="/coach-docs/assets/sections/11-coach-consult-plans/01-layout-tabs-panel.webp" alt="لوحة إعدادات — طريقة عرض الباقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/11-coach-consult-plans/00-desktop.webp" alt="معاينة — طريقة عرض الباقات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «تبويبات فوق بطاقة الباقة» |
 | <img src="/coach-docs/assets/sections/11-coach-consult-plans/01-layout-choices-panel.webp" alt="لوحة إعدادات — طريقة عرض الباقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/11-coach-consult-plans/01-layout-choices-result.webp" alt="معاينة — طريقة عرض الباقات" loading="lazy" decoding="async"/> | «اختيارات: قائمة باقات بسعر كل منها» |
 
 ### «العنوان الصغير (فوق العنوان)»
@@ -87,7 +87,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/11-coach-consult-plans/05-plan1_product-panel.webp" alt="لوحة إعدادات — منتج الباقة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/11-coach-consult-plans/00-desktop.webp" alt="معاينة — منتج الباقة" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/11-coach-consult-plans/05-plan1_product-panel.webp" alt="لوحة إعدادات — منتج الباقة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/11-coach-consult-plans/00-desktop.webp" alt="معاينة — منتج الباقة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «اسم الباقة»
 
@@ -110,7 +110,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/11-coach-consult-plans/07-plan1_subtitle-panel.webp" alt="لوحة إعدادات — سطر تحت الاسم" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/11-coach-consult-plans/07-plan1_subtitle-result.webp" alt="معاينة — سطر تحت الاسم" loading="lazy" decoding="async"/> | مكانه في القسم محاط بإطار برتقالي |
+| <img src="/coach-docs/assets/sections/11-coach-consult-plans/07-plan1_subtitle-panel.webp" alt="لوحة إعدادات — سطر تحت الاسم" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/11-coach-consult-plans/07-plan1_subtitle-result.webp" alt="معاينة — سطر تحت الاسم" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | مكانه في القسم محاط بإطار برتقالي |
 
 ### «ملاحظة تحت السعر»
 
@@ -121,7 +121,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/11-coach-consult-plans/08-plan1_note-panel.webp" alt="لوحة إعدادات — ملاحظة تحت السعر" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/11-coach-consult-plans/07-plan1_subtitle-result.webp" alt="معاينة — ملاحظة تحت السعر" loading="lazy" decoding="async"/> | مكانه في القسم محاط بإطار برتقالي |
+| <img src="/coach-docs/assets/sections/11-coach-consult-plans/08-plan1_note-panel.webp" alt="لوحة إعدادات — ملاحظة تحت السعر" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/11-coach-consult-plans/07-plan1_subtitle-result.webp" alt="معاينة — ملاحظة تحت السعر" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | مكانه في القسم محاط بإطار برتقالي |
 
 ### «وسم بجانب الاسم (اختياري)»
 
@@ -143,7 +143,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/11-coach-consult-plans/10-plan1_features-panel.webp" alt="لوحة إعدادات — المزايا (سطر لكل ميزة)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/11-coach-consult-plans/07-plan1_subtitle-result.webp" alt="معاينة — المزايا (سطر لكل ميزة)" loading="lazy" decoding="async"/> | مكانه في القسم محاط بإطار برتقالي |
+| <img src="/coach-docs/assets/sections/11-coach-consult-plans/10-plan1_features-panel.webp" alt="لوحة إعدادات — المزايا (سطر لكل ميزة)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/11-coach-consult-plans/07-plan1_subtitle-result.webp" alt="معاينة — المزايا (سطر لكل ميزة)" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | مكانه في القسم محاط بإطار برتقالي |
 
 ### «منتج الباقة»
 
@@ -155,7 +155,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/11-coach-consult-plans/11-plan2_product-panel.webp" alt="لوحة إعدادات — منتج الباقة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/11-coach-consult-plans/00-desktop.webp" alt="معاينة — منتج الباقة" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/11-coach-consult-plans/11-plan2_product-panel.webp" alt="لوحة إعدادات — منتج الباقة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/11-coach-consult-plans/00-desktop.webp" alt="معاينة — منتج الباقة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «اسم الباقة»
 
@@ -222,7 +222,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/11-coach-consult-plans/17-plan3_product-panel.webp" alt="لوحة إعدادات — منتج الباقة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/11-coach-consult-plans/00-desktop.webp" alt="معاينة — منتج الباقة" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/11-coach-consult-plans/17-plan3_product-panel.webp" alt="لوحة إعدادات — منتج الباقة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/11-coach-consult-plans/00-desktop.webp" alt="معاينة — منتج الباقة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «اسم الباقة»
 
@@ -244,7 +244,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/11-coach-consult-plans/19-plan3_subtitle-panel.webp" alt="لوحة إعدادات — سطر تحت الاسم" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/11-coach-consult-plans/07-plan1_subtitle-result.webp" alt="معاينة — سطر تحت الاسم" loading="lazy" decoding="async"/> | مكانه في القسم محاط بإطار برتقالي |
+| <img src="/coach-docs/assets/sections/11-coach-consult-plans/19-plan3_subtitle-panel.webp" alt="لوحة إعدادات — سطر تحت الاسم" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/11-coach-consult-plans/07-plan1_subtitle-result.webp" alt="معاينة — سطر تحت الاسم" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | مكانه في القسم محاط بإطار برتقالي |
 
 ### «ملاحظة تحت السعر»
 
@@ -255,7 +255,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/11-coach-consult-plans/20-plan3_note-panel.webp" alt="لوحة إعدادات — ملاحظة تحت السعر" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/11-coach-consult-plans/07-plan1_subtitle-result.webp" alt="معاينة — ملاحظة تحت السعر" loading="lazy" decoding="async"/> | مكانه في القسم محاط بإطار برتقالي |
+| <img src="/coach-docs/assets/sections/11-coach-consult-plans/20-plan3_note-panel.webp" alt="لوحة إعدادات — ملاحظة تحت السعر" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/11-coach-consult-plans/07-plan1_subtitle-result.webp" alt="معاينة — ملاحظة تحت السعر" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | مكانه في القسم محاط بإطار برتقالي |
 
 ### «وسم بجانب الاسم (اختياري)»
 
@@ -266,7 +266,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/11-coach-consult-plans/21-plan3_tag-panel.webp" alt="لوحة إعدادات — وسم بجانب الاسم (اختياري)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/11-coach-consult-plans/07-plan1_subtitle-result.webp" alt="معاينة — وسم بجانب الاسم (اختياري)" loading="lazy" decoding="async"/> | النتيجة بنص تجريبي «مثال لنصّك هنا» |
+| <img src="/coach-docs/assets/sections/11-coach-consult-plans/21-plan3_tag-panel.webp" alt="لوحة إعدادات — وسم بجانب الاسم (اختياري)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/11-coach-consult-plans/07-plan1_subtitle-result.webp" alt="معاينة — وسم بجانب الاسم (اختياري)" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة بنص تجريبي «مثال لنصّك هنا» |
 
 ### «المزايا (سطر لكل ميزة)»
 
@@ -277,7 +277,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/11-coach-consult-plans/22-plan3_features-panel.webp" alt="لوحة إعدادات — المزايا (سطر لكل ميزة)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/11-coach-consult-plans/07-plan1_subtitle-result.webp" alt="معاينة — المزايا (سطر لكل ميزة)" loading="lazy" decoding="async"/> | مكانه في القسم محاط بإطار برتقالي |
+| <img src="/coach-docs/assets/sections/11-coach-consult-plans/22-plan3_features-panel.webp" alt="لوحة إعدادات — المزايا (سطر لكل ميزة)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/11-coach-consult-plans/07-plan1_subtitle-result.webp" alt="معاينة — المزايا (سطر لكل ميزة)" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | مكانه في القسم محاط بإطار برتقالي |
 
 ### «صورة جانبية»
 
@@ -300,7 +300,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/11-coach-consult-plans/24-perks-panel.webp" alt="لوحة إعدادات — مزايا مختصرة فوق الصورة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/11-coach-consult-plans/24-perks-result.webp" alt="معاينة — مزايا مختصرة فوق الصورة" loading="lazy" decoding="async"/> | أول عنصر محاط بإطار برتقالي |
+| <img src="/coach-docs/assets/sections/11-coach-consult-plans/24-perks-panel.webp" alt="لوحة إعدادات — مزايا مختصرة فوق الصورة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/11-coach-consult-plans/24-perks-result.webp" alt="معاينة — مزايا مختصرة فوق الصورة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | أول عنصر محاط بإطار برتقالي |
 
 #### «الأيقونة»
 
@@ -310,7 +310,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/11-coach-consult-plans/24-perks-icon-panel.webp" alt="لوحة إعدادات — مزايا مختصرة فوق الصورة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/11-coach-consult-plans/24-perks-result.webp" alt="معاينة — مزايا مختصرة فوق الصورة" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/11-coach-consult-plans/24-perks-icon-panel.webp" alt="لوحة إعدادات — مزايا مختصرة فوق الصورة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/11-coach-consult-plans/24-perks-result.webp" alt="معاينة — مزايا مختصرة فوق الصورة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 #### «النص»
 
@@ -320,7 +320,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/11-coach-consult-plans/24-perks-text-panel.webp" alt="لوحة إعدادات — مزايا مختصرة فوق الصورة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/11-coach-consult-plans/24-perks-result.webp" alt="معاينة — مزايا مختصرة فوق الصورة" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/11-coach-consult-plans/24-perks-text-panel.webp" alt="لوحة إعدادات — مزايا مختصرة فوق الصورة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/11-coach-consult-plans/24-perks-result.webp" alt="معاينة — مزايا مختصرة فوق الصورة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 ### «نص زر الإضافة للسلة»
 
@@ -332,7 +332,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/11-coach-consult-plans/25-button_label-panel.webp" alt="لوحة إعدادات — نص زر الإضافة للسلة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/11-coach-consult-plans/00-desktop.webp" alt="معاينة — نص زر الإضافة للسلة" loading="lazy" decoding="async"/> | مكانه في القسم محاط بإطار برتقالي |
+| <img src="/coach-docs/assets/sections/11-coach-consult-plans/25-button_label-panel.webp" alt="لوحة إعدادات — نص زر الإضافة للسلة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/11-coach-consult-plans/00-desktop.webp" alt="معاينة — نص زر الإضافة للسلة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | مكانه في القسم محاط بإطار برتقالي |
 
 ### «الباقة المختارة عند التحميل»
 

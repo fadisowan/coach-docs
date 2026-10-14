@@ -40,7 +40,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/22-coach-program/01-layout-stack-panel.webp" alt="لوحة إعدادات — الشكل" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/22-coach-program/01-layout-stack-result.webp" alt="معاينة — الشكل" loading="lazy" decoding="async"/> | «١ · بطاقات متكدّسة» |
+| <img src="/coach-docs/assets/sections/22-coach-program/01-layout-stack-panel.webp" alt="لوحة إعدادات — الشكل" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/22-coach-program/01-layout-stack-result.webp" alt="معاينة — الشكل" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «١ · بطاقات متكدّسة» |
 | <img src="/coach-docs/assets/sections/22-coach-program/01-layout-showcase-panel.webp" alt="لوحة إعدادات — الشكل" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/22-coach-program/01-layout-showcase-result.webp" alt="معاينة — الشكل" loading="lazy" decoding="async"/> | «٢ · عرض بالتمرير» |
 
 ### «العنوان الصغير (فوق العنوان)»
@@ -101,7 +101,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/22-coach-program/06-product-panel.webp" alt="لوحة إعدادات — منتج البرنامج" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/22-coach-program/00-desktop.webp" alt="معاينة — منتج البرنامج" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/22-coach-program/06-product-panel.webp" alt="لوحة إعدادات — منتج البرنامج" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/22-coach-program/00-desktop.webp" alt="معاينة — منتج البرنامج" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «نص زر الحجز»
 
@@ -113,7 +113,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/22-coach-program/07-button_label-panel.webp" alt="لوحة إعدادات — نص زر الحجز" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/22-coach-program/00-desktop.webp" alt="معاينة — نص زر الحجز" loading="lazy" decoding="async"/> | مكانه في القسم محاط بإطار برتقالي |
+| <img src="/coach-docs/assets/sections/22-coach-program/07-button_label-panel.webp" alt="لوحة إعدادات — نص زر الحجز" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/22-coach-program/00-desktop.webp" alt="معاينة — نص زر الحجز" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | مكانه في القسم محاط بإطار برتقالي |
 
 ### «سطر التقسيط»
 
@@ -147,7 +147,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/22-coach-program/10-seats_total-panel.webp" alt="لوحة إعدادات — مقاعد الدفعة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/22-coach-program/00-desktop.webp" alt="معاينة — مقاعد الدفعة" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/22-coach-program/10-seats_total-panel.webp" alt="لوحة إعدادات — مقاعد الدفعة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/22-coach-program/00-desktop.webp" alt="معاينة — مقاعد الدفعة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «سطر الضمان»
 
@@ -171,7 +171,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/22-coach-program/12-phases-panel.webp" alt="لوحة إعدادات — المراحل" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/22-coach-program/12-phases-result.webp" alt="معاينة — المراحل" loading="lazy" decoding="async"/> | أول عنصر محاط بإطار برتقالي |
+| <img src="/coach-docs/assets/sections/22-coach-program/12-phases-panel.webp" alt="لوحة إعدادات — المراحل" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/22-coach-program/12-phases-result.webp" alt="معاينة — المراحل" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | أول عنصر محاط بإطار برتقالي |
 
 #### «اسم المرحلة»
 
@@ -181,7 +181,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/22-coach-program/12-phases-title-panel.webp" alt="لوحة إعدادات — المراحل" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/22-coach-program/12-phases-result.webp" alt="معاينة — المراحل" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/22-coach-program/12-phases-title-panel.webp" alt="لوحة إعدادات — المراحل" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/22-coach-program/12-phases-result.webp" alt="معاينة — المراحل" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 #### «المدة»
 
@@ -191,7 +191,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/22-coach-program/12-phases-weeks-panel.webp" alt="لوحة إعدادات — المراحل" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/22-coach-program/12-phases-result.webp" alt="معاينة — المراحل" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/22-coach-program/12-phases-weeks-panel.webp" alt="لوحة إعدادات — المراحل" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/22-coach-program/12-phases-result.webp" alt="معاينة — المراحل" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 #### «الوصف»
 
@@ -201,7 +201,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/22-coach-program/12-phases-text-panel.webp" alt="لوحة إعدادات — المراحل" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/22-coach-program/12-phases-result.webp" alt="معاينة — المراحل" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/22-coach-program/12-phases-text-panel.webp" alt="لوحة إعدادات — المراحل" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/22-coach-program/12-phases-result.webp" alt="معاينة — المراحل" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 #### «المخرجات»
 
@@ -212,7 +212,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/22-coach-program/12-phases-outcomes-panel.webp" alt="لوحة إعدادات — المراحل" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/22-coach-program/12-phases-result.webp" alt="معاينة — المراحل" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/22-coach-program/12-phases-outcomes-panel.webp" alt="لوحة إعدادات — المراحل" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/22-coach-program/12-phases-result.webp" alt="معاينة — المراحل" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 #### «صورة للشكل ٢»
 
@@ -222,7 +222,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/22-coach-program/12-phases-image-panel.webp" alt="لوحة إعدادات — المراحل" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/22-coach-program/12-phases-result.webp" alt="معاينة — المراحل" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/22-coach-program/12-phases-image-panel.webp" alt="لوحة إعدادات — المراحل" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/22-coach-program/12-phases-result.webp" alt="معاينة — المراحل" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 ### «مرافقة ناعمة أثناء التمرير»
 
@@ -234,7 +234,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/22-coach-program/13-side_follow-panel.webp" alt="لوحة إعدادات — مرافقة ناعمة أثناء التمرير" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/22-coach-program/01-layout-stack-result.webp" alt="معاينة — مرافقة ناعمة أثناء التمرير" loading="lazy" decoding="async"/> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
+| <img src="/coach-docs/assets/sections/22-coach-program/13-side_follow-panel.webp" alt="لوحة إعدادات — مرافقة ناعمة أثناء التمرير" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/22-coach-program/01-layout-stack-result.webp" alt="معاينة — مرافقة ناعمة أثناء التمرير" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
 
 
 <div class="source-note">صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>

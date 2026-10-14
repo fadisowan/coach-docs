@@ -38,7 +38,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/20-coach-curriculum/01-card_position-above-panel.webp" alt="لوحة إعدادات — موضع بطاقة البرنامج" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/20-coach-curriculum/01-card_position-above-result.webp" alt="معاينة — موضع بطاقة البرنامج" loading="lazy" decoding="async"/> | «أعلى المحتوى: قبل العنوان» |
+| <img src="/coach-docs/assets/sections/20-coach-curriculum/01-card_position-above-panel.webp" alt="لوحة إعدادات — موضع بطاقة البرنامج" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/20-coach-curriculum/01-card_position-above-result.webp" alt="معاينة — موضع بطاقة البرنامج" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «أعلى المحتوى: قبل العنوان» |
 | <img src="/coach-docs/assets/sections/20-coach-curriculum/01-card_position-below-panel.webp" alt="لوحة إعدادات — موضع بطاقة البرنامج" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/20-coach-curriculum/01-card_position-below-result.webp" alt="معاينة — موضع بطاقة البرنامج" loading="lazy" decoding="async"/> | «أسفل المحتوى: بعد العنوان والملخص» |
 
 ### «العنوان الصغير (فوق العنوان)»
@@ -87,7 +87,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/20-coach-curriculum/05-summary-panel.webp" alt="لوحة إعدادات — ملخص البرنامج" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/20-coach-curriculum/00-desktop.webp" alt="معاينة — ملخص البرنامج" loading="lazy" decoding="async"/> | مكانه في القسم محاط بإطار برتقالي |
+| <img src="/coach-docs/assets/sections/20-coach-curriculum/05-summary-panel.webp" alt="لوحة إعدادات — ملخص البرنامج" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/20-coach-curriculum/00-desktop.webp" alt="معاينة — ملخص البرنامج" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | مكانه في القسم محاط بإطار برتقالي |
 
 ### «تفاصيل البرنامج فوق زر الإضافة (صفحة المنتج)»
 
@@ -97,7 +97,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/20-coach-curriculum/06-facts-panel.webp" alt="لوحة إعدادات — تفاصيل البرنامج فوق زر الإضافة (صفحة المنتج)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/20-coach-curriculum/01-card_position-above-result.webp" alt="معاينة — تفاصيل البرنامج فوق زر الإضافة (صفحة المنتج)" loading="lazy" decoding="async"/> | النتيجة بنص تجريبي «مثال لنصّك هنا» |
+| <img src="/coach-docs/assets/sections/20-coach-curriculum/06-facts-panel.webp" alt="لوحة إعدادات — تفاصيل البرنامج فوق زر الإضافة (صفحة المنتج)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/20-coach-curriculum/01-card_position-above-result.webp" alt="معاينة — تفاصيل البرنامج فوق زر الإضافة (صفحة المنتج)" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة بنص تجريبي «مثال لنصّك هنا» |
 
 ### «فيديو الدرس المجاني»
 
@@ -109,7 +109,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/20-coach-curriculum/07-sample_video-panel.webp" alt="لوحة إعدادات — فيديو الدرس المجاني" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/20-coach-curriculum/01-card_position-above-result.webp" alt="معاينة — فيديو الدرس المجاني" loading="lazy" decoding="async"/> | النتيجة بنص تجريبي «مثال لنصّك هنا» |
+| <img src="/coach-docs/assets/sections/20-coach-curriculum/07-sample_video-panel.webp" alt="لوحة إعدادات — فيديو الدرس المجاني" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/20-coach-curriculum/01-card_position-above-result.webp" alt="معاينة — فيديو الدرس المجاني" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة بنص تجريبي «مثال لنصّك هنا» |
 
 ### «نص زر الدرس المجاني»
 
@@ -120,7 +120,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/20-coach-curriculum/08-sample_label-panel.webp" alt="لوحة إعدادات — نص زر الدرس المجاني" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/20-coach-curriculum/00-desktop.webp" alt="معاينة — نص زر الدرس المجاني" loading="lazy" decoding="async"/> | مكانه في القسم محاط بإطار برتقالي |
+| <img src="/coach-docs/assets/sections/20-coach-curriculum/08-sample_label-panel.webp" alt="لوحة إعدادات — نص زر الدرس المجاني" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/20-coach-curriculum/00-desktop.webp" alt="معاينة — نص زر الدرس المجاني" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | مكانه في القسم محاط بإطار برتقالي |
 
 ### «الوحدات»
 
@@ -132,7 +132,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/20-coach-curriculum/09-units-panel.webp" alt="لوحة إعدادات — الوحدات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/20-coach-curriculum/09-units-result.webp" alt="معاينة — الوحدات" loading="lazy" decoding="async"/> | أول عنصر محاط بإطار برتقالي |
+| <img src="/coach-docs/assets/sections/20-coach-curriculum/09-units-panel.webp" alt="لوحة إعدادات — الوحدات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/20-coach-curriculum/09-units-result.webp" alt="معاينة — الوحدات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | أول عنصر محاط بإطار برتقالي |
 
 #### «عنوان الوحدة»
 
@@ -142,7 +142,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/20-coach-curriculum/09-units-title-panel.webp" alt="لوحة إعدادات — الوحدات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/20-coach-curriculum/09-units-result.webp" alt="معاينة — الوحدات" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/20-coach-curriculum/09-units-title-panel.webp" alt="لوحة إعدادات — الوحدات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/20-coach-curriculum/09-units-result.webp" alt="معاينة — الوحدات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 #### «تفاصيل مختصرة»
 
@@ -152,7 +152,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/20-coach-curriculum/09-units-meta-panel.webp" alt="لوحة إعدادات — الوحدات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/20-coach-curriculum/09-units-result.webp" alt="معاينة — الوحدات" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/20-coach-curriculum/09-units-meta-panel.webp" alt="لوحة إعدادات — الوحدات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/20-coach-curriculum/09-units-result.webp" alt="معاينة — الوحدات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 #### «الدروس»
 
@@ -163,7 +163,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/20-coach-curriculum/09-units-lessons-panel.webp" alt="لوحة إعدادات — الوحدات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/20-coach-curriculum/09-units-result.webp" alt="معاينة — الوحدات" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/20-coach-curriculum/09-units-lessons-panel.webp" alt="لوحة إعدادات — الوحدات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/20-coach-curriculum/09-units-result.webp" alt="معاينة — الوحدات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 ### «منتج البرنامج المرتبط بالمنهج»
 
@@ -175,7 +175,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/20-coach-curriculum/10-product-panel.webp" alt="لوحة إعدادات — منتج البرنامج المرتبط بالمنهج" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/20-coach-curriculum/00-desktop.webp" alt="معاينة — منتج البرنامج المرتبط بالمنهج" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/20-coach-curriculum/10-product-panel.webp" alt="لوحة إعدادات — منتج البرنامج المرتبط بالمنهج" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/20-coach-curriculum/00-desktop.webp" alt="معاينة — منتج البرنامج المرتبط بالمنهج" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «صورة البرنامج (اختياري)»
 
@@ -210,7 +210,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/20-coach-curriculum/13-button_label-panel.webp" alt="لوحة إعدادات — نص زر الإضافة للسلة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/20-coach-curriculum/00-desktop.webp" alt="معاينة — نص زر الإضافة للسلة" loading="lazy" decoding="async"/> | مكانه في القسم محاط بإطار برتقالي |
+| <img src="/coach-docs/assets/sections/20-coach-curriculum/13-button_label-panel.webp" alt="لوحة إعدادات — نص زر الإضافة للسلة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/20-coach-curriculum/00-desktop.webp" alt="معاينة — نص زر الإضافة للسلة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | مكانه في القسم محاط بإطار برتقالي |
 
 ### «تثبيت الجزء الجانبي أثناء التمرير»
 

@@ -43,7 +43,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/24-coach-hero-book/01-image_style-fill-panel.webp" alt="لوحة إعدادات — شكل الصورة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/24-coach-hero-book/01-image_style-fill-result.webp" alt="معاينة — شكل الصورة" loading="lazy" decoding="async"/> | «تملأ اللوحة» |
+| <img src="/coach-docs/assets/sections/24-coach-hero-book/01-image_style-fill-panel.webp" alt="لوحة إعدادات — شكل الصورة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/24-coach-hero-book/01-image_style-fill-result.webp" alt="معاينة — شكل الصورة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «تملأ اللوحة» |
 | <img src="/coach-docs/assets/sections/24-coach-hero-book/01-image_style-book-panel.webp" alt="لوحة إعدادات — شكل الصورة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/24-coach-hero-book/01-image_style-book-result.webp" alt="معاينة — شكل الصورة" loading="lazy" decoding="async"/> | «غلاف كتاب مائل» |
 
 ### «الشارة»
@@ -91,7 +91,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/24-coach-hero-book/05-product-panel.webp" alt="لوحة إعدادات — منتج الكتاب" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/24-coach-hero-book/00-desktop.webp" alt="معاينة — منتج الكتاب" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/24-coach-hero-book/05-product-panel.webp" alt="لوحة إعدادات — منتج الكتاب" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/24-coach-hero-book/00-desktop.webp" alt="معاينة — منتج الكتاب" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «صورة الغلاف»
 
@@ -115,7 +115,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/24-coach-hero-book/07-book_3d-panel.webp" alt="لوحة إعدادات — كتاب بعمق: كعب وصفحات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/24-coach-hero-book/01-image_style-fill-result.webp" alt="معاينة — كتاب بعمق: كعب وصفحات" loading="lazy" decoding="async"/> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
+| <img src="/coach-docs/assets/sections/24-coach-hero-book/07-book_3d-panel.webp" alt="لوحة إعدادات — كتاب بعمق: كعب وصفحات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/24-coach-hero-book/01-image_style-fill-result.webp" alt="معاينة — كتاب بعمق: كعب وصفحات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
 
 ### «حركة خفيفة للغلاف والبطاقة»
 
@@ -127,7 +127,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/24-coach-hero-book/08-motion-panel.webp" alt="لوحة إعدادات — حركة خفيفة للغلاف والبطاقة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/24-coach-hero-book/01-image_style-fill-result.webp" alt="معاينة — حركة خفيفة للغلاف والبطاقة" loading="lazy" decoding="async"/> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
+| <img src="/coach-docs/assets/sections/24-coach-hero-book/08-motion-panel.webp" alt="لوحة إعدادات — حركة خفيفة للغلاف والبطاقة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/24-coach-hero-book/01-image_style-fill-result.webp" alt="معاينة — حركة خفيفة للغلاف والبطاقة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
 
 ### «الغلاف يطفو»
 
@@ -139,7 +139,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/24-coach-hero-book/09-cover_float-panel.webp" alt="لوحة إعدادات — الغلاف يطفو" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/24-coach-hero-book/01-image_style-fill-result.webp" alt="معاينة — الغلاف يطفو" loading="lazy" decoding="async"/> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
+| <img src="/coach-docs/assets/sections/24-coach-hero-book/09-cover_float-panel.webp" alt="لوحة إعدادات — الغلاف يطفو" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/24-coach-hero-book/01-image_style-fill-result.webp" alt="معاينة — الغلاف يطفو" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
 
 ### «معلومات سريعة»
 
@@ -150,7 +150,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/24-coach-hero-book/10-facts-panel.webp" alt="لوحة إعدادات — معلومات سريعة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/24-coach-hero-book/10-facts-result.webp" alt="معاينة — معلومات سريعة" loading="lazy" decoding="async"/> | أول عنصر محاط بإطار برتقالي |
+| <img src="/coach-docs/assets/sections/24-coach-hero-book/10-facts-panel.webp" alt="لوحة إعدادات — معلومات سريعة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/24-coach-hero-book/10-facts-result.webp" alt="معاينة — معلومات سريعة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | أول عنصر محاط بإطار برتقالي |
 
 #### «القيمة»
 
@@ -160,7 +160,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/24-coach-hero-book/10-facts-value-panel.webp" alt="لوحة إعدادات — معلومات سريعة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/24-coach-hero-book/10-facts-result.webp" alt="معاينة — معلومات سريعة" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/24-coach-hero-book/10-facts-value-panel.webp" alt="لوحة إعدادات — معلومات سريعة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/24-coach-hero-book/10-facts-result.webp" alt="معاينة — معلومات سريعة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 #### «الوصف»
 
@@ -170,7 +170,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/24-coach-hero-book/10-facts-label-panel.webp" alt="لوحة إعدادات — معلومات سريعة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/24-coach-hero-book/10-facts-result.webp" alt="معاينة — معلومات سريعة" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/24-coach-hero-book/10-facts-label-panel.webp" alt="لوحة إعدادات — معلومات سريعة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/24-coach-hero-book/10-facts-result.webp" alt="معاينة — معلومات سريعة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 ### «التقييم في البطاقة البيضاء»
 
@@ -228,7 +228,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/24-coach-hero-book/15-primary_label-panel.webp" alt="لوحة إعدادات — نص زر الإضافة للسلة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/24-coach-hero-book/00-desktop.webp" alt="معاينة — نص زر الإضافة للسلة" loading="lazy" decoding="async"/> | مكانه في القسم محاط بإطار برتقالي |
+| <img src="/coach-docs/assets/sections/24-coach-hero-book/15-primary_label-panel.webp" alt="لوحة إعدادات — نص زر الإضافة للسلة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/24-coach-hero-book/00-desktop.webp" alt="معاينة — نص زر الإضافة للسلة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | مكانه في القسم محاط بإطار برتقالي |
 
 ### «نص الزر الثاني»
 
@@ -252,7 +252,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/24-coach-hero-book/17-secondary_product-panel.webp" alt="لوحة إعدادات — منتج الزر الثاني (اختياري)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/24-coach-hero-book/00-desktop.webp" alt="معاينة — منتج الزر الثاني (اختياري)" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/24-coach-hero-book/17-secondary_product-panel.webp" alt="لوحة إعدادات — منتج الزر الثاني (اختياري)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/24-coach-hero-book/00-desktop.webp" alt="معاينة — منتج الزر الثاني (اختياري)" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «رابط الزر الثاني (اختياري)»
 
@@ -264,7 +264,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/24-coach-hero-book/18-secondary_link-panel.webp" alt="لوحة إعدادات — رابط الزر الثاني (اختياري)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/24-coach-hero-book/00-desktop.webp" alt="معاينة — رابط الزر الثاني (اختياري)" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/24-coach-hero-book/18-secondary_link-panel.webp" alt="لوحة إعدادات — رابط الزر الثاني (اختياري)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/24-coach-hero-book/00-desktop.webp" alt="معاينة — رابط الزر الثاني (اختياري)" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 
 <div class="source-note">صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>

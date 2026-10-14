@@ -51,7 +51,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/44-coach-final-cta/02-eyebrow-panel.webp" alt="لوحة إعدادات — العنوان الصغير (فوق العنوان)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/44-coach-final-cta/00-desktop.webp" alt="معاينة — العنوان الصغير (فوق العنوان)" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/44-coach-final-cta/02-eyebrow-panel.webp" alt="لوحة إعدادات — العنوان الصغير (فوق العنوان)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/44-coach-final-cta/00-desktop.webp" alt="معاينة — العنوان الصغير (فوق العنوان)" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «العنوان»
 
@@ -64,7 +64,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/44-coach-final-cta/03-title-panel.webp" alt="لوحة إعدادات — العنوان" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/44-coach-final-cta/00-desktop.webp" alt="معاينة — العنوان" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/44-coach-final-cta/03-title-panel.webp" alt="لوحة إعدادات — العنوان" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/44-coach-final-cta/00-desktop.webp" alt="معاينة — العنوان" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «الوصف»
 
@@ -77,7 +77,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/44-coach-final-cta/04-description-panel.webp" alt="لوحة إعدادات — الوصف" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/44-coach-final-cta/00-desktop.webp" alt="معاينة — الوصف" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/44-coach-final-cta/04-description-panel.webp" alt="لوحة إعدادات — الوصف" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/44-coach-final-cta/00-desktop.webp" alt="معاينة — الوصف" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «نص الزر الرئيسي»
 
@@ -90,7 +90,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/44-coach-final-cta/05-primary_label-panel.webp" alt="لوحة إعدادات — نص الزر الرئيسي" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/44-coach-final-cta/00-desktop.webp" alt="معاينة — نص الزر الرئيسي" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/44-coach-final-cta/05-primary_label-panel.webp" alt="لوحة إعدادات — نص الزر الرئيسي" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/44-coach-final-cta/00-desktop.webp" alt="معاينة — نص الزر الرئيسي" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «رابط الزر الرئيسي»
 
@@ -103,7 +103,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/44-coach-final-cta/06-primary_link-panel.webp" alt="لوحة إعدادات — رابط الزر الرئيسي" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/44-coach-final-cta/00-desktop.webp" alt="معاينة — رابط الزر الرئيسي" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/44-coach-final-cta/06-primary_link-panel.webp" alt="لوحة إعدادات — رابط الزر الرئيسي" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/44-coach-final-cta/00-desktop.webp" alt="معاينة — رابط الزر الرئيسي" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «نص الزر الثاني»
 
@@ -116,7 +116,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/44-coach-final-cta/07-secondary_label-panel.webp" alt="لوحة إعدادات — نص الزر الثاني" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/44-coach-final-cta/00-desktop.webp" alt="معاينة — نص الزر الثاني" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/44-coach-final-cta/07-secondary_label-panel.webp" alt="لوحة إعدادات — نص الزر الثاني" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/44-coach-final-cta/00-desktop.webp" alt="معاينة — نص الزر الثاني" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «رابط الزر الثاني»
 
@@ -129,7 +129,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/44-coach-final-cta/08-secondary_link-panel.webp" alt="لوحة إعدادات — رابط الزر الثاني" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/44-coach-final-cta/00-desktop.webp" alt="معاينة — رابط الزر الثاني" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/44-coach-final-cta/08-secondary_link-panel.webp" alt="لوحة إعدادات — رابط الزر الثاني" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/44-coach-final-cta/00-desktop.webp" alt="معاينة — رابط الزر الثاني" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «شريط الكلمات الكبيرة»
 
@@ -153,7 +153,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/44-coach-final-cta/10-words-panel.webp" alt="لوحة إعدادات — الكلمات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/44-coach-final-cta/00-desktop.webp" alt="معاينة — الكلمات" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/44-coach-final-cta/10-words-panel.webp" alt="لوحة إعدادات — الكلمات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/44-coach-final-cta/00-desktop.webp" alt="معاينة — الكلمات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «حجم الكلمات»
 
@@ -165,7 +165,7 @@ editUrl: false
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
 | <img src="/coach-docs/assets/sections/44-coach-final-cta/11-words_size-s-panel.webp" alt="لوحة إعدادات — حجم الكلمات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/44-coach-final-cta/11-words_size-s-result.webp" alt="معاينة — حجم الكلمات" loading="lazy" decoding="async"/> | «صغير» |
-| <img src="/coach-docs/assets/sections/44-coach-final-cta/11-words_size-m-panel.webp" alt="لوحة إعدادات — حجم الكلمات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/44-coach-final-cta/00-desktop.webp" alt="معاينة — حجم الكلمات" loading="lazy" decoding="async"/> | «متوسط» |
+| <img src="/coach-docs/assets/sections/44-coach-final-cta/11-words_size-m-panel.webp" alt="لوحة إعدادات — حجم الكلمات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/44-coach-final-cta/00-desktop.webp" alt="معاينة — حجم الكلمات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «متوسط» |
 | <img src="/coach-docs/assets/sections/44-coach-final-cta/11-words_size-l-panel.webp" alt="لوحة إعدادات — حجم الكلمات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/44-coach-final-cta/11-words_size-l-result.webp" alt="معاينة — حجم الكلمات" loading="lazy" decoding="async"/> | «كبير» |
 
 ### «تتبع حركة الفأرة على الحاسوب»
@@ -178,7 +178,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/44-coach-final-cta/12-words_pointer-panel.webp" alt="لوحة إعدادات — تتبع حركة الفأرة على الحاسوب" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/44-coach-final-cta/00-desktop.webp" alt="معاينة — تتبع حركة الفأرة على الحاسوب" loading="lazy" decoding="async"/> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
+| <img src="/coach-docs/assets/sections/44-coach-final-cta/12-words_pointer-panel.webp" alt="لوحة إعدادات — تتبع حركة الفأرة على الحاسوب" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/44-coach-final-cta/00-desktop.webp" alt="معاينة — تتبع حركة الفأرة على الحاسوب" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
 
 
 <div class="source-note">صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>

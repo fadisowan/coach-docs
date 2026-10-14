@@ -47,7 +47,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/09-coach-podcast/01-layout-grid-panel.webp" alt="لوحة إعدادات — شكل الحلقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/09-coach-podcast/01-layout-grid-result.webp" alt="معاينة — شكل الحلقات" loading="lazy" decoding="async"/> | «شبكة» |
+| <img src="/coach-docs/assets/sections/09-coach-podcast/01-layout-grid-panel.webp" alt="لوحة إعدادات — شكل الحلقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/09-coach-podcast/01-layout-grid-result.webp" alt="معاينة — شكل الحلقات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «شبكة» |
 | <img src="/coach-docs/assets/sections/09-coach-podcast/01-layout-featured-panel.webp" alt="لوحة إعدادات — شكل الحلقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/09-coach-podcast/01-layout-featured-result.webp" alt="معاينة — شكل الحلقات" loading="lazy" decoding="async"/> | «حلقة مميّزة + قائمة» |
 
 ### «مكان المشغّل»
@@ -59,7 +59,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/09-coach-podcast/02-player-float-panel.webp" alt="لوحة إعدادات — مكان المشغّل" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/09-coach-podcast/01-layout-grid-result.webp" alt="معاينة — مكان المشغّل" loading="lazy" decoding="async"/> | «لوحة جانبية عائمة» |
+| <img src="/coach-docs/assets/sections/09-coach-podcast/02-player-float-panel.webp" alt="لوحة إعدادات — مكان المشغّل" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/09-coach-podcast/01-layout-grid-result.webp" alt="معاينة — مكان المشغّل" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «لوحة جانبية عائمة» |
 | <img src="/coach-docs/assets/sections/09-coach-podcast/02-player-below-panel.webp" alt="لوحة إعدادات — مكان المشغّل" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/09-coach-podcast/02-player-below-result.webp" alt="معاينة — مكان المشغّل" loading="lazy" decoding="async"/> | «تحت الحلقات» |
 
 ### «زر جانبي ثابت يفتح المشغّل»
@@ -109,7 +109,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/09-coach-podcast/06-episodes-panel.webp" alt="لوحة إعدادات — الحلقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/09-coach-podcast/06-episodes-result.webp" alt="معاينة — الحلقات" loading="lazy" decoding="async"/> | أول عنصر محاط بإطار برتقالي |
+| <img src="/coach-docs/assets/sections/09-coach-podcast/06-episodes-panel.webp" alt="لوحة إعدادات — الحلقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/09-coach-podcast/06-episodes-result.webp" alt="معاينة — الحلقات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | أول عنصر محاط بإطار برتقالي |
 
 #### «العنوان»
 
@@ -119,7 +119,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/09-coach-podcast/06-episodes-title-panel.webp" alt="لوحة إعدادات — الحلقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/09-coach-podcast/06-episodes-result.webp" alt="معاينة — الحلقات" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/09-coach-podcast/06-episodes-title-panel.webp" alt="لوحة إعدادات — الحلقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/09-coach-podcast/06-episodes-result.webp" alt="معاينة — الحلقات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 #### «رابط التشغيل»
 
@@ -130,7 +130,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/09-coach-podcast/06-episodes-url-panel.webp" alt="لوحة إعدادات — الحلقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/09-coach-podcast/06-episodes-result.webp" alt="معاينة — الحلقات" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/09-coach-podcast/06-episodes-url-panel.webp" alt="لوحة إعدادات — الحلقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/09-coach-podcast/06-episodes-result.webp" alt="معاينة — الحلقات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 #### «الضيف أو نوع الحلقة»
 
@@ -140,7 +140,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/09-coach-podcast/06-episodes-guest-panel.webp" alt="لوحة إعدادات — الحلقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/09-coach-podcast/06-episodes-result.webp" alt="معاينة — الحلقات" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/09-coach-podcast/06-episodes-guest-panel.webp" alt="لوحة إعدادات — الحلقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/09-coach-podcast/06-episodes-result.webp" alt="معاينة — الحلقات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 #### «المدة»
 
@@ -150,7 +150,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/09-coach-podcast/06-episodes-duration-panel.webp" alt="لوحة إعدادات — الحلقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/09-coach-podcast/06-episodes-result.webp" alt="معاينة — الحلقات" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/09-coach-podcast/06-episodes-duration-panel.webp" alt="لوحة إعدادات — الحلقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/09-coach-podcast/06-episodes-result.webp" alt="معاينة — الحلقات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 #### «رقم الحلقة»
 
@@ -161,7 +161,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/09-coach-podcast/06-episodes-number-panel.webp" alt="لوحة إعدادات — الحلقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/09-coach-podcast/06-episodes-result.webp" alt="معاينة — الحلقات" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/09-coach-podcast/06-episodes-number-panel.webp" alt="لوحة إعدادات — الحلقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/09-coach-podcast/06-episodes-result.webp" alt="معاينة — الحلقات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 #### «الغلاف»
 
@@ -172,7 +172,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/09-coach-podcast/06-episodes-cover-panel.webp" alt="لوحة إعدادات — الحلقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/09-coach-podcast/06-episodes-result.webp" alt="معاينة — الحلقات" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/09-coach-podcast/06-episodes-cover-panel.webp" alt="لوحة إعدادات — الحلقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/09-coach-podcast/06-episodes-result.webp" alt="معاينة — الحلقات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 #### «نبذة قصيرة (اختياري)»
 
@@ -183,7 +183,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/09-coach-podcast/06-episodes-notes-panel.webp" alt="لوحة إعدادات — الحلقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/09-coach-podcast/06-episodes-result.webp" alt="معاينة — الحلقات" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/09-coach-podcast/06-episodes-notes-panel.webp" alt="لوحة إعدادات — الحلقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/09-coach-podcast/06-episodes-result.webp" alt="معاينة — الحلقات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 #### «رابط النص الكامل (اختياري)»
 
@@ -193,7 +193,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/09-coach-podcast/06-episodes-transcript-panel.webp" alt="لوحة إعدادات — الحلقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/09-coach-podcast/06-episodes-result.webp" alt="معاينة — الحلقات" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/09-coach-podcast/06-episodes-transcript-panel.webp" alt="لوحة إعدادات — الحلقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/09-coach-podcast/06-episodes-result.webp" alt="معاينة — الحلقات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 #### «رابط خارجي (اختياري)»
 
@@ -204,7 +204,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/09-coach-podcast/06-episodes-link-panel.webp" alt="لوحة إعدادات — الحلقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/09-coach-podcast/06-episodes-result.webp" alt="معاينة — الحلقات" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/09-coach-podcast/06-episodes-link-panel.webp" alt="لوحة إعدادات — الحلقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/09-coach-podcast/06-episodes-result.webp" alt="معاينة — الحلقات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 #### «البرنامج المذكور (اختياري)»
 
@@ -215,7 +215,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/09-coach-podcast/06-episodes-product-panel.webp" alt="لوحة إعدادات — الحلقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/09-coach-podcast/06-episodes-result.webp" alt="معاينة — الحلقات" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/09-coach-podcast/06-episodes-product-panel.webp" alt="لوحة إعدادات — الحلقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/09-coach-podcast/06-episodes-result.webp" alt="معاينة — الحلقات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 ### «المنصات»
 
@@ -227,7 +227,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/09-coach-podcast/07-platforms-panel.webp" alt="لوحة إعدادات — المنصات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/09-coach-podcast/07-platforms-result.webp" alt="معاينة — المنصات" loading="lazy" decoding="async"/> | أول عنصر محاط بإطار برتقالي |
+| <img src="/coach-docs/assets/sections/09-coach-podcast/07-platforms-panel.webp" alt="لوحة إعدادات — المنصات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/09-coach-podcast/07-platforms-result.webp" alt="معاينة — المنصات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | أول عنصر محاط بإطار برتقالي |
 
 #### «الاسم»
 
@@ -237,7 +237,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/09-coach-podcast/07-platforms-name-panel.webp" alt="لوحة إعدادات — المنصات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/09-coach-podcast/07-platforms-result.webp" alt="معاينة — المنصات" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/09-coach-podcast/07-platforms-name-panel.webp" alt="لوحة إعدادات — المنصات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/09-coach-podcast/07-platforms-result.webp" alt="معاينة — المنصات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 #### «الرابط»
 
@@ -248,7 +248,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/09-coach-podcast/07-platforms-link-panel.webp" alt="لوحة إعدادات — المنصات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/09-coach-podcast/07-platforms-result.webp" alt="معاينة — المنصات" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/09-coach-podcast/07-platforms-link-panel.webp" alt="لوحة إعدادات — المنصات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/09-coach-podcast/07-platforms-result.webp" alt="معاينة — المنصات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 #### «لون النقطة»
 
@@ -259,7 +259,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/09-coach-podcast/07-platforms-dot-panel.webp" alt="لوحة إعدادات — المنصات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/09-coach-podcast/07-platforms-result.webp" alt="معاينة — المنصات" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/09-coach-podcast/07-platforms-dot-panel.webp" alt="لوحة إعدادات — المنصات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/09-coach-podcast/07-platforms-result.webp" alt="معاينة — المنصات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 
 <div class="source-note">صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>

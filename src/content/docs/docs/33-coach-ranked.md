@@ -83,7 +83,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/33-coach-ranked/05-source-sales-panel.webp" alt="لوحة إعدادات — مصدر الترتيب" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/33-coach-ranked/00-desktop.webp" alt="معاينة — مصدر الترتيب" loading="lazy" decoding="async"/> | «الأكثر مبيعاً في سلة (تلقائي)» |
+| <img src="/coach-docs/assets/sections/33-coach-ranked/05-source-sales-panel.webp" alt="لوحة إعدادات — مصدر الترتيب" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/33-coach-ranked/00-desktop.webp" alt="معاينة — مصدر الترتيب" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «الأكثر مبيعاً في سلة (تلقائي)» |
 | <img src="/coach-docs/assets/sections/33-coach-ranked/05-source-selected-panel.webp" alt="لوحة إعدادات — مصدر الترتيب" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/33-coach-ranked/05-source-selected-result.webp" alt="معاينة — مصدر الترتيب" loading="lazy" decoding="async"/> | «منتجات أختارها بالترتيب» |
 
 ### «المنتجات بالترتيب»
@@ -97,7 +97,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/33-coach-ranked/06-products-panel.webp" alt="لوحة إعدادات — المنتجات بالترتيب" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/33-coach-ranked/00-desktop.webp" alt="معاينة — المنتجات بالترتيب" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/33-coach-ranked/06-products-panel.webp" alt="لوحة إعدادات — المنتجات بالترتيب" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/33-coach-ranked/00-desktop.webp" alt="معاينة — المنتجات بالترتيب" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «عدد المنتجات (٣–٥)»
 
@@ -109,7 +109,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/33-coach-ranked/07-limit-panel.webp" alt="لوحة إعدادات — عدد المنتجات (٣–٥)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/33-coach-ranked/00-desktop.webp" alt="معاينة — عدد المنتجات (٣–٥)" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/33-coach-ranked/07-limit-panel.webp" alt="لوحة إعدادات — عدد المنتجات (٣–٥)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/33-coach-ranked/00-desktop.webp" alt="معاينة — عدد المنتجات (٣–٥)" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «إظهار عدد المبيعات»
 
@@ -121,7 +121,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/33-coach-ranked/08-show_sales-panel.webp" alt="لوحة إعدادات — إظهار عدد المبيعات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/33-coach-ranked/00-desktop.webp" alt="معاينة — إظهار عدد المبيعات" loading="lazy" decoding="async"/> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
+| <img src="/coach-docs/assets/sections/33-coach-ranked/08-show_sales-panel.webp" alt="لوحة إعدادات — إظهار عدد المبيعات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/33-coach-ranked/00-desktop.webp" alt="معاينة — إظهار عدد المبيعات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
 
 ### «نص زر الإضافة للسلة»
 
@@ -133,7 +133,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/33-coach-ranked/09-button_label-panel.webp" alt="لوحة إعدادات — نص زر الإضافة للسلة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/33-coach-ranked/00-desktop.webp" alt="معاينة — نص زر الإضافة للسلة" loading="lazy" decoding="async"/> | مكانه في القسم محاط بإطار برتقالي |
+| <img src="/coach-docs/assets/sections/33-coach-ranked/09-button_label-panel.webp" alt="لوحة إعدادات — نص زر الإضافة للسلة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/33-coach-ranked/00-desktop.webp" alt="معاينة — نص زر الإضافة للسلة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | مكانه في القسم محاط بإطار برتقالي |
 
 
 <div class="source-note">صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>

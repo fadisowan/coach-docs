@@ -86,7 +86,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/36-coach-spines/05-products-panel.webp" alt="لوحة إعدادات — الكتب" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/36-coach-spines/00-desktop.webp" alt="معاينة — الكتب" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/36-coach-spines/05-products-panel.webp" alt="لوحة إعدادات — الكتب" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/36-coach-spines/00-desktop.webp" alt="معاينة — الكتب" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «الكعوب (بنفس الترتيب)»
 
@@ -98,7 +98,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/36-coach-spines/06-spines-panel.webp" alt="لوحة إعدادات — الكعوب (بنفس الترتيب)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/36-coach-spines/00-desktop.webp" alt="معاينة — الكعوب (بنفس الترتيب)" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/36-coach-spines/06-spines-panel.webp" alt="لوحة إعدادات — الكعوب (بنفس الترتيب)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/36-coach-spines/00-desktop.webp" alt="معاينة — الكعوب (بنفس الترتيب)" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 #### «النص على الكعب»
 
@@ -108,7 +108,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/36-coach-spines/06-spines-label-panel.webp" alt="لوحة إعدادات — الكعوب (بنفس الترتيب)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/36-coach-spines/00-desktop.webp" alt="معاينة — الكعوب (بنفس الترتيب)" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/36-coach-spines/06-spines-label-panel.webp" alt="لوحة إعدادات — الكعوب (بنفس الترتيب)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/36-coach-spines/00-desktop.webp" alt="معاينة — الكعوب (بنفس الترتيب)" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 #### «لون الكعب (اختياري)»
 
@@ -119,7 +119,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/36-coach-spines/06-spines-color-panel.webp" alt="لوحة إعدادات — الكعوب (بنفس الترتيب)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/36-coach-spines/00-desktop.webp" alt="معاينة — الكعوب (بنفس الترتيب)" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/36-coach-spines/06-spines-color-panel.webp" alt="لوحة إعدادات — الكعوب (بنفس الترتيب)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/36-coach-spines/00-desktop.webp" alt="معاينة — الكعوب (بنفس الترتيب)" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 ### «نص زر الإضافة للسلة»
 
@@ -131,7 +131,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/36-coach-spines/07-button_label-panel.webp" alt="لوحة إعدادات — نص زر الإضافة للسلة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/36-coach-spines/00-desktop.webp" alt="معاينة — نص زر الإضافة للسلة" loading="lazy" decoding="async"/> | مكانه في القسم محاط بإطار برتقالي |
+| <img src="/coach-docs/assets/sections/36-coach-spines/07-button_label-panel.webp" alt="لوحة إعدادات — نص زر الإضافة للسلة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/36-coach-spines/00-desktop.webp" alt="معاينة — نص زر الإضافة للسلة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | مكانه في القسم محاط بإطار برتقالي |
 
 
 <div class="source-note">صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>

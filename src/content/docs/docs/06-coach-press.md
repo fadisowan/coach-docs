@@ -48,7 +48,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/06-coach-press/02-logos-panel.webp" alt="لوحة إعدادات — الجهات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/06-coach-press/02-logos-result.webp" alt="معاينة — الجهات" loading="lazy" decoding="async"/> | أول عنصر محاط بإطار برتقالي |
+| <img src="/coach-docs/assets/sections/06-coach-press/02-logos-panel.webp" alt="لوحة إعدادات — الجهات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/06-coach-press/02-logos-result.webp" alt="معاينة — الجهات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | أول عنصر محاط بإطار برتقالي |
 
 #### «الاسم»
 
@@ -58,7 +58,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/06-coach-press/02-logos-name-panel.webp" alt="لوحة إعدادات — الجهات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/06-coach-press/02-logos-result.webp" alt="معاينة — الجهات" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/06-coach-press/02-logos-name-panel.webp" alt="لوحة إعدادات — الجهات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/06-coach-press/02-logos-result.webp" alt="معاينة — الجهات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 #### «الشعار (اختياري)»
 
@@ -69,7 +69,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/06-coach-press/02-logos-image-panel.webp" alt="لوحة إعدادات — الجهات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/06-coach-press/02-logos-result.webp" alt="معاينة — الجهات" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/06-coach-press/02-logos-image-panel.webp" alt="لوحة إعدادات — الجهات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/06-coach-press/02-logos-result.webp" alt="معاينة — الجهات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 #### «الرابط (اختياري)»
 
@@ -79,7 +79,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/06-coach-press/02-logos-url-panel.webp" alt="لوحة إعدادات — الجهات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/06-coach-press/02-logos-result.webp" alt="معاينة — الجهات" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/06-coach-press/02-logos-url-panel.webp" alt="لوحة إعدادات — الجهات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/06-coach-press/02-logos-result.webp" alt="معاينة — الجهات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 
 <div class="source-note">صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>

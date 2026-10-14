@@ -65,7 +65,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/26-coach-audience/03-items-panel.webp" alt="لوحة إعدادات — الفئات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/26-coach-audience/03-items-result.webp" alt="معاينة — الفئات" loading="lazy" decoding="async"/> | أول عنصر محاط بإطار برتقالي |
+| <img src="/coach-docs/assets/sections/26-coach-audience/03-items-panel.webp" alt="لوحة إعدادات — الفئات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/26-coach-audience/03-items-result.webp" alt="معاينة — الفئات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | أول عنصر محاط بإطار برتقالي |
 
 #### «الصورة»
 
@@ -76,7 +76,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/26-coach-audience/03-items-image-panel.webp" alt="لوحة إعدادات — الفئات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/26-coach-audience/03-items-result.webp" alt="معاينة — الفئات" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/26-coach-audience/03-items-image-panel.webp" alt="لوحة إعدادات — الفئات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/26-coach-audience/03-items-result.webp" alt="معاينة — الفئات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 #### «العنوان»
 
@@ -86,7 +86,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/26-coach-audience/03-items-title-panel.webp" alt="لوحة إعدادات — الفئات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/26-coach-audience/03-items-result.webp" alt="معاينة — الفئات" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/26-coach-audience/03-items-title-panel.webp" alt="لوحة إعدادات — الفئات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/26-coach-audience/03-items-result.webp" alt="معاينة — الفئات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 #### «الوصف»
 
@@ -96,7 +96,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/26-coach-audience/03-items-description-panel.webp" alt="لوحة إعدادات — الفئات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/26-coach-audience/03-items-result.webp" alt="معاينة — الفئات" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/26-coach-audience/03-items-description-panel.webp" alt="لوحة إعدادات — الفئات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/26-coach-audience/03-items-result.webp" alt="معاينة — الفئات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 
 <div class="source-note">صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>

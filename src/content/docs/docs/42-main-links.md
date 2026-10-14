@@ -44,7 +44,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/42-main-links/02-show_controls-panel.webp" alt="لوحة إعدادات — إظهار أسهم التحرك" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/42-main-links/00-desktop.webp" alt="معاينة — إظهار أسهم التحرك" loading="lazy" decoding="async"/> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
+| <img src="/coach-docs/assets/sections/42-main-links/02-show_controls-panel.webp" alt="لوحة إعدادات — إظهار أسهم التحرك" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/42-main-links/00-desktop.webp" alt="معاينة — إظهار أسهم التحرك" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
 
 ### «إظهار التصنيفات بدل الروابط»
 
@@ -62,7 +62,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/42-main-links/04-categories-panel.webp" alt="لوحة إعدادات — التصنيفات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/42-main-links/00-desktop.webp" alt="معاينة — التصنيفات" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/42-main-links/04-categories-panel.webp" alt="لوحة إعدادات — التصنيفات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/42-main-links/00-desktop.webp" alt="معاينة — التصنيفات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «الروابط»
 
@@ -72,7 +72,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/42-main-links/05-links-panel.webp" alt="لوحة إعدادات — الروابط" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/42-main-links/05-links-result.webp" alt="معاينة — الروابط" loading="lazy" decoding="async"/> | أول عنصر محاط بإطار برتقالي |
+| <img src="/coach-docs/assets/sections/42-main-links/05-links-panel.webp" alt="لوحة إعدادات — الروابط" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/42-main-links/05-links-result.webp" alt="معاينة — الروابط" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | أول عنصر محاط بإطار برتقالي |
 
 #### «الأيقونة»
 
@@ -80,7 +80,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/42-main-links/05-links-icon-panel.webp" alt="لوحة إعدادات — الروابط" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/42-main-links/05-links-result.webp" alt="معاينة — الروابط" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/42-main-links/05-links-icon-panel.webp" alt="لوحة إعدادات — الروابط" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/42-main-links/05-links-result.webp" alt="معاينة — الروابط" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 #### «اسم الرابط»
 
@@ -88,7 +88,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/42-main-links/05-links-title-panel.webp" alt="لوحة إعدادات — الروابط" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/42-main-links/05-links-result.webp" alt="معاينة — الروابط" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/42-main-links/05-links-title-panel.webp" alt="لوحة إعدادات — الروابط" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/42-main-links/05-links-result.webp" alt="معاينة — الروابط" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 #### «الرابط»
 
@@ -98,7 +98,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/42-main-links/05-links-url-panel.webp" alt="لوحة إعدادات — الروابط" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/42-main-links/05-links-result.webp" alt="معاينة — الروابط" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/42-main-links/05-links-url-panel.webp" alt="لوحة إعدادات — الروابط" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/42-main-links/05-links-result.webp" alt="معاينة — الروابط" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 ---
 > ملاحظات البناء: لا عنصر: 03-show_cats-on-result.webp

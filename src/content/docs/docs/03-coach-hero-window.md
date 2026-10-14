@@ -41,7 +41,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/03-coach-hero-window/01-layout-end-panel.webp" alt="لوحة إعدادات — مكان القوس" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/03-coach-hero-window/01-layout-end-result.webp" alt="معاينة — مكان القوس" loading="lazy" decoding="async"/> | «بجانب النص من جهة النهاية (الافتراضي)» |
+| <img src="/coach-docs/assets/sections/03-coach-hero-window/01-layout-end-panel.webp" alt="لوحة إعدادات — مكان القوس" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/03-coach-hero-window/01-layout-end-result.webp" alt="معاينة — مكان القوس" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «بجانب النص من جهة النهاية (الافتراضي)» |
 | <img src="/coach-docs/assets/sections/03-coach-hero-window/01-layout-start-panel.webp" alt="لوحة إعدادات — مكان القوس" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/03-coach-hero-window/01-layout-start-result.webp" alt="معاينة — مكان القوس" loading="lazy" decoding="async"/> | «بجانب النص من جهة البداية» |
 
 ### «اسمك»
@@ -176,7 +176,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/03-coach-hero-window/12-button_link-panel.webp" alt="لوحة إعدادات — رابط الزر الأول" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/03-coach-hero-window/00-desktop.webp" alt="معاينة — رابط الزر الأول" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/03-coach-hero-window/12-button_link-panel.webp" alt="لوحة إعدادات — رابط الزر الأول" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/03-coach-hero-window/00-desktop.webp" alt="معاينة — رابط الزر الأول" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «نص الزر الثاني»
 
@@ -200,7 +200,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/03-coach-hero-window/14-secondary_link-panel.webp" alt="لوحة إعدادات — رابط الزر الثاني" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/03-coach-hero-window/00-desktop.webp" alt="معاينة — رابط الزر الثاني" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/03-coach-hero-window/14-secondary_link-panel.webp" alt="لوحة إعدادات — رابط الزر الثاني" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/03-coach-hero-window/00-desktop.webp" alt="معاينة — رابط الزر الثاني" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «زر داخل النافذة»
 
@@ -224,7 +224,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/03-coach-hero-window/16-inner_link-panel.webp" alt="لوحة إعدادات — رابط الزر داخل النافذة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/03-coach-hero-window/00-desktop.webp" alt="معاينة — رابط الزر داخل النافذة" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/03-coach-hero-window/16-inner_link-panel.webp" alt="لوحة إعدادات — رابط الزر داخل النافذة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/03-coach-hero-window/00-desktop.webp" alt="معاينة — رابط الزر داخل النافذة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «طول التمرير»
 
@@ -235,7 +235,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/03-coach-hero-window/17-scroll_length-160-panel.webp" alt="لوحة إعدادات — طول التمرير" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/03-coach-hero-window/01-layout-end-result.webp" alt="معاينة — طول التمرير" loading="lazy" decoding="async"/> | «قصير» |
+| <img src="/coach-docs/assets/sections/03-coach-hero-window/17-scroll_length-160-panel.webp" alt="لوحة إعدادات — طول التمرير" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/03-coach-hero-window/01-layout-end-result.webp" alt="معاينة — طول التمرير" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «قصير» |
 | <img src="/coach-docs/assets/sections/03-coach-hero-window/17-scroll_length-200-panel.webp" alt="لوحة إعدادات — طول التمرير" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/03-coach-hero-window/17-scroll_length-200-result.webp" alt="معاينة — طول التمرير" loading="lazy" decoding="async"/> | «متوسط (الافتراضي)» |
 | <img src="/coach-docs/assets/sections/03-coach-hero-window/17-scroll_length-220-panel.webp" alt="لوحة إعدادات — طول التمرير" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/03-coach-hero-window/17-scroll_length-220-result.webp" alt="معاينة — طول التمرير" loading="lazy" decoding="async"/> | «طويل» |
 

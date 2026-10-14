@@ -11,6 +11,11 @@ editUrl: false
 
 النتيجة مصوّرة على الصفحة الرئيسية.
 
+<!-- preview-audit -->
+:::caution[حدود المعاينات المتاحة]
+المعاينة المرفقة عامة للصفحة ولا تعرض أقسام سلة الجاهزة المقصودة بهذه الإعدادات. لوحات الخيارات متاحة؛ تحتاج النتيجة الفعلية إلى متجر يعرض هذه الأقسام.
+:::
+
 | النتيجة الافتراضية |
 |---|
 | <img src="/coach-docs/assets/00-theme/13-raed/00-default-result.webp" alt="معاينة — ١٣ · أقسام سلة الجاهزة — إن أُضيفت للرئيسية" loading="lazy" decoding="async"/> |
@@ -24,10 +29,10 @@ editUrl: false
 - **متى تستعمله:** «Contain» لشعارات أو صور لا تحتمل القص.
 - شرحه تحت الحقل في المحرّر: الصورة كاملة داخل مربعها، أو تغطيه.
 
-| اللوحة (نسخة مطابقة) | النتيجة | |
+| اللوحة (نسخة مطابقة) | المعاينة المرجعية المتاحة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/13-raed/01-squar_photo_bg_image_size-cover-panel.webp" alt="لوحة إعدادات — طريقة عرض الصور في قسم قائمة عناصر " loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/13-raed/00-default-result.webp" alt="معاينة — طريقة عرض الصور في قسم قائمة عناصر " loading="lazy" decoding="async"/> | «تغطية الصورة كامل المساحة مع المحافظة على أبعاد الصورة (Cover)» |
-| <img src="/coach-docs/assets/00-theme/13-raed/01-squar_photo_bg_image_size-contain-panel.webp" alt="لوحة إعدادات — طريقة عرض الصور في قسم قائمة عناصر " loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/13-raed/00-default-result.webp" alt="معاينة — طريقة عرض الصور في قسم قائمة عناصر " loading="lazy" decoding="async"/> | «إظهار الصورة كاملةً في المنتصف (Contain)» |
+| <img src="/coach-docs/assets/00-theme/13-raed/01-squar_photo_bg_image_size-cover-panel.webp" alt="لوحة إعدادات — طريقة عرض الصور في قسم قائمة عناصر " loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/13-raed/00-default-result.webp" alt="معاينة — طريقة عرض الصور في قسم قائمة عناصر " loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية؛ لا تُظهر الحالة الفعلية لهذا الخيار.</small> | «تغطية الصورة كامل المساحة مع المحافظة على أبعاد الصورة (Cover)» |
+| <img src="/coach-docs/assets/00-theme/13-raed/01-squar_photo_bg_image_size-contain-panel.webp" alt="لوحة إعدادات — طريقة عرض الصور في قسم قائمة عناصر " loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/13-raed/00-default-result.webp" alt="معاينة — طريقة عرض الصور في قسم قائمة عناصر " loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية؛ لا تُظهر الحالة الفعلية لهذا الخيار.</small> | «إظهار الصورة كاملةً في المنتصف (Contain)» |
 
 ### «عرض جميع الصور بنفس الحجم في قسم قائمة عناصر»
 
@@ -37,9 +42,9 @@ editUrl: false
 - **حين يكون فارغاً:** مطفأ (الافتراضي): الترتيب المعتاد.
 - شرحه تحت الحقل في المحرّر: للعدد الفردي (٣ و٥) فقط: الصور في صفوف بحد أقصى ثلاث.
 
-| اللوحة (نسخة مطابقة) | النتيجة | |
+| اللوحة (نسخة مطابقة) | المعاينة المرجعية المتاحة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/13-raed/02-square_photos_equal_size-panel.webp" alt="لوحة إعدادات — عرض جميع الصور بنفس الحجم في قسم قائمة عناصر" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/13-raed/00-default-result.webp" alt="معاينة — عرض جميع الصور بنفس الحجم في قسم قائمة عناصر" loading="lazy" decoding="async"/> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
+| <img src="/coach-docs/assets/00-theme/13-raed/02-square_photos_equal_size-panel.webp" alt="لوحة إعدادات — عرض جميع الصور بنفس الحجم في قسم قائمة عناصر" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/13-raed/00-default-result.webp" alt="معاينة — عرض جميع الصور بنفس الحجم في قسم قائمة عناصر" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية؛ لا تُظهر الحالة الفعلية لهذا الخيار.</small> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
 
 ### «وضع عمودي للمنتجات في مربع المنتجات الثابتة في الصفحة الرئيسية»
 
@@ -49,9 +54,9 @@ editUrl: false
 - **حين يكون فارغاً:** مطفأ (الافتراضي): صف.
 - شرحه تحت الحقل في المحرّر: المنتجات في عمود بدل صف.
 
-| اللوحة (نسخة مطابقة) | النتيجة | |
+| اللوحة (نسخة مطابقة) | المعاينة المرجعية المتاحة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/13-raed/03-vertical_fixed_products-panel.webp" alt="لوحة إعدادات — وضع عمودي للمنتجات في مربع المنتجات الثابتة في الصفحة الرئيسية" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/13-raed/00-default-result.webp" alt="معاينة — وضع عمودي للمنتجات في مربع المنتجات الثابتة في الصفحة الرئيسية" loading="lazy" decoding="async"/> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
+| <img src="/coach-docs/assets/00-theme/13-raed/03-vertical_fixed_products-panel.webp" alt="لوحة إعدادات — وضع عمودي للمنتجات في مربع المنتجات الثابتة في الصفحة الرئيسية" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/13-raed/00-default-result.webp" alt="معاينة — وضع عمودي للمنتجات في مربع المنتجات الثابتة في الصفحة الرئيسية" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية؛ لا تُظهر الحالة الفعلية لهذا الخيار.</small> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
 
 ### «حركة تبديل التبويب في قسم «منتجات مميزة»»
 
@@ -60,11 +65,11 @@ editUrl: false
 - **متى تستعمله:** «إعادة ترتيب» لتبديل ناعم.
 - شرحه تحت الحقل في المحرّر: لتبويبات أقسام سلة الجاهزة: المشترك ينزلق لمكانه. يوقفها «التأثيرات المتحركة».
 
-| اللوحة (نسخة مطابقة) | النتيجة | |
+| اللوحة (نسخة مطابقة) | المعاينة المرجعية المتاحة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/13-raed/04-featured_tab_motion-none-panel.webp" alt="لوحة إعدادات — حركة تبديل التبويب في قسم «منتجات مميزة»" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/13-raed/00-default-result.webp" alt="معاينة — حركة تبديل التبويب في قسم «منتجات مميزة»" loading="lazy" decoding="async"/> | «بلا حركة» |
-| <img src="/coach-docs/assets/00-theme/13-raed/04-featured_tab_motion-stagger-panel.webp" alt="لوحة إعدادات — حركة تبديل التبويب في قسم «منتجات مميزة»" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/13-raed/00-default-result.webp" alt="معاينة — حركة تبديل التبويب في قسم «منتجات مميزة»" loading="lazy" decoding="async"/> | «دخول تباعاً» |
-| <img src="/coach-docs/assets/00-theme/13-raed/04-featured_tab_motion-flip-panel.webp" alt="لوحة إعدادات — حركة تبديل التبويب في قسم «منتجات مميزة»" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/13-raed/00-default-result.webp" alt="معاينة — حركة تبديل التبويب في قسم «منتجات مميزة»" loading="lazy" decoding="async"/> | «إعادة ترتيب سلسة» |
+| <img src="/coach-docs/assets/00-theme/13-raed/04-featured_tab_motion-none-panel.webp" alt="لوحة إعدادات — حركة تبديل التبويب في قسم «منتجات مميزة»" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/13-raed/00-default-result.webp" alt="معاينة — حركة تبديل التبويب في قسم «منتجات مميزة»" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية؛ لا تُظهر الحالة الفعلية لهذا الخيار.</small> | «بلا حركة» |
+| <img src="/coach-docs/assets/00-theme/13-raed/04-featured_tab_motion-stagger-panel.webp" alt="لوحة إعدادات — حركة تبديل التبويب في قسم «منتجات مميزة»" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/13-raed/00-default-result.webp" alt="معاينة — حركة تبديل التبويب في قسم «منتجات مميزة»" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية؛ لا تُظهر الحالة الفعلية لهذا الخيار.</small> | «دخول تباعاً» |
+| <img src="/coach-docs/assets/00-theme/13-raed/04-featured_tab_motion-flip-panel.webp" alt="لوحة إعدادات — حركة تبديل التبويب في قسم «منتجات مميزة»" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/13-raed/00-default-result.webp" alt="معاينة — حركة تبديل التبويب في قسم «منتجات مميزة»" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية؛ لا تُظهر الحالة الفعلية لهذا الخيار.</small> | «إعادة ترتيب سلسة» |
 
 ### «عرض (زر الكل) في الصفحة الرئيسية»
 
@@ -74,9 +79,9 @@ editUrl: false
 - **حين يكون فارغاً:** مطفأ (الافتراضي): بلا رابط.
 - شرحه تحت الحقل في المحرّر: في قسم «العلامات التجارية» من أقسام سلة.
 
-| اللوحة (نسخة مطابقة) | النتيجة | |
+| اللوحة (نسخة مطابقة) | المعاينة المرجعية المتاحة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/13-raed/05-is_more_button_enabled-panel.webp" alt="لوحة إعدادات — عرض (زر الكل) في الصفحة الرئيسية" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/13-raed/00-default-result.webp" alt="معاينة — عرض (زر الكل) في الصفحة الرئيسية" loading="lazy" decoding="async"/> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
+| <img src="/coach-docs/assets/00-theme/13-raed/05-is_more_button_enabled-panel.webp" alt="لوحة إعدادات — عرض (زر الكل) في الصفحة الرئيسية" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/13-raed/00-default-result.webp" alt="معاينة — عرض (زر الكل) في الصفحة الرئيسية" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية؛ لا تُظهر الحالة الفعلية لهذا الخيار.</small> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
 
 
 <div class="source-note">الإصدار 1.76.1 · صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>

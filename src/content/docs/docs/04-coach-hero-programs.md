@@ -41,7 +41,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/04-coach-hero-programs/01-layout-spot-panel.webp" alt="لوحة إعدادات — الشكل" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/04-coach-hero-programs/00-desktop.webp" alt="معاينة — الشكل" loading="lazy" decoding="async"/> | «تحت الضوء» |
+| <img src="/coach-docs/assets/sections/04-coach-hero-programs/01-layout-spot-panel.webp" alt="لوحة إعدادات — الشكل" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/04-coach-hero-programs/00-desktop.webp" alt="معاينة — الشكل" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «تحت الضوء» |
 | <img src="/coach-docs/assets/sections/04-coach-hero-programs/01-layout-flow-panel.webp" alt="لوحة إعدادات — الشكل" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/04-coach-hero-programs/01-layout-flow-result.webp" alt="معاينة — الشكل" loading="lazy" decoding="async"/> | «عرض دائري» |
 
 ### «شكل تحت الضوء»
@@ -53,7 +53,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/04-coach-hero-programs/02-spot_look-side-panel.webp" alt="لوحة إعدادات — شكل تحت الضوء" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/04-coach-hero-programs/00-desktop.webp" alt="معاينة — شكل تحت الضوء" loading="lazy" decoding="async"/> | «الصورة بجانب النص» |
+| <img src="/coach-docs/assets/sections/04-coach-hero-programs/02-spot_look-side-panel.webp" alt="لوحة إعدادات — شكل تحت الضوء" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/04-coach-hero-programs/00-desktop.webp" alt="معاينة — شكل تحت الضوء" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «الصورة بجانب النص» |
 | <img src="/coach-docs/assets/sections/04-coach-hero-programs/02-spot_look-wide-panel.webp" alt="لوحة إعدادات — شكل تحت الضوء" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/04-coach-hero-programs/02-spot_look-wide-result.webp" alt="معاينة — شكل تحت الضوء" loading="lazy" decoding="async"/> | «صورة كبيرة بنصف العرض» |
 | <img src="/coach-docs/assets/sections/04-coach-hero-programs/02-spot_look-stack-panel.webp" alt="لوحة إعدادات — شكل تحت الضوء" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/04-coach-hero-programs/02-spot_look-stack-result.webp" alt="معاينة — شكل تحت الضوء" loading="lazy" decoding="async"/> | «الصورة فوق النص» |
 
@@ -80,7 +80,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/04-coach-hero-programs/04-spot_text-start-panel.webp" alt="لوحة إعدادات — مكان النص" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/04-coach-hero-programs/00-desktop.webp" alt="معاينة — مكان النص" loading="lazy" decoding="async"/> | «قبل الصورة (بداية السطر)» |
+| <img src="/coach-docs/assets/sections/04-coach-hero-programs/04-spot_text-start-panel.webp" alt="لوحة إعدادات — مكان النص" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/04-coach-hero-programs/00-desktop.webp" alt="معاينة — مكان النص" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «قبل الصورة (بداية السطر)» |
 | <img src="/coach-docs/assets/sections/04-coach-hero-programs/04-spot_text-end-panel.webp" alt="لوحة إعدادات — مكان النص" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/04-coach-hero-programs/04-spot_text-end-result.webp" alt="معاينة — مكان النص" loading="lazy" decoding="async"/> | «بعد الصورة (نهاية السطر)» |
 
 ### «مكان النص»
@@ -103,7 +103,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/04-coach-hero-programs/06-source-selected-panel.webp" alt="لوحة إعدادات — مصدر المنتجات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/04-coach-hero-programs/00-desktop.webp" alt="معاينة — مصدر المنتجات" loading="lazy" decoding="async"/> | «منتجات أختارها» |
+| <img src="/coach-docs/assets/sections/04-coach-hero-programs/06-source-selected-panel.webp" alt="لوحة إعدادات — مصدر المنتجات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/04-coach-hero-programs/00-desktop.webp" alt="معاينة — مصدر المنتجات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «منتجات أختارها» |
 | <img src="/coach-docs/assets/sections/04-coach-hero-programs/06-source-latest-panel.webp" alt="لوحة إعدادات — مصدر المنتجات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/04-coach-hero-programs/06-source-latest-result.webp" alt="معاينة — مصدر المنتجات" loading="lazy" decoding="async"/> | «الأحدث» |
 | <img src="/coach-docs/assets/sections/04-coach-hero-programs/06-source-sales-panel.webp" alt="لوحة إعدادات — مصدر المنتجات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/04-coach-hero-programs/06-source-sales-result.webp" alt="معاينة — مصدر المنتجات" loading="lazy" decoding="async"/> | «الأكثر مبيعاً» |
 | <img src="/coach-docs/assets/sections/04-coach-hero-programs/06-source-categories-panel.webp" alt="لوحة إعدادات — مصدر المنتجات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/04-coach-hero-programs/06-source-categories-result.webp" alt="معاينة — مصدر المنتجات" loading="lazy" decoding="async"/> | «من تصنيفات محددة» |
@@ -119,7 +119,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/04-coach-hero-programs/07-products-panel.webp" alt="لوحة إعدادات — المنتجات (بالترتيب)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/04-coach-hero-programs/00-desktop.webp" alt="معاينة — المنتجات (بالترتيب)" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/04-coach-hero-programs/07-products-panel.webp" alt="لوحة إعدادات — المنتجات (بالترتيب)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/04-coach-hero-programs/00-desktop.webp" alt="معاينة — المنتجات (بالترتيب)" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «التصنيفات»
 
@@ -132,7 +132,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/04-coach-hero-programs/08-categories-panel.webp" alt="لوحة إعدادات — التصنيفات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/04-coach-hero-programs/00-desktop.webp" alt="معاينة — التصنيفات" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/04-coach-hero-programs/08-categories-panel.webp" alt="لوحة إعدادات — التصنيفات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/04-coach-hero-programs/00-desktop.webp" alt="معاينة — التصنيفات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «عدد المنتجات (٣–٦)»
 
@@ -142,7 +142,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/04-coach-hero-programs/09-limit-panel.webp" alt="لوحة إعدادات — عدد المنتجات (٣–٦)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/04-coach-hero-programs/00-desktop.webp" alt="معاينة — عدد المنتجات (٣–٦)" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/04-coach-hero-programs/09-limit-panel.webp" alt="لوحة إعدادات — عدد المنتجات (٣–٦)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/04-coach-hero-programs/00-desktop.webp" alt="معاينة — عدد المنتجات (٣–٦)" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «شكل البطاقات حسب النوع»
 
@@ -153,7 +153,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/04-coach-hero-programs/10-card_kind-auto-panel.webp" alt="لوحة إعدادات — شكل البطاقات حسب النوع" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/04-coach-hero-programs/00-desktop.webp" alt="معاينة — شكل البطاقات حسب النوع" loading="lazy" decoding="async"/> | «تلقائي حسب نوع المنتج» |
+| <img src="/coach-docs/assets/sections/04-coach-hero-programs/10-card_kind-auto-panel.webp" alt="لوحة إعدادات — شكل البطاقات حسب النوع" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/04-coach-hero-programs/00-desktop.webp" alt="معاينة — شكل البطاقات حسب النوع" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «تلقائي حسب نوع المنتج» |
 | <img src="/coach-docs/assets/sections/04-coach-hero-programs/10-card_kind-course-panel.webp" alt="لوحة إعدادات — شكل البطاقات حسب النوع" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/04-coach-hero-programs/10-card_kind-course-result.webp" alt="معاينة — شكل البطاقات حسب النوع" loading="lazy" decoding="async"/> | «برامج» |
 | <img src="/coach-docs/assets/sections/04-coach-hero-programs/10-card_kind-book-panel.webp" alt="لوحة إعدادات — شكل البطاقات حسب النوع" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/04-coach-hero-programs/10-card_kind-book-result.webp" alt="معاينة — شكل البطاقات حسب النوع" loading="lazy" decoding="async"/> | «كتب» |
 | <img src="/coach-docs/assets/sections/04-coach-hero-programs/10-card_kind-digital-panel.webp" alt="لوحة إعدادات — شكل البطاقات حسب النوع" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/04-coach-hero-programs/10-card_kind-digital-result.webp" alt="معاينة — شكل البطاقات حسب النوع" loading="lazy" decoding="async"/> | «منتجات رقمية» |
@@ -169,7 +169,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/04-coach-hero-programs/11-badges-panel.webp" alt="لوحة إعدادات — شارة كل منتج وميزاته" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/04-coach-hero-programs/00-desktop.webp" alt="معاينة — شارة كل منتج وميزاته" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/04-coach-hero-programs/11-badges-panel.webp" alt="لوحة إعدادات — شارة كل منتج وميزاته" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/04-coach-hero-programs/00-desktop.webp" alt="معاينة — شارة كل منتج وميزاته" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 #### «الشارة»
 
@@ -177,7 +177,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/04-coach-hero-programs/11-badges-text-panel.webp" alt="لوحة إعدادات — شارة كل منتج وميزاته" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/04-coach-hero-programs/00-desktop.webp" alt="معاينة — شارة كل منتج وميزاته" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/04-coach-hero-programs/11-badges-text-panel.webp" alt="لوحة إعدادات — شارة كل منتج وميزاته" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/04-coach-hero-programs/00-desktop.webp" alt="معاينة — شارة كل منتج وميزاته" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 #### «الميزات»
 
@@ -186,7 +186,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/04-coach-hero-programs/11-badges-points-panel.webp" alt="لوحة إعدادات — شارة كل منتج وميزاته" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/04-coach-hero-programs/00-desktop.webp" alt="معاينة — شارة كل منتج وميزاته" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/04-coach-hero-programs/11-badges-points-panel.webp" alt="لوحة إعدادات — شارة كل منتج وميزاته" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/04-coach-hero-programs/00-desktop.webp" alt="معاينة — شارة كل منتج وميزاته" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 ### «نص زر الإضافة للسلة»
 
@@ -197,7 +197,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/04-coach-hero-programs/12-button_label-panel.webp" alt="لوحة إعدادات — نص زر الإضافة للسلة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/04-coach-hero-programs/00-desktop.webp" alt="معاينة — نص زر الإضافة للسلة" loading="lazy" decoding="async"/> | مكانه في القسم محاط بإطار برتقالي |
+| <img src="/coach-docs/assets/sections/04-coach-hero-programs/12-button_label-panel.webp" alt="لوحة إعدادات — نص زر الإضافة للسلة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/04-coach-hero-programs/00-desktop.webp" alt="معاينة — نص زر الإضافة للسلة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | مكانه في القسم محاط بإطار برتقالي |
 
 ### «المصغّرات تحت الأسهم»
 
@@ -233,7 +233,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/04-coach-hero-programs/15-autoplay-panel.webp" alt="لوحة إعدادات — تشغيل تلقائي" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/04-coach-hero-programs/00-desktop.webp" alt="معاينة — تشغيل تلقائي" loading="lazy" decoding="async"/> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
+| <img src="/coach-docs/assets/sections/04-coach-hero-programs/15-autoplay-panel.webp" alt="لوحة إعدادات — تشغيل تلقائي" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/04-coach-hero-programs/00-desktop.webp" alt="معاينة — تشغيل تلقائي" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
 
 ### «مدة عرض كل برنامج (٤–١٢ ثانية)»
 
@@ -244,7 +244,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/04-coach-hero-programs/16-interval-panel.webp" alt="لوحة إعدادات — مدة عرض كل برنامج (٤–١٢ ثانية)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/04-coach-hero-programs/00-desktop.webp" alt="معاينة — مدة عرض كل برنامج (٤–١٢ ثانية)" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/04-coach-hero-programs/16-interval-panel.webp" alt="لوحة إعدادات — مدة عرض كل برنامج (٤–١٢ ثانية)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/04-coach-hero-programs/00-desktop.webp" alt="معاينة — مدة عرض كل برنامج (٤–١٢ ثانية)" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «حركة مع التمرير»
 
@@ -255,7 +255,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/04-coach-hero-programs/17-scroll_motion-panel.webp" alt="لوحة إعدادات — حركة مع التمرير" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/04-coach-hero-programs/00-desktop.webp" alt="معاينة — حركة مع التمرير" loading="lazy" decoding="async"/> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
+| <img src="/coach-docs/assets/sections/04-coach-hero-programs/17-scroll_motion-panel.webp" alt="لوحة إعدادات — حركة مع التمرير" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/04-coach-hero-programs/00-desktop.webp" alt="معاينة — حركة مع التمرير" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
 
 ### «قوة طبقة اللون فوق صورة المنتج»
 

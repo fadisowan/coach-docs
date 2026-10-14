@@ -42,7 +42,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/30-coach-guarantee/01-layout-seal-panel.webp" alt="لوحة إعدادات — الشكل" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/30-coach-guarantee/00-desktop.webp" alt="معاينة — الشكل" loading="lazy" decoding="async"/> | «١ · الختم والوعد» |
+| <img src="/coach-docs/assets/sections/30-coach-guarantee/01-layout-seal-panel.webp" alt="لوحة إعدادات — الشكل" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/30-coach-guarantee/00-desktop.webp" alt="معاينة — الشكل" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «١ · الختم والوعد» |
 | <img src="/coach-docs/assets/sections/30-coach-guarantee/01-layout-strip-panel.webp" alt="لوحة إعدادات — الشكل" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/30-coach-guarantee/01-layout-strip-result.webp" alt="معاينة — الشكل" loading="lazy" decoding="async"/> | «٢ · شريط مع طرق الدفع» |
 
 ### «الرقم في الختم»
@@ -100,7 +100,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/30-coach-guarantee/06-benefits-panel.webp" alt="لوحة إعدادات — المزايا تحت الوعد (اختياري)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/30-coach-guarantee/06-benefits-result.webp" alt="معاينة — المزايا تحت الوعد (اختياري)" loading="lazy" decoding="async"/> | أول عنصر محاط بإطار برتقالي |
+| <img src="/coach-docs/assets/sections/30-coach-guarantee/06-benefits-panel.webp" alt="لوحة إعدادات — المزايا تحت الوعد (اختياري)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/30-coach-guarantee/06-benefits-result.webp" alt="معاينة — المزايا تحت الوعد (اختياري)" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | أول عنصر محاط بإطار برتقالي |
 
 #### «الأيقونة»
 
@@ -110,7 +110,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/30-coach-guarantee/06-benefits-icon-panel.webp" alt="لوحة إعدادات — المزايا تحت الوعد (اختياري)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/30-coach-guarantee/06-benefits-result.webp" alt="معاينة — المزايا تحت الوعد (اختياري)" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/30-coach-guarantee/06-benefits-icon-panel.webp" alt="لوحة إعدادات — المزايا تحت الوعد (اختياري)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/30-coach-guarantee/06-benefits-result.webp" alt="معاينة — المزايا تحت الوعد (اختياري)" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 #### «العنوان»
 
@@ -120,7 +120,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/30-coach-guarantee/06-benefits-title-panel.webp" alt="لوحة إعدادات — المزايا تحت الوعد (اختياري)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/30-coach-guarantee/06-benefits-result.webp" alt="معاينة — المزايا تحت الوعد (اختياري)" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/30-coach-guarantee/06-benefits-title-panel.webp" alt="لوحة إعدادات — المزايا تحت الوعد (اختياري)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/30-coach-guarantee/06-benefits-result.webp" alt="معاينة — المزايا تحت الوعد (اختياري)" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 #### «سطر تحته»
 
@@ -130,7 +130,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/30-coach-guarantee/06-benefits-text-panel.webp" alt="لوحة إعدادات — المزايا تحت الوعد (اختياري)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/30-coach-guarantee/06-benefits-result.webp" alt="معاينة — المزايا تحت الوعد (اختياري)" loading="lazy" decoding="async"/> |  |
+| <img src="/coach-docs/assets/sections/30-coach-guarantee/06-benefits-text-panel.webp" alt="لوحة إعدادات — المزايا تحت الوعد (اختياري)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/30-coach-guarantee/06-benefits-result.webp" alt="معاينة — المزايا تحت الوعد (اختياري)" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
 
 ### «سطر تحت طرق الدفع»
 
@@ -143,7 +143,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/30-coach-guarantee/07-secure_line-panel.webp" alt="لوحة إعدادات — سطر تحت طرق الدفع" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/30-coach-guarantee/00-desktop.webp" alt="معاينة — سطر تحت طرق الدفع" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/30-coach-guarantee/07-secure_line-panel.webp" alt="لوحة إعدادات — سطر تحت طرق الدفع" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/30-coach-guarantee/00-desktop.webp" alt="معاينة — سطر تحت طرق الدفع" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «نص الرابط»
 
@@ -155,7 +155,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/30-coach-guarantee/08-link_label-panel.webp" alt="لوحة إعدادات — نص الرابط" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/30-coach-guarantee/00-desktop.webp" alt="معاينة — نص الرابط" loading="lazy" decoding="async"/> | مكانه في القسم محاط بإطار برتقالي |
+| <img src="/coach-docs/assets/sections/30-coach-guarantee/08-link_label-panel.webp" alt="لوحة إعدادات — نص الرابط" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/30-coach-guarantee/00-desktop.webp" alt="معاينة — نص الرابط" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | مكانه في القسم محاط بإطار برتقالي |
 
 ### «الرابط»
 
@@ -167,7 +167,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/30-coach-guarantee/09-link-panel.webp" alt="لوحة إعدادات — الرابط" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/30-coach-guarantee/00-desktop.webp" alt="معاينة — الرابط" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/30-coach-guarantee/09-link-panel.webp" alt="لوحة إعدادات — الرابط" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/30-coach-guarantee/00-desktop.webp" alt="معاينة — الرابط" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ---
 > ملاحظات البناء: لم يُعثر على النص لتمييزه: 00-desktop.webp

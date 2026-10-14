@@ -39,7 +39,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/01-colors/01-palette_source-coach-panel.webp" alt="لوحة إعدادات — مصدر اللون الأساسي" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/01-colors/00-default-result.webp" alt="معاينة — مصدر اللون الأساسي" loading="lazy" decoding="async"/> | «ألوان كوتش» |
+| <img src="/coach-docs/assets/00-theme/01-colors/01-palette_source-coach-panel.webp" alt="لوحة إعدادات — مصدر اللون الأساسي" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/01-colors/00-default-result.webp" alt="معاينة — مصدر اللون الأساسي" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «ألوان كوتش» |
 | <img src="/coach-docs/assets/00-theme/01-colors/01-palette_source-store-panel.webp" alt="لوحة إعدادات — مصدر اللون الأساسي" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/01-colors/01-palette_source-store-result.webp" alt="معاينة — مصدر اللون الأساسي" loading="lazy" decoding="async"/> | «لون المتجر من سلة» · النتيجة لمتجر لونه في سلة #1d2b53 |
 
 ### «اللون الثانوي (المشمشي)»
@@ -52,7 +52,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/01-colors/02-accent_color-panel.webp" alt="لوحة إعدادات — اللون الثانوي (المشمشي)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/01-colors/00-default-result.webp" alt="معاينة — اللون الثانوي (المشمشي)" loading="lazy" decoding="async"/> | النتيجة بلون تجريبي #1F6F78 |
+| <img src="/coach-docs/assets/00-theme/01-colors/02-accent_color-panel.webp" alt="لوحة إعدادات — اللون الثانوي (المشمشي)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/01-colors/00-default-result.webp" alt="معاينة — اللون الثانوي (المشمشي)" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة بلون تجريبي #1F6F78 |
 
 ### «شكل الكلمات المميّزة في العناوين»
 
@@ -63,9 +63,9 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/01-colors/03-title_highlight-bold-panel.webp" alt="لوحة إعدادات — شكل الكلمات المميّزة في العناوين" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/01-colors/00-default-result.webp" alt="معاينة — شكل الكلمات المميّزة في العناوين" loading="lazy" decoding="async"/> | «لون وخط عريض» |
+| <img src="/coach-docs/assets/00-theme/01-colors/03-title_highlight-bold-panel.webp" alt="لوحة إعدادات — شكل الكلمات المميّزة في العناوين" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/01-colors/00-default-result.webp" alt="معاينة — شكل الكلمات المميّزة في العناوين" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «لون وخط عريض» |
 | <img src="/coach-docs/assets/00-theme/01-colors/03-title_highlight-marker-panel.webp" alt="لوحة إعدادات — شكل الكلمات المميّزة في العناوين" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/01-colors/03-title_highlight-marker-result.webp" alt="معاينة — شكل الكلمات المميّزة في العناوين" loading="lazy" decoding="async"/> | «قلم تمييز خلف الكلمات» |
-| <img src="/coach-docs/assets/00-theme/01-colors/03-title_highlight-line-panel.webp" alt="لوحة إعدادات — شكل الكلمات المميّزة في العناوين" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/01-colors/00-default-result.webp" alt="معاينة — شكل الكلمات المميّزة في العناوين" loading="lazy" decoding="async"/> | «لون وخط تحت الكلمات (الافتراضي)» |
+| <img src="/coach-docs/assets/00-theme/01-colors/03-title_highlight-line-panel.webp" alt="لوحة إعدادات — شكل الكلمات المميّزة في العناوين" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/01-colors/00-default-result.webp" alt="معاينة — شكل الكلمات المميّزة في العناوين" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «لون وخط تحت الكلمات (الافتراضي)» |
 
 ### «مصدر الخط»
 

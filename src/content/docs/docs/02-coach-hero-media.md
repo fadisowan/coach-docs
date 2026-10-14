@@ -51,7 +51,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/02-coach-hero-media/01-layout-video-bg-panel.webp" alt="لوحة إعدادات — الشكل" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/02-coach-hero-media/00-desktop.webp" alt="معاينة — الشكل" loading="lazy" decoding="async"/> | «١ · فيديو خلفية» |
+| <img src="/coach-docs/assets/sections/02-coach-hero-media/01-layout-video-bg-panel.webp" alt="لوحة إعدادات — الشكل" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/02-coach-hero-media/00-desktop.webp" alt="معاينة — الشكل" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «١ · فيديو خلفية» |
 | <img src="/coach-docs/assets/sections/02-coach-hero-media/01-layout-media-top-panel.webp" alt="لوحة إعدادات — الشكل" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/02-coach-hero-media/01-layout-media-top-result.webp" alt="معاينة — الشكل" loading="lazy" decoding="async"/> | «٢ · وسائط بالأعلى والنص تحتها» |
 | <img src="/coach-docs/assets/sections/02-coach-hero-media/01-layout-arch-video-panel.webp" alt="لوحة إعدادات — الشكل" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/02-coach-hero-media/01-layout-arch-video-result.webp" alt="معاينة — الشكل" loading="lazy" decoding="async"/> | «٣ · قوس وفيديو عائم» |
 | <img src="/coach-docs/assets/sections/02-coach-hero-media/01-layout-center-tri-panel.webp" alt="لوحة إعدادات — الشكل" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/02-coach-hero-media/01-layout-center-tri-result.webp" alt="معاينة — الشكل" loading="lazy" decoding="async"/> | «٤ · في الوسط بثلاث صور» |
@@ -81,7 +81,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/02-coach-hero-media/03-floating_badge-panel.webp" alt="لوحة إعدادات — سطر الترحيب" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/02-coach-hero-media/00-desktop.webp" alt="معاينة — سطر الترحيب" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/02-coach-hero-media/03-floating_badge-panel.webp" alt="لوحة إعدادات — سطر الترحيب" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/02-coach-hero-media/00-desktop.webp" alt="معاينة — سطر الترحيب" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «العنوان»
 
@@ -154,7 +154,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/02-coach-hero-media/09-video_url-panel.webp" alt="لوحة إعدادات — رابط الفيديو" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/02-coach-hero-media/00-desktop.webp" alt="معاينة — رابط الفيديو" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/02-coach-hero-media/09-video_url-panel.webp" alt="لوحة إعدادات — رابط الفيديو" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/02-coach-hero-media/00-desktop.webp" alt="معاينة — رابط الفيديو" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «صورة الفيديو»
 
@@ -179,7 +179,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/02-coach-hero-media/11-video2_url-panel.webp" alt="لوحة إعدادات — رابط الفيديو الثاني" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/02-coach-hero-media/00-desktop.webp" alt="معاينة — رابط الفيديو الثاني" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/02-coach-hero-media/11-video2_url-panel.webp" alt="لوحة إعدادات — رابط الفيديو الثاني" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/02-coach-hero-media/00-desktop.webp" alt="معاينة — رابط الفيديو الثاني" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «صورة الفيديو الثاني»
 
@@ -204,7 +204,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/02-coach-hero-media/13-video2_label-panel.webp" alt="لوحة إعدادات — نص الفيديو الثاني" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/02-coach-hero-media/00-desktop.webp" alt="معاينة — نص الفيديو الثاني" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/02-coach-hero-media/13-video2_label-panel.webp" alt="لوحة إعدادات — نص الفيديو الثاني" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/02-coach-hero-media/00-desktop.webp" alt="معاينة — نص الفيديو الثاني" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «حركة خفيفة للبطاقات»
 
@@ -216,7 +216,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/02-coach-hero-media/14-motion-panel.webp" alt="لوحة إعدادات — حركة خفيفة للبطاقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/02-coach-hero-media/00-desktop.webp" alt="معاينة — حركة خفيفة للبطاقات" loading="lazy" decoding="async"/> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
+| <img src="/coach-docs/assets/sections/02-coach-hero-media/14-motion-panel.webp" alt="لوحة إعدادات — حركة خفيفة للبطاقات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/02-coach-hero-media/00-desktop.webp" alt="معاينة — حركة خفيفة للبطاقات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
 
 ### «نص الزر الأساسي»
 
@@ -240,7 +240,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/02-coach-hero-media/16-primary_link-panel.webp" alt="لوحة إعدادات — رابط الزر الأساسي" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/02-coach-hero-media/00-desktop.webp" alt="معاينة — رابط الزر الأساسي" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/02-coach-hero-media/16-primary_link-panel.webp" alt="لوحة إعدادات — رابط الزر الأساسي" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/02-coach-hero-media/00-desktop.webp" alt="معاينة — رابط الزر الأساسي" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «نص الزر الثاني»
 
@@ -264,7 +264,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/02-coach-hero-media/18-secondary_link-panel.webp" alt="لوحة إعدادات — رابط الزر الثاني" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/02-coach-hero-media/00-desktop.webp" alt="معاينة — رابط الزر الثاني" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/02-coach-hero-media/18-secondary_link-panel.webp" alt="لوحة إعدادات — رابط الزر الثاني" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/02-coach-hero-media/00-desktop.webp" alt="معاينة — رابط الزر الثاني" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «نص الرابط الثالث»
 
@@ -277,7 +277,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/02-coach-hero-media/19-tertiary_label-panel.webp" alt="لوحة إعدادات — نص الرابط الثالث" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/02-coach-hero-media/00-desktop.webp" alt="معاينة — نص الرابط الثالث" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/02-coach-hero-media/19-tertiary_label-panel.webp" alt="لوحة إعدادات — نص الرابط الثالث" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/02-coach-hero-media/00-desktop.webp" alt="معاينة — نص الرابط الثالث" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «وجهة الرابط الثالث»
 
@@ -290,7 +290,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/02-coach-hero-media/20-tertiary_link-panel.webp" alt="لوحة إعدادات — وجهة الرابط الثالث" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/02-coach-hero-media/00-desktop.webp" alt="معاينة — وجهة الرابط الثالث" loading="lazy" decoding="async"/> | النتيجة: القسم بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/sections/02-coach-hero-media/20-tertiary_link-panel.webp" alt="لوحة إعدادات — وجهة الرابط الثالث" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/02-coach-hero-media/00-desktop.webp" alt="معاينة — وجهة الرابط الثالث" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «نص زر الفيديو»
 
@@ -302,7 +302,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/02-coach-hero-media/21-video_label-panel.webp" alt="لوحة إعدادات — نص زر الفيديو" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/02-coach-hero-media/00-desktop.webp" alt="معاينة — نص زر الفيديو" loading="lazy" decoding="async"/> | مكانه في القسم محاط بإطار برتقالي |
+| <img src="/coach-docs/assets/sections/02-coach-hero-media/21-video_label-panel.webp" alt="لوحة إعدادات — نص زر الفيديو" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/02-coach-hero-media/00-desktop.webp" alt="معاينة — نص زر الفيديو" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | مكانه في القسم محاط بإطار برتقالي |
 
 ---
 > ملاحظات البناء: لم يُعثر على النص لتمييزه: 00-desktop.webp

@@ -41,7 +41,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/02-motion/01-fx_enabled-panel.webp" alt="لوحة إعدادات — التأثيرات المتحركة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/02-motion/00-default-result.webp" alt="معاينة — التأثيرات المتحركة" loading="lazy" decoding="async"/> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
+| <img src="/coach-docs/assets/00-theme/02-motion/01-fx_enabled-panel.webp" alt="لوحة إعدادات — التأثيرات المتحركة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/02-motion/00-default-result.webp" alt="معاينة — التأثيرات المتحركة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
 
 ### «حركة الأقسام عند التمرير»
 
@@ -53,7 +53,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/02-motion/02-motion_sections-panel.webp" alt="لوحة إعدادات — حركة الأقسام عند التمرير" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/02-motion/00-default-result.webp" alt="معاينة — حركة الأقسام عند التمرير" loading="lazy" decoding="async"/> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
+| <img src="/coach-docs/assets/00-theme/02-motion/02-motion_sections-panel.webp" alt="لوحة إعدادات — حركة الأقسام عند التمرير" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/02-motion/00-default-result.webp" alt="معاينة — حركة الأقسام عند التمرير" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
 
 ### «أسلوب الحركة»
 
@@ -65,7 +65,7 @@ editUrl: false
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
 | <img src="/coach-docs/assets/00-theme/02-motion/03-motion_style-current-panel.webp" alt="لوحة إعدادات — أسلوب الحركة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/02-motion/03-motion_style-current-result.webp" alt="معاينة — أسلوب الحركة" loading="lazy" decoding="async"/> | «الحالي» |
-| <img src="/coach-docs/assets/00-theme/02-motion/03-motion_style-kit-panel.webp" alt="لوحة إعدادات — أسلوب الحركة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/02-motion/00-default-result.webp" alt="معاينة — أسلوب الحركة" loading="lazy" decoding="async"/> | «أسلوب كوتش كِت» |
+| <img src="/coach-docs/assets/00-theme/02-motion/03-motion_style-kit-panel.webp" alt="لوحة إعدادات — أسلوب الحركة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/02-motion/00-default-result.webp" alt="معاينة — أسلوب الحركة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «أسلوب كوتش كِت» |
 
 ### «حركة الصور»
 
@@ -74,9 +74,9 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/02-motion/04-motion_images-soft-panel.webp" alt="لوحة إعدادات — حركة الصور" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/02-motion/00-default-result.webp" alt="معاينة — حركة الصور" loading="lazy" decoding="async"/> | «ظهور ناعم» |
-| <img src="/coach-docs/assets/00-theme/02-motion/04-motion_images-zoom-panel.webp" alt="لوحة إعدادات — حركة الصور" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/02-motion/00-default-result.webp" alt="معاينة — حركة الصور" loading="lazy" decoding="async"/> | «كشف بالمسح مع انكماش» |
-| <img src="/coach-docs/assets/00-theme/02-motion/04-motion_images-still-panel.webp" alt="لوحة إعدادات — حركة الصور" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/02-motion/00-default-result.webp" alt="معاينة — حركة الصور" loading="lazy" decoding="async"/> | «تظهر مع قسمها» |
+| <img src="/coach-docs/assets/00-theme/02-motion/04-motion_images-soft-panel.webp" alt="لوحة إعدادات — حركة الصور" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/02-motion/00-default-result.webp" alt="معاينة — حركة الصور" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «ظهور ناعم» |
+| <img src="/coach-docs/assets/00-theme/02-motion/04-motion_images-zoom-panel.webp" alt="لوحة إعدادات — حركة الصور" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/02-motion/00-default-result.webp" alt="معاينة — حركة الصور" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «كشف بالمسح مع انكماش» |
+| <img src="/coach-docs/assets/00-theme/02-motion/04-motion_images-still-panel.webp" alt="لوحة إعدادات — حركة الصور" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/02-motion/00-default-result.webp" alt="معاينة — حركة الصور" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «تظهر مع قسمها» |
 
 ### «خلفية الصفحة مع التمرير»
 
@@ -87,9 +87,9 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/02-motion/05-page_scroll_bg-none-panel.webp" alt="لوحة إعدادات — خلفية الصفحة مع التمرير" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/02-motion/00-default-result.webp" alt="معاينة — خلفية الصفحة مع التمرير" loading="lazy" decoding="async"/> | «بلا» |
-| <img src="/coach-docs/assets/00-theme/02-motion/05-page_scroll_bg-drift-panel.webp" alt="لوحة إعدادات — خلفية الصفحة مع التمرير" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/02-motion/00-default-result.webp" alt="معاينة — خلفية الصفحة مع التمرير" loading="lazy" decoding="async"/> | «ألوان تتدرّج» |
-| <img src="/coach-docs/assets/00-theme/02-motion/05-page_scroll_bg-orbs-panel.webp" alt="لوحة إعدادات — خلفية الصفحة مع التمرير" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/02-motion/00-default-result.webp" alt="معاينة — خلفية الصفحة مع التمرير" loading="lazy" decoding="async"/> | «دوائر ضوء ناعمة» |
+| <img src="/coach-docs/assets/00-theme/02-motion/05-page_scroll_bg-none-panel.webp" alt="لوحة إعدادات — خلفية الصفحة مع التمرير" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/02-motion/00-default-result.webp" alt="معاينة — خلفية الصفحة مع التمرير" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «بلا» |
+| <img src="/coach-docs/assets/00-theme/02-motion/05-page_scroll_bg-drift-panel.webp" alt="لوحة إعدادات — خلفية الصفحة مع التمرير" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/02-motion/00-default-result.webp" alt="معاينة — خلفية الصفحة مع التمرير" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «ألوان تتدرّج» |
+| <img src="/coach-docs/assets/00-theme/02-motion/05-page_scroll_bg-orbs-panel.webp" alt="لوحة إعدادات — خلفية الصفحة مع التمرير" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/02-motion/00-default-result.webp" alt="معاينة — خلفية الصفحة مع التمرير" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «دوائر ضوء ناعمة» |
 
 ### «مؤشر الفأرة»
 
@@ -100,10 +100,10 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/02-motion/06-cursor_style-none-panel.webp" alt="لوحة إعدادات — مؤشر الفأرة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/02-motion/00-default-result.webp" alt="معاينة — مؤشر الفأرة" loading="lazy" decoding="async"/> | «بلا» |
-| <img src="/coach-docs/assets/00-theme/02-motion/06-cursor_style-follow-panel.webp" alt="لوحة إعدادات — مؤشر الفأرة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/02-motion/00-default-result.webp" alt="معاينة — مؤشر الفأرة" loading="lazy" decoding="async"/> | «حلقة تتبع المؤشر» |
-| <img src="/coach-docs/assets/00-theme/02-motion/06-cursor_style-icons-panel.webp" alt="لوحة إعدادات — مؤشر الفأرة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/02-motion/00-default-result.webp" alt="معاينة — مؤشر الفأرة" loading="lazy" decoding="async"/> | «حلقة مع أيقونات» |
-| <img src="/coach-docs/assets/00-theme/02-motion/06-cursor_style-words-panel.webp" alt="لوحة إعدادات — مؤشر الفأرة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/02-motion/00-default-result.webp" alt="معاينة — مؤشر الفأرة" loading="lazy" decoding="async"/> | «حلقة مع كلمات» |
+| <img src="/coach-docs/assets/00-theme/02-motion/06-cursor_style-none-panel.webp" alt="لوحة إعدادات — مؤشر الفأرة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/02-motion/00-default-result.webp" alt="معاينة — مؤشر الفأرة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «بلا» |
+| <img src="/coach-docs/assets/00-theme/02-motion/06-cursor_style-follow-panel.webp" alt="لوحة إعدادات — مؤشر الفأرة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/02-motion/00-default-result.webp" alt="معاينة — مؤشر الفأرة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «حلقة تتبع المؤشر» |
+| <img src="/coach-docs/assets/00-theme/02-motion/06-cursor_style-icons-panel.webp" alt="لوحة إعدادات — مؤشر الفأرة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/02-motion/00-default-result.webp" alt="معاينة — مؤشر الفأرة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «حلقة مع أيقونات» |
+| <img src="/coach-docs/assets/00-theme/02-motion/06-cursor_style-words-panel.webp" alt="لوحة إعدادات — مؤشر الفأرة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/02-motion/00-default-result.webp" alt="معاينة — مؤشر الفأرة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «حلقة مع كلمات» |
 
 ### «ضوء يتبع الفأرة»
 
@@ -115,7 +115,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/02-motion/07-cursor_glow-panel.webp" alt="لوحة إعدادات — ضوء يتبع الفأرة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/02-motion/00-default-result.webp" alt="معاينة — ضوء يتبع الفأرة" loading="lazy" decoding="async"/> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
+| <img src="/coach-docs/assets/00-theme/02-motion/07-cursor_glow-panel.webp" alt="لوحة إعدادات — ضوء يتبع الفأرة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/02-motion/00-default-result.webp" alt="معاينة — ضوء يتبع الفأرة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
 
 ### «توسّع الفوتر عند ظهوره»
 
@@ -127,7 +127,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/02-motion/08-footer_open_fx-panel.webp" alt="لوحة إعدادات — توسّع الفوتر عند ظهوره" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/02-motion/00-default-result.webp" alt="معاينة — توسّع الفوتر عند ظهوره" loading="lazy" decoding="async"/> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
+| <img src="/coach-docs/assets/00-theme/02-motion/08-footer_open_fx-panel.webp" alt="لوحة إعدادات — توسّع الفوتر عند ظهوره" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/02-motion/00-default-result.webp" alt="معاينة — توسّع الفوتر عند ظهوره" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
 
 
 <div class="source-note">الإصدار 1.76.1 · صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>

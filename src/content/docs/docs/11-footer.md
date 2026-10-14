@@ -84,7 +84,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/11-footer/04-footer_title_button-panel.webp" alt="لوحة إعدادات — زر تحت العنوان: نصّه" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/11-footer/00-default-result.webp" alt="معاينة — زر تحت العنوان: نصّه" loading="lazy" decoding="async"/> | مكانه محاط بإطار برتقالي |
+| <img src="/coach-docs/assets/00-theme/11-footer/04-footer_title_button-panel.webp" alt="لوحة إعدادات — زر تحت العنوان: نصّه" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/11-footer/00-default-result.webp" alt="معاينة — زر تحت العنوان: نصّه" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | مكانه محاط بإطار برتقالي |
 
 ### «زر تحت العنوان: رابطه»
 
@@ -97,7 +97,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/11-footer/05-footer_title_link-panel.webp" alt="لوحة إعدادات — زر تحت العنوان: رابطه" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/11-footer/00-default-result.webp" alt="معاينة — زر تحت العنوان: رابطه" loading="lazy" decoding="async"/> | النتيجة بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/00-theme/11-footer/05-footer_title_link-panel.webp" alt="لوحة إعدادات — زر تحت العنوان: رابطه" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/11-footer/00-default-result.webp" alt="معاينة — زر تحت العنوان: رابطه" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة بالقيمة الافتراضية |
 
 ### «نبذة تحت شعار المتجر»
 
@@ -173,7 +173,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/11-footer/11-footer_cta_link-panel.webp" alt="لوحة إعدادات — بطاقة الدعوة: رابط الزر" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/11-footer/00-default-result.webp" alt="معاينة — بطاقة الدعوة: رابط الزر" loading="lazy" decoding="async"/> | النتيجة بالقيمة الافتراضية |
+| <img src="/coach-docs/assets/00-theme/11-footer/11-footer_cta_link-panel.webp" alt="لوحة إعدادات — بطاقة الدعوة: رابط الزر" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/11-footer/00-default-result.webp" alt="معاينة — بطاقة الدعوة: رابط الزر" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة بالقيمة الافتراضية |
 
 ### «اسم المتجر كبيراً في آخر الفوتر»
 
