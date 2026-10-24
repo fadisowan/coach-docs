@@ -15,7 +15,7 @@ export default defineConfig({
     description: 'التوثيق العربي لثيم Coach على منصة سلة — دليل الإعدادات والمكوّنات بالصور.',
     defaultLocale: 'root',
     locales: { root: { label: 'العربية', lang: 'ar', dir: 'rtl' } },
-    customCss: ['./src/styles/custom.css'],
+    customCss: ['./src/styles/custom.css', './src/styles/reading.css'],
     components: { Head: './src/components/Head.astro' },
     sidebar: [
       { label: 'ابدأ هنا', link: '/' },
