@@ -97,6 +97,7 @@ const server = remote ? null : http.createServer((req,res) => {
         assert.equal(await page.locator('table').first().locator('tbody tr').count(),8,'Eight palettes');
         assert.equal(await page.locator('img[src$="18-button_shape-pill-default-result.webp"]').locator('xpath=ancestor::table').locator('tbody tr').count(),3,'Three button shapes');
         assert.equal(await page.locator('.sl-markdown-content').evaluate(el=>el.innerText.includes('| الخيار |')),false,'No malformed table');
+        await page.locator('img[src*="/updates/"]').evaluateAll(async imgs=>{await Promise.all(imgs.map(img=>{img.loading='eager';return img.decode();}));});
         await page.locator('table').first().scrollIntoViewIfNeeded();
         await page.screenshot({path:'../coach-update-mobile.png'});
       }
