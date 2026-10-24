@@ -150,4 +150,8 @@ editUrl: false
 | <img src="/coach-docs/assets/00-theme/07-card/09-notify_when_available_in_card-panel.webp" alt="لوحة إعدادات — إظهار زر &quot;أعلمني عند التوفر&quot; في بطاقة المنتج" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/07-card/09-notify_when_available_in_card-off-result.webp" alt="معاينة — إظهار زر &quot;أعلمني عند التوفر&quot; في بطاقة المنتج" loading="lazy" decoding="async"/> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
 
 
+## ألوان بطاقات المنتجات
+
+تُضبط من **تخصيص الثيم ← الهوية ← ألوان متقدمة**، وليست خيارًا مستقلًا داخل كل مكوّن. `adv_surface` للألواح، و`adv_card` لخلفية بطاقة المنتج الفاتحة أو الداكنة، و`adv_price` للسعر وشارة الخصم. النصوص والسعر وزر الإضافة تتكيف تلقائيًا. بطاقات رفّ الكتب شفافة بتصميمها ولا تتبع لون خلفية بطاقة المنتج. [راجع الحقول والصور](/coach-docs/docs/01-colors/#advanced-cards).
+
 <div class="source-note">الإصدار 1.76.1 · صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>

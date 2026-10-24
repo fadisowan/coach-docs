@@ -72,6 +72,23 @@ editUrl: false
 | <img src="/coach-docs/assets/00-theme/04-header/02-header_over_image-shade-panel.webp" alt="لوحة إعدادات — الهيدر فوق صورة الواجهة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/04-header/01-header_mode-merge-result.webp" alt="معاينة — الهيدر فوق صورة الواجهة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «تدرّج داكن (الافتراضي)» |
 | <img src="/coach-docs/assets/00-theme/04-header/02-header_over_image-none-panel.webp" alt="لوحة إعدادات — الهيدر فوق صورة الواجهة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/04-header/02-header_over_image-none-result.webp" alt="معاينة — الهيدر فوق صورة الواجهة" loading="lazy" decoding="async"/> | «بلا طبقة — مدمج بالصورة» |
 
+
+<a id="header-menu-background"></a>
+
+### خلفية القائمة في الهيدر المدمج
+
+المعرّف `header_menu_bg`. يغيّر خلفية القائمة التي تفتح من زر القائمة في الهيدر المدمج، وتُختار للنصوص درجة واضحة تلقائيًا.
+
+<figure><img src="/coach-docs/assets/updates/1.87.1/01-panel/09-header_menu_bg-field-panel.webp" alt="خلفية القائمة في الهيدر المدمج" loading="lazy" decoding="async"/><figcaption>خلفية القائمة في الهيدر المدمج — لقطة من محرّر سلة الحقيقي</figcaption></figure>
+
+| الخيار | المعاينة والقائمة مفتوحة |
+|---|---|
+| لون الصفحة — الافتراضي | <img src="/coach-docs/assets/updates/1.87.1/02-result/21-header_menu_bg-page-default-result.webp" alt="خلفية القائمة في الهيدر المدمج: لون الصفحة (الافتراضي)" loading="lazy" decoding="async"/><small>خلفية القائمة في الهيدر المدمج: لون الصفحة (الافتراضي)</small> |
+| أبيض | <img src="/coach-docs/assets/updates/1.87.1/02-result/22-header_menu_bg-white-result.webp" alt="خلفية القائمة: أبيض" loading="lazy" decoding="async"/><small>خلفية القائمة: أبيض</small> |
+| داكن | <img src="/coach-docs/assets/updates/1.87.1/02-result/23-header_menu_bg-dark-result.webp" alt="خلفية القائمة: داكن" loading="lazy" decoding="async"/><small>خلفية القائمة: داكن</small> |
+
+عند اختيار «ألوان متقدمة»، يتقدّم حقل `adv_menu_bg` على هذا الخيار إن اختير لون له. راجع [ألوان الهيدر المتقدمة](/coach-docs/docs/01-colors/#advanced-header) مع مفاتيح الإرجاع والألوان المحفوظة.
+
 ### «تثبيت الهيدر أعلى الصفحة»
 
 - **النوع:** مفتاح تشغيل وإطفاء · **الافتراضي:** مفعّل · المعرّف `header_sticky`

@@ -4,10 +4,11 @@ import assert from 'node:assert/strict';
 import { createHash } from 'node:crypto';
 const nav = JSON.parse(fs.readFileSync('data.json', 'utf8'));
 const release = JSON.parse(fs.readFileSync('release-manifest.json','utf8'));
+const update=JSON.parse(fs.readFileSync('update-1.87.1.json','utf8'));
 const retired = release.removedRoutes;
 const inventory = JSON.parse(fs.readFileSync('source-docs/manifest.json','utf8'));
 assert.deepEqual(inventory.units.map(unit=>unit.folder.split('/').at(-1)).sort(), nav.map(entry=>entry.slug).sort(), 'All original documentation units must be published');
-const files = ['index.html', '404.html', 'components/index.html', 'settings/index.html', 'preview-status/index.html', ...nav.map(entry => `docs/${entry.slug}/index.html`)];
+const files = ['index.html', '404.html', 'components/index.html', 'settings/index.html', 'preview-status/index.html', 'updates/index.html', ...nav.map(entry => `docs/${entry.slug}/index.html`)];
 let links = 0, images = 0;
 const referencedAssets = new Set();
 for (const file of files) {
@@ -35,7 +36,7 @@ const hash = file => createHash('sha256').update(fs.readFileSync(file)).digest('
 const assets = fs.readdirSync('assets', {recursive:true}).filter(file => file.endsWith('.webp'));
 for (const file of assets) {
   assert.equal(hash(path.join('assets',file)), hash(path.join('dist/assets',file)), file);
-  assert.ok(referencedAssets.has('assets/'+file.replaceAll('\\','/')), `Original image is not displayed anywhere: ${file}`);
+  assert.ok((release.supersededAssets||[]).includes(file.replaceAll('\\','/')) || referencedAssets.has('assets/'+file.replaceAll('\\','/')), `Original image is not displayed anywhere: ${file}`);
 }
 const flatten = fields => fields.flatMap(field => [field, ...flatten(field.item_fields || [])]);
 let manifestPairs=0, manifestFields=0;
@@ -48,6 +49,7 @@ for (const entry of nav) {
   for (const field of flatten(manifest.fields)) {
     manifestFields++;
     assert.ok(codes.has(field.id), `${entry.slug}: missing field ${field.id}`);
+    if(update.supersededFieldImages[entry.slug]?.includes(field.id))continue;
     for(const pair of field.pairs || []) {
       manifestPairs++;
       for(const kind of ['panel','result']) {
@@ -68,6 +70,12 @@ assert.deepEqual(builtAssets,Object.keys(release.assets).sort(),'Stale deployed 
 const builtPages=fs.readdirSync('dist',{recursive:true}).filter(f=>f.endsWith('.html')).map(f=>f.replaceAll('\\','/')).sort();
 assert.deepEqual(builtPages,[...files].sort(),'Stale deployed pages');
 assert.ok(fs.existsSync('dist/pagefind/pagefind.js'), 'Missing full text search index');
+for(const field of [...update.newFields,...update.modifiedFields]){
+ const html=fs.readFileSync(`dist/docs/${field.page}/index.html`,'utf8');
+ const codes=new Set([...html.matchAll(/<code\b[^>]*>([^<]*)<\/code>/g)].map(match=>match[1]));
+ assert.ok(codes.has(field.id),`Updated setting is missing or in wrong page: ${field.id}`);
+}
+for(const image of update.imageAssignments)assert.ok(fs.readFileSync(`dist/docs/${image.page}/index.html`,'utf8').includes(`/coach-docs/assets/${image.asset}`),`Update image misplaced: ${image.asset}`);
 const previewAudit=JSON.parse(fs.readFileSync('preview-audit.json','utf8'));
 for(const issue of previewAudit.issues){
  const html=fs.readFileSync(`dist/docs/${issue.slug}/index.html`,'utf8');

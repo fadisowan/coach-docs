@@ -38,7 +38,7 @@ const server = remote ? null : http.createServer((req,res) => {
     assert.ok(await page.locator('#starlight__sidebar').evaluate(el=>el.matches(':popover-open')));
     await page.keyboard.press('Escape');
     const nav=JSON.parse(fs.readFileSync('data.json','utf8'));
-    for (const slug of ['', 'components/', 'settings/', 'preview-status/', ...nav.map(x=>'docs/'+x.slug+'/')]) {
+    for (const slug of ['', 'components/', 'settings/', 'preview-status/', 'updates/', ...nav.map(x=>'docs/'+x.slug+'/')]) {
       assert.equal((await page.goto(base+slug)).status(),200,slug);
       assert.equal(await page.locator('html').getAttribute('dir'),'rtl');
       assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1),'Mobile overflow '+slug);
@@ -75,6 +75,32 @@ const server = remote ? null : http.createServer((req,res) => {
     assert.equal(await rejected.count(),1);
     assert.equal(await rejected.evaluate(el=>el.open),false);
     assert.equal(await rejected.locator('img[src$="/08-imagezoom-on-result.webp"]').count(),1);
+    const update=JSON.parse(fs.readFileSync('update-1.87.1.json','utf8'));
+    for(const slug of ['01-colors','04-header']) {
+      await page.goto(base+'docs/'+slug+'/');
+      for(const field of [...update.newFields,...update.modifiedFields].filter(x=>x.page===slug)) {
+        assert.ok(await page.locator('.sl-markdown-content code').filter({hasText:new RegExp('^'+field.id+'$')}).count(),'Field '+field.id);
+      }
+      for(const item of update.imageAssignments.filter(x=>x.page===slug)) {
+        assert.ok(await page.locator('img[src$="'+item.asset+'"]').count(),'Assigned image '+item.asset);
+      }
+      for(const width of [1440,768,360]) {
+        await page.setViewportSize({width,height:900});
+        assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1),'Update overflow '+slug+width);
+      }
+      if(slug==='04-header') {
+        assert.equal(await page.locator('img[src$="21-header_menu_bg-page-default-result.webp"]').locator('xpath=ancestor::table').locator('tbody tr').count(),3,'Three menu backgrounds');
+        const text=await page.locator('.sl-markdown-content').innerText();
+        assert.ok(text.indexOf('header_over_image')<text.indexOf('header_menu_bg') && text.indexOf('header_menu_bg')<text.indexOf('header_sticky'),'Menu setting order');
+      }
+      if(slug==='01-colors') {
+        assert.equal(await page.locator('table').first().locator('tbody tr').count(),8,'Eight palettes');
+        assert.equal(await page.locator('img[src$="18-button_shape-pill-default-result.webp"]').locator('xpath=ancestor::table').locator('tbody tr').count(),3,'Three button shapes');
+        assert.equal(await page.locator('.sl-markdown-content').evaluate(el=>el.innerText.includes('| الخيار |')),false,'No malformed table');
+        await page.locator('table').first().scrollIntoViewIfNeeded();
+        await page.screenshot({path:'../coach-update-mobile.png'});
+      }
+    }
     const assets=fs.readdirSync('assets',{recursive:true}).filter(x=>x.endsWith('.webp'));
     for(let i=0;i<assets.length;i+=24) {
       const results=await page.evaluate(async urls=>Promise.all(urls.map(url=>new Promise(resolve=>{let img=new Image();img.onload=()=>resolve(img.naturalWidth>0);img.onerror=()=>resolve(false);img.src=url;}))),assets.slice(i,i+24).map(x=>base+'assets/'+x.replaceAll('\\','/')));
@@ -85,6 +111,6 @@ const server = remote ? null : http.createServer((req,res) => {
     await page.goto(base+'docs/01-colors/');
     await page.screenshot({path:'../starlight-dark.png'});
     assert.deepEqual(errors,[]);
-    console.log(JSON.stringify({base,pages:67,components:48,settingsAndShared:15,decodedImages:assets.length,missingImages:0,searchArabic:true,searchSettingId:true,mobileOverflow:false,lightbox:true,consoleErrors:errors}));
+    console.log(JSON.stringify({base,pages:68,newSettings:update.newFields.length,modifiedSettings:update.modifiedFields.length,newImages:new Set(update.imageAssignments.map(x=>x.asset)).size,components:48,settingsAndShared:15,decodedImages:assets.length,missingImages:0,searchArabic:true,searchSettingId:true,mobileOverflow:false,lightbox:true,consoleErrors:errors}));
   }finally{await browser.close();server?.close();}
 })().catch(error=>{console.error(error);server?.close();process.exitCode=1;});

@@ -21,6 +21,7 @@ export default defineConfig({
       { label: 'ابدأ هنا', link: '/' },
       { label: 'كل المكوّنات الـ٤٨ بالصور', slug: 'components' },
       { label: 'دليل الإعدادات العامة', slug: 'settings' },
+      { label: 'إضافات الإعدادات والألوان', slug: 'updates' },
       { label: 'حالة المعاينات والصور', slug: 'preview-status' },
       ...groups.map(label => ({label, collapsed: label === 'مكوّنات الصفحة الرئيسية', items: nav.filter(entry => entry.category === label).map(entry => ({label: entry.title.split(' — ')[0], slug: 'docs/' + entry.slug}))}))
     ],

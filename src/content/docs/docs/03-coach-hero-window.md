@@ -240,4 +240,8 @@ editUrl: false
 | <img src="/coach-docs/assets/sections/03-coach-hero-window/17-scroll_length-220-panel.webp" alt="لوحة إعدادات — طول التمرير" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/03-coach-hero-window/17-scroll_length-220-result.webp" alt="معاينة — طول التمرير" loading="lazy" decoding="async"/> | «طويل» |
 
 
+## وضوح الكلمات المميّزة
+
+حُسّن وضوح الكلمات المميّزة في نافذة القوس عند استخدام ألوان أساسية فاتحة؛ لا يتطلب ذلك إعدادًا جديدًا. تُضبط ألوان الهوية من [إعدادات الألوان](/coach-docs/docs/01-colors/#palette-source).
+
 <div class="source-note">صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>

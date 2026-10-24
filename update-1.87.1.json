@@ -1,0 +1,361 @@
+{
+  "version": "1.87.1",
+  "baseVersion": "1.76.1",
+  "sourceDeltaFrom": "1.83.0",
+  "newFields": [
+    {
+      "id": "palette_primary",
+      "page": "01-colors"
+    },
+    {
+      "id": "adv_primary",
+      "page": "01-colors"
+    },
+    {
+      "id": "adv_bg",
+      "page": "01-colors"
+    },
+    {
+      "id": "adv_text",
+      "page": "01-colors"
+    },
+    {
+      "id": "adv_heading",
+      "page": "01-colors"
+    },
+    {
+      "id": "adv_dark",
+      "page": "01-colors"
+    },
+    {
+      "id": "adv_surface",
+      "page": "01-colors"
+    },
+    {
+      "id": "adv_card",
+      "page": "01-colors"
+    },
+    {
+      "id": "adv_price",
+      "page": "01-colors"
+    },
+    {
+      "id": "adv_button_dark",
+      "page": "01-colors"
+    },
+    {
+      "id": "adv_link",
+      "page": "01-colors"
+    },
+    {
+      "id": "adv_whatsapp",
+      "page": "01-colors"
+    },
+    {
+      "id": "adv_announce",
+      "page": "01-colors"
+    },
+    {
+      "id": "adv_header",
+      "page": "01-colors"
+    },
+    {
+      "id": "adv_header_ink",
+      "page": "01-colors"
+    },
+    {
+      "id": "adv_header_pill",
+      "page": "01-colors"
+    },
+    {
+      "id": "adv_header_cta",
+      "page": "01-colors"
+    },
+    {
+      "id": "adv_menu_bg",
+      "page": "01-colors"
+    },
+    {
+      "id": "adv_footer",
+      "page": "01-colors"
+    },
+    {
+      "id": "adv_footer_ink",
+      "page": "01-colors"
+    },
+    {
+      "id": "advrs_page",
+      "page": "01-colors"
+    },
+    {
+      "id": "advrs_cards",
+      "page": "01-colors"
+    },
+    {
+      "id": "advrs_buttons",
+      "page": "01-colors"
+    },
+    {
+      "id": "advrs_header",
+      "page": "01-colors"
+    },
+    {
+      "id": "advrs_footer",
+      "page": "01-colors"
+    },
+    {
+      "id": "button_shape",
+      "page": "01-colors"
+    },
+    {
+      "id": "header_menu_bg",
+      "page": "04-header"
+    }
+  ],
+  "modifiedFields": [
+    {
+      "id": "palette_source",
+      "page": "01-colors"
+    },
+    {
+      "id": "accent_color",
+      "page": "01-colors"
+    }
+  ],
+  "imageAssignments": [
+    {
+      "page": "01-colors",
+      "asset": "updates/1.87.1/01-panel/04-adv_primary-advrs_page-page_group-panel.webp",
+      "title": "ألوان متقدمة: اللون الأساسي، ومجموعة الصفحة مع مفتاح الإرجاع",
+      "kind": "panel"
+    },
+    {
+      "page": "01-colors",
+      "asset": "updates/1.87.1/02-result/10-advanced-three_colors-result.webp",
+      "title": "ألوان متقدمة بثلاثة ألوان فقط (الأساسي والثانوي والخلفية) والباقي مشتق",
+      "kind": "result"
+    },
+    {
+      "page": "01-colors",
+      "asset": "updates/1.87.1/01-panel/04-adv_primary-advrs_page-page_group-panel.webp",
+      "title": "ألوان متقدمة: اللون الأساسي، ومجموعة الصفحة مع مفتاح الإرجاع",
+      "kind": "panel"
+    },
+    {
+      "page": "01-colors",
+      "asset": "updates/1.87.1/02-result/11-advanced-sections-result.webp",
+      "title": "ألوان متقدمة: لون مميز لكل قسم (هيدر داكن، بطاقات، فوتر)",
+      "kind": "result"
+    },
+    {
+      "page": "01-colors",
+      "asset": "updates/1.87.1/01-panel/05-advrs_cards-cards_buttons_group-panel.webp",
+      "title": "ألوان متقدمة: مجموعة البطاقات وبداية مجموعة الأزرار",
+      "kind": "panel"
+    },
+    {
+      "page": "01-colors",
+      "asset": "updates/1.87.1/02-result/12-adv_card-result.webp",
+      "title": "خلفية بطاقة المنتج: فاتحة",
+      "kind": "result"
+    },
+    {
+      "page": "01-colors",
+      "asset": "updates/1.87.1/02-result/13-adv_card-dark-result.webp",
+      "title": "خلفية بطاقة المنتج: داكنة، والنصوص والسعر تلقائية",
+      "kind": "result"
+    },
+    {
+      "page": "01-colors",
+      "asset": "updates/1.87.1/01-panel/06-advrs_buttons-buttons_header_group-panel.webp",
+      "title": "ألوان متقدمة: مجموعة الأزرار وبداية مجموعة الهيدر",
+      "kind": "panel"
+    },
+    {
+      "page": "01-colors",
+      "asset": "updates/1.87.1/01-panel/06-advrs_buttons-buttons_header_group-panel.webp",
+      "title": "ألوان متقدمة: مجموعة الأزرار وبداية مجموعة الهيدر",
+      "kind": "panel"
+    },
+    {
+      "page": "01-colors",
+      "asset": "updates/1.87.1/01-panel/07-advrs_header-header_footer_group-panel.webp",
+      "title": "ألوان متقدمة: بقية الهيدر ومجموعة الفوتر",
+      "kind": "panel"
+    },
+    {
+      "page": "01-colors",
+      "asset": "updates/1.87.1/02-result/15-adv_menu_bg-open-result.webp",
+      "title": "خلفية القائمة المدمجة (القائمة مفتوحة)",
+      "kind": "result"
+    },
+    {
+      "page": "01-colors",
+      "asset": "updates/1.87.1/01-panel/07-advrs_header-header_footer_group-panel.webp",
+      "title": "ألوان متقدمة: بقية الهيدر ومجموعة الفوتر",
+      "kind": "panel"
+    },
+    {
+      "page": "01-colors",
+      "asset": "updates/1.87.1/02-result/14-adv_footer-result.webp",
+      "title": "ألوان الفوتر: الخلفية والنصوص والأيقونات",
+      "kind": "result"
+    },
+    {
+      "page": "01-colors",
+      "asset": "updates/1.87.1/02-result/16-advrs_header-off-result.webp",
+      "title": "مفتاح «الهيدر · إرجاع ألوانه» مطفأ: ألوان الهيدر المختارة مطبقة",
+      "kind": "result"
+    },
+    {
+      "page": "01-colors",
+      "asset": "updates/1.87.1/02-result/17-advrs_header-on-result.webp",
+      "title": "المفتاح مفعّل: الهيدر رجع للافتراضي وبقيت ألوانه محفوظة",
+      "kind": "result"
+    },
+    {
+      "page": "01-colors",
+      "asset": "updates/1.87.1/01-panel/01-palette_source-field-panel.webp",
+      "title": "مصدر الألوان: الحقل ووصفه، ثم اللون الثانوي واللون الأساسي",
+      "kind": "panel"
+    },
+    {
+      "page": "01-colors",
+      "asset": "updates/1.87.1/01-panel/02-palette_source-options_top-panel.webp",
+      "title": "مصدر الألوان: القائمة مفتوحة (الجزء الأوسط)",
+      "kind": "panel"
+    },
+    {
+      "page": "01-colors",
+      "asset": "updates/1.87.1/01-panel/03-palette_source-options_all-panel.webp",
+      "title": "مصدر الألوان: الخيارات الثمانية",
+      "kind": "panel"
+    },
+    {
+      "page": "01-colors",
+      "asset": "updates/1.87.1/02-result/01-palette_source-coach-default-result.webp",
+      "title": "ألوان كوتش (الافتراضي)",
+      "kind": "result"
+    },
+    {
+      "page": "01-colors",
+      "asset": "updates/1.87.1/02-result/02-palette_source-store-result.webp",
+      "title": "لون المتجر من سلة",
+      "kind": "result"
+    },
+    {
+      "page": "01-colors",
+      "asset": "updates/1.87.1/02-result/03-palette_source-custom-result.webp",
+      "title": "لون واحد مخصص",
+      "kind": "result"
+    },
+    {
+      "page": "01-colors",
+      "asset": "updates/1.87.1/02-result/08-advanced-full-result.webp",
+      "title": "ألوان متقدمة: كل الألوان مختارة",
+      "kind": "result"
+    },
+    {
+      "page": "01-colors",
+      "asset": "updates/1.87.1/02-result/04-palette_source-calm-result.webp",
+      "title": "قالب جاهز: هادئ",
+      "kind": "result"
+    },
+    {
+      "page": "01-colors",
+      "asset": "updates/1.87.1/02-result/05-palette_source-warm-result.webp",
+      "title": "قالب جاهز: دافئ",
+      "kind": "result"
+    },
+    {
+      "page": "01-colors",
+      "asset": "updates/1.87.1/02-result/06-palette_source-ocean-result.webp",
+      "title": "قالب جاهز: بحري",
+      "kind": "result"
+    },
+    {
+      "page": "01-colors",
+      "asset": "updates/1.87.1/02-result/07-palette_source-night-result.webp",
+      "title": "قالب جاهز: ليلي",
+      "kind": "result"
+    },
+    {
+      "page": "01-colors",
+      "asset": "updates/1.87.1/02-result/08-advanced-full-result.webp",
+      "title": "ألوان متقدمة: كل الألوان مختارة",
+      "kind": "result"
+    },
+    {
+      "page": "01-colors",
+      "asset": "updates/1.87.1/02-result/09-advanced-full-mobile-result.webp",
+      "title": "ألوان متقدمة على الجوال",
+      "kind": "result"
+    },
+    {
+      "page": "01-colors",
+      "asset": "updates/1.87.1/02-result/10-advanced-three_colors-result.webp",
+      "title": "ألوان متقدمة بثلاثة ألوان فقط (الأساسي والثانوي والخلفية) والباقي مشتق",
+      "kind": "result"
+    },
+    {
+      "page": "01-colors",
+      "asset": "updates/1.87.1/02-result/11-advanced-sections-result.webp",
+      "title": "ألوان متقدمة: لون مميز لكل قسم (هيدر داكن، بطاقات، فوتر)",
+      "kind": "result"
+    },
+    {
+      "page": "01-colors",
+      "asset": "updates/1.87.1/01-panel/08-button_shape-field-panel.webp",
+      "title": "شكل الأزرار",
+      "kind": "panel"
+    },
+    {
+      "page": "01-colors",
+      "asset": "updates/1.87.1/02-result/18-button_shape-pill-default-result.webp",
+      "title": "شكل الأزرار: دائري (الافتراضي)",
+      "kind": "result"
+    },
+    {
+      "page": "01-colors",
+      "asset": "updates/1.87.1/02-result/19-button_shape-soft-result.webp",
+      "title": "شكل الأزرار: زوايا ناعمة",
+      "kind": "result"
+    },
+    {
+      "page": "01-colors",
+      "asset": "updates/1.87.1/02-result/20-button_shape-sharp-result.webp",
+      "title": "شكل الأزرار: زوايا خفيفة",
+      "kind": "result"
+    },
+    {
+      "page": "04-header",
+      "asset": "updates/1.87.1/01-panel/09-header_menu_bg-field-panel.webp",
+      "title": "خلفية القائمة في الهيدر المدمج",
+      "kind": "panel"
+    },
+    {
+      "page": "04-header",
+      "asset": "updates/1.87.1/02-result/21-header_menu_bg-page-default-result.webp",
+      "title": "خلفية القائمة في الهيدر المدمج: لون الصفحة (الافتراضي)",
+      "kind": "result"
+    },
+    {
+      "page": "04-header",
+      "asset": "updates/1.87.1/02-result/22-header_menu_bg-white-result.webp",
+      "title": "خلفية القائمة: أبيض",
+      "kind": "result"
+    },
+    {
+      "page": "04-header",
+      "asset": "updates/1.87.1/02-result/23-header_menu_bg-dark-result.webp",
+      "title": "خلفية القائمة: داكن",
+      "kind": "result"
+    }
+  ],
+  "supersededFieldImages": {
+    "01-colors": [
+      "palette_source",
+      "accent_color"
+    ]
+  }
+}

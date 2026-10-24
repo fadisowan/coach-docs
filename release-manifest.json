@@ -1545,7 +1545,39 @@
     "sections/47-enhanced-square-banners/04-banners-title-panel.webp": "539ecd68329fbc371bd1e36ee00071249ab1da580a2a0855c760d00899bc0cf2",
     "sections/47-enhanced-square-banners/04-banners-url-panel.webp": "99027ef2fc4173be705dcc8af878c119ad1bb4ac501c183066ed1c0bcb56e65d",
     "sections/48-brands/01-title-panel.webp": "beebfff97b8fef3d6a22d7fa74f62e54a5e40a07ca76f62e46dcd2a74b52545f",
-    "sections/48-brands/02-brands-panel.webp": "a406b88a077e6b1035325a7216997a72522ceb21c52d448a87928f8586c30fb4"
+    "sections/48-brands/02-brands-panel.webp": "a406b88a077e6b1035325a7216997a72522ceb21c52d448a87928f8586c30fb4",
+    "updates/1.87.1/01-panel/06-advrs_buttons-buttons_header_group-panel.webp": "0941f4af9f67aa11bd793448bb9533d1a867d03d3d7a816dce71d32ca71da626",
+    "updates/1.87.1/01-panel/09-header_menu_bg-field-panel.webp": "3197847ea0897b427120b3d3aab863f7c8ba6594a4951ef2130b59f87e2a6eca",
+    "updates/1.87.1/01-panel/03-palette_source-options_all-panel.webp": "c4307a8c03807565ebc0d2f1ff61f8aa726eabc9a6d1ded7819ce8a54c2367d2",
+    "updates/1.87.1/01-panel/02-palette_source-options_top-panel.webp": "9abcb0bc245a3dcad13d470f96be16c5ae0076e9c722564543177b5dce7dd8ae",
+    "updates/1.87.1/01-panel/01-palette_source-field-panel.webp": "7a979363440389f23dbd10e3d11ff00ade9a2dfdb9bafef313a3fd7d15637a56",
+    "updates/1.87.1/01-panel/05-advrs_cards-cards_buttons_group-panel.webp": "08fadbfada02b62bf2c930e7adf02f9aeb91149fd1501276521a4ec00ef153a4",
+    "updates/1.87.1/01-panel/04-adv_primary-advrs_page-page_group-panel.webp": "a1fc5ef20251f14634149987a15fda2a46733c053ebdc8b69f6a4ec517bf924d",
+    "updates/1.87.1/01-panel/07-advrs_header-header_footer_group-panel.webp": "e13caa22ccd28611a74da49fbc54c84e10b1978a2456be58a975ba39855da3ca",
+    "updates/1.87.1/01-panel/08-button_shape-field-panel.webp": "5ddb65309191cb2be55853ea37b34b9380d2f539511e7039e0f8cdbc8fbb91ca",
+    "updates/1.87.1/02-result/15-adv_menu_bg-open-result.webp": "ce06c81f7e760f3e55a1dacaf0c70f6f845a000582cb73a6518a2efa894f9c82",
+    "updates/1.87.1/02-result/03-palette_source-custom-result.webp": "eb6e3c80ab09f4e79ef88920a036e0c3f3cdb08ee59ca21ffc61873b87aafeb5",
+    "updates/1.87.1/02-result/09-advanced-full-mobile-result.webp": "b7e3ae1274125296dbd10507d827a7fdca11e5caa53d5469e227f2deccc12b87",
+    "updates/1.87.1/02-result/19-button_shape-soft-result.webp": "dc9c5a625b147e7a199d675ac26fb2b4b900bbf7301836b7310b0e5aae4f5fd5",
+    "updates/1.87.1/02-result/12-adv_card-result.webp": "c7d747f75df9ba1bb0501efebdff662bcc108b2feeeaba60789545d1de65346e",
+    "updates/1.87.1/02-result/23-header_menu_bg-dark-result.webp": "3bf3798e60b51631c95f28806cc70f694117309d73cf7fa557b0b06e86b50749",
+    "updates/1.87.1/02-result/06-palette_source-ocean-result.webp": "36c2fd91c5f22cd207f5a556005d9093951db801e3b42b617ee85722aa34c719",
+    "updates/1.87.1/02-result/02-palette_source-store-result.webp": "a0c45822ea8f5f139c8d4dcc15755db861507eee7d7d94fca4a43a611976805b",
+    "updates/1.87.1/02-result/10-advanced-three_colors-result.webp": "38c9676938c06d9c91ae64ec847578da3a02757a6766e43d6eec99ffcfaeb37e",
+    "updates/1.87.1/02-result/22-header_menu_bg-white-result.webp": "1200a3c98694afb648ecf084380167ad666529c0087e5f4e0de4572add1f2539",
+    "updates/1.87.1/02-result/21-header_menu_bg-page-default-result.webp": "433f85c145dd1f549a423f6a8ac3db5fef9d4ec1d59bd20723edf3acf4c81583",
+    "updates/1.87.1/02-result/13-adv_card-dark-result.webp": "38289a1bda78cb12cdf906b15c4aa330b1009accc903e6f7f96ba8b51e0d2509",
+    "updates/1.87.1/02-result/08-advanced-full-result.webp": "4df7d5d92f4d640768a7cfe62be15629c5596879b7a1c458f2077b47b34dae22",
+    "updates/1.87.1/02-result/17-advrs_header-on-result.webp": "0f825a0388d955ac76a4b8e7a979e586d8bca1c09f57bcaca9a410d45b7b2c6a",
+    "updates/1.87.1/02-result/05-palette_source-warm-result.webp": "cbe08bd177c4c765d8d268c0ff3423b5a80548654fdbb5dd7d078a8c1e8dcbd9",
+    "updates/1.87.1/02-result/16-advrs_header-off-result.webp": "b3e697eec070783d328bc8386adca5369642c6348ac6422357078d7c18930aa3",
+    "updates/1.87.1/02-result/07-palette_source-night-result.webp": "dac484c1a8356a223f48dd14544899ad358190be7892d2deace54e4613165db7",
+    "updates/1.87.1/02-result/20-button_shape-sharp-result.webp": "a9cabaaabb4508ee5c425cce0ad1005f927c76b5db63424bd2b4a0e29b562b85",
+    "updates/1.87.1/02-result/04-palette_source-calm-result.webp": "45ebcfa7fb38c512f941d6576776edee6947081fcdd456512df844c12f94ae80",
+    "updates/1.87.1/02-result/11-advanced-sections-result.webp": "b3e697eec070783d328bc8386adca5369642c6348ac6422357078d7c18930aa3",
+    "updates/1.87.1/02-result/14-adv_footer-result.webp": "f87bd5012d65254050356798e884dcaf52a5fcd4921af95d75bbee5a6d50ab1f",
+    "updates/1.87.1/02-result/01-palette_source-coach-default-result.webp": "81d8ebb67aaa06a86f2193c80787635ecc3a6de02935daeb29ac684676987895",
+    "updates/1.87.1/02-result/18-button_shape-pill-default-result.webp": "1801b4428806e733f880e15bdc155d6e391cda4fc4fed648dba7adde243398a7"
   },
   "sourceFiles": {
     "coach-guide-for-chatgpt.md": "cff767222cb1a5809c540e31fc61c128ef75ec19f40b06cd5e2ba596972d0bf8",
@@ -1678,7 +1710,10 @@
     "sections/47-enhanced-square-banners/manifest.json": "93b44992779ae56e0fa89b194aafe7240bbf27a0a8178af531e46728619e24b3",
     "sections/47-enhanced-square-banners/README.md": "cb3283be2492bb841cf29059ef67e18e967bd9009380b86ebb526e1babb52914",
     "sections/48-brands/manifest.json": "986dc5fe7f47cb07480a434057ef432bd3dcecec8ec5749f47115a09b809c718",
-    "sections/48-brands/README.md": "713bf8ad4f6f54a2152593ece0a215e76731426a0d9dc728d54015520f911399"
+    "sections/48-brands/README.md": "713bf8ad4f6f54a2152593ece0a215e76731426a0d9dc728d54015520f911399",
+    "updates/1.87.1/01-panel/manifest.json": "52e963f341625477181a109a45dc10f2121a6be8ed40245b0942ad2e4a3953f4",
+    "updates/1.87.1/02-result/manifest.json": "e2e9e9aeb50650b72ca5313a2877c81ea7c4c7da6f417cd7c71d694fc6ae8574",
+    "updates/1.87.1/details.md": "c7b18cc1c5ebb38f3ee2610c49b84d0986d3e8b229654652fe7f85cf62e0bf8b"
   },
   "uncaptured": [
     {
@@ -1926,5 +1961,20 @@
     "47-coach-living-word"
   ],
   "fields": 782,
-  "pairs": 978
+  "pairs": 978,
+  "updates": [
+    {
+      "version": "1.87.1",
+      "documentedFrom": "1.83.0",
+      "source": "updates/1.87.1/details.md",
+      "images": 32,
+      "archiveSha256": "770c6963da71ceec0f4ad507c2e7f933115779f493fc83d8b78e5ca2ee51b248"
+    }
+  ],
+  "supersededAssets": [
+    "00-theme/01-colors/01-palette_source-coach-panel.webp",
+    "00-theme/01-colors/01-palette_source-store-panel.webp",
+    "00-theme/01-colors/01-palette_source-store-result.webp",
+    "00-theme/01-colors/02-accent_color-panel.webp"
+  ]
 }

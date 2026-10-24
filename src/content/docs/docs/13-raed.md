@@ -84,4 +84,8 @@ editUrl: false
 | <img src="/coach-docs/assets/00-theme/13-raed/05-is_more_button_enabled-panel.webp" alt="لوحة إعدادات — عرض (زر الكل) في الصفحة الرئيسية" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/13-raed/00-default-result.webp" alt="معاينة — عرض (زر الكل) في الصفحة الرئيسية" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية؛ لا تُظهر الحالة الفعلية لهذا الخيار.</small> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
 
 
+## اتباع ألوان الثيم
+
+أقسام سلة الجاهزة تتبع ألوان الثيم، بما فيها زر «اشترِ الآن». هذه تحسينات دون مفاتيح جديدة هنا؛ إعدادات الألوان موجودة في [الهوية](/coach-docs/docs/01-colors/#advanced-colors).
+
 <div class="source-note">الإصدار 1.76.1 · صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>

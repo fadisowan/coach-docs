@@ -130,4 +130,8 @@ editUrl: false
 | <img src="/coach-docs/assets/00-theme/02-motion/08-footer_open_fx-panel.webp" alt="لوحة إعدادات — توسّع الفوتر عند ظهوره" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/02-motion/00-default-result.webp" alt="معاينة — توسّع الفوتر عند ظهوره" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
 
 
+## ألوان دوائر الضوء
+
+دوائر الضوء في الخلفية تتبع اللونين الأساسي والثانوي دون إعداد جديد مستقل. اختر الألوان من [تخصيص الثيم ← الهوية](/coach-docs/docs/01-colors/#palette-source).
+
 <div class="source-note">الإصدار 1.76.1 · صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>
