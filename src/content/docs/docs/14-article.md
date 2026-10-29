@@ -1,5 +1,5 @@
 ---
-title: "١٤ · صفحة المقالة — شريط القراءة، صندوق الكاتب، وبطاقة الدعوة"
+title: "صفحة المقالة"
 description: "دليل ثيم كوتش 1.76.1 — ١٤ · صفحة المقالة — شريط القراءة، صندوق الكاتب، وبطاقة الدعوة"
 editUrl: false
 ---
@@ -82,7 +82,7 @@ editUrl: false
 |---|---|---|
 | <img src="/coach-docs/assets/00-theme/14-article/05-article_cta-panel.webp" alt="لوحة إعدادات — بطاقة الدعوة أسفل المقالة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/14-article/00-default-result.webp" alt="معاينة — بطاقة الدعوة أسفل المقالة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية؛ لا تُظهر الحالة الفعلية لهذا الخيار.</small> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
 
-### «بطاقة الدعوة: العنوان»
+### «بطاقة الدعوة أسفل المقالة: العنوان»
 
 - **النوع:** نص بسطر واحد · **الافتراضي:** جاهز للخطوة التالية؟ · المعرّف `article_cta_title`
 - **ماذا يفعل:** سطر قصير.
@@ -90,9 +90,9 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | المعاينة المرجعية المتاحة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/14-article/06-article_cta_title-panel.webp" alt="لوحة إعدادات — بطاقة الدعوة: العنوان" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/14-article/00-default-result.webp" alt="معاينة — بطاقة الدعوة: العنوان" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية؛ لا تُظهر الحالة الفعلية لهذا الخيار.</small> | مكانه محاط بإطار برتقالي |
+| <img src="/coach-docs/assets/00-theme/14-article/06-article_cta_title-panel.webp" alt="لوحة إعدادات — بطاقة الدعوة أسفل المقالة: العنوان" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/14-article/00-default-result.webp" alt="معاينة — بطاقة الدعوة أسفل المقالة: العنوان" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية؛ لا تُظهر الحالة الفعلية لهذا الخيار.</small> | مكانه محاط بإطار برتقالي |
 
-### «بطاقة الدعوة: النص»
+### «بطاقة الدعوة أسفل المقالة: النص»
 
 - **النوع:** نص بعدة أسطر · **الافتراضي:** برنامج عملي خطوة بخطوة، أو استشارة فردية تحدد البداية. · المعرّف `article_cta_text`
 - **ماذا يفعل:** جملة أو جملتان؛ فارغاً يُخفى.
@@ -101,7 +101,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | المعاينة المرجعية المتاحة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/14-article/07-article_cta_text-panel.webp" alt="لوحة إعدادات — بطاقة الدعوة: النص" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/14-article/00-default-result.webp" alt="معاينة — بطاقة الدعوة: النص" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية؛ لا تُظهر الحالة الفعلية لهذا الخيار.</small> | مكانه محاط بإطار برتقالي |
+| <img src="/coach-docs/assets/00-theme/14-article/07-article_cta_text-panel.webp" alt="لوحة إعدادات — بطاقة الدعوة أسفل المقالة: النص" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/14-article/00-default-result.webp" alt="معاينة — بطاقة الدعوة أسفل المقالة: النص" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية؛ لا تُظهر الحالة الفعلية لهذا الخيار.</small> | مكانه محاط بإطار برتقالي |
 
 ### «الزر الأول: نصّه»
 

@@ -1,0 +1,45 @@
+# لقطات لم تُصوَّر
+
+حُذفت من manifest.json لأن المعاينة بلا متجر لا تعرضها:
+
+- `sections/16-custom-testimonials/00-desktop.webp`
+- `sections/16-custom-testimonials/00-desktop.webp`
+- `sections/16-custom-testimonials/00-desktop.webp`
+- `sections/16-custom-testimonials/00-desktop.webp`
+- `sections/16-custom-testimonials/00-desktop.webp`
+- `sections/16-custom-testimonials/00-desktop.webp`
+- `sections/16-custom-testimonials/00-desktop.webp`
+- `sections/16-custom-testimonials/00-mobile.webp`
+- `sections/16-custom-testimonials/01-title-result.webp`
+- `sections/16-custom-testimonials/03-autoplay-off-result.webp`
+- `sections/16-custom-testimonials/05-show_stars-off-result.webp`
+- `sections/16-custom-testimonials/06-custom_classes-result.webp`
+- `sections/46-enhanced-slider/00-desktop.webp`
+- `sections/46-enhanced-slider/00-desktop.webp`
+- `sections/46-enhanced-slider/00-desktop.webp`
+- `sections/46-enhanced-slider/00-desktop.webp`
+- `sections/46-enhanced-slider/00-desktop.webp`
+- `sections/46-enhanced-slider/00-desktop.webp`
+- `sections/46-enhanced-slider/00-desktop.webp`
+- `sections/46-enhanced-slider/00-desktop.webp`
+- `sections/46-enhanced-slider/00-mobile.webp`
+- `sections/46-enhanced-slider/01-eyebrow-result.webp`
+- `sections/46-enhanced-slider/02-title-result.webp`
+- `sections/46-enhanced-slider/03-description-result.webp`
+- `sections/46-enhanced-slider/05-autoplay-off-result.webp`
+- `sections/46-enhanced-slider/06-pagination-off-result.webp`
+- `sections/46-enhanced-slider/07-custom_classes-result.webp`
+- `sections/47-enhanced-square-banners/00-desktop.webp`
+- `sections/47-enhanced-square-banners/00-desktop.webp`
+- `sections/47-enhanced-square-banners/00-desktop.webp`
+- `sections/47-enhanced-square-banners/00-desktop.webp`
+- `sections/47-enhanced-square-banners/00-desktop.webp`
+- `sections/47-enhanced-square-banners/00-desktop.webp`
+- `sections/47-enhanced-square-banners/00-mobile.webp`
+- `sections/47-enhanced-square-banners/01-eyebrow-result.webp`
+- `sections/47-enhanced-square-banners/02-title-result.webp`
+- `sections/47-enhanced-square-banners/03-description-result.webp`
+- `sections/47-enhanced-square-banners/05-tile_layout-auto-result.webp`
+- `sections/47-enhanced-square-banners/05-tile_layout-equal-result.webp`
+- `sections/47-enhanced-square-banners/05-tile_layout-feature-result.webp`
+- `sections/47-enhanced-square-banners/06-custom_classes-result.webp`

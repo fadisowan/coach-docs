@@ -2,7 +2,7 @@
   {
     "kind": "settings",
     "key": "coach_title_colors",
-    "title": "١ · الهوية — الألوان، شكل الكلمات المميّزة، والخط",
+    "title": "ألوان المتجر والخط والأزرار",
     "folder": "00-theme/01-colors",
     "slug": "01-colors",
     "category": "الإعدادات العامة"
@@ -10,7 +10,7 @@
   {
     "kind": "settings",
     "key": "coach_title_motion",
-    "title": "٢ · الحركة والتأثيرات — حركة الأقسام، خلفية الصفحة، والمؤشر",
+    "title": "الحركة والتأثيرات",
     "folder": "00-theme/02-motion",
     "slug": "02-motion",
     "category": "الإعدادات العامة"
@@ -18,7 +18,7 @@
   {
     "kind": "settings",
     "key": "coach_title_announcement",
-    "title": "٣ · الشريط الإعلاني — نص وكود خصم وعدّاد أعلى كل الصفحات",
+    "title": "الشريط الإعلاني",
     "folder": "00-theme/03-announcement",
     "slug": "03-announcement",
     "category": "الإعدادات العامة"
@@ -26,7 +26,7 @@
   {
     "kind": "settings",
     "key": "coach_title_header",
-    "title": "٤ · الهيدر — الشكل والتثبيت والبحث والقائمة وزر الحجز",
+    "title": "الهيدر",
     "folder": "00-theme/04-header",
     "slug": "04-header",
     "category": "الإعدادات العامة"
@@ -34,7 +34,7 @@
   {
     "kind": "settings",
     "key": "coach_title_dock",
-    "title": "٥ · شريط الجوال السفلي — الأزرار والبحث والزر البارز",
+    "title": "شريط الجوال السفلي",
     "folder": "00-theme/05-dock",
     "slug": "05-dock",
     "category": "الإعدادات العامة"
@@ -42,7 +42,7 @@
   {
     "kind": "settings",
     "key": "coach_title_cart",
-    "title": "٦ · السلة — الجانبية والمصغّرة وما يحدث بعد الإضافة",
+    "title": "السلة",
     "folder": "00-theme/06-cart",
     "slug": "06-cart",
     "category": "الإعدادات العامة"
@@ -50,7 +50,7 @@
   {
     "kind": "settings",
     "key": "coach_title_card",
-    "title": "٧ · بطاقة المنتج — شكل الصورة، أشكال الأنواع، نسبة الخصم، وسم النوع و«أعلمني»",
+    "title": "بطاقة المنتج",
     "folder": "00-theme/07-card",
     "slug": "07-card",
     "category": "الإعدادات العامة"
@@ -58,7 +58,7 @@
   {
     "kind": "settings",
     "key": "coach_title_product",
-    "title": "٨ · صفحة المنتج — الملاحظة و«يُشترى معاً» والصور والزر الثابت",
+    "title": "صفحة المنتج",
     "folder": "00-theme/08-product",
     "slug": "08-product",
     "category": "الإعدادات العامة"
@@ -66,7 +66,7 @@
   {
     "kind": "settings",
     "key": "coach_title_listing",
-    "title": "٩ · صفحات التصنيفات والبحث — رأس التصنيف بصورته ومسار التنقل",
+    "title": "التصنيفات والبحث",
     "folder": "00-theme/09-listing",
     "slug": "09-listing",
     "category": "الإعدادات العامة"
@@ -74,7 +74,7 @@
   {
     "kind": "settings",
     "key": "coach_title_whatsapp",
-    "title": "١٠ · أزرار الشاشة — واتساب العائم، العودة للأعلى، وشاشة التحميل",
+    "title": "الأزرار العائمة وشاشة التحميل",
     "folder": "00-theme/10-whatsapp",
     "slug": "10-whatsapp",
     "category": "الإعدادات العامة"
@@ -82,7 +82,7 @@
   {
     "kind": "settings",
     "key": "coach_title_footer",
-    "title": "١١ · الفوتر — العنوان الكبير، النبذة، بطاقة الدعوة، واسم المتجر",
+    "title": "الفوتر",
     "folder": "00-theme/11-footer",
     "slug": "11-footer",
     "category": "الإعدادات العامة"
@@ -90,7 +90,7 @@
   {
     "kind": "settings",
     "key": "coach_title_exit",
-    "title": "١٢ · نافذة العرض المنبثقة — عرض بكود خصم يظهر بعد ثوانٍ، مرة في كل زيارة",
+    "title": "نافذة العرض المنبثقة",
     "folder": "00-theme/12-exit",
     "slug": "12-exit",
     "category": "الإعدادات العامة"
@@ -98,7 +98,7 @@
   {
     "kind": "settings",
     "key": "coach_title_raed",
-    "title": "١٣ · أقسام سلة الجاهزة — إن أُضيفت للرئيسية",
+    "title": "أقسام سلة الجاهزة",
     "folder": "00-theme/13-raed",
     "slug": "13-raed",
     "category": "الإعدادات العامة"
@@ -106,7 +106,7 @@
   {
     "kind": "settings",
     "key": "coach_title_article",
-    "title": "١٤ · صفحة المقالة — شريط القراءة، صندوق الكاتب، وبطاقة الدعوة",
+    "title": "صفحة المقالة",
     "folder": "00-theme/14-article",
     "slug": "14-article",
     "category": "الإعدادات العامة"

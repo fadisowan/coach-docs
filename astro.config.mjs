@@ -21,9 +21,9 @@ export default defineConfig({
       { label: 'ابدأ هنا', link: '/' },
       { label: 'كل المكوّنات الـ٤٨ بالصور', slug: 'components' },
       { label: 'دليل الإعدادات العامة', slug: 'settings' },
-      { label: 'إضافات الإعدادات والألوان', slug: 'updates' },
+      { label: 'جديد التوثيق', slug: 'updates' },
       { label: 'حالة المعاينات والصور', slug: 'preview-status' },
-      ...groups.map(label => ({label, collapsed: label === 'مكوّنات الصفحة الرئيسية', items: nav.filter(entry => entry.category === label).map(entry => ({label: entry.title.split(' — ')[0], slug: 'docs/' + entry.slug}))}))
+      ...groups.map(label => ({label, collapsed: label === 'مكوّنات الصفحة الرئيسية', items: nav.filter(entry => entry.category === label).flatMap(entry => entry.slug==='01-colors'?[{label:'ألوان المتجر',link:'https://fadisowan.github.io/coach-docs/docs/01-colors/#palette-source'},{label:'الخط والأزرار والكلمات المميّزة',link:'https://fadisowan.github.io/coach-docs/docs/01-colors/#fonts-buttons'}]:[{label: entry.title.split(' — ')[0], slug: 'docs/' + entry.slug}])}))
     ],
     tableOfContents: { minHeadingLevel: 2, maxHeadingLevel: 3 },
     pagination: true,

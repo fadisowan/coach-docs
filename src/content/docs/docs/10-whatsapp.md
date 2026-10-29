@@ -1,33 +1,33 @@
 ---
-title: "١٠ · أزرار الشاشة — واتساب العائم، العودة للأعلى، وشاشة التحميل"
+title: "الأزرار العائمة وشاشة التحميل"
 description: "دليل ثيم كوتش 1.76.1 — ١٠ · أزرار الشاشة — واتساب العائم، العودة للأعلى، وشاشة التحميل"
 editUrl: false
 ---
 
-
-من «تخصيص الثيم» في محرّر سلة. تنطبق على المتجر كله.
-
-**ما فيها:** الأزرار الثابتة على الشاشة: واتساب العائم ورقمه ورسالته، وزر العودة للأعلى، وشاشة التحميل.
-
-النتيجة مصوّرة على الصفحة الرئيسية مع `whatsapp_enabled` مفعّلاً ليظهر ما تتحكم به المجموعة.
-
-<!-- preview-audit -->
 :::caution[حدود المعاينات المتاحة]
 معاينة زر واتساب العائم موجودة فعلًا. أما الخيارات الخاصة بالرسالة الجاهزة والعودة للأعلى وشاشة التحميل فتستخدم لقطة الزر نفسها ولا تُظهر هذه الحالات بصورة مستقلة.
 :::
 
+
+في محرّر سلة: «خيارات التصميم ← الخيارات العامة»، قسم «الأزرار العائمة وشاشة التحميل». تنطبق على المتجر كله.
+
+**ما فيها:** الأزرار الثابتة على الشاشة: واتساب العائم ورقمه ورسالته، وزر العودة للأعلى، وجهة الزرين، وشاشة التحميل.
+
+النتيجة مصوّرة على الصفحة الرئيسية مع `whatsapp_enabled` مفعّلاً ليظهر ما تتحكم به المجموعة.
+
 | النتيجة الافتراضية |
 |---|
-| <img src="/coach-docs/assets/00-theme/10-whatsapp/00-default-result.webp" alt="معاينة — ١٠ · أزرار الشاشة — واتساب العائم، العودة للأعلى، وشاشة التحميل" loading="lazy" decoding="async"/> |
+| <img data-update-ref="10-whatsapp:overview:0" src="/coach-docs/assets/updates/1.94.0/00-theme/11-whatsapp/00-default-result.webp?v=f8a9c1d6841b" alt="معاينة — ١٠ · أزرار الشاشة — واتساب العائم، العودة للأعلى، وشاشة التحميل" loading="lazy" decoding="async"/> |
 
 <details><summary>من دليل التاجر</summary>
 
-- «رقم واتساب»: بالصيغة الدولية، مثل 966500000000. فارغاً يُستخدم رقم واتساب المتجر من إعدادات سلة. يستخدمه الزر العائم، وكذلك زر التواصل في «عام · الأسئلة الشائعة» وبطاقة الدعوة في الفوتر حين تترك رابطيهما فارغين.
+- «رقم واتساب»: بالصيغة الدولية، مثل 966500000000. فارغاً يُستخدم رقم واتساب المتجر من إعدادات سلة. يستخدمه الزر العائم، وكذلك زر التواصل في «عام · الأسئلة الشائعة» وبطاقة الدعوة في الفوتر حين يُترك رابطاهما فارغين.
 - «زر واتساب عائم»: كبسولة ثابتة في زاوية الشاشة في كل الصفحات. مطفأ افتراضياً. بلا رقم في الثيم ولا في سلة لا يظهر.
 - «نص الزر العائم»: فارغاً يظهر «اسألني على واتساب». على الجوال يظهر الزر بأيقونته فقط.
-- «رسالة جاهزة»: تُكتب تلقائياً في المحادثة عند فتحها. الافتراضية «مرحباً، لدي سؤال عن البرامج»؛ غيّرها بما يناسبك.
+- «رسالة جاهزة»: تُكتب تلقائياً في المحادثة عند فتحها. الافتراضية «مرحباً، لدي سؤال عن البرامج»، وتُغيَّر بما يناسب المتجر.
 - «زر العودة للأعلى»: زر دائري صغير يظهر بعد النزول في الصفحة، فوق زر واتساب إن كان مفعّلاً. مفعّل.
 - «شاشة التحميل»: شعار المتجر وحلقة تدور حتى تكتمل الصفحة، ثم تختفي بهدوء (ثلاث ثوانٍ على الأكثر). مطفأة افتراضياً: الصفحة تظهر أسرع بدونها.
+- «جهة الأزرار العائمة»: زر واتساب وزر العودة للأعلى في «نهاية السطر (الافتراضي)»، أي يسار الصفحة العربية، أو في «بداية السطر».
 
 عن «رقم واتساب»: لا بأس إن كتبته بمسافات أو شرطات أو علامة +، فالثيم يحذفها. المهم أن يبدأ برمز الدولة.
 
@@ -45,7 +45,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/10-whatsapp/01-whatsapp_number-panel.webp" alt="لوحة إعدادات — رقم واتساب" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/10-whatsapp/00-default-result.webp" alt="معاينة — رقم واتساب" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة بالقيمة الافتراضية |
+| <img data-update-ref="10-whatsapp:whatsapp_number:0:panel" src="/coach-docs/assets/updates/1.94.0/00-theme/11-whatsapp/01-whatsapp_number-panel.webp?v=3d9c495d8cde" alt="لوحة إعدادات (نسخة مطابقة) — رقم واتساب" loading="lazy" decoding="async"/> | <img data-update-ref="10-whatsapp:whatsapp_number:0:result" src="/coach-docs/assets/updates/1.94.0/00-theme/11-whatsapp/00-default-result.webp?v=f8a9c1d6841b" alt="معاينة — رقم واتساب" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة؛ لا تثبت أثر كل خيار بصورة مستقلة.</small> | النتيجة بالقيمة الافتراضية |
 
 ### «زر واتساب عائم»
 
@@ -57,7 +57,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/10-whatsapp/02-whatsapp_enabled-panel.webp" alt="لوحة إعدادات — زر واتساب عائم" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/10-whatsapp/02-whatsapp_enabled-on-result.webp" alt="معاينة — زر واتساب عائم" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
+| <img data-update-ref="10-whatsapp:whatsapp_enabled:0:panel" src="/coach-docs/assets/updates/1.94.0/00-theme/11-whatsapp/02-whatsapp_enabled-panel.webp?v=b5b619870382" alt="لوحة إعدادات (نسخة مطابقة) — زر واتساب عائم" loading="lazy" decoding="async"/> | <img data-update-ref="10-whatsapp:whatsapp_enabled:0:result" src="/coach-docs/assets/updates/1.94.0/00-theme/11-whatsapp/02-whatsapp_enabled-on-result.webp?v=569df6ea9170" alt="معاينة — زر واتساب عائم" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة؛ لا تثبت أثر كل خيار بصورة مستقلة.</small> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
 
 ### «نص الزر العائم»
 
@@ -70,7 +70,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/10-whatsapp/03-whatsapp_label-panel.webp" alt="لوحة إعدادات — نص الزر العائم" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/10-whatsapp/03-whatsapp_label-result.webp" alt="معاينة — نص الزر العائم" loading="lazy" decoding="async"/> | مكانه محاط بإطار برتقالي |
+| <img data-update-ref="10-whatsapp:whatsapp_label:0:panel" src="/coach-docs/assets/updates/1.94.0/00-theme/11-whatsapp/03-whatsapp_label-panel.webp?v=a71d967af29d" alt="لوحة إعدادات (نسخة مطابقة) — نص الزر العائم" loading="lazy" decoding="async"/> | <img data-update-ref="10-whatsapp:whatsapp_label:0:result" src="/coach-docs/assets/updates/1.94.0/00-theme/11-whatsapp/03-whatsapp_label-result.webp?v=92471b6e67fa" alt="معاينة — نص الزر العائم" loading="lazy" decoding="async"/> | مكانه محاط بإطار برتقالي |
 
 ### «رسالة جاهزة»
 
@@ -83,7 +83,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/10-whatsapp/04-whatsapp_message-panel.webp" alt="لوحة إعدادات — رسالة جاهزة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/10-whatsapp/02-whatsapp_enabled-on-result.webp" alt="معاينة — رسالة جاهزة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية؛ لا تُظهر الحالة الفعلية لهذا الخيار.</small> | مكانه محاط بإطار برتقالي |
+| <img data-update-ref="10-whatsapp:whatsapp_message:0:panel" src="/coach-docs/assets/updates/1.94.0/00-theme/11-whatsapp/04-whatsapp_message-panel.webp?v=7acba52313ee" alt="لوحة إعدادات (نسخة مطابقة) — رسالة جاهزة" loading="lazy" decoding="async"/> | <img data-update-ref="10-whatsapp:whatsapp_message:0:result" src="/coach-docs/assets/updates/1.94.0/00-theme/11-whatsapp/02-whatsapp_enabled-on-result.webp?v=569df6ea9170" alt="معاينة — رسالة جاهزة" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة؛ لا تثبت أثر كل خيار بصورة مستقلة.</small> | مكانه محاط بإطار برتقالي |
 
 ### «زر العودة للأعلى»
 
@@ -95,7 +95,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/10-whatsapp/05-back_to_top_enabled-panel.webp" alt="لوحة إعدادات — زر العودة للأعلى" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/10-whatsapp/02-whatsapp_enabled-on-result.webp" alt="معاينة — زر العودة للأعلى" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية؛ لا تُظهر الحالة الفعلية لهذا الخيار.</small> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
+| <img data-update-ref="10-whatsapp:back_to_top_enabled:0:panel" src="/coach-docs/assets/updates/1.94.0/00-theme/11-whatsapp/05-back_to_top_enabled-panel.webp?v=49ad0ae6ef48" alt="لوحة إعدادات (نسخة مطابقة) — زر العودة للأعلى" loading="lazy" decoding="async"/> | <img data-update-ref="10-whatsapp:back_to_top_enabled:0:result" src="/coach-docs/assets/updates/1.94.0/00-theme/11-whatsapp/02-whatsapp_enabled-on-result.webp?v=569df6ea9170" alt="معاينة — زر العودة للأعلى" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة؛ لا تثبت أثر كل خيار بصورة مستقلة.</small> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
 
 ### «شاشة التحميل»
 
@@ -107,14 +107,28 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/10-whatsapp/06-preloader_enabled-panel.webp" alt="لوحة إعدادات — شاشة التحميل" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/10-whatsapp/02-whatsapp_enabled-on-result.webp" alt="معاينة — شاشة التحميل" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية؛ لا تُظهر الحالة الفعلية لهذا الخيار.</small> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
+| <img data-update-ref="10-whatsapp:preloader_enabled:0:panel" src="/coach-docs/assets/updates/1.94.0/00-theme/11-whatsapp/06-preloader_enabled-panel.webp?v=759f41bff9de" alt="لوحة إعدادات (نسخة مطابقة) — شاشة التحميل" loading="lazy" decoding="async"/> | <img data-update-ref="10-whatsapp:preloader_enabled:0:result" src="/coach-docs/assets/updates/1.94.0/00-theme/11-whatsapp/02-whatsapp_enabled-on-result.webp?v=569df6ea9170" alt="معاينة — شاشة التحميل" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة؛ لا تثبت أثر كل خيار بصورة مستقلة.</small> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
+
+### «جهة الأزرار العائمة»
+
+- **النوع:** قائمة منسدلة · **الافتراضي:** نهاية السطر (الافتراضي) · المعرّف `floating_side`
+- **ماذا يفعل:** جهة زر واتساب وزر العودة للأعلى: نهاية السطر (يسار في العربية) أو بدايته.
+- **متى تستعمله:** حين يغطي الزرين عنصر آخر في جهتهما.
+- شرحه تحت الحقل في المحرّر: واتساب والعودة للأعلى.
+
+| اللوحة (نسخة مطابقة) | النتيجة | |
+|---|---|---|
+| <img data-update-ref="10-whatsapp:floating_side:0:panel" src="/coach-docs/assets/updates/1.94.0/00-theme/11-whatsapp/07-floating_side-end-panel.webp?v=cb44d959851f" alt="لوحة إعدادات (نسخة مطابقة) — جهة الأزرار العائمة" loading="lazy" decoding="async"/> | <img data-update-ref="10-whatsapp:floating_side:0:result" src="/coach-docs/assets/updates/1.94.0/00-theme/11-whatsapp/02-whatsapp_enabled-on-result.webp?v=569df6ea9170" alt="معاينة — جهة الأزرار العائمة" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة؛ لا تثبت أثر كل خيار بصورة مستقلة.</small> | «نهاية السطر (الافتراضي)» |
+| <img data-update-ref="10-whatsapp:floating_side:1:panel" src="/coach-docs/assets/updates/1.94.0/00-theme/11-whatsapp/07-floating_side-start-panel.webp?v=7ec2b91af8bd" alt="لوحة إعدادات (نسخة مطابقة) — جهة الأزرار العائمة" loading="lazy" decoding="async"/> | <img data-update-ref="10-whatsapp:floating_side:1:result" src="/coach-docs/assets/updates/1.94.0/00-theme/11-whatsapp/02-whatsapp_enabled-on-result.webp?v=569df6ea9170" alt="معاينة — جهة الأزرار العائمة" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة؛ لا تثبت أثر كل خيار بصورة مستقلة.</small> | «بداية السطر» |
 
 ---
 > ملاحظات البناء: لم يُعثر على النص لتمييزه: 02-whatsapp_enabled-on-result.webp
 
 
-## لون زر واتساب
+<div class="source-note">صور اللوحات تمثيل مطابق لحقول المحرّر، وليست لقطات من محرّر سلة نفسه. صور النتائج ببيانات تجريبية؛ تُفتح الصورة بالضغط عليها لقراءتها بالحجم الأصلي.</div>
 
-في «ألوان متقدمة»، يضبط `adv_whatsapp` لون الزر العائم وتُختار للنص والأيقونة ألوان واضحة تلقائيًا. عند تركه فارغًا يُستخدم اللون الأساسي. مكان هذا اللون في [تخصيص الثيم ← الهوية ← ألوان الأزرار](/coach-docs/docs/01-colors/#advanced-buttons)، بينما رقم واتساب ونصه ورسالة الزر تبقى في هذه الصفحة.
+:::note[توضيح العرض]
+يظهر زر واتساب في صفحة السلة على الكمبيوتر في الجهة البعيدة عن ملخص الطلب.
+:::
 
-<div class="source-note">الإصدار 1.76.1 · صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>
+لون زر واتساب العائم يُضبط من [الألوان المتقدمة للأزرار](/coach-docs/docs/01-colors/#advanced-buttons)، ضمن قسم ألوان المتجر.

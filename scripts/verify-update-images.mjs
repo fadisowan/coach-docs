@@ -1,0 +1,10 @@
+import fs from 'node:fs';
+import assert from 'node:assert/strict';
+import {createHash} from 'node:crypto';
+const update=JSON.parse(fs.readFileSync('update-1.94.0.json'));
+const release=JSON.parse(fs.readFileSync('release-manifest.json'));
+const assets=[...new Set(update.assignments.map(x=>x.asset))];
+const base=process.argv[2]||'https://fadisowan.github.io/coach-docs/';
+let next=0,verified=0;
+await Promise.all(Array.from({length:8},async()=>{while(next<assets.length){const asset=assets[next++],expected=release.assets[asset];const response=await fetch(base+'assets/'+asset+'?v='+expected.slice(0,12),{signal:AbortSignal.timeout(30000)});assert.equal(response.status,200,asset);assert.equal(createHash('sha256').update(Buffer.from(await response.arrayBuffer())).digest('hex'),expected,'Wrong deployed image '+asset);verified++;if(verified%200===0)console.log('Verified '+verified+'/'+assets.length);}}));
+console.log(JSON.stringify({base,verifiedUpdateImageHashes:verified,mismatches:0}));

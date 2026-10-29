@@ -4,6 +4,7 @@ import assert from 'node:assert/strict';
 import { createHash } from 'node:crypto';
 const nav = JSON.parse(fs.readFileSync('data.json', 'utf8'));
 const release = JSON.parse(fs.readFileSync('release-manifest.json','utf8'));
+const latest=JSON.parse(fs.readFileSync('update-1.94.0.json','utf8'));
 const update=JSON.parse(fs.readFileSync('update-1.87.1.json','utf8'));
 const retired = release.removedRoutes;
 const inventory = JSON.parse(fs.readFileSync('source-docs/manifest.json','utf8'));
@@ -49,7 +50,7 @@ for (const entry of nav) {
   for (const field of flatten(manifest.fields)) {
     manifestFields++;
     assert.ok(codes.has(field.id), `${entry.slug}: missing field ${field.id}`);
-    if(update.supersededFieldImages[entry.slug]?.includes(field.id))continue;
+    if(latest.units.some(u=>u.slug===entry.slug)||update.supersededFieldImages[entry.slug]?.includes(field.id))continue;
     for(const pair of field.pairs || []) {
       manifestPairs++;
       for(const kind of ['panel','result']) {
@@ -63,7 +64,7 @@ for (const entry of nav) {
 }
 assert.equal(nav.filter(entry=>entry.category==='مكوّنات الصفحة الرئيسية').length,48);
 assert.equal((fs.readFileSync('dist/components/index.html','utf8').match(/class="component-card"/g)||[]).length,48);
-assert.equal((fs.readFileSync('dist/settings/index.html','utf8').match(/class="component-card"/g)||[]).length,15);
+assert.equal((fs.readFileSync('dist/settings/index.html','utf8').match(/class="component-card"/g)||[]).length,16);
 for(const slug of retired) assert.ok(!fs.existsSync(`dist/docs/${slug}/index.html`),'Retired page must not be published');
 const builtAssets=fs.readdirSync('dist/assets',{recursive:true}).filter(f=>fs.statSync('dist/assets/'+f).isFile()).map(f=>f.replaceAll('\\','/')).sort();
 assert.deepEqual(builtAssets,Object.keys(release.assets).sort(),'Stale deployed assets');
@@ -75,7 +76,7 @@ for(const field of [...update.newFields,...update.modifiedFields]){
  const codes=new Set([...html.matchAll(/<code\b[^>]*>([^<]*)<\/code>/g)].map(match=>match[1]));
  assert.ok(codes.has(field.id),`Updated setting is missing or in wrong page: ${field.id}`);
 }
-for(const image of update.imageAssignments)assert.ok(fs.readFileSync(`dist/docs/${image.page}/index.html`,'utf8').includes(`/coach-docs/assets/${image.asset}`),`Update image misplaced: ${image.asset}`);
+for(const image of update.imageAssignments.filter(x=>!latest.units.some(u=>u.slug===x.page)))assert.ok(fs.readFileSync(`dist/docs/${image.page}/index.html`,'utf8').includes(`/coach-docs/assets/${image.asset}`),`Update image misplaced: ${image.asset}`);
 const previewAudit=JSON.parse(fs.readFileSync('preview-audit.json','utf8'));
 for(const issue of previewAudit.issues){
  const html=fs.readFileSync(`dist/docs/${issue.slug}/index.html`,'utf8');
@@ -83,3 +84,7 @@ for(const issue of previewAudit.issues){
 }
 assert.ok(fs.readFileSync('dist/docs/08-product/index.html','utf8').includes('class="preview-rejected"'),'Error screenshot must be clearly labelled');
 console.log(JSON.stringify({builtPages:files.length,internalReferences:links,imageReferences:images,preservedOriginalImages:assets.length,manifestFields,manifestPairs,brokenImages:0,uncapturedSlots:release.uncaptured.length,components:48}));
+
+for(const field of latest.newFields){const html=fs.readFileSync('dist/docs/'+field.slug+'/index.html','utf8');assert.ok([...html.matchAll(/<code\b[^>]*>([^<]*)<\/code>/g)].some(m=>m[1]===field.id),'Missing new field '+field.slug+':'+field.id);}
+for(const image of latest.assignments){const html=fs.readFileSync('dist/docs/'+image.slug+'/index.html','utf8');const start=html.indexOf('data-update-ref="'+image.ref+'"');assert.ok(start>=0,'Missing image position '+image.ref);assert.ok(html.slice(start,html.indexOf('/>',start)).includes('/coach-docs/assets/'+image.asset),'Wrong image '+image.ref);}
+console.log(JSON.stringify({updatedUnits:latest.units.length,newFields:latest.newFields.length,newImageFiles:770,verifiedImagePlacements:latest.assignments.length,cssSections:latest.sharedClassPages.length}));

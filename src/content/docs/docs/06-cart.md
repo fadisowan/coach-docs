@@ -1,35 +1,34 @@
 ---
-title: "٦ · السلة — الجانبية والمصغّرة وما يحدث بعد الإضافة"
+title: "السلة"
 description: "دليل ثيم كوتش 1.76.1 — ٦ · السلة — الجانبية والمصغّرة وما يحدث بعد الإضافة"
 editUrl: false
 ---
 
-
-من «تخصيص الثيم» في محرّر سلة. تنطبق على المتجر كله.
-
-**ما فيها:** السلة الجانبية والمصغّرة، وما يحدث بعد إضافة منتج، وملاحظة واقتراحات داخل السلة.
-
-
-المعاينات المتاحة مصوّرة على الصفحة الرئيسية. اضغط على الصورة لتكبيرها، واسحب الجدول أفقيًا على الجوال لرؤية العمود الآخر.
-
-<!-- preview-audit -->
 :::caution[حدود المعاينات المتاحة]
 المعاينات تعرض صفحة المتجر وأيقونة السلة؛ لا تُظهر السلة الجانبية مفتوحة أو بطاقة المنتج المضاف أو اقتراحات المنتجات داخلها.
 :::
 
+
+في محرّر سلة: «خيارات التصميم ← الخيارات العامة»، قسم «السلة». تنطبق على المتجر كله.
+
+**ما فيها:** السلة الجانبية والمصغّرة، وما يحدث بعد إضافة منتج، وطيران المنتج للسلة، وملاحظة واقتراحات داخل السلة، وصورة أعلى صفحة السلة.
+
+النتيجة مصوّرة على الصفحة الرئيسية.
+
 | النتيجة الافتراضية |
 |---|
-| <img src="/coach-docs/assets/00-theme/06-cart/00-default-result.webp" alt="معاينة — ٦ · السلة — الجانبية والمصغّرة وما يحدث بعد الإضافة" loading="lazy" decoding="async"/> |
+| <img data-update-ref="06-cart:overview:0" src="/coach-docs/assets/updates/1.94.0/00-theme/07-cart/00-default-result.webp?v=135b1c02d020" alt="معاينة — ٦ · السلة — الجانبية والمصغّرة وما يحدث بعد الإضافة" loading="lazy" decoding="async"/> |
 
 <details><summary>من دليل التاجر</summary>
 
 - «السلة الجانبية (عند الضغط على أيقونة السلة)»: لوحة من جانب الشاشة فيها المنتجات مع تعديل الكمية والحذف، والإجمالي، وزر إتمام الطلب، دون مغادرة الصفحة. تعمل على الجوال والحاسوب. مفعّلة.
 - «السلة المصغّرة (عند مرور المؤشر على أيقونة السلة)»: على الحاسوب فقط. قائمة صغيرة تحت الأيقونة بآخر المنتجات وكمياتها وأسعارها، والإجمالي، وزرّا «عرض السلة» و«إتمام الطلب»، مع حذف المنتج. تعرض آخر أربعة منتجات وسطراً بعدد الباقي. مفعّلة.
-- «طيران المنتج للسلة»: صورة المنتج تطير إلى أيقونة السلة ثم تنبض (يحتاج «التأثيرات المتحركة»). مطفأ.
 - «بعد إضافة منتج للسلة»: ردّ فعل واحد فقط: «بطاقة المنتج المضاف» (الافتراضي) أعلى الشاشة (في زاويتها على الحاسوب) بصورة المنتج وخياراته وسعره وزرّي «إتمام الطلب» و«عرض السلة»، أو «فتح السلة الجانبية»، أو «إظهار السلة المصغّرة» لثوانٍ، أو «رسالة سلة القصيرة».
+- «طيران المنتج للسلة»: صورة المنتج تطير إلى أيقونة السلة ثم تنبض (يحتاج «التأثيرات المتحركة»). مطفأ.
 - «ملاحظة داخل السلة الجانبية والمصغّرة (اختياري)»: سطر قصير تحت المنتجات، مثل هدية مضافة للطلب.
-- ««قد يعجبك أيضاً» في السلة الجانبية»: تحت المنتجات، حتى ثلاثة من «المنتجات المشابهة» في سلة لآخر منتج أُضيف، بلا ما في السلة وبلا النافد، بزر «أضف» (ورابط «اختر الخيارات» لمنتج له خيارات). لا يظهر إن لم تضف للمنتج منتجات مشابهة في سلة. مفعّل.
+- ««قد يعجبك أيضاً» في السلة الجانبية»: تحت المنتجات، حتى ثلاثة من «المنتجات المشابهة» في سلة لآخر منتج أُضيف، بلا ما في السلة وبلا النافد، بزر «أضف» (ورابط «اختر الخيارات» لمنتج له خيارات). لا يظهر إن لم تُضَف للمنتج منتجات مشابهة في سلة. مفعّل.
 - «عنوان «قد يعجبك أيضاً» (اختياري)»: فارغاً يظهر «قد يعجبك أيضاً».
+- «صورة أعلى صفحة السلة»: صورة عرضية نحو 1200×300 فوق المنتجات، وفارغة لا يظهر شيء. و«رابط عند الضغط على صورة السلة» اختياري، وقارئ الشاشة يقرأ الرابط «اعرف المزيد».
 
 إن اخترت ردّ فعل لسلة مطفأة، يتحوّل إلى السلة الأخرى، ثم إلى «بطاقة المنتج المضاف». وإن اخترت «إظهار السلة المصغّرة»، تظهر على الجوال رسالة سلة القصيرة بدلاً منها. وإن أطفأت السلتين معاً، يفتح زر السلة صفحة السلة.
 
@@ -45,9 +44,9 @@ editUrl: false
 - **حين يكون فارغاً:** مطفأة: أيقونة السلة تفتح صفحة السلة (إن أطفأت المصغّرة أيضاً).
 - شرحه تحت الحقل في المحرّر: لوحة بالمنتجات والإجمالي والإتمام. مطفأة: صفحة السلة.
 
-| اللوحة (نسخة مطابقة) | المعاينة المرجعية المتاحة | |
+| اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/06-cart/01-cart_mini_enabled-panel.webp" alt="لوحة إعدادات — السلة الجانبية (عند الضغط على أيقونة السلة)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/06-cart/00-default-result.webp" alt="معاينة — السلة الجانبية (عند الضغط على أيقونة السلة)" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية؛ لا تُظهر الحالة الفعلية لهذا الخيار.</small> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
+| <img data-update-ref="06-cart:cart_mini_enabled:0:panel" src="/coach-docs/assets/updates/1.94.0/00-theme/07-cart/01-cart_mini_enabled-panel.webp?v=e8a07e396ea8" alt="لوحة إعدادات (نسخة مطابقة) — السلة الجانبية (عند الضغط على أيقونة السلة)" loading="lazy" decoding="async"/> | <img data-update-ref="06-cart:cart_mini_enabled:0:result" src="/coach-docs/assets/updates/1.94.0/00-theme/07-cart/00-default-result.webp?v=135b1c02d020" alt="معاينة — السلة الجانبية (عند الضغط على أيقونة السلة)" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة؛ لا تثبت أثر كل خيار بصورة مستقلة.</small> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
 
 ### «السلة المصغّرة (عند مرور المؤشر على أيقونة السلة)»
 
@@ -57,9 +56,9 @@ editUrl: false
 - **حين يكون فارغاً:** مطفأة: لا شيء عند مرور المؤشر.
 - شرحه تحت الحقل في المحرّر: على الحاسوب: آخر المنتجات والإجمالي.
 
-| اللوحة (نسخة مطابقة) | المعاينة المرجعية المتاحة | |
+| اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/06-cart/02-cart_hover_enabled-panel.webp" alt="لوحة إعدادات — السلة المصغّرة (عند مرور المؤشر على أيقونة السلة)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/06-cart/02-cart_hover_enabled-off-result.webp" alt="معاينة — السلة المصغّرة (عند مرور المؤشر على أيقونة السلة)" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية؛ لا تُظهر الحالة الفعلية لهذا الخيار.</small> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
+| <img data-update-ref="06-cart:cart_hover_enabled:0:panel" src="/coach-docs/assets/updates/1.94.0/00-theme/07-cart/02-cart_hover_enabled-panel.webp?v=e5df25329669" alt="لوحة إعدادات (نسخة مطابقة) — السلة المصغّرة (عند مرور المؤشر على أيقونة السلة)" loading="lazy" decoding="async"/> | <img data-update-ref="06-cart:cart_hover_enabled:0:result" src="/coach-docs/assets/updates/1.94.0/00-theme/07-cart/02-cart_hover_enabled-off-result.webp?v=b5b86cd1b0a8" alt="معاينة — السلة المصغّرة (عند مرور المؤشر على أيقونة السلة)" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة؛ لا تثبت أثر كل خيار بصورة مستقلة.</small> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
 
 ### «بعد إضافة منتج للسلة»
 
@@ -68,12 +67,12 @@ editUrl: false
 - **متى تستعمله:** «السلة الجانبية» لمن يشتري منتجاً واحداً عادةً، و«بطاقة المنتج» لمن يتصفح ويضيف كثيراً.
 - شرحه تحت الحقل في المحرّر: المصغّرة لثوانٍ على الحاسوب. خيار سلةٍ مطفأة يتحوّل لغيره.
 
-| اللوحة (نسخة مطابقة) | المعاينة المرجعية المتاحة | |
+| اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/06-cart/03-cart_after_add-drawer-panel.webp" alt="لوحة إعدادات — بعد إضافة منتج للسلة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/06-cart/03-cart_after_add-drawer-result.webp" alt="معاينة — بعد إضافة منتج للسلة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية؛ لا تُظهر الحالة الفعلية لهذا الخيار.</small> | «فتح السلة الجانبية» |
-| <img src="/coach-docs/assets/00-theme/06-cart/03-cart_after_add-mini-panel.webp" alt="لوحة إعدادات — بعد إضافة منتج للسلة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/06-cart/00-default-result.webp" alt="معاينة — بعد إضافة منتج للسلة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية؛ لا تُظهر الحالة الفعلية لهذا الخيار.</small> | «إظهار السلة المصغّرة» |
-| <img src="/coach-docs/assets/00-theme/06-cart/03-cart_after_add-toast-panel.webp" alt="لوحة إعدادات — بعد إضافة منتج للسلة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/06-cart/03-cart_after_add-drawer-result.webp" alt="معاينة — بعد إضافة منتج للسلة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية؛ لا تُظهر الحالة الفعلية لهذا الخيار.</small> | «بطاقة المنتج المضاف» |
-| <img src="/coach-docs/assets/00-theme/06-cart/03-cart_after_add-message-panel.webp" alt="لوحة إعدادات — بعد إضافة منتج للسلة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/06-cart/00-default-result.webp" alt="معاينة — بعد إضافة منتج للسلة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية؛ لا تُظهر الحالة الفعلية لهذا الخيار.</small> | «رسالة سلة القصيرة» |
+| <img data-update-ref="06-cart:cart_after_add:0:panel" src="/coach-docs/assets/updates/1.94.0/00-theme/07-cart/03-cart_after_add-drawer-panel.webp?v=ac4cab49e4dc" alt="لوحة إعدادات (نسخة مطابقة) — بعد إضافة منتج للسلة" loading="lazy" decoding="async"/> | <img data-update-ref="06-cart:cart_after_add:0:result" src="/coach-docs/assets/updates/1.94.0/00-theme/07-cart/00-default-result.webp?v=135b1c02d020" alt="معاينة — بعد إضافة منتج للسلة" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة؛ لا تثبت أثر كل خيار بصورة مستقلة.</small> | «فتح السلة الجانبية» |
+| <img data-update-ref="06-cart:cart_after_add:1:panel" src="/coach-docs/assets/updates/1.94.0/00-theme/07-cart/03-cart_after_add-mini-panel.webp?v=ebdf7128184f" alt="لوحة إعدادات (نسخة مطابقة) — بعد إضافة منتج للسلة" loading="lazy" decoding="async"/> | <img data-update-ref="06-cart:cart_after_add:1:result" src="/coach-docs/assets/updates/1.94.0/00-theme/07-cart/02-cart_hover_enabled-off-result.webp?v=b5b86cd1b0a8" alt="معاينة — بعد إضافة منتج للسلة" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة؛ لا تثبت أثر كل خيار بصورة مستقلة.</small> | «إظهار السلة المصغّرة» |
+| <img data-update-ref="06-cart:cart_after_add:2:panel" src="/coach-docs/assets/updates/1.94.0/00-theme/07-cart/03-cart_after_add-toast-panel.webp?v=8e8e31427783" alt="لوحة إعدادات (نسخة مطابقة) — بعد إضافة منتج للسلة" loading="lazy" decoding="async"/> | <img data-update-ref="06-cart:cart_after_add:2:result" src="/coach-docs/assets/updates/1.94.0/00-theme/07-cart/02-cart_hover_enabled-off-result.webp?v=b5b86cd1b0a8" alt="معاينة — بعد إضافة منتج للسلة" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة؛ لا تثبت أثر كل خيار بصورة مستقلة.</small> | «بطاقة المنتج المضاف» |
+| <img data-update-ref="06-cart:cart_after_add:3:panel" src="/coach-docs/assets/updates/1.94.0/00-theme/07-cart/03-cart_after_add-message-panel.webp?v=1d3b529aacba" alt="لوحة إعدادات (نسخة مطابقة) — بعد إضافة منتج للسلة" loading="lazy" decoding="async"/> | <img data-update-ref="06-cart:cart_after_add:3:result" src="/coach-docs/assets/updates/1.94.0/00-theme/07-cart/00-default-result.webp?v=135b1c02d020" alt="معاينة — بعد إضافة منتج للسلة" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة؛ لا تثبت أثر كل خيار بصورة مستقلة.</small> | «رسالة سلة القصيرة» |
 
 ### «طيران المنتج للسلة»
 
@@ -83,9 +82,9 @@ editUrl: false
 - **حين يكون فارغاً:** مطفأ (الافتراضي): بلا طيران.
 - شرحه تحت الحقل في المحرّر: صورة المنتج تطير إلى السلة. يوقفها «التأثيرات المتحركة» وتقليل الحركة.
 
-| اللوحة (نسخة مطابقة) | المعاينة المرجعية المتاحة | |
+| اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/06-cart/04-cart_fly_enabled-panel.webp" alt="لوحة إعدادات — طيران المنتج للسلة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/06-cart/00-default-result.webp" alt="معاينة — طيران المنتج للسلة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية؛ لا تُظهر الحالة الفعلية لهذا الخيار.</small> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
+| <img data-update-ref="06-cart:cart_fly_enabled:0:panel" src="/coach-docs/assets/updates/1.94.0/00-theme/07-cart/04-cart_fly_enabled-panel.webp?v=df98c6154499" alt="لوحة إعدادات (نسخة مطابقة) — طيران المنتج للسلة" loading="lazy" decoding="async"/> | <img data-update-ref="06-cart:cart_fly_enabled:0:result" src="/coach-docs/assets/updates/1.94.0/00-theme/07-cart/00-default-result.webp?v=135b1c02d020" alt="معاينة — طيران المنتج للسلة" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة؛ لا تثبت أثر كل خيار بصورة مستقلة.</small> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
 
 ### «ملاحظة داخل السلة الجانبية والمصغّرة (اختياري)»
 
@@ -95,9 +94,9 @@ editUrl: false
 - **حين يكون فارغاً:** فارغاً لا يظهر.
 - شرحه تحت الحقل في المحرّر: سطر تحت المنتجات، مثل هدية مضافة للطلب.
 
-| اللوحة (نسخة مطابقة) | المعاينة المرجعية المتاحة | |
+| اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/06-cart/05-cart_drawer_note-panel.webp" alt="لوحة إعدادات — ملاحظة داخل السلة الجانبية والمصغّرة (اختياري)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/06-cart/05-cart_drawer_note-result.webp" alt="معاينة — ملاحظة داخل السلة الجانبية والمصغّرة (اختياري)" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية؛ لا تُظهر الحالة الفعلية لهذا الخيار.</small> | النتيجة بنص تجريبي «مثال لنصّك هنا» |
+| <img data-update-ref="06-cart:cart_drawer_note:0:panel" src="/coach-docs/assets/updates/1.94.0/00-theme/07-cart/05-cart_drawer_note-panel.webp?v=a44d92443be4" alt="لوحة إعدادات (نسخة مطابقة) — ملاحظة داخل السلة الجانبية والمصغّرة (اختياري)" loading="lazy" decoding="async"/> | <img data-update-ref="06-cart:cart_drawer_note:0:result" src="/coach-docs/assets/updates/1.94.0/00-theme/07-cart/05-cart_drawer_note-result.webp?v=090a57abedad" alt="معاينة — ملاحظة داخل السلة الجانبية والمصغّرة (اختياري)" loading="lazy" decoding="async"/> | النتيجة بنص تجريبي «مثال لنصّك هنا» |
 
 ### ««قد يعجبك أيضاً» في السلة الجانبية»
 
@@ -107,9 +106,9 @@ editUrl: false
 - **حين يكون فارغاً:** مطفأ: بلا اقتراحات. ولا يظهر أيضاً لمنتج بلا منتجات مشابهة.
 - شرحه تحت الحقل في المحرّر: حتى ثلاثة من «المنتجات المشابهة» لآخر منتج أُضيف، بزر إضافة.
 
-| اللوحة (نسخة مطابقة) | المعاينة المرجعية المتاحة | |
+| اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/06-cart/06-cart_suggest_enabled-panel.webp" alt="لوحة إعدادات — «قد يعجبك أيضاً» في السلة الجانبية" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/06-cart/00-default-result.webp" alt="معاينة — «قد يعجبك أيضاً» في السلة الجانبية" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية؛ لا تُظهر الحالة الفعلية لهذا الخيار.</small> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
+| <img data-update-ref="06-cart:cart_suggest_enabled:0:panel" src="/coach-docs/assets/updates/1.94.0/00-theme/07-cart/06-cart_suggest_enabled-panel.webp?v=abd44bdcb54e" alt="لوحة إعدادات (نسخة مطابقة) — «قد يعجبك أيضاً» في السلة الجانبية" loading="lazy" decoding="async"/> | <img data-update-ref="06-cart:cart_suggest_enabled:0:result" src="/coach-docs/assets/updates/1.94.0/00-theme/07-cart/00-default-result.webp?v=135b1c02d020" alt="معاينة — «قد يعجبك أيضاً» في السلة الجانبية" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة؛ لا تثبت أثر كل خيار بصورة مستقلة.</small> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
 
 ### «عنوان «قد يعجبك أيضاً» (اختياري)»
 
@@ -120,12 +119,40 @@ editUrl: false
 - **يظهر في اللوحة فقط حين:** ««قد يعجبك أيضاً» في السلة الجانبية» هو «مفعّل»
 - شرحه تحت الحقل في المحرّر: فارغاً يظهر «قد يعجبك أيضاً».
 
-| اللوحة (نسخة مطابقة) | المعاينة المرجعية المتاحة | |
+| اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/06-cart/07-cart_suggest_title-panel.webp" alt="لوحة إعدادات — عنوان «قد يعجبك أيضاً» (اختياري)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/06-cart/03-cart_after_add-drawer-result.webp" alt="معاينة — عنوان «قد يعجبك أيضاً» (اختياري)" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية؛ لا تُظهر الحالة الفعلية لهذا الخيار.</small> | النتيجة بنص تجريبي «مثال لنصّك هنا» |
+| <img data-update-ref="06-cart:cart_suggest_title:0:panel" src="/coach-docs/assets/updates/1.94.0/00-theme/07-cart/07-cart_suggest_title-panel.webp?v=6e28c6f3b136" alt="لوحة إعدادات (نسخة مطابقة) — عنوان «قد يعجبك أيضاً» (اختياري)" loading="lazy" decoding="async"/> | <img data-update-ref="06-cart:cart_suggest_title:0:result" src="/coach-docs/assets/updates/1.94.0/00-theme/07-cart/00-default-result.webp?v=135b1c02d020" alt="معاينة — عنوان «قد يعجبك أيضاً» (اختياري)" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة؛ لا تثبت أثر كل خيار بصورة مستقلة.</small> | النتيجة بنص تجريبي «مثال لنصّك هنا» |
+
+### «صورة أعلى صفحة السلة»
+
+- **النوع:** صورة ترفعها · **الافتراضي:** بلا صورة · المعرّف `cart_banner_image`
+- **ماذا يفعل:** صورة عرضية أعلى صفحة السلة، نحو 1200×300.
+- **متى تستعمله:** لعرض أو تذكير قبل إتمام الطلب.
+- **حين يكون فارغاً:** فارغة: لا شيء.
+- شرحه تحت الحقل في المحرّر: عرضية نحو 1200×300.
+
+| اللوحة (نسخة مطابقة) | النتيجة | |
+|---|---|---|
+| <img data-update-ref="06-cart:cart_banner_image:0:panel" src="/coach-docs/assets/updates/1.94.0/00-theme/07-cart/08-cart_banner_image-panel.webp?v=b783e5a947c2" alt="لوحة إعدادات (نسخة مطابقة) — صورة أعلى صفحة السلة" loading="lazy" decoding="async"/> | <img data-update-ref="06-cart:cart_banner_image:0:result" src="/coach-docs/assets/updates/1.94.0/00-theme/07-cart/00-default-result.webp?v=135b1c02d020" alt="معاينة — صورة أعلى صفحة السلة" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة؛ لا تثبت أثر كل خيار بصورة مستقلة.</small> | النتيجة بالقيمة الافتراضية |
+
+### «رابط عند الضغط على صورة السلة»
+
+- **النوع:** نص بسطر واحد · **الافتراضي:** فارغ · المعرّف `cart_banner_link`
+- **ماذا يفعل:** رابط عند الضغط على صورة السلة.
+- **متى تستعمله:** مع صورة السلة.
+- **حين يكون فارغاً:** فارغ: الصورة بلا رابط.
+- شرحه تحت الحقل في المحرّر: اختياري.
+
+| اللوحة (نسخة مطابقة) | النتيجة | |
+|---|---|---|
+| <img data-update-ref="06-cart:cart_banner_link:0:panel" src="/coach-docs/assets/updates/1.94.0/00-theme/07-cart/09-cart_banner_link-panel.webp?v=27aef4327b2f" alt="لوحة إعدادات (نسخة مطابقة) — رابط عند الضغط على صورة السلة" loading="lazy" decoding="async"/> | <img data-update-ref="06-cart:cart_banner_link:0:result" src="/coach-docs/assets/updates/1.94.0/00-theme/07-cart/00-default-result.webp?v=135b1c02d020" alt="معاينة — رابط عند الضغط على صورة السلة" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة؛ لا تثبت أثر كل خيار بصورة مستقلة.</small> | النتيجة بالقيمة الافتراضية |
 
 ---
-> ملاحظات البناء: لم يُعثر على النص لتمييزه: 03-cart_after_add-drawer-result.webp
+> ملاحظات البناء: لم يُعثر على النص لتمييزه: 00-default-result.webp
 
 
-<div class="source-note">الإصدار 1.76.1 · صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>
+<div class="source-note">صور اللوحات تمثيل مطابق لحقول المحرّر، وليست لقطات من محرّر سلة نفسه. صور النتائج ببيانات تجريبية؛ تُفتح الصورة بالضغط عليها لقراءتها بالحجم الأصلي.</div>
+
+:::note[توضيح العرض]
+في صفحة السلة على الكمبيوتر، يظهر ملخص الطلب وزر إتمام الطلب أعلى العمود الجانبي بعد شريط الشحن، ثم الولاء والهدية والكوبون. صورة السلة الاختيارية لا تُعرض إلا بعد إضافتها.
+:::

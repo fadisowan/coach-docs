@@ -13,16 +13,17 @@ editUrl: false
 
 | كمبيوتر (1440) | جوال (390) |
 |---|---|
-| <img src="/coach-docs/assets/sections/19-coach-stats/00-desktop.webp" alt="معاينة — ثقة · شريط الأرقام" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/19-coach-stats/00-mobile.webp" alt="معاينة — ثقة · شريط الأرقام" loading="lazy" decoding="async"/> |
+| <img data-update-ref="19-coach-stats:overview:0" src="/coach-docs/assets/updates/1.94.0/sections/19-coach-stats/00-desktop.webp?v=931434bb7917" alt="معاينة — ثقة · شريط الأرقام" loading="lazy" decoding="async"/> | <img data-update-ref="19-coach-stats:overview:1" src="/coach-docs/assets/updates/1.94.0/sections/19-coach-stats/00-mobile.webp?v=bd12b8e3228c" alt="معاينة — ثقة · شريط الأرقام" loading="lazy" decoding="async"/> |
 
-خيارات مشتركة في هذا القسم، مشروحة مرة واحدة في [الخيارات المشتركة](/coach-docs/docs/01-shared/): «المسافة العلوية (بكسل)»، «المسافة السفلية (بكسل)».
+خيارات مشتركة في هذا القسم، ومنها [كلاسات CSS الجاهزة](/coach-docs/docs/01-shared/#custom-classes)، مشروحة مرة واحدة في [الخيارات المشتركة](/coach-docs/docs/01-shared/): «المسافة العلوية (بكسل)»، «المسافة السفلية (بكسل)».
 
 <details><summary>من دليل التاجر</summary>
 
 حتى أربعة أرقام تبني الثقة، لكل رقم أيقونة ووصف. تتحرك الأرقام عدّاً من الصفر عند ظهورها، وتثبت لمن فعّل «تقليل الحركة».
 
-- **أهم الإعدادات:** «الشكل»: «بطاقة فاتحة بفواصل بين الأرقام» (الافتراضي)، أو «الأرقام على خلفية الصفحة بلا بطاقة»، أو «لوحة باللون الأساسي» (لونها من «لون «لوحة باللون الأساسي»»، وفارغاً يتبع اللون الأساسي). لكل رقم «الرقم» و«قبله (اختياري)» و«بعده (اختياري)» و«الوصف» و«الأيقونة (اختيارية)».
-- **نصيحة:** اكتب في «الرقم» رقماً فقط (مثل 12 أو 4.9) ليتحرك عدّاً، وضع الرموز والكلمات مثل «+» أو «ألف» في «قبله» و«بعده». والأرقام الافتراضية أمثلة، فاكتب أرقامك الحقيقية.
+- **أهم الإعدادات:** «الشكل»: «بطاقة فاتحة بفواصل بين الأرقام» (الافتراضي)، أو «الأرقام على خلفية الصفحة بلا بطاقة»، أو «لوحة باللون الأساسي» (لونها من «لون اللوحة»، وفارغاً يتبع اللون الأساسي). لكل رقم «الرقم» و«قبله (اختياري)» و«بعده (اختياري)» و«الوصف» و«الأيقونة (اختيارية)».
+- **نصيحة:** «الرقم» رقم فقط (مثل 12 أو 4.9) ليتحرك عدّاً، والرموز والكلمات مثل «+» أو «ألف» في «قبله (اختياري)» و«بعده (اختياري)». والأرقام الافتراضية أمثلة تُستبدل بالأرقام الحقيقية.
+- **خيارات إضافية:** «عدّ الأرقام عند الظهور» (مفعّل افتراضياً).
 
 </details>
 
@@ -36,9 +37,9 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/19-coach-stats/01-style-light-panel.webp" alt="لوحة إعدادات — الشكل" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/19-coach-stats/00-desktop.webp" alt="معاينة — الشكل" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «بطاقة فاتحة بفواصل بين الأرقام» |
-| <img src="/coach-docs/assets/sections/19-coach-stats/01-style-plain-panel.webp" alt="لوحة إعدادات — الشكل" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/19-coach-stats/01-style-plain-result.webp" alt="معاينة — الشكل" loading="lazy" decoding="async"/> | «الأرقام على خلفية الصفحة بلا بطاقة» |
-| <img src="/coach-docs/assets/sections/19-coach-stats/01-style-primary-panel.webp" alt="لوحة إعدادات — الشكل" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/19-coach-stats/01-style-primary-result.webp" alt="معاينة — الشكل" loading="lazy" decoding="async"/> | «لوحة باللون الأساسي» |
+| <img data-update-ref="19-coach-stats:style:0:panel" src="/coach-docs/assets/updates/1.94.0/sections/19-coach-stats/01-style-light-panel.webp?v=58a0c343a484" alt="لوحة إعدادات (نسخة مطابقة) — الشكل" loading="lazy" decoding="async"/> | <img data-update-ref="19-coach-stats:style:0:result" src="/coach-docs/assets/updates/1.94.0/sections/19-coach-stats/01-style-light-result.webp?v=0bbb9f896910" alt="معاينة — الشكل" loading="lazy" decoding="async"/> | «بطاقة فاتحة بفواصل بين الأرقام» |
+| <img data-update-ref="19-coach-stats:style:1:panel" src="/coach-docs/assets/updates/1.94.0/sections/19-coach-stats/01-style-plain-panel.webp?v=ebc731a900b4" alt="لوحة إعدادات (نسخة مطابقة) — الشكل" loading="lazy" decoding="async"/> | <img data-update-ref="19-coach-stats:style:1:result" src="/coach-docs/assets/updates/1.94.0/sections/19-coach-stats/01-style-plain-result.webp?v=101fbb6f1279" alt="معاينة — الشكل" loading="lazy" decoding="async"/> | «الأرقام على خلفية الصفحة بلا بطاقة» |
+| <img data-update-ref="19-coach-stats:style:2:panel" src="/coach-docs/assets/updates/1.94.0/sections/19-coach-stats/01-style-primary-panel.webp?v=3d7628cd9917" alt="لوحة إعدادات (نسخة مطابقة) — الشكل" loading="lazy" decoding="async"/> | <img data-update-ref="19-coach-stats:style:2:result" src="/coach-docs/assets/updates/1.94.0/sections/19-coach-stats/01-style-primary-result.webp?v=de4e0651926f" alt="معاينة — الشكل" loading="lazy" decoding="async"/> | «لوحة باللون الأساسي» |
 
 ### «الأرقام»
 
@@ -49,7 +50,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/19-coach-stats/02-items-panel.webp" alt="لوحة إعدادات — الأرقام" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/19-coach-stats/02-items-result.webp" alt="معاينة — الأرقام" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | أول عنصر محاط بإطار برتقالي |
+| <img data-update-ref="19-coach-stats:items:0:panel" src="/coach-docs/assets/updates/1.94.0/sections/19-coach-stats/02-items-panel.webp?v=c803cb80e88b" alt="لوحة إعدادات (نسخة مطابقة) — الأرقام" loading="lazy" decoding="async"/> | <img data-update-ref="19-coach-stats:items:0:result" src="/coach-docs/assets/updates/1.94.0/sections/19-coach-stats/02-items-result.webp?v=affb0ce0a840" alt="معاينة — الأرقام" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة؛ لا تثبت أثر كل خيار بصورة مستقلة.</small> | أول عنصر محاط بإطار برتقالي |
 
 #### «الرقم»
 
@@ -60,7 +61,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/19-coach-stats/02-items-value-panel.webp" alt="لوحة إعدادات — الأرقام" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/19-coach-stats/02-items-result.webp" alt="معاينة — الأرقام" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
+| <img data-update-ref="19-coach-stats:items:1:panel" src="/coach-docs/assets/updates/1.94.0/sections/19-coach-stats/02-items-value-panel.webp?v=6f0760f62a86" alt="لوحة إعدادات (نسخة مطابقة) — الأرقام" loading="lazy" decoding="async"/> | <img data-update-ref="19-coach-stats:items:1:result" src="/coach-docs/assets/updates/1.94.0/sections/19-coach-stats/02-items-result.webp?v=affb0ce0a840" alt="معاينة — الأرقام" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة؛ لا تثبت أثر كل خيار بصورة مستقلة.</small> |  |
 
 #### «قبله (اختياري)»
 
@@ -70,7 +71,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/19-coach-stats/02-items-prefix-panel.webp" alt="لوحة إعدادات — الأرقام" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/19-coach-stats/02-items-result.webp" alt="معاينة — الأرقام" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
+| <img data-update-ref="19-coach-stats:items:2:panel" src="/coach-docs/assets/updates/1.94.0/sections/19-coach-stats/02-items-prefix-panel.webp?v=8f190756fd9b" alt="لوحة إعدادات (نسخة مطابقة) — الأرقام" loading="lazy" decoding="async"/> | <img data-update-ref="19-coach-stats:items:2:result" src="/coach-docs/assets/updates/1.94.0/sections/19-coach-stats/02-items-result.webp?v=affb0ce0a840" alt="معاينة — الأرقام" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة؛ لا تثبت أثر كل خيار بصورة مستقلة.</small> |  |
 
 #### «بعده (اختياري)»
 
@@ -80,7 +81,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/19-coach-stats/02-items-suffix-panel.webp" alt="لوحة إعدادات — الأرقام" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/19-coach-stats/02-items-result.webp" alt="معاينة — الأرقام" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
+| <img data-update-ref="19-coach-stats:items:3:panel" src="/coach-docs/assets/updates/1.94.0/sections/19-coach-stats/02-items-suffix-panel.webp?v=a8248d2df8e7" alt="لوحة إعدادات (نسخة مطابقة) — الأرقام" loading="lazy" decoding="async"/> | <img data-update-ref="19-coach-stats:items:3:result" src="/coach-docs/assets/updates/1.94.0/sections/19-coach-stats/02-items-result.webp?v=affb0ce0a840" alt="معاينة — الأرقام" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة؛ لا تثبت أثر كل خيار بصورة مستقلة.</small> |  |
 
 #### «الوصف»
 
@@ -90,7 +91,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/19-coach-stats/02-items-label-panel.webp" alt="لوحة إعدادات — الأرقام" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/19-coach-stats/02-items-result.webp" alt="معاينة — الأرقام" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
+| <img data-update-ref="19-coach-stats:items:4:panel" src="/coach-docs/assets/updates/1.94.0/sections/19-coach-stats/02-items-label-panel.webp?v=483311667276" alt="لوحة إعدادات (نسخة مطابقة) — الأرقام" loading="lazy" decoding="async"/> | <img data-update-ref="19-coach-stats:items:4:result" src="/coach-docs/assets/updates/1.94.0/sections/19-coach-stats/02-items-result.webp?v=affb0ce0a840" alt="معاينة — الأرقام" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة؛ لا تثبت أثر كل خيار بصورة مستقلة.</small> |  |
 
 #### «الأيقونة (اختيارية)»
 
@@ -100,7 +101,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/19-coach-stats/02-items-icon-panel.webp" alt="لوحة إعدادات — الأرقام" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/19-coach-stats/02-items-result.webp" alt="معاينة — الأرقام" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
+| <img data-update-ref="19-coach-stats:items:5:panel" src="/coach-docs/assets/updates/1.94.0/sections/19-coach-stats/02-items-icon-panel.webp?v=3f119b943740" alt="لوحة إعدادات (نسخة مطابقة) — الأرقام" loading="lazy" decoding="async"/> | <img data-update-ref="19-coach-stats:items:5:result" src="/coach-docs/assets/updates/1.94.0/sections/19-coach-stats/02-items-result.webp?v=affb0ce0a840" alt="معاينة — الأرقام" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة؛ لا تثبت أثر كل خيار بصورة مستقلة.</small> |  |
 
 ### «لون اللوحة»
 
@@ -113,7 +114,33 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/19-coach-stats/03-bg_color-panel.webp" alt="لوحة إعدادات — لون اللوحة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/19-coach-stats/03-bg_color-result.webp" alt="معاينة — لون اللوحة" loading="lazy" decoding="async"/> | النتيجة بلون تجريبي #1F6F78 |
+| <img data-update-ref="19-coach-stats:bg_color:0:panel" src="/coach-docs/assets/updates/1.94.0/sections/19-coach-stats/03-bg_color-panel.webp?v=7c5f03b252b8" alt="لوحة إعدادات (نسخة مطابقة) — لون اللوحة" loading="lazy" decoding="async"/> | <img data-update-ref="19-coach-stats:bg_color:0:result" src="/coach-docs/assets/updates/1.94.0/sections/19-coach-stats/03-bg_color-result.webp?v=6e1b9136120d" alt="معاينة — لون اللوحة" loading="lazy" decoding="async"/> | النتيجة بلون تجريبي #1F6F78 |
+
+### «عدّ الأرقام عند الظهور»
+
+- **النوع:** مفتاح تشغيل وإطفاء · **الافتراضي:** مفعّل · المعرّف `count_up`
+- **ماذا يفعل:** عدّ الأرقام من الصفر عند ظهورها.
+- **متى تستعمله:** مطفأ ليظهر الرقم ثابتاً.
+- **حين يكون فارغاً:** مفعّل افتراضياً.
+
+| اللوحة (نسخة مطابقة) | النتيجة | |
+|---|---|---|
+| <img data-update-ref="19-coach-stats:count_up:0:panel" src="/coach-docs/assets/updates/1.94.0/sections/19-coach-stats/04-count_up-panel.webp?v=e7237e3fa155" alt="لوحة إعدادات (نسخة مطابقة) — عدّ الأرقام عند الظهور" loading="lazy" decoding="async"/> | <img data-update-ref="19-coach-stats:count_up:0:result" src="/coach-docs/assets/updates/1.94.0/sections/19-coach-stats/00-desktop.webp?v=931434bb7917" alt="معاينة — عدّ الأرقام عند الظهور" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة؛ لا تثبت أثر كل خيار بصورة مستقلة.</small> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
+
+### «كلاسات CSS»
+
+- **النوع:** نص بسطر واحد · **الافتراضي:** فارغ · المعرّف `custom_classes`
+- **ماذا يفعل:** كلمات لاتينية تُضاف لكلاس القسم: كلاسات جاهزة مثل cx-narrow وcx-center وcx-no-head، أو كلاس خاص يُنسَّق من «تخصيص متقدم» في سلة.
+- **متى تستعمله:** لتعديل قسم واحد بلا تغيير الثيم كله. الحروف والأرقام و- و_ فقط، تبدأ الكلمة بحرف، وحتى ثماني كلمات.
+- **حين يكون فارغاً:** فارغ: القسم كما هو.
+
+| اللوحة (نسخة مطابقة) | النتيجة | |
+|---|---|---|
+| <img data-update-ref="19-coach-stats:custom_classes:0:panel" src="/coach-docs/assets/updates/1.94.0/sections/19-coach-stats/05-custom_classes-panel.webp?v=23ca629192c9" alt="لوحة إعدادات (نسخة مطابقة) — كلاسات CSS" loading="lazy" decoding="async"/> | <img data-update-ref="19-coach-stats:custom_classes:0:result" src="/coach-docs/assets/updates/1.94.0/sections/19-coach-stats/05-custom_classes-result.webp?v=a97c2e9ed481" alt="معاينة — كلاسات CSS" loading="lazy" decoding="async"/> | النتيجة مع «cx-narrow cx-center» |
 
 
-<div class="source-note">صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>
+<div class="source-note">صور اللوحات تمثيل مطابق لحقول المحرّر، وليست لقطات من محرّر سلة نفسه. صور النتائج ببيانات تجريبية؛ تُفتح الصورة بالضغط عليها لقراءتها بالحجم الأصلي.</div>
+
+:::note[البيانات الافتراضية]
+الأرقام والتقييمات والآراء الافتراضية أمثلة، تُعدَّل قبل النشر.
+:::

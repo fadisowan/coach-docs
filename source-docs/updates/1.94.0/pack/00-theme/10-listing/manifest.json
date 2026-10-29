@@ -1,0 +1,174 @@
+{
+ "kind": "settings",
+ "key": "coach_title_listing",
+ "title": "التصنيفات والبحث",
+ "folder": "00-theme/10-listing",
+ "fields": [
+  {
+   "id": "category_hero_style",
+   "label": "شكل رأس صفحة التصنيف",
+   "type": "قائمة منسدلة",
+   "default": "شريط رفيع · تدرّج من اليمين (الافتراضي)",
+   "what": "رأس صفحة التصنيف بصورته من سلة واسمه ووصفه: شريط رفيع، أو تدرّج داكن، أو لوح جانبي، أو غلاف كامل، أو بطاقة بيضاء، أو مقسوم بقوس، أو «كلاسيكي» بصورة صغيرة بجانب العنوان. الأنسب صورة عرضية ١٦٠٠×٨٠٠، والتصنيف بلا صورة بلون المتجر.",
+   "when": "«غلاف كامل» إن كانت صور تصنيفاتك قوية.",
+   "empty": "",
+   "editor_hint": "صورة التصنيف (المنتجات ← التصنيفات) عليها اسمه ووصفه؛ عرضية نحو 1600×800، وبدونها لون المتجر.",
+   "from_guide": "«شكل رأس صفحة التصنيف»: أعلى صفحة التصنيف صورته من لوحة سلة (المنتجات ← التصنيفات) وعليها اسمه ووصفه ومسار التنقل،",
+   "shows_when": "",
+   "pairs": [
+    {
+     "panel": "01-category_hero_style-thin-panel.webp",
+     "result": "01-category_hero_style-thin-result.webp",
+     "option": "شريط رفيع · تدرّج من اليمين (الافتراضي)",
+     "value": "thin",
+     "panel_ok": true,
+     "result_ok": true
+    },
+    {
+     "panel": "01-category_hero_style-gradient-panel.webp",
+     "result": "01-category_hero_style-gradient-result.webp",
+     "option": "تدرّج داكن من الأسفل",
+     "value": "gradient",
+     "panel_ok": true,
+     "result_ok": true
+    },
+    {
+     "panel": "01-category_hero_style-panel-panel.webp",
+     "result": "01-category_hero_style-panel-result.webp",
+     "option": "لوح جانبي بلون الهوية",
+     "value": "panel",
+     "panel_ok": true,
+     "result_ok": true
+    },
+    {
+     "panel": "01-category_hero_style-center-panel.webp",
+     "result": "01-category_hero_style-center-result.webp",
+     "option": "غلاف كامل · نص في المنتصف",
+     "value": "center",
+     "panel_ok": true,
+     "result_ok": true
+    },
+    {
+     "panel": "01-category_hero_style-card-panel.webp",
+     "result": "01-category_hero_style-card-result.webp",
+     "option": "بطاقة بيضاء تتداخل مع الصورة",
+     "value": "card",
+     "panel_ok": true,
+     "result_ok": true
+    },
+    {
+     "panel": "01-category_hero_style-split-panel.webp",
+     "result": "01-category_hero_style-split-result.webp",
+     "option": "مقسوم · صورة بقوس",
+     "value": "split",
+     "panel_ok": true,
+     "result_ok": true
+    },
+    {
+     "panel": "01-category_hero_style-classic-panel.webp",
+     "result": "01-category_hero_style-classic-result.webp",
+     "option": "كلاسيكي: صورة صغيرة بجانب العنوان",
+     "value": "classic",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "category_hero_show_desc",
+   "label": "إظهار وصف التصنيف في رأس صفحة التصنيف",
+   "type": "مفتاح تشغيل وإطفاء",
+   "default": "مفعّل",
+   "what": "وصف التصنيف من سلة تحت اسمه في الرأس.",
+   "when": "إن كتبت أوصافاً لتصنيفاتك.",
+   "empty": "مطفأ: الاسم وحده.",
+   "editor_hint": "وصف التصنيف من سلة تحت اسمه.",
+   "from_guide": "«إظهار وصف التصنيف في رأس صفحة التصنيف»: الوصف الذي كتبته للتصنيف في سلة، تحت اسمه (ثلاثة أسطر على الجوال). مفعّل.",
+   "shows_when": "",
+   "pairs": [
+    {
+     "panel": "02-category_hero_show_desc-panel.webp",
+     "result": "02-category_hero_show_desc-off-result.webp",
+     "note": "النتيجة بعد إطفائه (الافتراضي مفعّل)",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "product_index_show_breadcrumbs",
+   "label": "إظهار مسار التنقل في صفحة قائمة المنتجات",
+   "type": "مفتاح تشغيل وإطفاء",
+   "default": "مفعّل",
+   "what": "مسار التنقل «الرئيسية › التصنيف» أعلى صفحات التصنيفات والبحث.",
+   "when": "اتركه مفعّلاً.",
+   "empty": "مطفأ: بلا مسار.",
+   "editor_hint": "«الرئيسية › التصنيف» أعلى التصنيفات والبحث.",
+   "from_guide": "«إظهار مسار التنقل في صفحة قائمة المنتجات»: سطر «الرئيسية › التصنيف» أعلى صفحات التصنيفات ونتائج البحث، وداخل الهيرو في",
+   "shows_when": "",
+   "pairs": [
+    {
+     "panel": "03-product_index_show_breadcrumbs-panel.webp",
+     "result": "03-product_index_show_breadcrumbs-off-result.webp",
+     "note": "النتيجة بعد إطفائه (الافتراضي مفعّل)",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "listing_cols",
+   "label": "عدد المنتجات في الصف على الحاسوب",
+   "type": "قائمة منسدلة",
+   "default": "تلقائي (الافتراضي)",
+   "what": "عدد المنتجات في الصف على الحاسوب في التصنيفات والبحث: «تلقائي» أو «٣ (حين لا يظهر عمود الفلاتر)».",
+   "when": "لبطاقات أكبر. لا أثر له مع عمود الفلاتر.",
+   "empty": "",
+   "editor_hint": "في التصنيفات والبحث.",
+   "from_guide": "«عدد المنتجات في الصف على الحاسوب»: «تلقائي (الافتراضي)» أو «٣ (حين لا يظهر عمود الفلاتر)» لبطاقات أكبر. والجوال والتابلت كما هما.",
+   "shows_when": "",
+   "pairs": [
+    {
+     "panel": "04-listing_cols-4-panel.webp",
+     "result": "04-listing_cols-3-result.webp",
+     "option": "تلقائي (الافتراضي)",
+     "value": "4",
+     "panel_ok": true,
+     "result_ok": true
+    },
+    {
+     "panel": "04-listing_cols-3-panel.webp",
+     "result": "04-listing_cols-3-result.webp",
+     "option": "٣ (حين لا يظهر عمود الفلاتر)",
+     "value": "3",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "category_subcats",
+   "label": "التصنيفات الفرعية أعلى المنتجات",
+   "type": "مفتاح تشغيل وإطفاء",
+   "default": "مطفأ",
+   "what": "أزرار بأسماء التصنيفات الفرعية أعلى المنتجات في صفحة التصنيف الرئيسي.",
+   "when": "حين للتصنيف تصنيفات فرعية.",
+   "empty": "مطفأ افتراضياً.",
+   "editor_hint": "في صفحة التصنيف الرئيسي.",
+   "from_guide": "«التصنيفات الفرعية أعلى المنتجات»: أزرار بأسماء التصنيفات الفرعية في صفحة التصنيف الرئيسي، مطفأة افتراضياً.",
+   "shows_when": "",
+   "pairs": [
+    {
+     "panel": "05-category_subcats-panel.webp",
+     "result": "04-listing_cols-3-result.webp",
+     "note": "النتيجة بعد تفعيله (الافتراضي مطفأ)",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  }
+ ],
+ "group_id": "coach_title_listing",
+ "intro": "صفحات التصنيفات والبحث: رأس التصنيف بصورته ووصفه، ومسار التنقل، وعدد المنتجات في الصف، والتصنيفات الفرعية.",
+ "guide": "- «شكل رأس صفحة التصنيف»: أعلى صفحة التصنيف صورته من لوحة سلة (المنتجات ← التصنيفات) وعليها اسمه ووصفه ومسار التنقل،\n  بسبعة أشكال: «شريط رفيع · تدرّج من اليمين (الافتراضي)»، و«تدرّج داكن من الأسفل»، و«لوح جانبي بلون الهوية»، و«غلاف كامل · نص في المنتصف»،\n  و«بطاقة بيضاء تتداخل مع الصورة»، و«مقسوم · صورة بقوس»، و«كلاسيكي: صورة صغيرة بجانب العنوان». الأنسب صورة عرضية نحو ١٦٠٠×٨٠٠ بكسل؛\n  تصنيف بلا صورة يظهر بلون المتجر. البحث والعروض والأحدث تبقى برأسها المعتاد.\n- «إظهار وصف التصنيف في رأس صفحة التصنيف»: الوصف الذي كتبته للتصنيف في سلة، تحت اسمه (ثلاثة أسطر على الجوال). مفعّل.\n- «إظهار مسار التنقل في صفحة قائمة المنتجات»: سطر «الرئيسية › التصنيف» أعلى صفحات التصنيفات ونتائج البحث، وداخل الهيرو في\n  صفحة التصنيف. مفعّل.\n- «عدد المنتجات في الصف على الحاسوب»: «تلقائي (الافتراضي)» أو «٣ (حين لا يظهر عمود الفلاتر)» لبطاقات أكبر. والجوال والتابلت كما هما.\n- «التصنيفات الفرعية أعلى المنتجات»: أزرار بأسماء التصنيفات الفرعية في صفحة التصنيف الرئيسي، مطفأة افتراضياً."
+}

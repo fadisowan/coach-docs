@@ -13,17 +13,18 @@ editUrl: false
 
 | كمبيوتر (1440) | جوال (390) |
 |---|---|
-| <img src="/coach-docs/assets/sections/17-coach-faq/00-desktop.webp" alt="معاينة — عام · الأسئلة الشائعة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/17-coach-faq/00-mobile.webp" alt="معاينة — عام · الأسئلة الشائعة" loading="lazy" decoding="async"/> |
+| <img data-update-ref="17-coach-faq:overview:0" src="/coach-docs/assets/updates/1.94.0/sections/17-coach-faq/00-desktop.webp?v=3119d52a370d" alt="معاينة — عام · الأسئلة الشائعة" loading="lazy" decoding="async"/> | <img data-update-ref="17-coach-faq:overview:1" src="/coach-docs/assets/updates/1.94.0/sections/17-coach-faq/00-mobile.webp?v=b0c37c59c462" alt="معاينة — عام · الأسئلة الشائعة" loading="lazy" decoding="async"/> |
 
-خيارات مشتركة في هذا القسم، مشروحة مرة واحدة في [الخيارات المشتركة](/coach-docs/docs/01-shared/): «محاذاة العنوان والوصف»، «حجم العنوان»، «خلفية القسم»، «لون الخلفية المخصص»، «صورة خلفية القسم»، «قوة طبقة اللون فوق الصورة»، «تمديد الخلفية بعرض الشاشة»، «المسافة العلوية (بكسل)»، «المسافة السفلية (بكسل)».
+خيارات مشتركة في هذا القسم، ومنها [كلاسات CSS الجاهزة](/coach-docs/docs/01-shared/#custom-classes)، مشروحة مرة واحدة في [الخيارات المشتركة](/coach-docs/docs/01-shared/): «محاذاة العنوان والوصف»، «حجم العنوان»، «خلفية القسم»، «لون الخلفية المخصص»، «صورة خلفية القسم»، «قوة طبقة اللون فوق الصورة»، «تمديد الخلفية بعرض الشاشة»، «المسافة العلوية (بكسل)»، «المسافة السفلية (بكسل)».
 
 <details><summary>من دليل التاجر</summary>
 
 بطاقة تواصل بجانب أكورديون الأسئلة، وسؤال واحد مفتوح في كل مرة.
 
 - **أهم الإعدادات:** «الأسئلة» حتى ١٦، لكل سؤال «السؤال» و«الإجابة». «السؤال الأول مفتوح عند التحميل» مفعّل. «نص زر التواصل» فارغاً يُخفي الزر. «رابط الزر» فارغاً يفتح واتساب برقم الثيم أو برقم المتجر؛ بلا رقم لا يظهر الزر.
-- **محركات البحث:** «عرض الأسئلة في نتائج البحث» مفعّل. أوقفه إن وضعت أكثر من قسم أسئلة في الصفحة نفسها.
-- **الأسئلة النموذجية:** الإجابات الافتراضية (الشهادة، طرق الدفع، الاسترجاع، موعد الاستشارة…) أمثلة عامة؛ اكتبها كما هي في متجرك. تظهر للزوار كما هي، لكنها **لا تُرسل لمحركات البحث** حتى تعدّل إجابتها، وفي المحرّر ملاحظة تذكّرك بذلك. السؤال الذي عدّلت إجابته يُرسل عادي.
+- **محركات البحث:** «بيانات منظّمة للأسئلة (لمحركات البحث)» مفعّل: يساعد محركات البحث على فهم الأسئلة، وظهورها في النتائج قرار المحرك. يُوقف إن كان في الصفحة نفسها أكثر من قسم أسئلة.
+- **الأسئلة النموذجية:** الإجابات الافتراضية (الشهادة، طرق الدفع، الاسترجاع، موعد الاستشارة…) أمثلة عامة، تُكتب كما هي في المتجر. تظهر للزوار كما هي، لكنها **لا تُرسل لمحركات البحث** حتى تُعدَّل إجابتها، وفي المحرّر ملاحظة تذكّر بذلك. والسؤال المعدّلة إجابته يُرسل عادي.
+- **خيارات إضافية:** «فتح الأسئلة»: «سؤال واحد في كل مرة (الافتراضي)» أو «أكثر من سؤال معاً».
 
 </details>
 
@@ -39,19 +40,19 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/17-coach-faq/01-eyebrow-panel.webp" alt="لوحة إعدادات — العنوان الصغير (فوق العنوان)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/17-coach-faq/01-eyebrow-result.webp" alt="معاينة — العنوان الصغير (فوق العنوان)" loading="lazy" decoding="async"/> | مكانه في القسم محاط بإطار برتقالي |
+| <img data-update-ref="17-coach-faq:eyebrow:0:panel" src="/coach-docs/assets/updates/1.94.0/sections/17-coach-faq/01-eyebrow-panel.webp?v=f33242c33d73" alt="لوحة إعدادات (نسخة مطابقة) — العنوان الصغير (فوق العنوان)" loading="lazy" decoding="async"/> | <img data-update-ref="17-coach-faq:eyebrow:0:result" src="/coach-docs/assets/updates/1.94.0/sections/17-coach-faq/01-eyebrow-result.webp?v=b37e7851c2aa" alt="معاينة — العنوان الصغير (فوق العنوان)" loading="lazy" decoding="async"/> | مكانه في القسم محاط بإطار برتقالي |
 
 ### «العنوان»
 
 - **النوع:** نص بسطر واحد · **الافتراضي:** عندك [[سؤال؟]] · المعرّف `title`
-- **ماذا يفعل:** عنوان القسم. ضع كلمة بين [[ ]] لتظهر مميّزة بالشكل المختار في «تخصيص الثيم».
+- **ماذا يفعل:** عنوان القسم. ضع كلمة بين [[ ]] لتظهر مميّزة بالشكل المختار في «الخيارات العامة».
 - **متى تستعمله:** جملة قصيرة تقول ما يجده الزائر في القسم.
 - **حين يكون فارغاً:** فارغاً باللغتين لا يظهر. إن مسحته بالعربية وحدها ظهر النص الإنجليزي.
 - شرحه تحت الحقل في المحرّر: فارغاً باللغتين يُخفى. [[كلمة]] بلون المتجر.
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/17-coach-faq/02-title-panel.webp" alt="لوحة إعدادات — العنوان" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/17-coach-faq/02-title-result.webp" alt="معاينة — العنوان" loading="lazy" decoding="async"/> | مكانه في القسم محاط بإطار برتقالي |
+| <img data-update-ref="17-coach-faq:title:0:panel" src="/coach-docs/assets/updates/1.94.0/sections/17-coach-faq/02-title-panel.webp?v=20d537127d9e" alt="لوحة إعدادات (نسخة مطابقة) — العنوان" loading="lazy" decoding="async"/> | <img data-update-ref="17-coach-faq:title:0:result" src="/coach-docs/assets/updates/1.94.0/sections/17-coach-faq/02-title-result.webp?v=b60a60799430" alt="معاينة — العنوان" loading="lazy" decoding="async"/> | مكانه في القسم محاط بإطار برتقالي |
 
 ### «الوصف»
 
@@ -63,7 +64,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/17-coach-faq/03-description-panel.webp" alt="لوحة إعدادات — الوصف" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/17-coach-faq/03-description-result.webp" alt="معاينة — الوصف" loading="lazy" decoding="async"/> | مكانه في القسم محاط بإطار برتقالي |
+| <img data-update-ref="17-coach-faq:description:0:panel" src="/coach-docs/assets/updates/1.94.0/sections/17-coach-faq/03-description-panel.webp?v=7aff9615bd19" alt="لوحة إعدادات (نسخة مطابقة) — الوصف" loading="lazy" decoding="async"/> | <img data-update-ref="17-coach-faq:description:0:result" src="/coach-docs/assets/updates/1.94.0/sections/17-coach-faq/03-description-result.webp?v=da189f1eb488" alt="معاينة — الوصف" loading="lazy" decoding="async"/> | مكانه في القسم محاط بإطار برتقالي |
 
 ### «الأسئلة»
 
@@ -74,7 +75,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/17-coach-faq/04-items-panel.webp" alt="لوحة إعدادات — الأسئلة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/17-coach-faq/00-desktop.webp" alt="معاينة — الأسئلة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
+| <img data-update-ref="17-coach-faq:items:0:panel" src="/coach-docs/assets/updates/1.94.0/sections/17-coach-faq/04-items-panel.webp?v=c2e967d3fa6f" alt="لوحة إعدادات (نسخة مطابقة) — الأسئلة" loading="lazy" decoding="async"/> | <img data-update-ref="17-coach-faq:items:0:result" src="/coach-docs/assets/updates/1.94.0/sections/17-coach-faq/00-desktop.webp?v=3119d52a370d" alt="معاينة — الأسئلة" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة؛ لا تثبت أثر كل خيار بصورة مستقلة.</small> |  |
 
 #### «السؤال»
 
@@ -84,7 +85,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/17-coach-faq/04-items-question-panel.webp" alt="لوحة إعدادات — الأسئلة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/17-coach-faq/00-desktop.webp" alt="معاينة — الأسئلة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
+| <img data-update-ref="17-coach-faq:items:1:panel" src="/coach-docs/assets/updates/1.94.0/sections/17-coach-faq/04-items-question-panel.webp?v=50441f4ee65d" alt="لوحة إعدادات (نسخة مطابقة) — الأسئلة" loading="lazy" decoding="async"/> | <img data-update-ref="17-coach-faq:items:1:result" src="/coach-docs/assets/updates/1.94.0/sections/17-coach-faq/00-desktop.webp?v=3119d52a370d" alt="معاينة — الأسئلة" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة؛ لا تثبت أثر كل خيار بصورة مستقلة.</small> |  |
 
 #### «الإجابة»
 
@@ -94,7 +95,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/17-coach-faq/04-items-answer-panel.webp" alt="لوحة إعدادات — الأسئلة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/17-coach-faq/00-desktop.webp" alt="معاينة — الأسئلة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
+| <img data-update-ref="17-coach-faq:items:2:panel" src="/coach-docs/assets/updates/1.94.0/sections/17-coach-faq/04-items-answer-panel.webp?v=088a614efae5" alt="لوحة إعدادات (نسخة مطابقة) — الأسئلة" loading="lazy" decoding="async"/> | <img data-update-ref="17-coach-faq:items:2:result" src="/coach-docs/assets/updates/1.94.0/sections/17-coach-faq/00-desktop.webp?v=3119d52a370d" alt="معاينة — الأسئلة" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة؛ لا تثبت أثر كل خيار بصورة مستقلة.</small> |  |
 
 ### «نص زر التواصل»
 
@@ -106,19 +107,19 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/17-coach-faq/05-contact_label-panel.webp" alt="لوحة إعدادات — نص زر التواصل" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/17-coach-faq/05-contact_label-result.webp" alt="معاينة — نص زر التواصل" loading="lazy" decoding="async"/> | مكانه في القسم محاط بإطار برتقالي |
+| <img data-update-ref="17-coach-faq:contact_label:0:panel" src="/coach-docs/assets/updates/1.94.0/sections/17-coach-faq/05-contact_label-panel.webp?v=8dabe2506738" alt="لوحة إعدادات (نسخة مطابقة) — نص زر التواصل" loading="lazy" decoding="async"/> | <img data-update-ref="17-coach-faq:contact_label:0:result" src="/coach-docs/assets/updates/1.94.0/sections/17-coach-faq/05-contact_label-result.webp?v=ef5f7492077d" alt="معاينة — نص زر التواصل" loading="lazy" decoding="async"/> | مكانه في القسم محاط بإطار برتقالي |
 
 ### «رابط الزر»
 
 - **النوع:** نص بسطر واحد · **الافتراضي:** فارغ · المعرّف `contact_link`
 - **ماذا يفعل:** رابط زر التواصل: واتساب أو بريد أو صفحة.
 - **متى تستعمله:** إن أردت رابطاً غير واتساب.
-- **حين يكون فارغاً:** فارغاً يُستعمل رقم واتساب من «تخصيص الثيم» أو من بيانات المتجر؛ وبلا رقم يُخفى الزر.
-- شرحه تحت الحقل في المحرّر: فارغاً: رقم واتساب من إعدادات الثيم أو المتجر.
+- **حين يكون فارغاً:** فارغاً يُستعمل رقم واتساب من «الخيارات العامة» أو من بيانات المتجر؛ وبلا رقم يُخفى الزر.
+- شرحه تحت الحقل في المحرّر: فارغاً: رقم واتساب من الخيارات العامة أو المتجر.
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/17-coach-faq/06-contact_link-panel.webp" alt="لوحة إعدادات — رابط الزر" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/17-coach-faq/00-desktop.webp" alt="معاينة — رابط الزر" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
+| <img data-update-ref="17-coach-faq:contact_link:0:panel" src="/coach-docs/assets/updates/1.94.0/sections/17-coach-faq/06-contact_link-panel.webp?v=eb08d9493ba9" alt="لوحة إعدادات (نسخة مطابقة) — رابط الزر" loading="lazy" decoding="async"/> | <img data-update-ref="17-coach-faq:contact_link:0:result" src="/coach-docs/assets/updates/1.94.0/sections/17-coach-faq/00-desktop.webp?v=3119d52a370d" alt="معاينة — رابط الزر" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة؛ لا تثبت أثر كل خيار بصورة مستقلة.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «السؤال الأول مفتوح عند التحميل»
 
@@ -129,19 +130,30 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/17-coach-faq/07-first_open-panel.webp" alt="لوحة إعدادات — السؤال الأول مفتوح عند التحميل" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/17-coach-faq/07-first_open-off-result.webp" alt="معاينة — السؤال الأول مفتوح عند التحميل" loading="lazy" decoding="async"/> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
+| <img data-update-ref="17-coach-faq:first_open:0:panel" src="/coach-docs/assets/updates/1.94.0/sections/17-coach-faq/07-first_open-panel.webp?v=dc20579b1807" alt="لوحة إعدادات (نسخة مطابقة) — السؤال الأول مفتوح عند التحميل" loading="lazy" decoding="async"/> | <img data-update-ref="17-coach-faq:first_open:0:result" src="/coach-docs/assets/updates/1.94.0/sections/17-coach-faq/07-first_open-off-result.webp?v=169430427f32" alt="معاينة — السؤال الأول مفتوح عند التحميل" loading="lazy" decoding="async"/> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
 
-### «عرض الأسئلة في نتائج البحث»
+### «فتح الأسئلة»
+
+- **النوع:** قائمة منسدلة · **الافتراضي:** سؤال واحد في كل مرة (الافتراضي) · المعرّف `open_mode`
+- **ماذا يفعل:** فتح سؤال واحد في كل مرة، أو أكثر من سؤال معاً.
+- **متى تستعمله:** «أكثر من سؤال» ليقارن الزائر الإجابات.
+
+| اللوحة (نسخة مطابقة) | النتيجة | |
+|---|---|---|
+| <img data-update-ref="17-coach-faq:open_mode:0:panel" src="/coach-docs/assets/updates/1.94.0/sections/17-coach-faq/08-open_mode-one-panel.webp?v=b2d54d9bffe9" alt="لوحة إعدادات (نسخة مطابقة) — فتح الأسئلة" loading="lazy" decoding="async"/> | <img data-update-ref="17-coach-faq:open_mode:0:result" src="/coach-docs/assets/updates/1.94.0/sections/17-coach-faq/08-open_mode-one-result.webp?v=8597166d5f78" alt="معاينة — فتح الأسئلة" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة؛ لا تثبت أثر كل خيار بصورة مستقلة.</small> | «سؤال واحد في كل مرة (الافتراضي)» |
+| <img data-update-ref="17-coach-faq:open_mode:1:panel" src="/coach-docs/assets/updates/1.94.0/sections/17-coach-faq/08-open_mode-multiple-panel.webp?v=74ee621da396" alt="لوحة إعدادات (نسخة مطابقة) — فتح الأسئلة" loading="lazy" decoding="async"/> | <img data-update-ref="17-coach-faq:open_mode:1:result" src="/coach-docs/assets/updates/1.94.0/sections/17-coach-faq/08-open_mode-multiple-result.webp?v=af6b96614dbd" alt="معاينة — فتح الأسئلة" loading="lazy" decoding="async"/> | «أكثر من سؤال معاً» |
+
+### «بيانات منظّمة للأسئلة (لمحركات البحث)»
 
 - **النوع:** مفتاح تشغيل وإطفاء · **الافتراضي:** مفعّل · المعرّف `schema`
 - **ماذا يفعل:** يُرسل الأسئلة لمحركات البحث بصيغة FAQPage، فقد تظهر في نتائج البحث. الأسئلة النموذجية لا تُرسل حتى تعدّلها.
 - **متى تستعمله:** اتركه مفعّلاً، وأوقفه إن أضفت القسم أكثر من مرة.
 - **حين يكون فارغاً:** مطفأ: لا يُرسل شيء لمحركات البحث.
-- شرحه تحت الحقل في المحرّر: الأسئلة النموذجية لا تُرسل قبل تعديلها. يُوقف إن تكرر القسم.
+- شرحه تحت الحقل في المحرّر: لا تضمن الظهور في النتائج. النموذجية لا تُرسل قبل تعديلها. يُوقف إن تكرر القسم.
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/17-coach-faq/08-schema-panel.webp" alt="لوحة إعدادات — عرض الأسئلة في نتائج البحث" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/17-coach-faq/00-desktop.webp" alt="معاينة — عرض الأسئلة في نتائج البحث" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
+| <img data-update-ref="17-coach-faq:schema:0:panel" src="/coach-docs/assets/updates/1.94.0/sections/17-coach-faq/09-schema-panel.webp?v=0632cb2e7bbe" alt="لوحة إعدادات (نسخة مطابقة) — بيانات منظّمة للأسئلة (لمحركات البحث)" loading="lazy" decoding="async"/> | <img data-update-ref="17-coach-faq:schema:0:result" src="/coach-docs/assets/updates/1.94.0/sections/17-coach-faq/08-open_mode-one-result.webp?v=8597166d5f78" alt="معاينة — بيانات منظّمة للأسئلة (لمحركات البحث)" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة؛ لا تثبت أثر كل خيار بصورة مستقلة.</small> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
 
 ### «تثبيت الجزء الجانبي أثناء التمرير»
 
@@ -153,7 +165,18 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/17-coach-faq/09-sticky_side-panel.webp" alt="لوحة إعدادات — تثبيت الجزء الجانبي أثناء التمرير" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/17-coach-faq/09-sticky_side-on-result.webp" alt="معاينة — تثبيت الجزء الجانبي أثناء التمرير" loading="lazy" decoding="async"/> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
+| <img data-update-ref="17-coach-faq:sticky_side:0:panel" src="/coach-docs/assets/updates/1.94.0/sections/17-coach-faq/10-sticky_side-panel.webp?v=30543a50c370" alt="لوحة إعدادات (نسخة مطابقة) — تثبيت الجزء الجانبي أثناء التمرير" loading="lazy" decoding="async"/> | <img data-update-ref="17-coach-faq:sticky_side:0:result" src="/coach-docs/assets/updates/1.94.0/sections/17-coach-faq/10-sticky_side-on-result.webp?v=fedcc589d8d9" alt="معاينة — تثبيت الجزء الجانبي أثناء التمرير" loading="lazy" decoding="async"/> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
+
+### «كلاسات CSS»
+
+- **النوع:** نص بسطر واحد · **الافتراضي:** فارغ · المعرّف `custom_classes`
+- **ماذا يفعل:** كلمات لاتينية تُضاف لكلاس القسم: كلاسات جاهزة مثل cx-narrow وcx-center وcx-no-head، أو كلاس خاص يُنسَّق من «تخصيص متقدم» في سلة.
+- **متى تستعمله:** لتعديل قسم واحد بلا تغيير الثيم كله. الحروف والأرقام و- و_ فقط، تبدأ الكلمة بحرف، وحتى ثماني كلمات.
+- **حين يكون فارغاً:** فارغ: القسم كما هو.
+
+| اللوحة (نسخة مطابقة) | النتيجة | |
+|---|---|---|
+| <img data-update-ref="17-coach-faq:custom_classes:0:panel" src="/coach-docs/assets/updates/1.94.0/sections/17-coach-faq/11-custom_classes-panel.webp?v=8e59bb2fb704" alt="لوحة إعدادات (نسخة مطابقة) — كلاسات CSS" loading="lazy" decoding="async"/> | <img data-update-ref="17-coach-faq:custom_classes:0:result" src="/coach-docs/assets/updates/1.94.0/sections/17-coach-faq/11-custom_classes-result.webp?v=da1d5b640a70" alt="معاينة — كلاسات CSS" loading="lazy" decoding="async"/> | النتيجة مع «cx-narrow cx-center» |
 
 
-<div class="source-note">صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>
+<div class="source-note">صور اللوحات تمثيل مطابق لحقول المحرّر، وليست لقطات من محرّر سلة نفسه. صور النتائج ببيانات تجريبية؛ تُفتح الصورة بالضغط عليها لقراءتها بالحجم الأصلي.</div>

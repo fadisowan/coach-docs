@@ -13,17 +13,18 @@ editUrl: false
 
 | كمبيوتر (1440) | جوال (390) |
 |---|---|
-| <img src="/coach-docs/assets/sections/15-coach-reviews/00-desktop.webp" alt="معاينة — ثقة · قصص نجاح المتعلّمين" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/15-coach-reviews/00-mobile.webp" alt="معاينة — ثقة · قصص نجاح المتعلّمين" loading="lazy" decoding="async"/> |
+| <img data-update-ref="15-coach-reviews:overview:0" src="/coach-docs/assets/updates/1.94.0/sections/15-coach-reviews/00-desktop.webp?v=9d5a40796a41" alt="معاينة — ثقة · قصص نجاح المتعلّمين" loading="lazy" decoding="async"/> | <img data-update-ref="15-coach-reviews:overview:1" src="/coach-docs/assets/updates/1.94.0/sections/15-coach-reviews/00-mobile.webp?v=ad7724ea2603" alt="معاينة — ثقة · قصص نجاح المتعلّمين" loading="lazy" decoding="async"/> |
 
-خيارات مشتركة في هذا القسم، مشروحة مرة واحدة في [الخيارات المشتركة](/coach-docs/docs/01-shared/): «محاذاة العنوان والوصف»، «حجم العنوان»، «خلفية القسم»، «لون الخلفية المخصص»، «صورة خلفية القسم»، «قوة طبقة اللون فوق الصورة»، «تمديد الخلفية بعرض الشاشة»، «المسافة العلوية (بكسل)»، «المسافة السفلية (بكسل)».
+خيارات مشتركة في هذا القسم، ومنها [كلاسات CSS الجاهزة](/coach-docs/docs/01-shared/#custom-classes)، مشروحة مرة واحدة في [الخيارات المشتركة](/coach-docs/docs/01-shared/): «محاذاة العنوان والوصف»، «حجم العنوان»، «خلفية القسم»، «لون الخلفية المخصص»، «صورة خلفية القسم»، «قوة طبقة اللون فوق الصورة»، «تمديد الخلفية بعرض الشاشة»، «المسافة العلوية (بكسل)»، «المسافة السفلية (بكسل)».
 
 <details><summary>من دليل التاجر</summary>
 
 آراء نصية وفيديو في بطاقات تتناوب ألوانها تلقائياً. الرأي بفيديو يُظهر صورة غلاف وزر تشغيل يفتح الفيديو فوق الصفحة.
 
-- **المصدر:** «مصدر الآراء»: «آراء أكتبها بنفسي (القائمة أدناه)» (الافتراضي)، أو «تقييمات متجري في سلة»، أو «تقييمات منتجات أختارها». تقييمات سلة تظهر بتصميم القسم وتتجدد وحدها: المكتوب منها فقط، الأحدث أولاً، حسب «تقييمات سلة: أقل تقييم» (٤ نجوم فأكثر، أو ٥ فقط) و«تقييمات سلة: العدد» (من ٢ إلى ١٢). ومع «تقييمات منتجات أختارها» تختار «المنتجات»؛ بلا اختيار تظهر تقييمات كل منتجاتك. ما دام لا يوجد تقييم مناسب، لا يظهر القسم لزوارك.
+- **المصدر:** «مصدر الآراء»: «آراء أكتبها بنفسي (القائمة أدناه)» (الافتراضي)، أو «تقييمات متجري في سلة»، أو «تقييمات منتجات أختارها». تقييمات سلة تظهر بتصميم القسم وتتجدد وحدها: المكتوب منها فقط، الأحدث أولاً، حسب «تقييمات سلة: أقل تقييم» (٤ نجوم فأكثر، أو ٥ فقط) و«تقييمات سلة: العدد» (من ٢ إلى ١٢). ومع «تقييمات منتجات أختارها» تُختار «المنتجات»؛ بلا اختيار تظهر تقييمات كل منتجاتك. ما دام لا يوجد تقييم مناسب، لا يظهر القسم لزوارك.
 - **طريقة العرض:** «جدار آراء بتخطيط متدرّج» (الافتراضي)، أو «قصص بالفيديو وبطاقات طولية»، أو «شريط آراء متحرك بصفّين» (صفّان متعاكسان يقفان تحت المؤشر، ومعه «إظهار اسم صاحب الرأي» و«التقييم العام» و«سطر عدد التقييمات» و«تمديد الشريط بعرض الشاشة»). القصص تعرض أول أربع بطاقات، وهي مصممة لآراء الفيديو؛ لتقييمات سلة الأنسب الجدار أو الشريط. و«الوصف» يظهر في القصص فقط.
-- **الآراء المكتوبة:** «الآراء» حتى ١٢: «الرأي» و«الاسم» و«البرنامج» و«الصورة الشخصية (اختيارية)» (مربعة ١٦٠×١٦٠ بكسل تقريباً) و«التقييم (١–٥)» و«رابط فيديو (اختياري)» و«صورة غلاف الفيديو (اختيارية)» (٨٠٠ بكسل عرضاً على الأقل). الآراء الافتراضية أمثلة، فضع مكانها آراء عملائك الحقيقية.
+- **الآراء المكتوبة:** «الآراء» حتى ١٢: «الرأي» و«الاسم» و«الصفة» و«البرنامج» و«الصورة الشخصية (اختيارية)» (مربعة ١٦٠×١٦٠ بكسل تقريباً) و«التقييم (١–٥)» و«رابط فيديو (اختياري)» و«صورة غلاف الفيديو (اختيارية)» (٨٠٠ بكسل عرضاً على الأقل). الآراء الافتراضية أمثلة، تحلّ مكانها آراء العملاء الحقيقية.
+- **خيارات إضافية:** «اسم المنتج مع الرأي» (مفعّل افتراضياً). مطفأ يخفي «البرنامج» واسم المنتج، والرأي الذي بلا «الاسم» و«الصفة» يظهر بلا سطر الكاتب.
 
 </details>
 
@@ -38,9 +39,9 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/15-coach-reviews/01-source-manual-panel.webp" alt="لوحة إعدادات — مصدر الآراء" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/15-coach-reviews/01-source-manual-result.webp" alt="معاينة — مصدر الآراء" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «آراء أكتبها بنفسي (القائمة أدناه)» |
-| <img src="/coach-docs/assets/sections/15-coach-reviews/01-source-store-panel.webp" alt="لوحة إعدادات — مصدر الآراء" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/15-coach-reviews/01-source-store-result.webp" alt="معاينة — مصدر الآراء" loading="lazy" decoding="async"/> | «تقييمات متجري في سلة» |
-| <img src="/coach-docs/assets/sections/15-coach-reviews/01-source-products-panel.webp" alt="لوحة إعدادات — مصدر الآراء" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/15-coach-reviews/01-source-products-result.webp" alt="معاينة — مصدر الآراء" loading="lazy" decoding="async"/> | «تقييمات منتجات أختارها» |
+| <img data-update-ref="15-coach-reviews:source:0:panel" src="/coach-docs/assets/updates/1.94.0/sections/15-coach-reviews/01-source-manual-panel.webp?v=0d3d6687e44d" alt="لوحة إعدادات (نسخة مطابقة) — مصدر الآراء" loading="lazy" decoding="async"/> | <img data-update-ref="15-coach-reviews:source:0:result" src="/coach-docs/assets/updates/1.94.0/sections/15-coach-reviews/00-desktop.webp?v=9d5a40796a41" alt="معاينة — مصدر الآراء" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة؛ لا تثبت أثر كل خيار بصورة مستقلة.</small> | «آراء أكتبها بنفسي (القائمة أدناه)» |
+| <img data-update-ref="15-coach-reviews:source:1:panel" src="/coach-docs/assets/updates/1.94.0/sections/15-coach-reviews/01-source-store-panel.webp?v=47d06c595328" alt="لوحة إعدادات (نسخة مطابقة) — مصدر الآراء" loading="lazy" decoding="async"/> | <img data-update-ref="15-coach-reviews:source:1:result" src="/coach-docs/assets/updates/1.94.0/sections/15-coach-reviews/01-source-store-result.webp?v=c8aa722c4479" alt="معاينة — مصدر الآراء" loading="lazy" decoding="async"/> | «تقييمات متجري في سلة» |
+| <img data-update-ref="15-coach-reviews:source:2:panel" src="/coach-docs/assets/updates/1.94.0/sections/15-coach-reviews/01-source-products-panel.webp?v=999d59274344" alt="لوحة إعدادات (نسخة مطابقة) — مصدر الآراء" loading="lazy" decoding="async"/> | <img data-update-ref="15-coach-reviews:source:2:result" src="/coach-docs/assets/updates/1.94.0/sections/15-coach-reviews/01-source-products-result.webp?v=86bc17c35d20" alt="معاينة — مصدر الآراء" loading="lazy" decoding="async"/> | «تقييمات منتجات أختارها» |
 
 ### «المنتجات»
 
@@ -53,7 +54,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/15-coach-reviews/02-products-panel.webp" alt="لوحة إعدادات — المنتجات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/15-coach-reviews/00-desktop.webp" alt="معاينة — المنتجات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
+| <img data-update-ref="15-coach-reviews:products:0:panel" src="/coach-docs/assets/updates/1.94.0/sections/15-coach-reviews/02-products-panel.webp?v=df5dd7682cfa" alt="لوحة إعدادات (نسخة مطابقة) — المنتجات" loading="lazy" decoding="async"/> | <img data-update-ref="15-coach-reviews:products:0:result" src="/coach-docs/assets/updates/1.94.0/sections/15-coach-reviews/00-desktop.webp?v=9d5a40796a41" alt="معاينة — المنتجات" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة؛ لا تثبت أثر كل خيار بصورة مستقلة.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «تقييمات سلة: أقل تقييم»
 
@@ -63,8 +64,8 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/15-coach-reviews/03-min_stars-4-panel.webp" alt="لوحة إعدادات — تقييمات سلة: أقل تقييم" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/15-coach-reviews/00-desktop.webp" alt="معاينة — تقييمات سلة: أقل تقييم" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «٤ نجوم فأكثر» |
-| <img src="/coach-docs/assets/sections/15-coach-reviews/03-min_stars-5-panel.webp" alt="لوحة إعدادات — تقييمات سلة: أقل تقييم" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/15-coach-reviews/03-min_stars-5-result.webp" alt="معاينة — تقييمات سلة: أقل تقييم" loading="lazy" decoding="async"/> | «٥ نجوم فقط» |
+| <img data-update-ref="15-coach-reviews:min_stars:0:panel" src="/coach-docs/assets/updates/1.94.0/sections/15-coach-reviews/03-min_stars-4-panel.webp?v=be182540239b" alt="لوحة إعدادات (نسخة مطابقة) — تقييمات سلة: أقل تقييم" loading="lazy" decoding="async"/> | <img data-update-ref="15-coach-reviews:min_stars:0:result" src="/coach-docs/assets/updates/1.94.0/sections/15-coach-reviews/00-desktop.webp?v=9d5a40796a41" alt="معاينة — تقييمات سلة: أقل تقييم" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة؛ لا تثبت أثر كل خيار بصورة مستقلة.</small> | «٤ نجوم فأكثر» |
+| <img data-update-ref="15-coach-reviews:min_stars:1:panel" src="/coach-docs/assets/updates/1.94.0/sections/15-coach-reviews/03-min_stars-5-panel.webp?v=ecb02eae8922" alt="لوحة إعدادات (نسخة مطابقة) — تقييمات سلة: أقل تقييم" loading="lazy" decoding="async"/> | <img data-update-ref="15-coach-reviews:min_stars:1:result" src="/coach-docs/assets/updates/1.94.0/sections/15-coach-reviews/03-min_stars-5-result.webp?v=a57c5201fa84" alt="معاينة — تقييمات سلة: أقل تقييم" loading="lazy" decoding="async"/> | «٥ نجوم فقط» |
 
 ### «تقييمات سلة: العدد»
 
@@ -76,7 +77,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/15-coach-reviews/04-limit-panel.webp" alt="لوحة إعدادات — تقييمات سلة: العدد" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/15-coach-reviews/00-desktop.webp" alt="معاينة — تقييمات سلة: العدد" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
+| <img data-update-ref="15-coach-reviews:limit:0:panel" src="/coach-docs/assets/updates/1.94.0/sections/15-coach-reviews/04-limit-panel.webp?v=2f05af6eac3c" alt="لوحة إعدادات (نسخة مطابقة) — تقييمات سلة: العدد" loading="lazy" decoding="async"/> | <img data-update-ref="15-coach-reviews:limit:0:result" src="/coach-docs/assets/updates/1.94.0/sections/15-coach-reviews/00-desktop.webp?v=9d5a40796a41" alt="معاينة — تقييمات سلة: العدد" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة؛ لا تثبت أثر كل خيار بصورة مستقلة.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «طريقة العرض»
 
@@ -87,9 +88,9 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/15-coach-reviews/05-layout-wall-panel.webp" alt="لوحة إعدادات — طريقة العرض" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/15-coach-reviews/01-source-manual-result.webp" alt="معاينة — طريقة العرض" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «جدار آراء بتخطيط متدرّج» |
-| <img src="/coach-docs/assets/sections/15-coach-reviews/05-layout-stories-panel.webp" alt="لوحة إعدادات — طريقة العرض" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/15-coach-reviews/05-layout-stories-result.webp" alt="معاينة — طريقة العرض" loading="lazy" decoding="async"/> | «قصص بالفيديو وبطاقات طولية» |
-| <img src="/coach-docs/assets/sections/15-coach-reviews/05-layout-marquee-panel.webp" alt="لوحة إعدادات — طريقة العرض" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/15-coach-reviews/05-layout-marquee-result.webp" alt="معاينة — طريقة العرض" loading="lazy" decoding="async"/> | «شريط آراء متحرك بصفّين» |
+| <img data-update-ref="15-coach-reviews:layout:0:panel" src="/coach-docs/assets/updates/1.94.0/sections/15-coach-reviews/05-layout-wall-panel.webp?v=32eea071c9fe" alt="لوحة إعدادات (نسخة مطابقة) — طريقة العرض" loading="lazy" decoding="async"/> | <img data-update-ref="15-coach-reviews:layout:0:result" src="/coach-docs/assets/updates/1.94.0/sections/15-coach-reviews/00-desktop.webp?v=9d5a40796a41" alt="معاينة — طريقة العرض" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة؛ لا تثبت أثر كل خيار بصورة مستقلة.</small> | «جدار آراء بتخطيط متدرّج» |
+| <img data-update-ref="15-coach-reviews:layout:1:panel" src="/coach-docs/assets/updates/1.94.0/sections/15-coach-reviews/05-layout-stories-panel.webp?v=766feea7bd5b" alt="لوحة إعدادات (نسخة مطابقة) — طريقة العرض" loading="lazy" decoding="async"/> | <img data-update-ref="15-coach-reviews:layout:1:result" src="/coach-docs/assets/updates/1.94.0/sections/15-coach-reviews/05-layout-stories-result.webp?v=dde15d13acda" alt="معاينة — طريقة العرض" loading="lazy" decoding="async"/> | «قصص بالفيديو وبطاقات طولية» |
+| <img data-update-ref="15-coach-reviews:layout:2:panel" src="/coach-docs/assets/updates/1.94.0/sections/15-coach-reviews/05-layout-marquee-panel.webp?v=1a66d430f3d4" alt="لوحة إعدادات (نسخة مطابقة) — طريقة العرض" loading="lazy" decoding="async"/> | <img data-update-ref="15-coach-reviews:layout:2:result" src="/coach-docs/assets/updates/1.94.0/sections/15-coach-reviews/05-layout-marquee-result.webp?v=c46bc7849c92" alt="معاينة — طريقة العرض" loading="lazy" decoding="async"/> | «شريط آراء متحرك بصفّين» |
 
 ### «إظهار اسم صاحب الرأي»
 
@@ -102,7 +103,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/15-coach-reviews/06-show_name-panel.webp" alt="لوحة إعدادات — إظهار اسم صاحب الرأي" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/15-coach-reviews/06-show_name-off-result.webp" alt="معاينة — إظهار اسم صاحب الرأي" loading="lazy" decoding="async"/> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
+| <img data-update-ref="15-coach-reviews:show_name:0:panel" src="/coach-docs/assets/updates/1.94.0/sections/15-coach-reviews/06-show_name-panel.webp?v=aeb177af6a0a" alt="لوحة إعدادات (نسخة مطابقة) — إظهار اسم صاحب الرأي" loading="lazy" decoding="async"/> | <img data-update-ref="15-coach-reviews:show_name:0:result" src="/coach-docs/assets/updates/1.94.0/sections/15-coach-reviews/06-show_name-off-result.webp?v=00a3003d6957" alt="معاينة — إظهار اسم صاحب الرأي" loading="lazy" decoding="async"/> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
 
 ### «تمديد الشريط بعرض الشاشة»
 
@@ -115,7 +116,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/15-coach-reviews/07-marquee_full-panel.webp" alt="لوحة إعدادات — تمديد الشريط بعرض الشاشة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/15-coach-reviews/07-marquee_full-on-result.webp" alt="معاينة — تمديد الشريط بعرض الشاشة" loading="lazy" decoding="async"/> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
+| <img data-update-ref="15-coach-reviews:marquee_full:0:panel" src="/coach-docs/assets/updates/1.94.0/sections/15-coach-reviews/07-marquee_full-panel.webp?v=65b85ace05ae" alt="لوحة إعدادات (نسخة مطابقة) — تمديد الشريط بعرض الشاشة" loading="lazy" decoding="async"/> | <img data-update-ref="15-coach-reviews:marquee_full:0:result" src="/coach-docs/assets/updates/1.94.0/sections/15-coach-reviews/07-marquee_full-on-result.webp?v=9602e7b36cc3" alt="معاينة — تمديد الشريط بعرض الشاشة" loading="lazy" decoding="async"/> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
 
 ### «العنوان الصغير (فوق العنوان)»
 
@@ -127,19 +128,19 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/15-coach-reviews/08-eyebrow-panel.webp" alt="لوحة إعدادات — العنوان الصغير (فوق العنوان)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/15-coach-reviews/08-eyebrow-result.webp" alt="معاينة — العنوان الصغير (فوق العنوان)" loading="lazy" decoding="async"/> | مكانه في القسم محاط بإطار برتقالي |
+| <img data-update-ref="15-coach-reviews:eyebrow:0:panel" src="/coach-docs/assets/updates/1.94.0/sections/15-coach-reviews/08-eyebrow-panel.webp?v=095db5727d64" alt="لوحة إعدادات (نسخة مطابقة) — العنوان الصغير (فوق العنوان)" loading="lazy" decoding="async"/> | <img data-update-ref="15-coach-reviews:eyebrow:0:result" src="/coach-docs/assets/updates/1.94.0/sections/15-coach-reviews/08-eyebrow-result.webp?v=27b5495dc744" alt="معاينة — العنوان الصغير (فوق العنوان)" loading="lazy" decoding="async"/> | مكانه في القسم محاط بإطار برتقالي |
 
 ### «العنوان»
 
 - **النوع:** نص بسطر واحد · **الافتراضي:** قصص نجاح [[متعلّميّ]] · المعرّف `title`
-- **ماذا يفعل:** عنوان القسم. ضع كلمة بين [[ ]] لتظهر مميّزة بالشكل المختار في «تخصيص الثيم».
+- **ماذا يفعل:** عنوان القسم. ضع كلمة بين [[ ]] لتظهر مميّزة بالشكل المختار في «الخيارات العامة».
 - **متى تستعمله:** جملة قصيرة تقول ما يجده الزائر في القسم.
 - **حين يكون فارغاً:** فارغاً باللغتين لا يظهر. إن مسحته بالعربية وحدها ظهر النص الإنجليزي.
 - شرحه تحت الحقل في المحرّر: فارغاً باللغتين يُخفى. [[كلمة]] بلون المتجر.
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/15-coach-reviews/09-title-panel.webp" alt="لوحة إعدادات — العنوان" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/15-coach-reviews/09-title-result.webp" alt="معاينة — العنوان" loading="lazy" decoding="async"/> | مكانه في القسم محاط بإطار برتقالي |
+| <img data-update-ref="15-coach-reviews:title:0:panel" src="/coach-docs/assets/updates/1.94.0/sections/15-coach-reviews/09-title-panel.webp?v=a0a7dc2620e7" alt="لوحة إعدادات (نسخة مطابقة) — العنوان" loading="lazy" decoding="async"/> | <img data-update-ref="15-coach-reviews:title:0:result" src="/coach-docs/assets/updates/1.94.0/sections/15-coach-reviews/09-title-result.webp?v=ff8b354a19b7" alt="معاينة — العنوان" loading="lazy" decoding="async"/> | مكانه في القسم محاط بإطار برتقالي |
 
 ### «الوصف»
 
@@ -152,7 +153,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/15-coach-reviews/10-description-panel.webp" alt="لوحة إعدادات — الوصف" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/15-coach-reviews/00-desktop.webp" alt="معاينة — الوصف" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
+| <img data-update-ref="15-coach-reviews:description:0:panel" src="/coach-docs/assets/updates/1.94.0/sections/15-coach-reviews/10-description-panel.webp?v=95ffbeefe6ff" alt="لوحة إعدادات (نسخة مطابقة) — الوصف" loading="lazy" decoding="async"/> | <img data-update-ref="15-coach-reviews:description:0:result" src="/coach-docs/assets/updates/1.94.0/sections/15-coach-reviews/00-desktop.webp?v=9d5a40796a41" alt="معاينة — الوصف" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة؛ لا تثبت أثر كل خيار بصورة مستقلة.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «التقييم العام»
 
@@ -165,7 +166,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/15-coach-reviews/11-rating_value-panel.webp" alt="لوحة إعدادات — التقييم العام" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/15-coach-reviews/00-desktop.webp" alt="معاينة — التقييم العام" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
+| <img data-update-ref="15-coach-reviews:rating_value:0:panel" src="/coach-docs/assets/updates/1.94.0/sections/15-coach-reviews/11-rating_value-panel.webp?v=e8ea07091b27" alt="لوحة إعدادات (نسخة مطابقة) — التقييم العام" loading="lazy" decoding="async"/> | <img data-update-ref="15-coach-reviews:rating_value:0:result" src="/coach-docs/assets/updates/1.94.0/sections/15-coach-reviews/00-desktop.webp?v=9d5a40796a41" alt="معاينة — التقييم العام" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة؛ لا تثبت أثر كل خيار بصورة مستقلة.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «سطر عدد التقييمات»
 
@@ -178,7 +179,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/15-coach-reviews/12-rating_count-panel.webp" alt="لوحة إعدادات — سطر عدد التقييمات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/15-coach-reviews/00-desktop.webp" alt="معاينة — سطر عدد التقييمات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
+| <img data-update-ref="15-coach-reviews:rating_count:0:panel" src="/coach-docs/assets/updates/1.94.0/sections/15-coach-reviews/12-rating_count-panel.webp?v=065f3c4407cc" alt="لوحة إعدادات (نسخة مطابقة) — سطر عدد التقييمات" loading="lazy" decoding="async"/> | <img data-update-ref="15-coach-reviews:rating_count:0:result" src="/coach-docs/assets/updates/1.94.0/sections/15-coach-reviews/00-desktop.webp?v=9d5a40796a41" alt="معاينة — سطر عدد التقييمات" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة؛ لا تثبت أثر كل خيار بصورة مستقلة.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «الآراء»
 
@@ -186,11 +187,11 @@ editUrl: false
 - **ماذا يفعل:** الآراء التي تكتبها، للمصدر «آراء أكتبها بنفسي».
 - **متى تستعمله:** انقل آراء حقيقية من عملائك بإذنهم.
 - **حين يكون فارغاً:** بلا آراء لا يظهر القسم. والرأي بلا نص لا يظهر.
-- شرحه تحت الحقل في المحرّر: للمصدر «آراء أكتبها بنفسي».
+- شرحه تحت الحقل في المحرّر: للمصدر «آراء أكتبها بنفسي». شكل «القصص» يعرض أول أربعة.
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/15-coach-reviews/13-reviews-panel.webp" alt="لوحة إعدادات — الآراء" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/15-coach-reviews/13-reviews-result.webp" alt="معاينة — الآراء" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | أول عنصر محاط بإطار برتقالي |
+| <img data-update-ref="15-coach-reviews:reviews:0:panel" src="/coach-docs/assets/updates/1.94.0/sections/15-coach-reviews/13-reviews-panel.webp?v=c5ff089e2d16" alt="لوحة إعدادات (نسخة مطابقة) — الآراء" loading="lazy" decoding="async"/> | <img data-update-ref="15-coach-reviews:reviews:0:result" src="/coach-docs/assets/updates/1.94.0/sections/15-coach-reviews/13-reviews-result.webp?v=782dc50099f0" alt="معاينة — الآراء" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة؛ لا تثبت أثر كل خيار بصورة مستقلة.</small> | أول عنصر محاط بإطار برتقالي |
 
 #### «الرأي»
 
@@ -200,7 +201,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/15-coach-reviews/13-reviews-quote-panel.webp" alt="لوحة إعدادات — الآراء" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/15-coach-reviews/13-reviews-result.webp" alt="معاينة — الآراء" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
+| <img data-update-ref="15-coach-reviews:reviews:1:panel" src="/coach-docs/assets/updates/1.94.0/sections/15-coach-reviews/13-reviews-quote-panel.webp?v=ce50f6e45b95" alt="لوحة إعدادات (نسخة مطابقة) — الآراء" loading="lazy" decoding="async"/> | <img data-update-ref="15-coach-reviews:reviews:1:result" src="/coach-docs/assets/updates/1.94.0/sections/15-coach-reviews/13-reviews-result.webp?v=782dc50099f0" alt="معاينة — الآراء" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة؛ لا تثبت أثر كل خيار بصورة مستقلة.</small> |  |
 
 #### «الاسم»
 
@@ -210,7 +211,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/15-coach-reviews/13-reviews-name-panel.webp" alt="لوحة إعدادات — الآراء" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/15-coach-reviews/13-reviews-result.webp" alt="معاينة — الآراء" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
+| <img data-update-ref="15-coach-reviews:reviews:2:panel" src="/coach-docs/assets/updates/1.94.0/sections/15-coach-reviews/13-reviews-name-panel.webp?v=641d56377de5" alt="لوحة إعدادات (نسخة مطابقة) — الآراء" loading="lazy" decoding="async"/> | <img data-update-ref="15-coach-reviews:reviews:2:result" src="/coach-docs/assets/updates/1.94.0/sections/15-coach-reviews/13-reviews-result.webp?v=782dc50099f0" alt="معاينة — الآراء" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة؛ لا تثبت أثر كل خيار بصورة مستقلة.</small> |  |
 
 #### «الصفة»
 
@@ -221,7 +222,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/15-coach-reviews/13-reviews-role-panel.webp" alt="لوحة إعدادات — الآراء" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/15-coach-reviews/13-reviews-result.webp" alt="معاينة — الآراء" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
+| <img data-update-ref="15-coach-reviews:reviews:3:panel" src="/coach-docs/assets/updates/1.94.0/sections/15-coach-reviews/13-reviews-role-panel.webp?v=6ccb277896e2" alt="لوحة إعدادات (نسخة مطابقة) — الآراء" loading="lazy" decoding="async"/> | <img data-update-ref="15-coach-reviews:reviews:3:result" src="/coach-docs/assets/updates/1.94.0/sections/15-coach-reviews/13-reviews-result.webp?v=782dc50099f0" alt="معاينة — الآراء" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة؛ لا تثبت أثر كل خيار بصورة مستقلة.</small> |  |
 
 #### «البرنامج»
 
@@ -231,7 +232,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/15-coach-reviews/13-reviews-product-panel.webp" alt="لوحة إعدادات — الآراء" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/15-coach-reviews/13-reviews-result.webp" alt="معاينة — الآراء" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
+| <img data-update-ref="15-coach-reviews:reviews:4:panel" src="/coach-docs/assets/updates/1.94.0/sections/15-coach-reviews/13-reviews-product-panel.webp?v=a6d5b0895541" alt="لوحة إعدادات (نسخة مطابقة) — الآراء" loading="lazy" decoding="async"/> | <img data-update-ref="15-coach-reviews:reviews:4:result" src="/coach-docs/assets/updates/1.94.0/sections/15-coach-reviews/13-reviews-result.webp?v=782dc50099f0" alt="معاينة — الآراء" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة؛ لا تثبت أثر كل خيار بصورة مستقلة.</small> |  |
 
 #### «الصورة الشخصية (اختيارية)»
 
@@ -242,7 +243,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/15-coach-reviews/13-reviews-avatar-panel.webp" alt="لوحة إعدادات — الآراء" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/15-coach-reviews/13-reviews-result.webp" alt="معاينة — الآراء" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
+| <img data-update-ref="15-coach-reviews:reviews:5:panel" src="/coach-docs/assets/updates/1.94.0/sections/15-coach-reviews/13-reviews-avatar-panel.webp?v=dae19a235f04" alt="لوحة إعدادات (نسخة مطابقة) — الآراء" loading="lazy" decoding="async"/> | <img data-update-ref="15-coach-reviews:reviews:5:result" src="/coach-docs/assets/updates/1.94.0/sections/15-coach-reviews/13-reviews-result.webp?v=782dc50099f0" alt="معاينة — الآراء" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة؛ لا تثبت أثر كل خيار بصورة مستقلة.</small> |  |
 
 #### «التقييم (١–٥)»
 
@@ -252,7 +253,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/15-coach-reviews/13-reviews-rating-panel.webp" alt="لوحة إعدادات — الآراء" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/15-coach-reviews/13-reviews-result.webp" alt="معاينة — الآراء" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
+| <img data-update-ref="15-coach-reviews:reviews:6:panel" src="/coach-docs/assets/updates/1.94.0/sections/15-coach-reviews/13-reviews-rating-panel.webp?v=3ac7d3e37133" alt="لوحة إعدادات (نسخة مطابقة) — الآراء" loading="lazy" decoding="async"/> | <img data-update-ref="15-coach-reviews:reviews:6:result" src="/coach-docs/assets/updates/1.94.0/sections/15-coach-reviews/13-reviews-result.webp?v=782dc50099f0" alt="معاينة — الآراء" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة؛ لا تثبت أثر كل خيار بصورة مستقلة.</small> |  |
 
 #### «رابط فيديو (اختياري)»
 
@@ -263,7 +264,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/15-coach-reviews/13-reviews-video_url-panel.webp" alt="لوحة إعدادات — الآراء" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/15-coach-reviews/13-reviews-result.webp" alt="معاينة — الآراء" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
+| <img data-update-ref="15-coach-reviews:reviews:7:panel" src="/coach-docs/assets/updates/1.94.0/sections/15-coach-reviews/13-reviews-video_url-panel.webp?v=e20d01b7d29c" alt="لوحة إعدادات (نسخة مطابقة) — الآراء" loading="lazy" decoding="async"/> | <img data-update-ref="15-coach-reviews:reviews:7:result" src="/coach-docs/assets/updates/1.94.0/sections/15-coach-reviews/13-reviews-result.webp?v=782dc50099f0" alt="معاينة — الآراء" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة؛ لا تثبت أثر كل خيار بصورة مستقلة.</small> |  |
 
 #### «صورة غلاف الفيديو (اختيارية)»
 
@@ -274,7 +275,33 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/15-coach-reviews/13-reviews-video_image-panel.webp" alt="لوحة إعدادات — الآراء" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/15-coach-reviews/13-reviews-result.webp" alt="معاينة — الآراء" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
+| <img data-update-ref="15-coach-reviews:reviews:8:panel" src="/coach-docs/assets/updates/1.94.0/sections/15-coach-reviews/13-reviews-video_image-panel.webp?v=a7f25cbed162" alt="لوحة إعدادات (نسخة مطابقة) — الآراء" loading="lazy" decoding="async"/> | <img data-update-ref="15-coach-reviews:reviews:8:result" src="/coach-docs/assets/updates/1.94.0/sections/15-coach-reviews/13-reviews-result.webp?v=782dc50099f0" alt="معاينة — الآراء" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة؛ لا تثبت أثر كل خيار بصورة مستقلة.</small> |  |
+
+### «اسم المنتج مع الرأي»
+
+- **النوع:** مفتاح تشغيل وإطفاء · **الافتراضي:** مفعّل · المعرّف `show_product`
+- **ماذا يفعل:** اسم المنتج مع كل رأي.
+- **متى تستعمله:** مطفأ للآراء العامة.
+- **حين يكون فارغاً:** مفعّل افتراضياً.
+
+| اللوحة (نسخة مطابقة) | النتيجة | |
+|---|---|---|
+| <img data-update-ref="15-coach-reviews:show_product:0:panel" src="/coach-docs/assets/updates/1.94.0/sections/15-coach-reviews/14-show_product-panel.webp?v=c25af1b23f26" alt="لوحة إعدادات (نسخة مطابقة) — اسم المنتج مع الرأي" loading="lazy" decoding="async"/> | <img data-update-ref="15-coach-reviews:show_product:0:result" src="/coach-docs/assets/updates/1.94.0/sections/15-coach-reviews/14-show_product-off-result.webp?v=e4688887ac52" alt="معاينة — اسم المنتج مع الرأي" loading="lazy" decoding="async"/> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
+
+### «كلاسات CSS»
+
+- **النوع:** نص بسطر واحد · **الافتراضي:** فارغ · المعرّف `custom_classes`
+- **ماذا يفعل:** كلمات لاتينية تُضاف لكلاس القسم: كلاسات جاهزة مثل cx-narrow وcx-center وcx-no-head، أو كلاس خاص يُنسَّق من «تخصيص متقدم» في سلة.
+- **متى تستعمله:** لتعديل قسم واحد بلا تغيير الثيم كله. الحروف والأرقام و- و_ فقط، تبدأ الكلمة بحرف، وحتى ثماني كلمات.
+- **حين يكون فارغاً:** فارغ: القسم كما هو.
+
+| اللوحة (نسخة مطابقة) | النتيجة | |
+|---|---|---|
+| <img data-update-ref="15-coach-reviews:custom_classes:0:panel" src="/coach-docs/assets/updates/1.94.0/sections/15-coach-reviews/15-custom_classes-panel.webp?v=31a9efdd64ec" alt="لوحة إعدادات (نسخة مطابقة) — كلاسات CSS" loading="lazy" decoding="async"/> | <img data-update-ref="15-coach-reviews:custom_classes:0:result" src="/coach-docs/assets/updates/1.94.0/sections/15-coach-reviews/15-custom_classes-result.webp?v=30dead0a9bef" alt="معاينة — كلاسات CSS" loading="lazy" decoding="async"/> | النتيجة مع «cx-narrow cx-center» |
 
 
-<div class="source-note">صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>
+<div class="source-note">صور اللوحات تمثيل مطابق لحقول المحرّر، وليست لقطات من محرّر سلة نفسه. صور النتائج ببيانات تجريبية؛ تُفتح الصورة بالضغط عليها لقراءتها بالحجم الأصلي.</div>
+
+:::note[البيانات الافتراضية]
+الأرقام والتقييمات والآراء الافتراضية أمثلة، تُعدَّل قبل النشر.
+:::

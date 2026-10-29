@@ -1,37 +1,36 @@
 ---
-title: "٨ · صفحة المنتج — الملاحظة و«يُشترى معاً» والصور والزر الثابت"
+title: "صفحة المنتج"
 description: "دليل ثيم كوتش 1.76.1 — ٨ · صفحة المنتج — الملاحظة و«يُشترى معاً» والصور والزر الثابت"
 editUrl: false
 ---
 
+:::caution[حدود المعاينات المتاحة]
+لقطة خيار تكبير الصور تعرض صفحة خطأ 404، وليست معاينة للتكبير. احتُفظ بلقطة المصدر داخل قسم واضح بأنها غير صالحة للمعاينة؛ لا تتوفر لقطة صحيحة لهذا الخيار في الحزمة.
+:::
 
-من «تخصيص الثيم» في محرّر سلة. تنطبق على المتجر كله.
+
+في محرّر سلة: «خيارات التصميم ← الخيارات العامة»، قسم «صفحة المنتج». تنطبق على المتجر كله.
 
 **ما فيها:** صفحة المنتج: ملاحظة النوع، وأقسام الوصف بعناوينها، و«يُشترى معاً»، والزر الثابت على الجوال، والصور والوسوم ومسار التنقل.
 
 النتيجة مصوّرة على صفحة المنتج.
 
-<!-- preview-audit -->
-:::caution[حدود المعاينات المتاحة]
-لقطة خيار تكبير الصور تعرض صفحة خطأ 404، وليست معاينة للتكبير. احتُفظ بلقطة المصدر داخل قسم واضح بأنها غير صالحة للمعاينة؛ لا تتوفر لقطة صحيحة لهذا الخيار في الحزمة.
-:::
-
 | النتيجة الافتراضية |
 |---|
-| <img src="/coach-docs/assets/00-theme/08-product/00-default-result.webp" alt="معاينة — ٨ · صفحة المنتج — الملاحظة و«يُشترى معاً» والصور والزر الثابت" loading="lazy" decoding="async"/> |
+| <img data-update-ref="08-product:overview:0" src="/coach-docs/assets/updates/1.94.0/00-theme/09-product/00-default-result.webp?v=27741377576c" alt="معاينة — ٨ · صفحة المنتج — الملاحظة و«يُشترى معاً» والصور والزر الثابت" loading="lazy" decoding="async"/> |
 
 <details><summary>من دليل التاجر</summary>
 
 - «ملاحظة نوع المنتج في صفحة المنتج»: سطر قصير تحت السعر حسب نوع المنتج في سلة: «يصلك فوراً بعد الدفع» للمنتج الرقمي (رابط التحميل، أو الكود لمنتج البطاقات الرقمية)، و«لا حاجة لاختيار موعد الآن» مع «أتواصل معك» لتنسيق الموعد للخدمة، و«باقة بسعر واحد» لمجموعة المنتجات. مفعّل.
-- «أقسام الوصف بعناوينها»: إن كتبت الوصف بعناوين، يصبح كل عنوان وما تحته قسماً تحت زر الإضافة للسلة بعرض الصفحة، بشكل يناسب اسمه: علامات ✓ لـ«ماذا ستتعلّم»، ووحدات تُفتح لـ«المنهج»، وأسئلة تُفتح لـ«الأسئلة الشائعة». ما قبل أول عنوان يبقى بجانب الصور. التفاصيل في «كيف أجعل وصف المنتج مرتباً؟» في الجزء السابع. أطفئه ليبقى الوصف كاملاً بجانب الصور. مفعّل.
+- «أقسام الوصف بعناوينها»: إن كتبت الوصف بعناوين، يصبح كل عنوان وما تحته قسماً تحت زر الإضافة للسلة بعرض الصفحة، بشكل يناسب اسمه: علامات ✓ لـ«ماذا ستتعلّم»، ووحدات تُفتح لـ«المنهج»، وأسئلة تُفتح لـ«الأسئلة الشائعة». ما قبل أول عنوان يبقى بجانب الصور. التفاصيل في «كيف أجعل وصف المنتج مرتباً؟» في الجزء السابع. مطفأ: يبقى الوصف كاملاً بجانب الصور. مفعّل.
 - ««يُشترى معاً» في صفحة المنتج»: تحت المنتج: المنتج نفسه ومنتجان من «المنتجات المشابهة» في سلة، بمجموع يتحدّث وزر واحد يضيف المحدد للسلة. لا يظهر لمنتج ليس له منتجات مشابهة. مفعّل.
 - «عنوان «يُشترى معاً»»: فارغاً يظهر «أفضل معاً».
-- «سطر التوفير (اختياري)»: مثل «وفّر ١٠٪ عند شراء الثلاثة». اكتبه فقط إن أعددت العرض في سلة.
+- «سطر التوفير (اختياري)»: مثل «وفّر ١٠٪ عند شراء الثلاثة». يُكتب فقط إن كان العرض مُعدّاً في سلة.
 - «تثبيت زر الإضافة والكمية أسفل شاشة الجوال»: شريط ثابت أسفل الشاشة في صفحة المنتج على الجوال، يبقى ظاهراً أثناء التمرير. مفعّل.
-- «الكمية للمنتج الرقمي والخدمة»: مطفأ: المنتج الرقمي والاستشارة بلا اختيار كمية. شغّله إن كنت تبيع عدة نسخ، كالرخص أو المقاعد.
-- «تكبير الصور في سليدر صور المنتج»: عدسة تكبير تتبع المؤشر فوق صورة المنتج على الحاسوب. مطفأ.
-- «طريقة عرض الصور في سليدر صور المنتج»: «اظهار الصورة كاملةً في المنتصف (Contain)» (الافتراضي)، أو «تغطية الصورة كامل المساحة مع المحافظة على أبعاد الصورة (Cover)» مع قصّ الأطراف.
-- «اظهار الوسوم»: وسوم المنتج من إعداداته في سلة، تحت زر الإضافة للسلة. مفعّل.
+- «الكمية للمنتج الرقمي والخدمة»: مطفأ: المنتج الرقمي والاستشارة بلا اختيار كمية. ويُفعَّل لبيع عدة نسخ، كالرخص أو المقاعد.
+- «تكبير الصور في سلايدر صور المنتج»: عدسة تكبير تتبع المؤشر فوق صورة المنتج على الحاسوب. مطفأ.
+- «طريقة عرض الصور في سلايدر صور المنتج»: «إظهار الصورة كاملةً في المنتصف» (الافتراضي)، أو «تغطية الصورة كامل المساحة مع المحافظة على أبعاد الصورة» مع قصّ الأطراف.
+- «إظهار الوسوم»: وسوم المنتج من إعداداته في سلة، تحت زر الإضافة للسلة. مفعّل.
 - «إظهار مسار التنقل في صفحة المنتج»: سطر «الرئيسية › التصنيف › المنتج» أعلى الصفحة. مفعّل.
 
 </details>
@@ -48,7 +47,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/08-product/01-product_type_notes-panel.webp" alt="لوحة إعدادات — ملاحظة نوع المنتج في صفحة المنتج" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/08-product/01-product_type_notes-off-result.webp" alt="معاينة — ملاحظة نوع المنتج في صفحة المنتج" loading="lazy" decoding="async"/> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
+| <img data-update-ref="08-product:product_type_notes:0:panel" src="/coach-docs/assets/updates/1.94.0/00-theme/09-product/01-product_type_notes-panel.webp?v=a49994d75f14" alt="لوحة إعدادات (نسخة مطابقة) — ملاحظة نوع المنتج في صفحة المنتج" loading="lazy" decoding="async"/> | <img data-update-ref="08-product:product_type_notes:0:result" src="/coach-docs/assets/updates/1.94.0/00-theme/09-product/01-product_type_notes-off-result.webp?v=b7ac4aa0cd1a" alt="معاينة — ملاحظة نوع المنتج في صفحة المنتج" loading="lazy" decoding="async"/> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
 
 ### «أقسام الوصف بعناوينها»
 
@@ -60,7 +59,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/08-product/02-product_sections-panel.webp" alt="لوحة إعدادات — أقسام الوصف بعناوينها" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/08-product/02-product_sections-off-result.webp" alt="معاينة — أقسام الوصف بعناوينها" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
+| <img data-update-ref="08-product:product_sections:0:panel" src="/coach-docs/assets/updates/1.94.0/00-theme/09-product/02-product_sections-panel.webp?v=0c6260f2d092" alt="لوحة إعدادات (نسخة مطابقة) — أقسام الوصف بعناوينها" loading="lazy" decoding="async"/> | <img data-update-ref="08-product:product_sections:0:result" src="/coach-docs/assets/updates/1.94.0/00-theme/09-product/02-product_sections-off-result.webp?v=a45dd5becdb1" alt="معاينة — أقسام الوصف بعناوينها" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة؛ لا تثبت أثر كل خيار بصورة مستقلة.</small> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
 
 ### ««يُشترى معاً» في صفحة المنتج»
 
@@ -72,7 +71,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/08-product/03-fbt_enabled-panel.webp" alt="لوحة إعدادات — «يُشترى معاً» في صفحة المنتج" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/08-product/00-default-result.webp" alt="معاينة — «يُشترى معاً» في صفحة المنتج" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
+| <img data-update-ref="08-product:fbt_enabled:0:panel" src="/coach-docs/assets/updates/1.94.0/00-theme/09-product/03-fbt_enabled-panel.webp?v=a32917b3c75f" alt="لوحة إعدادات (نسخة مطابقة) — «يُشترى معاً» في صفحة المنتج" loading="lazy" decoding="async"/> | <img data-update-ref="08-product:fbt_enabled:0:result" src="/coach-docs/assets/updates/1.94.0/00-theme/09-product/02-product_sections-off-result.webp?v=a45dd5becdb1" alt="معاينة — «يُشترى معاً» في صفحة المنتج" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة؛ لا تثبت أثر كل خيار بصورة مستقلة.</small> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
 
 ### «عنوان «يُشترى معاً»»
 
@@ -85,7 +84,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/08-product/04-fbt_title-panel.webp" alt="لوحة إعدادات — عنوان «يُشترى معاً»" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/08-product/04-fbt_title-result.webp" alt="معاينة — عنوان «يُشترى معاً»" loading="lazy" decoding="async"/> | مكانه محاط بإطار برتقالي |
+| <img data-update-ref="08-product:fbt_title:0:panel" src="/coach-docs/assets/updates/1.94.0/00-theme/09-product/04-fbt_title-panel.webp?v=10f115a492de" alt="لوحة إعدادات (نسخة مطابقة) — عنوان «يُشترى معاً»" loading="lazy" decoding="async"/> | <img data-update-ref="08-product:fbt_title:0:result" src="/coach-docs/assets/updates/1.94.0/00-theme/09-product/02-product_sections-off-result.webp?v=a45dd5becdb1" alt="معاينة — عنوان «يُشترى معاً»" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة؛ لا تثبت أثر كل خيار بصورة مستقلة.</small> | مكانه محاط بإطار برتقالي |
 
 ### «سطر التوفير (اختياري)»
 
@@ -98,7 +97,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/08-product/05-fbt_note-panel.webp" alt="لوحة إعدادات — سطر التوفير (اختياري)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/08-product/05-fbt_note-result.webp" alt="معاينة — سطر التوفير (اختياري)" loading="lazy" decoding="async"/> | النتيجة بنص تجريبي «مثال لنصّك هنا» |
+| <img data-update-ref="08-product:fbt_note:0:panel" src="/coach-docs/assets/updates/1.94.0/00-theme/09-product/05-fbt_note-panel.webp?v=c4188af48250" alt="لوحة إعدادات (نسخة مطابقة) — سطر التوفير (اختياري)" loading="lazy" decoding="async"/> | <img data-update-ref="08-product:fbt_note:0:result" src="/coach-docs/assets/updates/1.94.0/00-theme/09-product/02-product_sections-off-result.webp?v=a45dd5becdb1" alt="معاينة — سطر التوفير (اختياري)" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة؛ لا تثبت أثر كل خيار بصورة مستقلة.</small> | النتيجة بنص تجريبي «مثال لنصّك هنا» |
 
 ### «تثبيت زر الإضافة والكمية أسفل شاشة الجوال»
 
@@ -110,7 +109,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/08-product/06-sticky_add_to_cart-panel.webp" alt="لوحة إعدادات — تثبيت زر الإضافة والكمية أسفل شاشة الجوال" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/08-product/06-sticky_add_to_cart-off-result.webp" alt="معاينة — تثبيت زر الإضافة والكمية أسفل شاشة الجوال" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
+| <img data-update-ref="08-product:sticky_add_to_cart:0:panel" src="/coach-docs/assets/updates/1.94.0/00-theme/09-product/06-sticky_add_to_cart-panel.webp?v=ee8ee71041b0" alt="لوحة إعدادات (نسخة مطابقة) — تثبيت زر الإضافة والكمية أسفل شاشة الجوال" loading="lazy" decoding="async"/> | <img data-update-ref="08-product:sticky_add_to_cart:0:result" src="/coach-docs/assets/updates/1.94.0/00-theme/09-product/06-sticky_add_to_cart-off-result.webp?v=978b23ca6473" alt="معاينة — تثبيت زر الإضافة والكمية أسفل شاشة الجوال" loading="lazy" decoding="async"/> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
 
 ### «الكمية للمنتج الرقمي والخدمة»
 
@@ -122,7 +121,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/08-product/07-qty_for_digital-panel.webp" alt="لوحة إعدادات — الكمية للمنتج الرقمي والخدمة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/08-product/07-qty_for_digital-on-result.webp" alt="معاينة — الكمية للمنتج الرقمي والخدمة" loading="lazy" decoding="async"/> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
+| <img data-update-ref="08-product:qty_for_digital:0:panel" src="/coach-docs/assets/updates/1.94.0/00-theme/09-product/07-qty_for_digital-panel.webp?v=ee93bf7a790a" alt="لوحة إعدادات (نسخة مطابقة) — الكمية للمنتج الرقمي والخدمة" loading="lazy" decoding="async"/> | <img data-update-ref="08-product:qty_for_digital:0:result" src="/coach-docs/assets/updates/1.94.0/00-theme/09-product/07-qty_for_digital-on-result.webp?v=b61725a15a15" alt="معاينة — الكمية للمنتج الرقمي والخدمة" loading="lazy" decoding="async"/> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
 
 ### «تكبير الصور في سلايدر صور المنتج»
 
@@ -134,19 +133,19 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/08-product/08-imagezoom-panel.webp" alt="لوحة إعدادات — تكبير الصور في سلايدر صور المنتج" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">لا توجد معاينة صالحة لهذا الخيار في المصدر؛ اللقطة المرفقة تعرض خطأ 404.</span><details class="preview-rejected"><summary>عرض لقطة المصدر غير الصالحة للمعاينة</summary><img src="/coach-docs/assets/00-theme/08-product/08-imagezoom-on-result.webp" alt="لقطة المصدر: صفحة خطأ 404، وليست معاينة لتكبير الصورة" loading="lazy" decoding="async"/></details> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
+| <img data-update-ref="08-product:imageZoom:0:panel" src="/coach-docs/assets/updates/1.94.0/00-theme/09-product/08-imagezoom-panel.webp?v=a635f680a68c" alt="لوحة إعدادات (نسخة مطابقة) — تكبير الصور في سلايدر صور المنتج" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">لا توجد معاينة صالحة للتكبير في المصدر؛ اللقطة المرفقة تعرض خطأ 404.</span><details class="preview-rejected"><summary>لقطة المصدر غير الصالحة للمعاينة</summary><img data-update-ref="08-product:imageZoom:0:result" src="/coach-docs/assets/updates/1.94.0/00-theme/09-product/08-imagezoom-on-result.webp?v=ca0d93659379" alt="لقطة خطأ في المصدر — تكبير الصور في سلايدر صور المنتج" loading="lazy" decoding="async"/></details> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
 
 ### «طريقة عرض الصور في سلايدر صور المنتج»
 
-- **النوع:** قائمة منسدلة · **الافتراضي:** إظهار الصورة كاملةً في المنتصف (Contain) · المعرّف `slider_background_size`
-- **ماذا يفعل:** صور المنتج في السليدر: كاملة داخل الإطار (Contain)، أو تغطيه مع قصّ الأطراف (Cover).
-- **متى تستعمله:** «Cover» إن كانت صورك بنفس النسبة.
+- **النوع:** قائمة منسدلة · **الافتراضي:** إظهار الصورة كاملةً في المنتصف · المعرّف `slider_background_size`
+- **ماذا يفعل:** صور المنتج في السليدر: كاملة داخل الإطار، أو تغطيه مع قصّ الأطراف.
+- **متى تستعمله:** «تغطية المساحة» إن كانت صورك بنفس النسبة.
 - شرحه تحت الحقل في المحرّر: كاملة داخل الإطار، أو تغطيه مع قصّ الأطراف.
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/08-product/09-slider_background_size-cover-panel.webp" alt="لوحة إعدادات — طريقة عرض الصور في سلايدر صور المنتج" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/08-product/09-slider_background_size-cover-result.webp" alt="معاينة — طريقة عرض الصور في سلايدر صور المنتج" loading="lazy" decoding="async"/> | «تغطية الصورة كامل المساحة مع المحافظة على أبعاد الصورة (Cover)» |
-| <img src="/coach-docs/assets/00-theme/08-product/09-slider_background_size-contain-panel.webp" alt="لوحة إعدادات — طريقة عرض الصور في سلايدر صور المنتج" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/08-product/06-sticky_add_to_cart-off-result.webp" alt="معاينة — طريقة عرض الصور في سلايدر صور المنتج" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «إظهار الصورة كاملةً في المنتصف (Contain)» |
+| <img data-update-ref="08-product:slider_background_size:0:panel" src="/coach-docs/assets/updates/1.94.0/00-theme/09-product/09-slider_background_size-cover-panel.webp?v=70bebbcff531" alt="لوحة إعدادات (نسخة مطابقة) — طريقة عرض الصور في سلايدر صور المنتج" loading="lazy" decoding="async"/> | <img data-update-ref="08-product:slider_background_size:0:result" src="/coach-docs/assets/updates/1.94.0/00-theme/09-product/09-slider_background_size-cover-result.webp?v=7f56d61d7a5e" alt="معاينة — طريقة عرض الصور في سلايدر صور المنتج" loading="lazy" decoding="async"/> | «تغطية الصورة كامل المساحة مع المحافظة على أبعاد الصورة» |
+| <img data-update-ref="08-product:slider_background_size:1:panel" src="/coach-docs/assets/updates/1.94.0/00-theme/09-product/09-slider_background_size-contain-panel.webp?v=52ebae1f0362" alt="لوحة إعدادات (نسخة مطابقة) — طريقة عرض الصور في سلايدر صور المنتج" loading="lazy" decoding="async"/> | <img data-update-ref="08-product:slider_background_size:1:result" src="/coach-docs/assets/updates/1.94.0/00-theme/09-product/09-slider_background_size-contain-result.webp?v=0d1fcd1c660d" alt="معاينة — طريقة عرض الصور في سلايدر صور المنتج" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة؛ لا تثبت أثر كل خيار بصورة مستقلة.</small> | «إظهار الصورة كاملةً في المنتصف» |
 
 ### «إظهار الوسوم»
 
@@ -157,7 +156,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/08-product/10-show_tags-panel.webp" alt="لوحة إعدادات — إظهار الوسوم" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/08-product/02-product_sections-off-result.webp" alt="معاينة — إظهار الوسوم" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
+| <img data-update-ref="08-product:show_tags:0:panel" src="/coach-docs/assets/updates/1.94.0/00-theme/09-product/10-show_tags-panel.webp?v=a48359b7e0e0" alt="لوحة إعدادات (نسخة مطابقة) — إظهار الوسوم" loading="lazy" decoding="async"/> | <img data-update-ref="08-product:show_tags:0:result" src="/coach-docs/assets/updates/1.94.0/00-theme/09-product/09-slider_background_size-contain-result.webp?v=0d1fcd1c660d" alt="معاينة — إظهار الوسوم" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة؛ لا تثبت أثر كل خيار بصورة مستقلة.</small> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
 
 ### «إظهار مسار التنقل في صفحة المنتج»
 
@@ -169,7 +168,11 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/08-product/11-product_show_breadcrumbs-panel.webp" alt="لوحة إعدادات — إظهار مسار التنقل في صفحة المنتج" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/08-product/11-product_show_breadcrumbs-off-result.webp" alt="معاينة — إظهار مسار التنقل في صفحة المنتج" loading="lazy" decoding="async"/> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
+| <img data-update-ref="08-product:product_show_breadcrumbs:0:panel" src="/coach-docs/assets/updates/1.94.0/00-theme/09-product/11-product_show_breadcrumbs-panel.webp?v=5152daf9bb9f" alt="لوحة إعدادات (نسخة مطابقة) — إظهار مسار التنقل في صفحة المنتج" loading="lazy" decoding="async"/> | <img data-update-ref="08-product:product_show_breadcrumbs:0:result" src="/coach-docs/assets/updates/1.94.0/00-theme/09-product/11-product_show_breadcrumbs-off-result.webp?v=bfd8b133b1b0" alt="معاينة — إظهار مسار التنقل في صفحة المنتج" loading="lazy" decoding="async"/> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
 
 
-<div class="source-note">الإصدار 1.76.1 · صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>
+<div class="source-note">صور اللوحات تمثيل مطابق لحقول المحرّر، وليست لقطات من محرّر سلة نفسه. صور النتائج ببيانات تجريبية؛ تُفتح الصورة بالضغط عليها لقراءتها بالحجم الأصلي.</div>
+
+:::note[توضيح العرض]
+يظهر صندوق الشراء، بخيارات المنتج وسعره وزر الإضافة، قبل المقدمة.
+:::

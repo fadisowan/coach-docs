@@ -13,16 +13,17 @@ editUrl: false
 
 | كمبيوتر (1440) | جوال (390) |
 |---|---|
-| <img src="/coach-docs/assets/sections/07-coach-about/00-desktop.webp" alt="معاينة — المدرّب · تعرّف عليّ" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/07-coach-about/00-mobile.webp" alt="معاينة — المدرّب · تعرّف عليّ" loading="lazy" decoding="async"/> |
+| <img data-update-ref="07-coach-about:overview:0" src="/coach-docs/assets/updates/1.94.0/sections/07-coach-about/00-desktop.webp?v=42aa36677dd4" alt="معاينة — المدرّب · تعرّف عليّ" loading="lazy" decoding="async"/> | <img data-update-ref="07-coach-about:overview:1" src="/coach-docs/assets/updates/1.94.0/sections/07-coach-about/00-mobile.webp?v=03067fa2ad88" alt="معاينة — المدرّب · تعرّف عليّ" loading="lazy" decoding="async"/> |
 
-خيارات مشتركة في هذا القسم، مشروحة مرة واحدة في [الخيارات المشتركة](/coach-docs/docs/01-shared/): «حجم العنوان»، «خلفية القسم»، «لون الخلفية المخصص»، «صورة خلفية القسم»، «قوة طبقة اللون فوق الصورة»، «تمديد الخلفية بعرض الشاشة»، «المسافة العلوية (بكسل)»، «المسافة السفلية (بكسل)».
+خيارات مشتركة في هذا القسم، ومنها [كلاسات CSS الجاهزة](/coach-docs/docs/01-shared/#custom-classes)، مشروحة مرة واحدة في [الخيارات المشتركة](/coach-docs/docs/01-shared/): «حجم العنوان»، «خلفية القسم»، «لون الخلفية المخصص»، «صورة خلفية القسم»، «قوة طبقة اللون فوق الصورة»، «تمديد الخلفية بعرض الشاشة»، «المسافة العلوية (بكسل)»، «المسافة السفلية (بكسل)».
 
 <details><summary>من دليل التاجر</summary>
 
-نبذتك مع شبكة صور ورقم خبرتك، وخط زمني لمحطات مسيرتك، وزر إلى صفحة تختارها.
+نبذتك مع شبكة صور ورقم خبرتك، وخط زمني لمحطات مسيرتك، وزر إلى صفحة مختارة.
 
 - **الخبرة والصور:** «الصورة الكبيرة» أفقية أثناء التدريب (١٢٠٠×٥٤٠ بكسل تقريباً)، و«الصورة الصغيرة» (٦٠٠×٤٠٠ بكسل). «رقم الخبرة» فارغاً يُخفي بطاقة الخبرة.
-- **الخط الزمني والزر:** «المحطات» حتى ٦، لكل محطة «السنة» و«العنوان» و«سطر تحته» و«محطة مميّزة (نقطة مشمشية)». آخر محطة تأخذ نقطة باللون الأساسي. «صفحة الزر»: اختر «صفحة تعريفية» ثم صفحتك (مثل «من أنا»)؛ يظهر الزر متى اخترت له صفحة.
+- **الخط الزمني والزر:** «المحطات» حتى ٦، لكل محطة «السنة» و«العنوان» و«سطر تحته» و«محطة مميّزة (نقطة مشمشية)». آخر محطة تأخذ نقطة باللون الأساسي. «صفحة الزر»: «صفحة تعريفية» ثم الصفحة (مثل «من أنا»)؛ يظهر الزر متى اختيرت له صفحة.
+- **خيارات إضافية:** «مركز الصورة» للصورة الكبيرة، و«جهة الصور على الحاسوب»: «بداية السطر (الافتراضي)» أو «نهاية السطر»؛ على التابلت والجوال تبقى الصور قبل النص.
 
 </details>
 
@@ -38,19 +39,19 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/07-coach-about/01-eyebrow-panel.webp" alt="لوحة إعدادات — العنوان الصغير (فوق العنوان)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/07-coach-about/01-eyebrow-result.webp" alt="معاينة — العنوان الصغير (فوق العنوان)" loading="lazy" decoding="async"/> | مكانه في القسم محاط بإطار برتقالي |
+| <img data-update-ref="07-coach-about:eyebrow:0:panel" src="/coach-docs/assets/updates/1.94.0/sections/07-coach-about/01-eyebrow-panel.webp?v=5bf6b6f14580" alt="لوحة إعدادات (نسخة مطابقة) — العنوان الصغير (فوق العنوان)" loading="lazy" decoding="async"/> | <img data-update-ref="07-coach-about:eyebrow:0:result" src="/coach-docs/assets/updates/1.94.0/sections/07-coach-about/01-eyebrow-result.webp?v=f9007f6b1ddb" alt="معاينة — العنوان الصغير (فوق العنوان)" loading="lazy" decoding="async"/> | مكانه في القسم محاط بإطار برتقالي |
 
 ### «العنوان»
 
 - **النوع:** نص بسطر واحد · **الافتراضي:** بدأت من حيث أنت الآن، واليوم أشارك [[ما تعلّمته]] · المعرّف `title`
-- **ماذا يفعل:** عنوان القسم. ضع كلمة بين [[ ]] لتظهر مميّزة بالشكل المختار في «تخصيص الثيم».
+- **ماذا يفعل:** عنوان القسم. ضع كلمة بين [[ ]] لتظهر مميّزة بالشكل المختار في «الخيارات العامة».
 - **متى تستعمله:** جملة قصيرة تقول ما يجده الزائر في القسم.
 - **حين يكون فارغاً:** فارغاً باللغتين لا يظهر. إن مسحته بالعربية وحدها ظهر النص الإنجليزي.
 - شرحه تحت الحقل في المحرّر: فارغاً باللغتين يُخفى. [[كلمة]] بلون المتجر.
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/07-coach-about/02-title-panel.webp" alt="لوحة إعدادات — العنوان" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/07-coach-about/02-title-result.webp" alt="معاينة — العنوان" loading="lazy" decoding="async"/> | مكانه في القسم محاط بإطار برتقالي |
+| <img data-update-ref="07-coach-about:title:0:panel" src="/coach-docs/assets/updates/1.94.0/sections/07-coach-about/02-title-panel.webp?v=e216ac3278c4" alt="لوحة إعدادات (نسخة مطابقة) — العنوان" loading="lazy" decoding="async"/> | <img data-update-ref="07-coach-about:title:0:result" src="/coach-docs/assets/updates/1.94.0/sections/07-coach-about/02-title-result.webp?v=61ea4dfda44d" alt="معاينة — العنوان" loading="lazy" decoding="async"/> | مكانه في القسم محاط بإطار برتقالي |
 
 ### «النبذة»
 
@@ -61,7 +62,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/07-coach-about/03-text-panel.webp" alt="لوحة إعدادات — النبذة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/07-coach-about/03-text-result.webp" alt="معاينة — النبذة" loading="lazy" decoding="async"/> | مكانه في القسم محاط بإطار برتقالي |
+| <img data-update-ref="07-coach-about:text:0:panel" src="/coach-docs/assets/updates/1.94.0/sections/07-coach-about/03-text-panel.webp?v=b0f610eabb12" alt="لوحة إعدادات (نسخة مطابقة) — النبذة" loading="lazy" decoding="async"/> | <img data-update-ref="07-coach-about:text:0:result" src="/coach-docs/assets/updates/1.94.0/sections/07-coach-about/03-text-result.webp?v=c5ee00fd1bae" alt="معاينة — النبذة" loading="lazy" decoding="async"/> | مكانه في القسم محاط بإطار برتقالي |
 
 ### «المحطات»
 
@@ -72,7 +73,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/07-coach-about/04-timeline-panel.webp" alt="لوحة إعدادات — المحطات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/07-coach-about/04-timeline-result.webp" alt="معاينة — المحطات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | أول عنصر محاط بإطار برتقالي |
+| <img data-update-ref="07-coach-about:timeline:0:panel" src="/coach-docs/assets/updates/1.94.0/sections/07-coach-about/04-timeline-panel.webp?v=bb8026a86eac" alt="لوحة إعدادات (نسخة مطابقة) — المحطات" loading="lazy" decoding="async"/> | <img data-update-ref="07-coach-about:timeline:0:result" src="/coach-docs/assets/updates/1.94.0/sections/07-coach-about/04-timeline-result.webp?v=0d8b7c9330cc" alt="معاينة — المحطات" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة؛ لا تثبت أثر كل خيار بصورة مستقلة.</small> | أول عنصر محاط بإطار برتقالي |
 
 #### «السنة»
 
@@ -82,7 +83,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/07-coach-about/04-timeline-year-panel.webp" alt="لوحة إعدادات — المحطات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/07-coach-about/04-timeline-result.webp" alt="معاينة — المحطات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
+| <img data-update-ref="07-coach-about:timeline:1:panel" src="/coach-docs/assets/updates/1.94.0/sections/07-coach-about/04-timeline-year-panel.webp?v=245af1f8737f" alt="لوحة إعدادات (نسخة مطابقة) — المحطات" loading="lazy" decoding="async"/> | <img data-update-ref="07-coach-about:timeline:1:result" src="/coach-docs/assets/updates/1.94.0/sections/07-coach-about/04-timeline-result.webp?v=0d8b7c9330cc" alt="معاينة — المحطات" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة؛ لا تثبت أثر كل خيار بصورة مستقلة.</small> |  |
 
 #### «العنوان»
 
@@ -92,7 +93,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/07-coach-about/04-timeline-title-panel.webp" alt="لوحة إعدادات — المحطات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/07-coach-about/04-timeline-result.webp" alt="معاينة — المحطات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
+| <img data-update-ref="07-coach-about:timeline:2:panel" src="/coach-docs/assets/updates/1.94.0/sections/07-coach-about/04-timeline-title-panel.webp?v=1acbce39bdc1" alt="لوحة إعدادات (نسخة مطابقة) — المحطات" loading="lazy" decoding="async"/> | <img data-update-ref="07-coach-about:timeline:2:result" src="/coach-docs/assets/updates/1.94.0/sections/07-coach-about/04-timeline-result.webp?v=0d8b7c9330cc" alt="معاينة — المحطات" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة؛ لا تثبت أثر كل خيار بصورة مستقلة.</small> |  |
 
 #### «سطر تحته»
 
@@ -102,7 +103,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/07-coach-about/04-timeline-description-panel.webp" alt="لوحة إعدادات — المحطات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/07-coach-about/04-timeline-result.webp" alt="معاينة — المحطات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
+| <img data-update-ref="07-coach-about:timeline:3:panel" src="/coach-docs/assets/updates/1.94.0/sections/07-coach-about/04-timeline-description-panel.webp?v=ee3259033eac" alt="لوحة إعدادات (نسخة مطابقة) — المحطات" loading="lazy" decoding="async"/> | <img data-update-ref="07-coach-about:timeline:3:result" src="/coach-docs/assets/updates/1.94.0/sections/07-coach-about/04-timeline-result.webp?v=0d8b7c9330cc" alt="معاينة — المحطات" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة؛ لا تثبت أثر كل خيار بصورة مستقلة.</small> |  |
 
 #### «محطة مميّزة (نقطة مشمشية)»
 
@@ -112,7 +113,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/07-coach-about/04-timeline-highlight-panel.webp" alt="لوحة إعدادات — المحطات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/07-coach-about/04-timeline-result.webp" alt="معاينة — المحطات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
+| <img data-update-ref="07-coach-about:timeline:4:panel" src="/coach-docs/assets/updates/1.94.0/sections/07-coach-about/04-timeline-highlight-panel.webp?v=f5d1fc1f3f34" alt="لوحة إعدادات (نسخة مطابقة) — المحطات" loading="lazy" decoding="async"/> | <img data-update-ref="07-coach-about:timeline:4:result" src="/coach-docs/assets/updates/1.94.0/sections/07-coach-about/04-timeline-result.webp?v=0d8b7c9330cc" alt="معاينة — المحطات" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة؛ لا تثبت أثر كل خيار بصورة مستقلة.</small> |  |
 
 ### «رقم الخبرة»
 
@@ -124,7 +125,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/07-coach-about/05-experience_value-panel.webp" alt="لوحة إعدادات — رقم الخبرة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/07-coach-about/05-experience_value-result.webp" alt="معاينة — رقم الخبرة" loading="lazy" decoding="async"/> | مكانه في القسم محاط بإطار برتقالي |
+| <img data-update-ref="07-coach-about:experience_value:0:panel" src="/coach-docs/assets/updates/1.94.0/sections/07-coach-about/05-experience_value-panel.webp?v=3a4af146393f" alt="لوحة إعدادات (نسخة مطابقة) — رقم الخبرة" loading="lazy" decoding="async"/> | <img data-update-ref="07-coach-about:experience_value:0:result" src="/coach-docs/assets/updates/1.94.0/sections/07-coach-about/05-experience_value-result.webp?v=423f9f5c21ad" alt="معاينة — رقم الخبرة" loading="lazy" decoding="async"/> | مكانه في القسم محاط بإطار برتقالي |
 
 ### «تحت الرقم»
 
@@ -135,7 +136,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/07-coach-about/06-experience_label-panel.webp" alt="لوحة إعدادات — تحت الرقم" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/07-coach-about/06-experience_label-result.webp" alt="معاينة — تحت الرقم" loading="lazy" decoding="async"/> | مكانه في القسم محاط بإطار برتقالي |
+| <img data-update-ref="07-coach-about:experience_label:0:panel" src="/coach-docs/assets/updates/1.94.0/sections/07-coach-about/06-experience_label-panel.webp?v=094350662250" alt="لوحة إعدادات (نسخة مطابقة) — تحت الرقم" loading="lazy" decoding="async"/> | <img data-update-ref="07-coach-about:experience_label:0:result" src="/coach-docs/assets/updates/1.94.0/sections/07-coach-about/06-experience_label-result.webp?v=68be9254a01e" alt="معاينة — تحت الرقم" loading="lazy" decoding="async"/> | مكانه في القسم محاط بإطار برتقالي |
 
 ### «الصورة الكبيرة»
 
@@ -147,7 +148,21 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/07-coach-about/07-image_main-panel.webp" alt="لوحة إعدادات — الصورة الكبيرة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/07-coach-about/07-image_main-result.webp" alt="معاينة — الصورة الكبيرة" loading="lazy" decoding="async"/> | النتيجة بصورة تجريبية |
+| <img data-update-ref="07-coach-about:image_main:0:panel" src="/coach-docs/assets/updates/1.94.0/sections/07-coach-about/07-image_main-panel.webp?v=60f86d383065" alt="لوحة إعدادات (نسخة مطابقة) — الصورة الكبيرة" loading="lazy" decoding="async"/> | <img data-update-ref="07-coach-about:image_main:0:result" src="/coach-docs/assets/updates/1.94.0/sections/07-coach-about/07-image_main-result.webp?v=de0de93a8761" alt="معاينة — الصورة الكبيرة" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة؛ لا تثبت أثر كل خيار بصورة مستقلة.</small> | النتيجة بصورة تجريبية |
+
+### «مركز الصورة»
+
+- **النوع:** قائمة منسدلة · **الافتراضي:** الوسط (الافتراضي) · المعرّف `image_focus`
+- **ماذا يفعل:** الجزء الظاهر من الصورة حين تُقص: الوسط أو الأعلى أو الأسفل أو اليمين أو اليسار.
+- **متى تستعمله:** حين يُقص وجه أو عنوان في الصورة.
+
+| اللوحة (نسخة مطابقة) | النتيجة | |
+|---|---|---|
+| <img data-update-ref="07-coach-about:image_focus:0:panel" src="/coach-docs/assets/updates/1.94.0/sections/07-coach-about/08-image_focus-center-panel.webp?v=9ca617b445e2" alt="لوحة إعدادات (نسخة مطابقة) — مركز الصورة" loading="lazy" decoding="async"/> | <img data-update-ref="07-coach-about:image_focus:0:result" src="/coach-docs/assets/updates/1.94.0/sections/07-coach-about/07-image_main-result.webp?v=de0de93a8761" alt="معاينة — مركز الصورة" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة؛ لا تثبت أثر كل خيار بصورة مستقلة.</small> | «الوسط (الافتراضي)» · بصورة تجريبية |
+| <img data-update-ref="07-coach-about:image_focus:1:panel" src="/coach-docs/assets/updates/1.94.0/sections/07-coach-about/08-image_focus-top-panel.webp?v=3a7778999dbe" alt="لوحة إعدادات (نسخة مطابقة) — مركز الصورة" loading="lazy" decoding="async"/> | <img data-update-ref="07-coach-about:image_focus:1:result" src="/coach-docs/assets/updates/1.94.0/sections/07-coach-about/08-image_focus-top-result.webp?v=3253ece84dfc" alt="معاينة — مركز الصورة" loading="lazy" decoding="async"/> | «الأعلى» · بصورة تجريبية |
+| <img data-update-ref="07-coach-about:image_focus:2:panel" src="/coach-docs/assets/updates/1.94.0/sections/07-coach-about/08-image_focus-bottom-panel.webp?v=e72a104d6035" alt="لوحة إعدادات (نسخة مطابقة) — مركز الصورة" loading="lazy" decoding="async"/> | <img data-update-ref="07-coach-about:image_focus:2:result" src="/coach-docs/assets/updates/1.94.0/sections/07-coach-about/08-image_focus-bottom-result.webp?v=e54b68492c8e" alt="معاينة — مركز الصورة" loading="lazy" decoding="async"/> | «الأسفل» · بصورة تجريبية |
+| <img data-update-ref="07-coach-about:image_focus:3:panel" src="/coach-docs/assets/updates/1.94.0/sections/07-coach-about/08-image_focus-right-panel.webp?v=9457d6aab4bc" alt="لوحة إعدادات (نسخة مطابقة) — مركز الصورة" loading="lazy" decoding="async"/> | <img data-update-ref="07-coach-about:image_focus:3:result" src="/coach-docs/assets/updates/1.94.0/sections/07-coach-about/08-image_focus-right-result.webp?v=3d84f94ce012" alt="معاينة — مركز الصورة" loading="lazy" decoding="async"/> | «اليمين» · بصورة تجريبية |
+| <img data-update-ref="07-coach-about:image_focus:4:panel" src="/coach-docs/assets/updates/1.94.0/sections/07-coach-about/08-image_focus-left-panel.webp?v=5e05d09e413f" alt="لوحة إعدادات (نسخة مطابقة) — مركز الصورة" loading="lazy" decoding="async"/> | <img data-update-ref="07-coach-about:image_focus:4:result" src="/coach-docs/assets/updates/1.94.0/sections/07-coach-about/08-image_focus-left-result.webp?v=5d60888ebadc" alt="معاينة — مركز الصورة" loading="lazy" decoding="async"/> | «اليسار» · بصورة تجريبية |
 
 ### «الصورة الصغيرة»
 
@@ -159,7 +174,18 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/07-coach-about/08-image_secondary-panel.webp" alt="لوحة إعدادات — الصورة الصغيرة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/07-coach-about/08-image_secondary-result.webp" alt="معاينة — الصورة الصغيرة" loading="lazy" decoding="async"/> | النتيجة بصورة تجريبية |
+| <img data-update-ref="07-coach-about:image_secondary:0:panel" src="/coach-docs/assets/updates/1.94.0/sections/07-coach-about/09-image_secondary-panel.webp?v=672447ac7509" alt="لوحة إعدادات (نسخة مطابقة) — الصورة الصغيرة" loading="lazy" decoding="async"/> | <img data-update-ref="07-coach-about:image_secondary:0:result" src="/coach-docs/assets/updates/1.94.0/sections/07-coach-about/09-image_secondary-result.webp?v=b620e9fd00da" alt="معاينة — الصورة الصغيرة" loading="lazy" decoding="async"/> | النتيجة بصورة تجريبية |
+
+### «جهة الصور على الحاسوب»
+
+- **النوع:** قائمة منسدلة · **الافتراضي:** بداية السطر (الافتراضي) · المعرّف `media_side`
+- **ماذا يفعل:** جهة الصور بجانب النص على الحاسوب: بداية السطر أو نهايته. على التابلت والجوال تبقى قبل النص.
+- **متى تستعمله:** لتنويع الإيقاع بعد قسم صورته في الجهة نفسها.
+
+| اللوحة (نسخة مطابقة) | النتيجة | |
+|---|---|---|
+| <img data-update-ref="07-coach-about:media_side:0:panel" src="/coach-docs/assets/updates/1.94.0/sections/07-coach-about/10-media_side-start-panel.webp?v=bed970871c1a" alt="لوحة إعدادات (نسخة مطابقة) — جهة الصور على الحاسوب" loading="lazy" decoding="async"/> | <img data-update-ref="07-coach-about:media_side:0:result" src="/coach-docs/assets/updates/1.94.0/sections/07-coach-about/10-media_side-start-result.webp?v=b9ee6caccd64" alt="معاينة — جهة الصور على الحاسوب" loading="lazy" decoding="async"/> | «بداية السطر (الافتراضي)» |
+| <img data-update-ref="07-coach-about:media_side:1:panel" src="/coach-docs/assets/updates/1.94.0/sections/07-coach-about/10-media_side-end-panel.webp?v=7a66a892ae81" alt="لوحة إعدادات (نسخة مطابقة) — جهة الصور على الحاسوب" loading="lazy" decoding="async"/> | <img data-update-ref="07-coach-about:media_side:1:result" src="/coach-docs/assets/updates/1.94.0/sections/07-coach-about/10-media_side-end-result.webp?v=a1e61c8fb5cb" alt="معاينة — جهة الصور على الحاسوب" loading="lazy" decoding="async"/> | «نهاية السطر» |
 
 ### «نص الزر»
 
@@ -170,7 +196,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/07-coach-about/09-button_label-panel.webp" alt="لوحة إعدادات — نص الزر" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/07-coach-about/09-button_label-result.webp" alt="معاينة — نص الزر" loading="lazy" decoding="async"/> | مكانه في القسم محاط بإطار برتقالي |
+| <img data-update-ref="07-coach-about:button_label:0:panel" src="/coach-docs/assets/updates/1.94.0/sections/07-coach-about/11-button_label-panel.webp?v=1e0cb94a8549" alt="لوحة إعدادات (نسخة مطابقة) — نص الزر" loading="lazy" decoding="async"/> | <img data-update-ref="07-coach-about:button_label:0:result" src="/coach-docs/assets/updates/1.94.0/sections/07-coach-about/11-button_label-result.webp?v=58f3a0fa97bd" alt="معاينة — نص الزر" loading="lazy" decoding="async"/> | مكانه في القسم محاط بإطار برتقالي |
 
 ### «صفحة الزر»
 
@@ -182,7 +208,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/07-coach-about/10-button_link-panel.webp" alt="لوحة إعدادات — صفحة الزر" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/07-coach-about/00-desktop.webp" alt="معاينة — صفحة الزر" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
+| <img data-update-ref="07-coach-about:button_link:0:panel" src="/coach-docs/assets/updates/1.94.0/sections/07-coach-about/12-button_link-panel.webp?v=3fadf77252cc" alt="لوحة إعدادات (نسخة مطابقة) — صفحة الزر" loading="lazy" decoding="async"/> | <img data-update-ref="07-coach-about:button_link:0:result" src="/coach-docs/assets/updates/1.94.0/sections/07-coach-about/00-desktop.webp?v=42aa36677dd4" alt="معاينة — صفحة الزر" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة؛ لا تثبت أثر كل خيار بصورة مستقلة.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «تثبيت الجزء الجانبي أثناء التمرير»
 
@@ -194,7 +220,22 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/07-coach-about/11-sticky_side-panel.webp" alt="لوحة إعدادات — تثبيت الجزء الجانبي أثناء التمرير" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/07-coach-about/11-sticky_side-on-result.webp" alt="معاينة — تثبيت الجزء الجانبي أثناء التمرير" loading="lazy" decoding="async"/> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
+| <img data-update-ref="07-coach-about:sticky_side:0:panel" src="/coach-docs/assets/updates/1.94.0/sections/07-coach-about/13-sticky_side-panel.webp?v=7e921f2d66da" alt="لوحة إعدادات (نسخة مطابقة) — تثبيت الجزء الجانبي أثناء التمرير" loading="lazy" decoding="async"/> | <img data-update-ref="07-coach-about:sticky_side:0:result" src="/coach-docs/assets/updates/1.94.0/sections/07-coach-about/13-sticky_side-on-result.webp?v=aa37df039e61" alt="معاينة — تثبيت الجزء الجانبي أثناء التمرير" loading="lazy" decoding="async"/> | النتيجة بعد تفعيله (الافتراضي مطفأ) |
+
+### «كلاسات CSS»
+
+- **النوع:** نص بسطر واحد · **الافتراضي:** فارغ · المعرّف `custom_classes`
+- **ماذا يفعل:** كلمات لاتينية تُضاف لكلاس القسم: كلاسات جاهزة مثل cx-narrow وcx-center وcx-no-head، أو كلاس خاص يُنسَّق من «تخصيص متقدم» في سلة.
+- **متى تستعمله:** لتعديل قسم واحد بلا تغيير الثيم كله. الحروف والأرقام و- و_ فقط، تبدأ الكلمة بحرف، وحتى ثماني كلمات.
+- **حين يكون فارغاً:** فارغ: القسم كما هو.
+
+| اللوحة (نسخة مطابقة) | النتيجة | |
+|---|---|---|
+| <img data-update-ref="07-coach-about:custom_classes:0:panel" src="/coach-docs/assets/updates/1.94.0/sections/07-coach-about/14-custom_classes-panel.webp?v=bf86649e70f9" alt="لوحة إعدادات (نسخة مطابقة) — كلاسات CSS" loading="lazy" decoding="async"/> | <img data-update-ref="07-coach-about:custom_classes:0:result" src="/coach-docs/assets/updates/1.94.0/sections/07-coach-about/14-custom_classes-result.webp?v=00e5d31087b0" alt="معاينة — كلاسات CSS" loading="lazy" decoding="async"/> | النتيجة مع «cx-narrow cx-center» |
 
 
-<div class="source-note">صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>
+<div class="source-note">صور اللوحات تمثيل مطابق لحقول المحرّر، وليست لقطات من محرّر سلة نفسه. صور النتائج ببيانات تجريبية؛ تُفتح الصورة بالضغط عليها لقراءتها بالحجم الأصلي.</div>
+
+:::note[البيانات الافتراضية]
+الأرقام والتقييمات والآراء الافتراضية أمثلة، تُعدَّل قبل النشر.
+:::

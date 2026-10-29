@@ -1,0 +1,162 @@
+{
+ "version": "1.94.0",
+ "built": "2026-10-29 07:01",
+ "units": [
+  {
+   "kind": "settings",
+   "key": "coach_title_header",
+   "title": "الهيدر",
+   "folder": "00-theme/05-header"
+  },
+  {
+   "kind": "settings",
+   "key": "coach_title_cart",
+   "title": "السلة",
+   "folder": "00-theme/07-cart"
+  },
+  {
+   "kind": "settings",
+   "key": "coach_title_listing",
+   "title": "التصنيفات والبحث",
+   "folder": "00-theme/10-listing"
+  },
+  {
+   "kind": "settings",
+   "key": "coach_title_whatsapp",
+   "title": "الأزرار العائمة وشاشة التحميل",
+   "folder": "00-theme/11-whatsapp"
+  },
+  {
+   "kind": "shared",
+   "key": "shared",
+   "title": "الخيارات المشتركة بين الأقسام",
+   "folder": "01-shared"
+  },
+  {
+   "kind": "section",
+   "key": "coach-hero",
+   "title": "واجهة · ترحيب المدرّب",
+   "folder": "sections/01-coach-hero"
+  },
+  {
+   "kind": "section",
+   "key": "coach-hero-window",
+   "title": "واجهة · نافذة القوس",
+   "folder": "sections/03-coach-hero-window"
+  },
+  {
+   "kind": "section",
+   "key": "coach-press",
+   "title": "ثقة · ظهرتُ في",
+   "folder": "sections/06-coach-press"
+  },
+  {
+   "kind": "section",
+   "key": "coach-about",
+   "title": "المدرّب · تعرّف عليّ",
+   "folder": "sections/07-coach-about"
+  },
+  {
+   "kind": "section",
+   "key": "coach-offer-banner",
+   "title": "عروض · بانر عرض (٣ أشكال)",
+   "folder": "sections/13-coach-offer-banner"
+  },
+  {
+   "kind": "section",
+   "key": "coach-reviews",
+   "title": "ثقة · قصص نجاح المتعلّمين",
+   "folder": "sections/15-coach-reviews"
+  },
+  {
+   "kind": "section",
+   "key": "custom-testimonials",
+   "title": "ثقة · آراء عملاء مخصصة",
+   "folder": "sections/16-custom-testimonials"
+  },
+  {
+   "kind": "section",
+   "key": "coach-faq",
+   "title": "عام · الأسئلة الشائعة",
+   "folder": "sections/17-coach-faq"
+  },
+  {
+   "kind": "section",
+   "key": "coach-blog",
+   "title": "عام · من المدوّنة",
+   "folder": "sections/18-coach-blog"
+  },
+  {
+   "kind": "section",
+   "key": "coach-stats",
+   "title": "ثقة · شريط الأرقام",
+   "folder": "sections/19-coach-stats"
+  },
+  {
+   "kind": "section",
+   "key": "coach-curriculum",
+   "title": "دورة · منهج البرنامج",
+   "folder": "sections/20-coach-curriculum"
+  },
+  {
+   "kind": "section",
+   "key": "coach-live-event",
+   "title": "استشارات · لقاء مباشر قادم",
+   "folder": "sections/23-coach-live-event"
+  },
+  {
+   "kind": "section",
+   "key": "coach-outcomes",
+   "title": "دورة · ماذا ستتعلّم",
+   "folder": "sections/25-coach-outcomes"
+  },
+  {
+   "kind": "section",
+   "key": "coach-audience",
+   "title": "دورة · لمن هذا البرنامج",
+   "folder": "sections/26-coach-audience"
+  },
+  {
+   "kind": "section",
+   "key": "coach-delivery",
+   "title": "عام · كيف يصلك المنتج",
+   "folder": "sections/29-coach-delivery"
+  },
+  {
+   "kind": "section",
+   "key": "coach-guarantee",
+   "title": "ثقة · ضمان الاسترجاع",
+   "folder": "sections/30-coach-guarantee"
+  },
+  {
+   "kind": "section",
+   "key": "slider-products-with-header",
+   "title": "متجر · منتجات متحركة مع خلفية",
+   "folder": "sections/32-slider-products-with-header"
+  },
+  {
+   "kind": "section",
+   "key": "coach-reels",
+   "title": "عام · مقاطع فيديو قصيرة",
+   "folder": "sections/39-coach-reels"
+  },
+  {
+   "kind": "section",
+   "key": "coach-cta",
+   "title": "تحويل · دعوة للإجراء (٣ أشكال)",
+   "folder": "sections/43-coach-cta"
+  },
+  {
+   "kind": "section",
+   "key": "enhanced-slider",
+   "title": "صور متحركة (محسّنة)",
+   "folder": "sections/46-enhanced-slider"
+  },
+  {
+   "kind": "section",
+   "key": "enhanced-square-banners",
+   "title": "صور مربعة (محسّنة)",
+   "folder": "sections/47-enhanced-square-banners"
+  }
+ ]
+}

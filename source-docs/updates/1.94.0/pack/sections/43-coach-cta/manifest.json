@@ -1,0 +1,739 @@
+{
+ "kind": "section",
+ "key": "coach-cta",
+ "title": "تحويل · دعوة للإجراء (٣ أشكال)",
+ "folder": "sections/43-coach-cta",
+ "fields": [
+  {
+   "id": "layout",
+   "label": "الشكل",
+   "type": "قائمة منسدلة",
+   "default": "١ · استشارة",
+   "what": "الشكل: ١ استشارة بنقاط وموعد، ٢ منتج رقمي بمحتواه، ٣ ثقة بالتقييم والمزايا.",
+   "when": "اختر الشكل حسب الخطوة التي تريدها من الزائر.",
+   "empty": "",
+   "editor_hint": "",
+   "from_guide": "دعوة واضحة للخطوة التالية في ثلاثة أشكال، يُختار منها في «الشكل». العنوان والوصف والأزرار مشتركة وتبقى عند تغيير الشكل، وحقول كل شكل تظهر معه وحده.",
+   "shows_when": "",
+   "pairs": [
+    {
+     "panel": "01-layout-consult-panel.webp",
+     "result": "00-desktop.webp",
+     "option": "١ · استشارة",
+     "value": "consult",
+     "panel_ok": true,
+     "result_ok": true
+    },
+    {
+     "panel": "01-layout-digital-panel.webp",
+     "result": "01-layout-digital-result.webp",
+     "option": "٢ · منتج رقمي",
+     "value": "digital",
+     "panel_ok": true,
+     "result_ok": true
+    },
+    {
+     "panel": "01-layout-trust-panel.webp",
+     "result": "01-layout-trust-result.webp",
+     "option": "٣ · ثقة",
+     "value": "trust",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "eyebrow",
+   "label": "العنوان الصغير (فوق العنوان)",
+   "type": "نص بسطر واحد",
+   "default": "خطوتك التالية",
+   "what": "سطر صغير فوق العنوان. ما تكتبه بعد العلامة | يظهر بجانبه كلمةً لاتينية، مثل «كتب | BOOKS».",
+   "when": "لتسمية القسم بكلمة أو كلمتين قبل العنوان.",
+   "empty": "فارغاً باللغتين لا يظهر.",
+   "editor_hint": "مثال: كتب | BOOKS",
+   "from_guide": "",
+   "shows_when": "",
+   "pairs": [
+    {
+     "panel": "02-eyebrow-panel.webp",
+     "result": "02-eyebrow-result.webp",
+     "note": "مكانه في القسم محاط بإطار برتقالي",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "title",
+   "label": "العنوان",
+   "type": "نص بسطر واحد",
+   "default": "لا تحتاج أن تعرف الطريق كله. [[ابدأ بخطوة.]]",
+   "what": "عنوان القسم. ضع كلمة بين [[ ]] لتظهر مميّزة بالشكل المختار في «الخيارات العامة».",
+   "when": "جملة قصيرة تقول ما يجده الزائر في القسم.",
+   "empty": "فارغاً باللغتين لا يظهر. إن مسحته بالعربية وحدها ظهر النص الإنجليزي.",
+   "editor_hint": "فارغاً باللغتين يُخفى. [[كلمة]] بلون المتجر.",
+   "from_guide": "",
+   "shows_when": "",
+   "pairs": [
+    {
+     "panel": "03-title-panel.webp",
+     "result": "03-title-result.webp",
+     "note": "مكانه في القسم محاط بإطار برتقالي",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "description",
+   "label": "الوصف",
+   "type": "نص بعدة أسطر",
+   "default": "أرشّح لك البداية الأنسب لهدفك المهني: استشارة قصيرة، أو برنامج بإيقاعك، أو جلسات فردية.",
+   "what": "سطر أو سطران تحت العنوان.",
+   "when": "لتوضيح العنوان إن احتاج.",
+   "empty": "فارغاً باللغتين لا يظهر.",
+   "editor_hint": "فارغاً باللغتين يُخفى.",
+   "from_guide": "",
+   "shows_when": "",
+   "pairs": [
+    {
+     "panel": "04-description-panel.webp",
+     "result": "04-description-result.webp",
+     "note": "مكانه في القسم محاط بإطار برتقالي",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "points",
+   "label": "ما يخرج به الزائر",
+   "type": "نص بعدة أسطر",
+   "default": "هدف واضح للأشهر الثلاثة القادمة / خطوة أولى تبدأ بها من الغد / ترشيح البرنامج الأنسب لك",
+   "what": "في الاستشارة: ما يخرج به الزائر، نقطة في كل سطر.",
+   "when": "لنتائج الجلسة الأولى.",
+   "empty": "فارغة لا تظهر القائمة.",
+   "editor_hint": "نقطة في كل سطر.",
+   "from_guide": "| ١ · استشارة (الافتراضي) | لوح داكن: «ما يخرج به الزائر» نقطة في كل سطر، وبطاقة «الموعد» (نص حر؛ فارغاً تُخفى)، و«صورتك (الشكل ١)»، وزر يحجز ورابط ثانٍ. ومعه «خلفية متحركة بالألوان» اختيارية |",
+   "shows_when": "«الشكل» هو «١ · استشارة»",
+   "pairs": [
+    {
+     "panel": "05-points-panel.webp",
+     "result": "00-desktop.webp",
+     "note": "النتيجة: القسم بالقيمة الافتراضية",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "slot_label",
+   "label": "عنوان بطاقة الموعد",
+   "type": "نص بسطر واحد",
+   "default": "أقرب موعد",
+   "what": "في الاستشارة: عنوان بطاقة الموعد، مثل «أقرب موعد».",
+   "when": "مع «الموعد».",
+   "empty": "فارغاً يظهر الموعد وحده.",
+   "editor_hint": "",
+   "from_guide": "",
+   "shows_when": "«الشكل» هو «١ · استشارة»",
+   "pairs": [
+    {
+     "panel": "06-slot_label-panel.webp",
+     "result": "00-desktop.webp",
+     "note": "النتيجة: القسم بالقيمة الافتراضية",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "slot_text",
+   "label": "الموعد",
+   "type": "نص بسطر واحد",
+   "default": "هذا الأسبوع · مساءً",
+   "what": "في الاستشارة: الموعد نصاً حراً على البطاقة، مثل «هذا الأسبوع · مساءً».",
+   "when": "لتشجيع الحجز السريع.",
+   "empty": "فارغاً تُخفى بطاقة الموعد.",
+   "editor_hint": "نص حر؛ فارغاً تُخفى البطاقة.",
+   "from_guide": "| ١ · استشارة (الافتراضي) | لوح داكن: «ما يخرج به الزائر» نقطة في كل سطر، وبطاقة «الموعد» (نص حر؛ فارغاً تُخفى)، و«صورتك (الشكل ١)»، وزر يحجز ورابط ثانٍ. ومعه «خلفية متحركة بالألوان» اختيارية |",
+   "shows_when": "«الشكل» هو «١ · استشارة»",
+   "pairs": [
+    {
+     "panel": "07-slot_text-panel.webp",
+     "result": "00-desktop.webp",
+     "note": "النتيجة: القسم بالقيمة الافتراضية",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "product",
+   "label": "المنتج (الشكل ٢)",
+   "type": "اختيار منتج من متجرك",
+   "default": "لا شيء — يختاره التاجر",
+   "what": "في الشكل ٢: المنتج، منه السعر وزر الإضافة.",
+   "when": "منتجك الرقمي.",
+   "empty": "بدونه أحدث منتج رقمي.",
+   "editor_hint": "بدونه أحدث منتج رقمي.",
+   "from_guide": "| ٢ · منتج رقمي | «المنتج (الشكل ٢)» بسعره وزر الإضافة، و«المحتوى» سطر لكل جزء (ما بعد «|» في طرفه)، و«سطر تحت الزر»، و«رابط العيّنة» |",
+   "shows_when": "",
+   "pairs": [
+    {
+     "panel": "08-product-panel.webp",
+     "result": "00-desktop.webp",
+     "note": "النتيجة: القسم بالقيمة الافتراضية",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "contents_label",
+   "label": "عنوان المحتوى",
+   "type": "نص بسطر واحد",
+   "default": "داخل الكتاب",
+   "what": "في المنتج الرقمي: عنوان قائمة المحتوى، مثل «داخل الكتاب».",
+   "when": "مع «المحتوى».",
+   "empty": "فارغاً تظهر القائمة بلا عنوان.",
+   "editor_hint": "",
+   "from_guide": "",
+   "shows_when": "«الشكل» هو «٢ · منتج رقمي»",
+   "pairs": [
+    {
+     "panel": "09-contents_label-panel.webp",
+     "result": "00-desktop.webp",
+     "note": "النتيجة: القسم بالقيمة الافتراضية",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "contents",
+   "label": "المحتوى",
+   "type": "نص بعدة أسطر",
+   "default": "لماذا لا يصل محتواك؟ | ٨ صفحات / الأسبوع ١: اعرف جمهورك | ٢٤ صفحة / الأسبوع ٢: قصتك المهنية | ٢٦ صفحة / الأسبوعان ٣–٤: خطة النشر | ٤٠ صفحة",
+   "what": "في المنتج الرقمي: المحتوى، سطر لكل جزء، وما بعد «|» في طرف السطر.",
+   "when": "لفصول الكتاب أو أجزاء الحزمة.",
+   "empty": "فارغاً لا تظهر القائمة.",
+   "editor_hint": "سطر لكل جزء؛ ما بعد «|» في طرفه.",
+   "from_guide": "| ٢ · منتج رقمي | «المنتج (الشكل ٢)» بسعره وزر الإضافة، و«المحتوى» سطر لكل جزء (ما بعد «|» في طرفه)، و«سطر تحت الزر»، و«رابط العيّنة» |",
+   "shows_when": "«الشكل» هو «٢ · منتج رقمي»",
+   "pairs": [
+    {
+     "panel": "10-contents-panel.webp",
+     "result": "00-desktop.webp",
+     "note": "النتيجة: القسم بالقيمة الافتراضية",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "note",
+   "label": "سطر تحت الزر",
+   "type": "نص بسطر واحد",
+   "default": "تحميل فوري بعد الدفع",
+   "what": "في المنتج الرقمي: سطر صغير تحت الزر.",
+   "when": "مثل «تحميل فوري بعد الدفع».",
+   "empty": "فارغاً لا يظهر.",
+   "editor_hint": "الضمان كما في سياسة الاسترجاع في المتجر؛ فارغاً يُخفى.",
+   "from_guide": "| ٢ · منتج رقمي | «المنتج (الشكل ٢)» بسعره وزر الإضافة، و«المحتوى» سطر لكل جزء (ما بعد «|» في طرفه)، و«سطر تحت الزر»، و«رابط العيّنة» |",
+   "shows_when": "«الشكل» هو «٢ · منتج رقمي»",
+   "pairs": [
+    {
+     "panel": "11-note-panel.webp",
+     "result": "00-desktop.webp",
+     "note": "النتيجة: القسم بالقيمة الافتراضية",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "rating",
+   "label": "التقييم",
+   "type": "نص بسطر واحد",
+   "default": "فارغ",
+   "what": "في الثقة: التقييم بجانب النجوم، مثل «٤٫٩».",
+   "when": "إن كان لك تقييم حقيقي.",
+   "empty": "فارغاً تُخفى النجوم.",
+   "editor_hint": "فارغاً تُخفى النجوم.",
+   "from_guide": "| ٣ · ثقة | «التقييم» بنجوم، و«مزايا الثقة» بأيقونات، وزر ورابط إلى قصص النجاح |",
+   "shows_when": "«الشكل» هو «٣ · ثقة»",
+   "pairs": [
+    {
+     "panel": "12-rating-panel.webp",
+     "result": "00-desktop.webp",
+     "note": "النتيجة: القسم بالقيمة الافتراضية",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "rating_text",
+   "label": "بجانب التقييم",
+   "type": "نص بسطر واحد",
+   "default": "فارغ",
+   "what": "في الثقة: سطر بجانب التقييم، مثل «من ٨٢٠ تقييماً».",
+   "when": "مع التقييم.",
+   "empty": "فارغاً لا يظهر.",
+   "editor_hint": "",
+   "from_guide": "",
+   "shows_when": "«الشكل» هو «٣ · ثقة»",
+   "pairs": [
+    {
+     "panel": "13-rating_text-panel.webp",
+     "result": "00-desktop.webp",
+     "note": "النتيجة: القسم بالقيمة الافتراضية",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "trust_items",
+   "label": "مزايا الثقة",
+   "type": "عناصر متكررة (تضيفها وتحذفها وترتّبها)",
+   "default": "4 عناصر جاهزة",
+   "what": "في الثقة: مزايا بأيقونات.",
+   "when": "لما يطمئن الزائر: ضمان، دعم، دفع آمن.",
+   "empty": "بلا عناصر لا تظهر.",
+   "editor_hint": "مدة الضمان وكل ميزة كما هي في المتجر فعلاً.",
+   "from_guide": "| ٣ · ثقة | «التقييم» بنجوم، و«مزايا الثقة» بأيقونات، وزر ورابط إلى قصص النجاح |",
+   "shows_when": "«الشكل» هو «٣ · ثقة»",
+   "pairs": [
+    {
+     "panel": "14-trust_items-panel.webp",
+     "result": "00-desktop.webp",
+     "note": "أول عنصر محاط بإطار برتقالي",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ],
+   "item_fields": [
+    {
+     "id": "trust_items.icon",
+     "label": "الأيقونة",
+     "type": "أيقونة",
+     "default": "sicon-check-circle",
+     "what": "أيقونة الميزة.",
+     "when": "",
+     "empty": "بدونها علامة صح.",
+     "editor_hint": "",
+     "from_guide": "",
+     "shows_when": "",
+     "pairs": [
+      {
+       "panel": "14-trust_items-icon-panel.webp",
+       "result": "00-desktop.webp",
+       "panel_ok": true,
+       "result_ok": true
+      }
+     ]
+    },
+    {
+     "id": "trust_items.title",
+     "label": "العنوان",
+     "type": "نص بسطر واحد",
+     "default": "فارغ",
+     "what": "عنوان الميزة.",
+     "when": "",
+     "empty": "الميزة بلا عنوان لا تظهر.",
+     "editor_hint": "",
+     "from_guide": "",
+     "shows_when": "",
+     "pairs": [
+      {
+       "panel": "14-trust_items-icon-panel.webp",
+       "result": "00-desktop.webp",
+       "panel_ok": true,
+       "result_ok": true
+      }
+     ]
+    },
+    {
+     "id": "trust_items.text",
+     "label": "سطر تحته",
+     "type": "نص بسطر واحد",
+     "default": "فارغ",
+     "what": "سطر تحت عنوان الميزة.",
+     "when": "",
+     "empty": "فارغاً يظهر العنوان وحده.",
+     "editor_hint": "",
+     "from_guide": "",
+     "shows_when": "",
+     "pairs": [
+      {
+       "panel": "14-trust_items-icon-panel.webp",
+       "result": "00-desktop.webp",
+       "panel_ok": true,
+       "result_ok": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "image",
+   "label": "صورتك (الشكل ١)",
+   "type": "صورة ترفعها",
+   "default": "بلا صورة",
+   "what": "في الشكل ١: صورتك داخل قوس بجانب النص.",
+   "when": "صورة ودودة لك.",
+   "empty": "بدونها لا تظهر الصورة؛ وفي الشكل ١ تبقى بطاقة الموعد وحدها إن كُتب الموعد.",
+   "editor_hint": "",
+   "from_guide": "| ١ · استشارة (الافتراضي) | لوح داكن: «ما يخرج به الزائر» نقطة في كل سطر، وبطاقة «الموعد» (نص حر؛ فارغاً تُخفى)، و«صورتك (الشكل ١)»، وزر يحجز ورابط ثانٍ. ومعه «خلفية متحركة بالألوان» اختيارية |",
+   "shows_when": "",
+   "pairs": [
+    {
+     "panel": "15-image-panel.webp",
+     "result": "15-image-result.webp",
+     "note": "النتيجة بصورة تجريبية",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "image_focus",
+   "label": "مركز الصورة",
+   "type": "قائمة منسدلة",
+   "default": "الوسط (الافتراضي)",
+   "what": "الجزء الظاهر من الصورة حين تُقص: الوسط أو الأعلى أو الأسفل أو اليمين أو اليسار.",
+   "when": "حين يُقص وجه أو عنوان في الصورة.",
+   "empty": "",
+   "editor_hint": "",
+   "from_guide": "خيارات إضافية:** «مركز الصورة» لصورة الشكل ١، ويظهر مع «١ · استشارة» وحده. ومع «اليمين» أو «اليسار» يبقى القص العمودي كما هو.",
+   "shows_when": "«الشكل» هو «١ · استشارة»",
+   "pairs": [
+    {
+     "panel": "16-image_focus-center-panel.webp",
+     "result": "15-image-result.webp",
+     "option": "الوسط (الافتراضي)",
+     "value": "center",
+     "note": "بصورة تجريبية",
+     "panel_ok": true,
+     "result_ok": true
+    },
+    {
+     "panel": "16-image_focus-top-panel.webp",
+     "result": "16-image_focus-top-result.webp",
+     "option": "الأعلى",
+     "value": "top",
+     "note": "بصورة تجريبية",
+     "panel_ok": true,
+     "result_ok": true
+    },
+    {
+     "panel": "16-image_focus-bottom-panel.webp",
+     "result": "16-image_focus-bottom-result.webp",
+     "option": "الأسفل",
+     "value": "bottom",
+     "note": "بصورة تجريبية",
+     "panel_ok": true,
+     "result_ok": true
+    },
+    {
+     "panel": "16-image_focus-right-panel.webp",
+     "result": "16-image_focus-right-result.webp",
+     "option": "اليمين",
+     "value": "right",
+     "note": "بصورة تجريبية",
+     "panel_ok": true,
+     "result_ok": true
+    },
+    {
+     "panel": "16-image_focus-left-panel.webp",
+     "result": "16-image_focus-left-result.webp",
+     "option": "اليسار",
+     "value": "left",
+     "note": "بصورة تجريبية",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "fx_motion",
+   "label": "خلفية متحركة بالألوان",
+   "type": "مفتاح تشغيل وإطفاء",
+   "default": "مطفأ",
+   "what": "في الاستشارة: تدرّج متحرك بألوان الثيم خلف اللوح الداكن. ثابت على الجوال، ويتوقف مع إطفاء «التأثيرات المتحركة».",
+   "when": "لدعوة لافتة.",
+   "empty": "مطفأ (الافتراضي): خلفية ثابتة.",
+   "editor_hint": "في «استشارة»: تدرّج بألوان الثيم خلف اللوحة الداكنة؛ ثابت للجوال وبلا «التأثيرات المتحركة».",
+   "from_guide": "| ١ · استشارة (الافتراضي) | لوح داكن: «ما يخرج به الزائر» نقطة في كل سطر، وبطاقة «الموعد» (نص حر؛ فارغاً تُخفى)، و«صورتك (الشكل ١)»، وزر يحجز ورابط ثانٍ. ومعه «خلفية متحركة بالألوان» اختيارية |",
+   "shows_when": "«الشكل» هو «١ · استشارة»",
+   "pairs": [
+    {
+     "panel": "17-fx_motion-panel.webp",
+     "result": "17-fx_motion-on-result.webp",
+     "note": "النتيجة بعد تفعيله (الافتراضي مطفأ)",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "fx_speed",
+   "label": "سرعة الحركة",
+   "type": "قائمة منسدلة",
+   "default": "متوسطة",
+   "what": "سرعة الخلفية المتحركة.",
+   "when": "«هادئة» لحركة لا تشتّت.",
+   "empty": "",
+   "editor_hint": "",
+   "from_guide": "",
+   "shows_when": "«خلفية متحركة بالألوان» هو «مفعّل»",
+   "pairs": [
+    {
+     "panel": "18-fx_speed-slow-panel.webp",
+     "result": "18-fx_speed-slow-result.webp",
+     "option": "هادئة",
+     "value": "slow",
+     "panel_ok": true,
+     "result_ok": true
+    },
+    {
+     "panel": "18-fx_speed-normal-panel.webp",
+     "result": "18-fx_speed-normal-result.webp",
+     "option": "متوسطة",
+     "value": "normal",
+     "panel_ok": true,
+     "result_ok": true
+    },
+    {
+     "panel": "18-fx_speed-fast-panel.webp",
+     "result": "18-fx_speed-fast-result.webp",
+     "option": "أسرع",
+     "value": "fast",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "fx_palette",
+   "label": "ألوان الخلفية المتحركة",
+   "type": "قائمة منسدلة",
+   "default": "ألوان الثيم",
+   "what": "ألوان الخلفية المتحركة: ألوان الثيم، أو ليلي، أو دافئ.",
+   "when": "اختر ما يناسب الدعوة.",
+   "empty": "",
+   "editor_hint": "",
+   "from_guide": "",
+   "shows_when": "«خلفية متحركة بالألوان» هو «مفعّل»",
+   "pairs": [
+    {
+     "panel": "19-fx_palette-theme-panel.webp",
+     "result": "19-fx_palette-theme-result.webp",
+     "option": "ألوان الثيم",
+     "value": "theme",
+     "panel_ok": true,
+     "result_ok": true
+    },
+    {
+     "panel": "19-fx_palette-night-panel.webp",
+     "result": "19-fx_palette-night-result.webp",
+     "option": "ليلي",
+     "value": "night",
+     "panel_ok": true,
+     "result_ok": true
+    },
+    {
+     "panel": "19-fx_palette-warm-panel.webp",
+     "result": "19-fx_palette-warm-result.webp",
+     "option": "دافئ",
+     "value": "warm",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "primary_label",
+   "label": "نص الزر (الشكلان ١ و٣)",
+   "type": "نص بسطر واحد",
+   "default": "احجز استشارتك",
+   "what": "في الشكلين ١ و٣: نص الزر الرئيسي.",
+   "when": "مثل «احجز استشارتك».",
+   "empty": "فارغاً يُخفى الزر.",
+   "editor_hint": "فارغاً يُخفى.",
+   "from_guide": "الأزرار:** «نص الزر (الشكلان ١ و٣)» بلا رابط ينزل إلى قسم الاستشارات. والرابط الثاني بلا رابط ينزل إلى الأسئلة الشائعة، أو قصص النجاح في «ثقة».",
+   "shows_when": "",
+   "pairs": [
+    {
+     "panel": "20-primary_label-panel.webp",
+     "result": "20-primary_label-result.webp",
+     "note": "مكانه في القسم محاط بإطار برتقالي",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "primary_link",
+   "label": "رابط الزر (الشكلان ١ و٣)",
+   "type": "رابط (منتج أو تصنيف أو صفحة أو رابط آخر)",
+   "default": "بلا رابط",
+   "what": "في الشكلين ١ و٣: إلى أين يذهب الزر.",
+   "when": "لمنتج الاستشارة أو صفحة الحجز.",
+   "empty": "بدونه ينزل إلى «استشارات · باقات الجلسات الفردية» إن وُجد، وإلا إلى صفحة المنتجات.",
+   "editor_hint": "بدونه: قسم الاستشارات.",
+   "from_guide": "",
+   "shows_when": "",
+   "pairs": [
+    {
+     "panel": "21-primary_link-panel.webp",
+     "result": "00-desktop.webp",
+     "note": "النتيجة: القسم بالقيمة الافتراضية",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "add_label",
+   "label": "نص زر الإضافة للسلة (الشكل ٢)",
+   "type": "نص بسطر واحد",
+   "default": "أضف للسلة",
+   "what": "في الشكل ٢: نص زر الإضافة للسلة.",
+   "when": "مثل «اشترِ الآن».",
+   "empty": "فارغاً يظهر «أضف للسلة».",
+   "editor_hint": "فارغاً يظهر «أضف للسلة».",
+   "from_guide": "",
+   "shows_when": "",
+   "pairs": [
+    {
+     "panel": "22-add_label-panel.webp",
+     "result": "00-desktop.webp",
+     "note": "مكانه في القسم محاط بإطار برتقالي",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "secondary_label",
+   "label": "الرابط الثاني",
+   "type": "نص بسطر واحد",
+   "default": "كيف تتم الجلسة؟",
+   "what": "في الاستشارة: رابط نصي ثانٍ، مثل «كيف تتم الجلسة؟».",
+   "when": "لمن يريد معرفة المزيد قبل الحجز.",
+   "empty": "فارغاً يُخفى.",
+   "editor_hint": "فارغاً يُخفى.",
+   "from_guide": "",
+   "shows_when": "«الشكل» هو «١ · استشارة»",
+   "pairs": [
+    {
+     "panel": "23-secondary_label-panel.webp",
+     "result": "00-desktop.webp",
+     "note": "النتيجة: القسم بالقيمة الافتراضية",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "sample_label",
+   "label": "رابط العيّنة",
+   "type": "نص بسطر واحد",
+   "default": "اقرأ الفصل الأول مجاناً",
+   "what": "في المنتج الرقمي: رابط العيّنة، يظهر مع رابطه.",
+   "when": "لعيّنة مجانية.",
+   "empty": "فارغاً أو بلا رابط لا يظهر.",
+   "editor_hint": "يظهر مع رابط.",
+   "from_guide": "| ٢ · منتج رقمي | «المنتج (الشكل ٢)» بسعره وزر الإضافة، و«المحتوى» سطر لكل جزء (ما بعد «|» في طرفه)، و«سطر تحت الزر»، و«رابط العيّنة» |",
+   "shows_when": "«الشكل» هو «٢ · منتج رقمي»",
+   "pairs": [
+    {
+     "panel": "24-sample_label-panel.webp",
+     "result": "00-desktop.webp",
+     "note": "النتيجة: القسم بالقيمة الافتراضية",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "stories_label",
+   "label": "الزر الثاني",
+   "type": "نص بسطر واحد",
+   "default": "اقرأ قصص النجاح",
+   "what": "في الثقة: الزر الثاني، مثل «اقرأ قصص النجاح».",
+   "when": "ليرى الزائر آراء عملائك.",
+   "empty": "فارغاً يُخفى.",
+   "editor_hint": "فارغاً يُخفى.",
+   "from_guide": "",
+   "shows_when": "«الشكل» هو «٣ · ثقة»",
+   "pairs": [
+    {
+     "panel": "25-stories_label-panel.webp",
+     "result": "00-desktop.webp",
+     "note": "النتيجة: القسم بالقيمة الافتراضية",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "secondary_link",
+   "label": "وجهة الرابط الثاني",
+   "type": "رابط (منتج أو تصنيف أو صفحة أو رابط آخر)",
+   "default": "بلا رابط",
+   "what": "وجهة الرابط الثاني في الأشكال الثلاثة.",
+   "when": "إن أردت وجهة غير الافتراضية.",
+   "empty": "بدونه ينزل إلى «الأسئلة الشائعة»، أو «قصص النجاح» في «ثقة»، إن وُجد في الصفحة؛ وإلا يُخفى عن الزوار. وفي المنتج الرقمي لا يظهر رابط العيّنة بدونه.",
+   "editor_hint": "بدونه: الأسئلة الشائعة، أو القصص في «ثقة».",
+   "from_guide": "",
+   "shows_when": "",
+   "pairs": [
+    {
+     "panel": "26-secondary_link-panel.webp",
+     "result": "00-desktop.webp",
+     "note": "النتيجة: القسم بالقيمة الافتراضية",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  },
+  {
+   "id": "custom_classes",
+   "label": "كلاسات CSS",
+   "type": "نص بسطر واحد",
+   "default": "فارغ",
+   "what": "كلمات لاتينية تُضاف لكلاس القسم: كلاسات جاهزة مثل cx-narrow وcx-center وcx-no-head، أو كلاس خاص يُنسَّق من «تخصيص متقدم» في سلة.",
+   "when": "لتعديل قسم واحد بلا تغيير الثيم كله. الحروف والأرقام و- و_ فقط، تبدأ الكلمة بحرف، وحتى ثماني كلمات.",
+   "empty": "فارغ: القسم كما هو.",
+   "editor_hint": "",
+   "from_guide": "",
+   "shows_when": "",
+   "pairs": [
+    {
+     "panel": "27-custom_classes-panel.webp",
+     "result": "27-custom_classes-result.webp",
+     "note": "النتيجة مع «cx-narrow cx-center»",
+     "panel_ok": true,
+     "result_ok": true
+    }
+   ]
+  }
+ ],
+ "slug": "coach-cta",
+ "title_en": "Conversion · Call to action (3 layouts)",
+ "intro": "دعوة واضحة للخطوة التالية في ثلاثة أشكال: استشارة، أو منتج رقمي، أو ثقة. العنوان والوصف والأزرار مشتركة، وحقول كل شكل تظهر معه.",
+ "when": "قرب آخر الصفحة، أو بعد قسم يقنع الزائر، ليعرف ماذا يفعل بعده.",
+ "desktop": "00-desktop.webp",
+ "mobile": "00-mobile.webp",
+ "shared": [
+  "محاذاة العنوان والوصف",
+  "حجم العنوان",
+  "المسافة العلوية (بكسل)",
+  "المسافة السفلية (بكسل)"
+ ],
+ "guide": "دعوة واضحة للخطوة التالية في ثلاثة أشكال، يُختار منها في «الشكل». العنوان والوصف والأزرار مشتركة وتبقى عند تغيير الشكل، وحقول كل شكل تظهر معه وحده.\n\n| الشكل | ما فيه |\n|---|---|\n| ١ · استشارة (الافتراضي) | لوح داكن: «ما يخرج به الزائر» نقطة في كل سطر، وبطاقة «الموعد» (نص حر؛ فارغاً تُخفى)، و«صورتك (الشكل ١)»، وزر يحجز ورابط ثانٍ. ومعه «خلفية متحركة بالألوان» اختيارية |\n| ٢ · منتج رقمي | «المنتج (الشكل ٢)» بسعره وزر الإضافة، و«المحتوى» سطر لكل جزء (ما بعد «|» في طرفه)، و«سطر تحت الزر»، و«رابط العيّنة» |\n| ٣ · ثقة | «التقييم» بنجوم، و«مزايا الثقة» بأيقونات، وزر ورابط إلى قصص النجاح |\n\n- **المنتج:** لـ«٢ · منتج رقمي»؛ بدونه أحدث منتج رقمي.\n- **الأزرار:** «نص الزر (الشكلان ١ و٣)» بلا رابط ينزل إلى قسم الاستشارات. والرابط الثاني بلا رابط ينزل إلى الأسئلة الشائعة، أو قصص النجاح في «ثقة».\n- **مهم:** النصوص الافتراضية مثال؛ «التقييم» و«مزايا الثقة» وأي ضمان تُكتب كما هي في المتجر فعلاً.\n- **خيارات إضافية:** «مركز الصورة» لصورة الشكل ١، ويظهر مع «١ · استشارة» وحده. ومع «اليمين» أو «اليسار» يبقى القص العمودي كما هو."
+}

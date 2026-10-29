@@ -1,5 +1,5 @@
 ---
-title: "١٣ · أقسام سلة الجاهزة — إن أُضيفت للرئيسية"
+title: "أقسام سلة الجاهزة"
 description: "دليل ثيم كوتش 1.76.1 — ١٣ · أقسام سلة الجاهزة — إن أُضيفت للرئيسية"
 editUrl: false
 ---
@@ -24,15 +24,15 @@ editUrl: false
 
 ### «طريقة عرض الصور في قسم قائمة عناصر »
 
-- **النوع:** قائمة منسدلة · **الافتراضي:** تغطية الصورة كامل المساحة مع المحافظة على أبعاد الصورة (Cover) · المعرّف `squar_photo_bg_image_size`
-- **ماذا يفعل:** لقسم سلة «قائمة عناصر»: الصورة تغطي مربعها (Cover) أو تظهر كاملة داخله (Contain).
-- **متى تستعمله:** «Contain» لشعارات أو صور لا تحتمل القص.
+- **النوع:** قائمة منسدلة · **الافتراضي:** تغطية الصورة كامل المساحة مع المحافظة على أبعاد الصورة · المعرّف `squar_photo_bg_image_size`
+- **ماذا يفعل:** لقسم سلة «قائمة عناصر»: الصورة تغطي مربعها أو تظهر كاملة داخله.
+- **متى تستعمله:** «إظهار الصورة كاملة» لشعارات أو صور لا تحتمل القص.
 - شرحه تحت الحقل في المحرّر: الصورة كاملة داخل مربعها، أو تغطيه.
 
 | اللوحة (نسخة مطابقة) | المعاينة المرجعية المتاحة | |
 |---|---|---|
-| <img src="/coach-docs/assets/00-theme/13-raed/01-squar_photo_bg_image_size-cover-panel.webp" alt="لوحة إعدادات — طريقة عرض الصور في قسم قائمة عناصر " loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/13-raed/00-default-result.webp" alt="معاينة — طريقة عرض الصور في قسم قائمة عناصر " loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية؛ لا تُظهر الحالة الفعلية لهذا الخيار.</small> | «تغطية الصورة كامل المساحة مع المحافظة على أبعاد الصورة (Cover)» |
-| <img src="/coach-docs/assets/00-theme/13-raed/01-squar_photo_bg_image_size-contain-panel.webp" alt="لوحة إعدادات — طريقة عرض الصور في قسم قائمة عناصر " loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/13-raed/00-default-result.webp" alt="معاينة — طريقة عرض الصور في قسم قائمة عناصر " loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية؛ لا تُظهر الحالة الفعلية لهذا الخيار.</small> | «إظهار الصورة كاملةً في المنتصف (Contain)» |
+| <img src="/coach-docs/assets/00-theme/13-raed/01-squar_photo_bg_image_size-cover-panel.webp" alt="لوحة إعدادات — طريقة عرض الصور في قسم قائمة عناصر " loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/13-raed/00-default-result.webp" alt="معاينة — طريقة عرض الصور في قسم قائمة عناصر " loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية؛ لا تُظهر الحالة الفعلية لهذا الخيار.</small> | «تغطية الصورة كامل المساحة مع المحافظة على أبعاد الصورة» |
+| <img src="/coach-docs/assets/00-theme/13-raed/01-squar_photo_bg_image_size-contain-panel.webp" alt="لوحة إعدادات — طريقة عرض الصور في قسم قائمة عناصر " loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/00-theme/13-raed/00-default-result.webp" alt="معاينة — طريقة عرض الصور في قسم قائمة عناصر " loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية؛ لا تُظهر الحالة الفعلية لهذا الخيار.</small> | «إظهار الصورة كاملةً في المنتصف» |
 
 ### «عرض جميع الصور بنفس الحجم في قسم قائمة عناصر»
 
@@ -89,3 +89,7 @@ editUrl: false
 أقسام سلة الجاهزة تتبع ألوان الثيم، بما فيها زر «اشترِ الآن». هذه تحسينات دون مفاتيح جديدة هنا؛ إعدادات الألوان موجودة في [الهوية](/coach-docs/docs/01-colors/#advanced-colors).
 
 <div class="source-note">الإصدار 1.76.1 · صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>
+
+:::note[توضيح العرض]
+تعرض صفحة الشكر العنوان الفرعي وقنوات التواصل المختارة في لوحة سلة عند توفرها.
+:::

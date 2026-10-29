@@ -7,20 +7,21 @@ editUrl: false
 
 اسمه في المتجر الإنجليزي: *Enhanced animated images* · مساره `home.enhanced-slider`
 
-**ما يعرضه:** صور تتبدّل تلقائياً، وعلى كل صورة عنوان ونص وزر اختياري.
+**ما يعرضه:** صور تتبدّل تلقائياً أو بالأسهم، وعلى كل صورة عنوان ونص وزر اختياري.
 
 | كمبيوتر (1440) | جوال (390) |
 |---|---|
-| <span class="uncaptured-preview">لم تُلتقط هذه المعاينة في الحزمة المرفقة؛ عرضها يتطلب بيانات متجر في سلة.</span> | <span class="uncaptured-preview">لم تُلتقط هذه المعاينة في الحزمة المرفقة؛ عرضها يتطلب بيانات متجر في سلة.</span> |
+| <span class="uncaptured-preview">معاينة النتيجة غير متوفرة في المصدر؛ تظهر لوحة الإعداد والشرح المتاح.</span> | <span class="uncaptured-preview">معاينة النتيجة غير متوفرة في المصدر؛ تظهر لوحة الإعداد والشرح المتاح.</span> |
 
-خيارات مشتركة في هذا القسم، مشروحة مرة واحدة في [الخيارات المشتركة](/coach-docs/docs/01-shared/): «محاذاة العنوان والوصف»، «حجم العنوان»، «خلفية القسم»، «لون الخلفية المخصص»، «صورة خلفية القسم»، «قوة طبقة اللون فوق الصورة»، «تمديد الخلفية بعرض الشاشة»، «المسافة العلوية (بكسل)»، «المسافة السفلية (بكسل)».
+خيارات مشتركة في هذا القسم، ومنها [كلاسات CSS الجاهزة](/coach-docs/docs/01-shared/#custom-classes)، مشروحة مرة واحدة في [الخيارات المشتركة](/coach-docs/docs/01-shared/): «محاذاة العنوان والوصف»، «حجم العنوان»، «خلفية القسم»، «لون الخلفية المخصص»، «صورة خلفية القسم»، «قوة طبقة اللون فوق الصورة»، «تمديد الخلفية بعرض الشاشة»، «المسافة العلوية (بكسل)»، «المسافة السفلية (بكسل)».
 
 <details><summary>من دليل التاجر</summary>
 
 صور تتبدّل تلقائياً، وعلى كل صورة عنوان ونص وزر اختياري، فوق طبقة تعتيم من لون الثيم تُبقي النص مقروءاً.
 
-- **أهم الإعدادات:** «الصور» حتى ١٠ (١٦٠٠×٨٠٠ فأكبر). لكل صورة «العنوان» و«النص» و«الرابط» و«نص الزر» (مع الرابط يظهر زر؛ بلا نص زر تصبح الصورة كلها رابطاً)، و«إزالة طبقة التعتيم» للصور الداكنة فقط.
+- **أهم الإعدادات:** «الصور» حتى ١٠ (١٦٠٠×٨٠٠ فأكبر). لكل صورة «العنوان» و«النص» و«الرابط (اختياري)» و«نص الزر» (مع الرابط يظهر زر؛ بلا نص زر تصبح الصورة كلها رابطاً)، و«إزالة طبقة التعتيم» للصور الداكنة فقط.
 - **مهم:** بلا صور ولا عناوين لا يظهر القسم للزوار. ولعرض البنر كاملاً بلا قص: «صور متحركة».
+- **خيارات إضافية:** «تحريك تلقائي» و«نقاط التنقل» (مفعّلان افتراضياً).
 
 </details>
 
@@ -36,19 +37,19 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/46-enhanced-slider/01-eyebrow-panel.webp" alt="لوحة إعدادات — العنوان الصغير (فوق العنوان)" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">لم تُلتقط هذه المعاينة في الحزمة المرفقة؛ عرضها يتطلب بيانات متجر في سلة.</span> | النتيجة بنص تجريبي «مثال لنصّك هنا» |
+| <img data-update-ref="46-enhanced-slider:eyebrow:0:panel" src="/coach-docs/assets/updates/1.94.0/sections/46-enhanced-slider/01-eyebrow-panel.webp?v=019770755446" alt="لوحة إعدادات (نسخة مطابقة) — العنوان الصغير (فوق العنوان)" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">معاينة النتيجة غير متوفرة في المصدر؛ تظهر لوحة الإعداد والشرح المتاح.</span> | النتيجة بنص تجريبي «مثال لنصّك هنا» |
 
 ### «العنوان»
 
 - **النوع:** نص بسطر واحد · **الافتراضي:** فارغ · المعرّف `title`
-- **ماذا يفعل:** عنوان القسم. ضع كلمة بين [[ ]] لتظهر مميّزة بالشكل المختار في «تخصيص الثيم».
+- **ماذا يفعل:** عنوان القسم. ضع كلمة بين [[ ]] لتظهر مميّزة بالشكل المختار في «الخيارات العامة».
 - **متى تستعمله:** جملة قصيرة تقول ما يجده الزائر في القسم.
 - **حين يكون فارغاً:** فارغاً باللغتين لا يظهر. إن مسحته بالعربية وحدها ظهر النص الإنجليزي.
 - شرحه تحت الحقل في المحرّر: فارغاً باللغتين يُخفى. [[كلمة]] بلون المتجر.
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/46-enhanced-slider/02-title-panel.webp" alt="لوحة إعدادات — العنوان" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">لم تُلتقط هذه المعاينة في الحزمة المرفقة؛ عرضها يتطلب بيانات متجر في سلة.</span> | النتيجة بنص تجريبي «مثال لنصّك هنا» |
+| <img data-update-ref="46-enhanced-slider:title:0:panel" src="/coach-docs/assets/updates/1.94.0/sections/46-enhanced-slider/02-title-panel.webp?v=9538dbb537b8" alt="لوحة إعدادات (نسخة مطابقة) — العنوان" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">معاينة النتيجة غير متوفرة في المصدر؛ تظهر لوحة الإعداد والشرح المتاح.</span> | النتيجة بنص تجريبي «مثال لنصّك هنا» |
 
 ### «الوصف»
 
@@ -60,16 +61,16 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/46-enhanced-slider/03-description-panel.webp" alt="لوحة إعدادات — الوصف" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">لم تُلتقط هذه المعاينة في الحزمة المرفقة؛ عرضها يتطلب بيانات متجر في سلة.</span> | النتيجة بنص تجريبي «مثال لنصّك هنا» |
+| <img data-update-ref="46-enhanced-slider:description:0:panel" src="/coach-docs/assets/updates/1.94.0/sections/46-enhanced-slider/03-description-panel.webp?v=fa1e55ac8f2b" alt="لوحة إعدادات (نسخة مطابقة) — الوصف" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">معاينة النتيجة غير متوفرة في المصدر؛ تظهر لوحة الإعداد والشرح المتاح.</span> | النتيجة بنص تجريبي «مثال لنصّك هنا» |
 
 ### «الصور»
 
 - **النوع:** عناصر متكررة (تضيفها وتحذفها وترتّبها) · **الافتراضي:** بلا عناصر · المعرّف `slides`
-- **ماذا يفعل:** أهم الإعدادات:** «الصور» حتى ١٠ (١٦٠٠×٨٠٠ فأكبر). لكل صورة «العنوان» و«النص» و«الرابط» و«نص الزر» (مع الرابط يظهر زر؛ بلا نص زر تصبح الصورة كلها رابطاً)، و«إزالة طبقة التعتيم» للصور الداكنة فقط.
+- **ماذا يفعل:** أهم الإعدادات:** «الصور» حتى ١٠ (١٦٠٠×٨٠٠ فأكبر). لكل صورة «العنوان» و«النص» و«الرابط (اختياري)» و«نص الزر» (مع الرابط يظهر زر؛ بلا نص زر تصبح الصورة كلها رابطاً)، و«إزالة طبقة التعتيم» للصور الداكنة فقط.
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/46-enhanced-slider/04-slides-panel.webp" alt="لوحة إعدادات — الصور" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">لم تُلتقط هذه المعاينة في الحزمة المرفقة؛ عرضها يتطلب بيانات متجر في سلة.</span> |  |
+| <img data-update-ref="46-enhanced-slider:slides:0:panel" src="/coach-docs/assets/updates/1.94.0/sections/46-enhanced-slider/04-slides-panel.webp?v=d010d8262daf" alt="لوحة إعدادات (نسخة مطابقة) — الصور" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">معاينة النتيجة غير متوفرة في المصدر؛ تظهر لوحة الإعداد والشرح المتاح.</span> |  |
 
 #### «الصورة»
 
@@ -78,33 +79,34 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/46-enhanced-slider/04-slides-image-panel.webp" alt="لوحة إعدادات — الصور" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">لم تُلتقط هذه المعاينة في الحزمة المرفقة؛ عرضها يتطلب بيانات متجر في سلة.</span> |  |
+| <img data-update-ref="46-enhanced-slider:slides:1:panel" src="/coach-docs/assets/updates/1.94.0/sections/46-enhanced-slider/04-slides-image-panel.webp?v=857507c6556c" alt="لوحة إعدادات (نسخة مطابقة) — الصور" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">معاينة النتيجة غير متوفرة في المصدر؛ تظهر لوحة الإعداد والشرح المتاح.</span> |  |
 
 #### «العنوان»
 
 - **النوع:** نص بسطر واحد · **الافتراضي:** فارغ · المعرّف `slides.title`
-- **ماذا يفعل:** أهم الإعدادات:** «الصور» حتى ١٠ (١٦٠٠×٨٠٠ فأكبر). لكل صورة «العنوان» و«النص» و«الرابط» و«نص الزر» (مع الرابط يظهر زر؛ بلا نص زر تصبح الصورة كلها رابطاً)، و«إزالة طبقة التعتيم» للصور الداكنة فقط.
+- **ماذا يفعل:** أهم الإعدادات:** «الصور» حتى ١٠ (١٦٠٠×٨٠٠ فأكبر). لكل صورة «العنوان» و«النص» و«الرابط (اختياري)» و«نص الزر» (مع الرابط يظهر زر؛ بلا نص زر تصبح الصورة كلها رابطاً)، و«إزالة طبقة التعتيم» للصور الداكنة فقط.
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/46-enhanced-slider/04-slides-title-panel.webp" alt="لوحة إعدادات — الصور" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">لم تُلتقط هذه المعاينة في الحزمة المرفقة؛ عرضها يتطلب بيانات متجر في سلة.</span> |  |
+| <img data-update-ref="46-enhanced-slider:slides:2:panel" src="/coach-docs/assets/updates/1.94.0/sections/46-enhanced-slider/04-slides-title-panel.webp?v=c81b2dbe3f31" alt="لوحة إعدادات (نسخة مطابقة) — الصور" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">معاينة النتيجة غير متوفرة في المصدر؛ تظهر لوحة الإعداد والشرح المتاح.</span> |  |
 
 #### «النص»
 
 - **النوع:** نص بعدة أسطر · **الافتراضي:** فارغ · المعرّف `slides.description`
-- **ماذا يفعل:** أهم الإعدادات:** «الصور» حتى ١٠ (١٦٠٠×٨٠٠ فأكبر). لكل صورة «العنوان» و«النص» و«الرابط» و«نص الزر» (مع الرابط يظهر زر؛ بلا نص زر تصبح الصورة كلها رابطاً)، و«إزالة طبقة التعتيم» للصور الداكنة فقط.
+- **ماذا يفعل:** أهم الإعدادات:** «الصور» حتى ١٠ (١٦٠٠×٨٠٠ فأكبر). لكل صورة «العنوان» و«النص» و«الرابط (اختياري)» و«نص الزر» (مع الرابط يظهر زر؛ بلا نص زر تصبح الصورة كلها رابطاً)، و«إزالة طبقة التعتيم» للصور الداكنة فقط.
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/46-enhanced-slider/04-slides-description-panel.webp" alt="لوحة إعدادات — الصور" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">لم تُلتقط هذه المعاينة في الحزمة المرفقة؛ عرضها يتطلب بيانات متجر في سلة.</span> |  |
+| <img data-update-ref="46-enhanced-slider:slides:3:panel" src="/coach-docs/assets/updates/1.94.0/sections/46-enhanced-slider/04-slides-description-panel.webp?v=7101f6f608e8" alt="لوحة إعدادات (نسخة مطابقة) — الصور" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">معاينة النتيجة غير متوفرة في المصدر؛ تظهر لوحة الإعداد والشرح المتاح.</span> |  |
 
 #### «الرابط (اختياري)»
 
 - **النوع:** رابط (منتج أو تصنيف أو صفحة أو رابط آخر) · **الافتراضي:** بلا رابط · المعرّف `slides.url`
+- **ماذا يفعل:** أهم الإعدادات:** «الصور» حتى ١٠ (١٦٠٠×٨٠٠ فأكبر). لكل صورة «العنوان» و«النص» و«الرابط (اختياري)» و«نص الزر» (مع الرابط يظهر زر؛ بلا نص زر تصبح الصورة كلها رابطاً)، و«إزالة طبقة التعتيم» للصور الداكنة فقط.
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/46-enhanced-slider/04-slides-url-panel.webp" alt="لوحة إعدادات — الصور" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">لم تُلتقط هذه المعاينة في الحزمة المرفقة؛ عرضها يتطلب بيانات متجر في سلة.</span> |  |
+| <img data-update-ref="46-enhanced-slider:slides:4:panel" src="/coach-docs/assets/updates/1.94.0/sections/46-enhanced-slider/04-slides-url-panel.webp?v=f72cd4a1d37b" alt="لوحة إعدادات (نسخة مطابقة) — الصور" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">معاينة النتيجة غير متوفرة في المصدر؛ تظهر لوحة الإعداد والشرح المتاح.</span> |  |
 
 #### «نص الزر»
 
@@ -114,7 +116,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/46-enhanced-slider/04-slides-button-panel.webp" alt="لوحة إعدادات — الصور" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">لم تُلتقط هذه المعاينة في الحزمة المرفقة؛ عرضها يتطلب بيانات متجر في سلة.</span> |  |
+| <img data-update-ref="46-enhanced-slider:slides:5:panel" src="/coach-docs/assets/updates/1.94.0/sections/46-enhanced-slider/04-slides-button-panel.webp?v=2142c75451eb" alt="لوحة إعدادات (نسخة مطابقة) — الصور" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">معاينة النتيجة غير متوفرة في المصدر؛ تظهر لوحة الإعداد والشرح المتاح.</span> |  |
 
 #### «إزالة طبقة التعتيم»
 
@@ -123,10 +125,43 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/46-enhanced-slider/04-slides-without_overlay-panel.webp" alt="لوحة إعدادات — الصور" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">لم تُلتقط هذه المعاينة في الحزمة المرفقة؛ عرضها يتطلب بيانات متجر في سلة.</span> |  |
+| <img data-update-ref="46-enhanced-slider:slides:6:panel" src="/coach-docs/assets/updates/1.94.0/sections/46-enhanced-slider/04-slides-without_overlay-panel.webp?v=db1d3ca7bb4f" alt="لوحة إعدادات (نسخة مطابقة) — الصور" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">معاينة النتيجة غير متوفرة في المصدر؛ تظهر لوحة الإعداد والشرح المتاح.</span> |  |
+
+### «تحريك تلقائي»
+
+- **النوع:** مفتاح تشغيل وإطفاء · **الافتراضي:** مفعّل · المعرّف `autoplay`
+- **ماذا يفعل:** تقليب الصور وحده.
+- **متى تستعمله:** مطفأ ليقلّب الزائر بنفسه.
+- **حين يكون فارغاً:** مفعّل افتراضياً.
+
+| اللوحة (نسخة مطابقة) | النتيجة | |
+|---|---|---|
+| <img data-update-ref="46-enhanced-slider:autoplay:0:panel" src="/coach-docs/assets/updates/1.94.0/sections/46-enhanced-slider/05-autoplay-panel.webp?v=f634f6546bb0" alt="لوحة إعدادات (نسخة مطابقة) — تحريك تلقائي" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">معاينة النتيجة غير متوفرة في المصدر؛ تظهر لوحة الإعداد والشرح المتاح.</span> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
+
+### «نقاط التنقل»
+
+- **النوع:** مفتاح تشغيل وإطفاء · **الافتراضي:** مفعّل · المعرّف `pagination`
+- **ماذا يفعل:** نقاط التنقل أسفل الصور.
+- **متى تستعمله:** مطفأة لواجهة أنظف، والأسهم تبقى.
+- **حين يكون فارغاً:** مفعّلة افتراضياً.
+
+| اللوحة (نسخة مطابقة) | النتيجة | |
+|---|---|---|
+| <img data-update-ref="46-enhanced-slider:pagination:0:panel" src="/coach-docs/assets/updates/1.94.0/sections/46-enhanced-slider/06-pagination-panel.webp?v=c5275eb397a7" alt="لوحة إعدادات (نسخة مطابقة) — نقاط التنقل" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">معاينة النتيجة غير متوفرة في المصدر؛ تظهر لوحة الإعداد والشرح المتاح.</span> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
+
+### «كلاسات CSS»
+
+- **النوع:** نص بسطر واحد · **الافتراضي:** فارغ · المعرّف `custom_classes`
+- **ماذا يفعل:** كلمات لاتينية تُضاف لكلاس القسم: كلاسات جاهزة مثل cx-narrow وcx-center وcx-no-head، أو كلاس خاص يُنسَّق من «تخصيص متقدم» في سلة.
+- **متى تستعمله:** لتعديل قسم واحد بلا تغيير الثيم كله. الحروف والأرقام و- و_ فقط، تبدأ الكلمة بحرف، وحتى ثماني كلمات.
+- **حين يكون فارغاً:** فارغ: القسم كما هو.
+
+| اللوحة (نسخة مطابقة) | النتيجة | |
+|---|---|---|
+| <img data-update-ref="46-enhanced-slider:custom_classes:0:panel" src="/coach-docs/assets/updates/1.94.0/sections/46-enhanced-slider/07-custom_classes-panel.webp?v=4c54e78e4395" alt="لوحة إعدادات (نسخة مطابقة) — كلاسات CSS" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">معاينة النتيجة غير متوفرة في المصدر؛ تظهر لوحة الإعداد والشرح المتاح.</span> | النتيجة مع «cx-narrow cx-center» |
 
 ---
-> ملاحظات البناء: لا عنصر: 00-desktop.webp · لا عنصر: 00-mobile.webp · لا عنصر: 01-eyebrow-result.webp · لا عنصر: 02-title-result.webp · لا عنصر: 03-description-result.webp
+> ملاحظات البناء: لا عنصر: 00-desktop.webp · لا عنصر: 00-mobile.webp · لا عنصر: 01-eyebrow-result.webp · لا عنصر: 02-title-result.webp · لا عنصر: 03-description-result.webp · لا عنصر: 05-autoplay-off-result.webp · لا عنصر: 06-pagination-off-result.webp · لا عنصر: 07-custom_classes-result.webp
 
 
-<div class="source-note">صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>
+<div class="source-note">صور اللوحات تمثيل مطابق لحقول المحرّر، وليست لقطات من محرّر سلة نفسه. صور النتائج ببيانات تجريبية؛ تُفتح الصورة بالضغط عليها لقراءتها بالحجم الأصلي.</div>

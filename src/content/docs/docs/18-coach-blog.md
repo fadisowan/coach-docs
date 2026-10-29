@@ -13,19 +13,20 @@ editUrl: false
 
 | كمبيوتر (1440) | جوال (390) |
 |---|---|
-| <img src="/coach-docs/assets/sections/18-coach-blog/00-desktop.webp" alt="معاينة — عام · من المدوّنة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/18-coach-blog/00-mobile.webp" alt="معاينة — عام · من المدوّنة" loading="lazy" decoding="async"/> |
+| <img data-update-ref="18-coach-blog:overview:0" src="/coach-docs/assets/updates/1.94.0/sections/18-coach-blog/00-desktop.webp?v=bfd78f8ffff2" alt="معاينة — عام · من المدوّنة" loading="lazy" decoding="async"/> | <img data-update-ref="18-coach-blog:overview:1" src="/coach-docs/assets/updates/1.94.0/sections/18-coach-blog/00-mobile.webp?v=5b500563f230" alt="معاينة — عام · من المدوّنة" loading="lazy" decoding="async"/> |
 
-خيارات مشتركة في هذا القسم، مشروحة مرة واحدة في [الخيارات المشتركة](/coach-docs/docs/01-shared/): «محاذاة العنوان والوصف»، «حجم العنوان»، «خلفية القسم»، «لون الخلفية المخصص»، «صورة خلفية القسم»، «قوة طبقة اللون فوق الصورة»، «تمديد الخلفية بعرض الشاشة»، «المسافة العلوية (بكسل)»، «المسافة السفلية (بكسل)».
+خيارات مشتركة في هذا القسم، ومنها [كلاسات CSS الجاهزة](/coach-docs/docs/01-shared/#custom-classes)، مشروحة مرة واحدة في [الخيارات المشتركة](/coach-docs/docs/01-shared/): «محاذاة العنوان والوصف»، «حجم العنوان»، «خلفية القسم»، «لون الخلفية المخصص»، «صورة خلفية القسم»، «قوة طبقة اللون فوق الصورة»، «تمديد الخلفية بعرض الشاشة»، «المسافة العلوية (بكسل)»، «المسافة السفلية (بكسل)».
 
 <details><summary>من دليل التاجر</summary>
 
 مقالات في بطاقات بصورة وعنوان، ورابط «كل المقالات» إلى مدوّنة متجرك.
 
 - **الشكل:** «١ · بلا خلفية» (الافتراضي): صور وعناوين على أرضية الصفحة. «٢ · بطاقات بخلفية»: كل مقالة في بطاقة بإطار، والبطاقات بارتفاع واحد. «٣ · تحريري»: أول مقالة كبيرة والبقية قائمة بصور صغيرة بجانبها (تحتها على الجوال)؛ مع أقل من ٣ مقالات يظهر الشكل الأول.
-- **المصدر:** «مصدر المقالات»: «أحدث مقالات المدوّنة (تلقائي)» (الافتراضي) يقرأ آخر مقالاتك وحده، أو «مقالات أكتبها وأختارها». «عدد المقالات» من ١ إلى ٦ (الافتراضي ٣).
-- **التلقائي والمدوّنة الفارغة:** في «تلقائي» لا تظهر أي مقالات مكتوبة. إن كانت المدوّنة فارغة أو تعذّرت قراءتها، يُخفى القسم عن زوارك، وتراه أنت في المحرّر مع ملاحظة تقول السبب.
+- **المصدر:** «مصدر المقالات»: «أحدث مقالات المدوّنة (تلقائي)» (الافتراضي) يقرأ آخر مقالاتك وحده، أو «مقالات أكتبها وأختارها». «عدد المقالات (١–٦)» (الافتراضي ٣).
+- **التلقائي والمدوّنة الفارغة:** في «تلقائي» لا تظهر أي مقالات مكتوبة. إن كانت المدوّنة فارغة أو تعذّرت قراءتها، يُخفى القسم عن الزوار، ويظهر في المحرّر مع ملاحظة تقول السبب.
 - **المقالات المكتوبة:** حقل «المقالات المكتوبة» يظهر في المحرّر مع «مقالات أكتبها وأختارها» فقط. لكل مقالة «الصورة» و«سطر علوي» و«العنوان» و«المقالة» (رابطها). المقالة بلا رابط لا تُضغط ولا يظهر عليها «اقرأ المزيد».
 - **البطاقات:** «زر «اقرأ المزيد» في كل بطاقة» مفعّل، ونصه من «نص زر «اقرأ المزيد»». «نص رابط «كل المقالات»» فارغاً يُخفي الرابط. صورة المقالة المكتوبة ٥٦٠×٤٠٠ بكسل تقريباً.
+- **خيارات إضافية:** «عدد الأعمدة على الحاسوب (٠ تلقائي، عدا التحريري)» من ٠ إلى ٤.
 
 </details>
 
@@ -40,9 +41,9 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/18-coach-blog/01-layout-plain-panel.webp" alt="لوحة إعدادات — الشكل" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/18-coach-blog/00-desktop.webp" alt="معاينة — الشكل" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «١ · بلا خلفية» |
-| <img src="/coach-docs/assets/sections/18-coach-blog/01-layout-cards-panel.webp" alt="لوحة إعدادات — الشكل" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/18-coach-blog/01-layout-cards-result.webp" alt="معاينة — الشكل" loading="lazy" decoding="async"/> | «٢ · بطاقات بخلفية» |
-| <img src="/coach-docs/assets/sections/18-coach-blog/01-layout-editorial-panel.webp" alt="لوحة إعدادات — الشكل" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">لم تُلتقط هذه المعاينة في الحزمة المرفقة؛ عرضها يتطلب بيانات متجر في سلة.</span> | «٣ · تحريري» |
+| <img data-update-ref="18-coach-blog:layout:0:panel" src="/coach-docs/assets/updates/1.94.0/sections/18-coach-blog/01-layout-plain-panel.webp?v=9a0ecd3571e4" alt="لوحة إعدادات (نسخة مطابقة) — الشكل" loading="lazy" decoding="async"/> | <img data-update-ref="18-coach-blog:layout:0:result" src="/coach-docs/assets/updates/1.94.0/sections/18-coach-blog/01-layout-plain-result.webp?v=0470613c1829" alt="معاينة — الشكل" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة؛ لا تثبت أثر كل خيار بصورة مستقلة.</small> | «١ · بلا خلفية» |
+| <img data-update-ref="18-coach-blog:layout:1:panel" src="/coach-docs/assets/updates/1.94.0/sections/18-coach-blog/01-layout-cards-panel.webp?v=d858cf4dc9de" alt="لوحة إعدادات (نسخة مطابقة) — الشكل" loading="lazy" decoding="async"/> | <img data-update-ref="18-coach-blog:layout:1:result" src="/coach-docs/assets/updates/1.94.0/sections/18-coach-blog/01-layout-cards-result.webp?v=c266cbcdc265" alt="معاينة — الشكل" loading="lazy" decoding="async"/> | «٢ · بطاقات بخلفية» |
+| <img data-update-ref="18-coach-blog:layout:2:panel" src="/coach-docs/assets/updates/1.94.0/sections/18-coach-blog/01-layout-editorial-panel.webp?v=d5bbc5e1625d" alt="لوحة إعدادات (نسخة مطابقة) — الشكل" loading="lazy" decoding="async"/> | <img data-update-ref="18-coach-blog:layout:2:result" src="/coach-docs/assets/updates/1.94.0/sections/18-coach-blog/01-layout-editorial-result.webp?v=0eeb43427348" alt="معاينة — الشكل" loading="lazy" decoding="async"/> | «٣ · تحريري» |
 
 ### «العنوان الصغير (فوق العنوان)»
 
@@ -54,19 +55,19 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/18-coach-blog/02-eyebrow-panel.webp" alt="لوحة إعدادات — العنوان الصغير (فوق العنوان)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/18-coach-blog/02-eyebrow-result.webp" alt="معاينة — العنوان الصغير (فوق العنوان)" loading="lazy" decoding="async"/> | مكانه في القسم محاط بإطار برتقالي |
+| <img data-update-ref="18-coach-blog:eyebrow:0:panel" src="/coach-docs/assets/updates/1.94.0/sections/18-coach-blog/02-eyebrow-panel.webp?v=6f765a22108e" alt="لوحة إعدادات (نسخة مطابقة) — العنوان الصغير (فوق العنوان)" loading="lazy" decoding="async"/> | <img data-update-ref="18-coach-blog:eyebrow:0:result" src="/coach-docs/assets/updates/1.94.0/sections/18-coach-blog/02-eyebrow-result.webp?v=f9cfa7aa9d51" alt="معاينة — العنوان الصغير (فوق العنوان)" loading="lazy" decoding="async"/> | مكانه في القسم محاط بإطار برتقالي |
 
 ### «العنوان»
 
 - **النوع:** نص بسطر واحد · **الافتراضي:** أكتب عن [[التعلّم والعمل]] · المعرّف `title`
-- **ماذا يفعل:** عنوان القسم. ضع كلمة بين [[ ]] لتظهر مميّزة بالشكل المختار في «تخصيص الثيم».
+- **ماذا يفعل:** عنوان القسم. ضع كلمة بين [[ ]] لتظهر مميّزة بالشكل المختار في «الخيارات العامة».
 - **متى تستعمله:** جملة قصيرة تقول ما يجده الزائر في القسم.
 - **حين يكون فارغاً:** فارغاً باللغتين لا يظهر. إن مسحته بالعربية وحدها ظهر النص الإنجليزي.
 - شرحه تحت الحقل في المحرّر: فارغاً باللغتين يُخفى. [[كلمة]] بلون المتجر.
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/18-coach-blog/03-title-panel.webp" alt="لوحة إعدادات — العنوان" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/18-coach-blog/03-title-result.webp" alt="معاينة — العنوان" loading="lazy" decoding="async"/> | مكانه في القسم محاط بإطار برتقالي |
+| <img data-update-ref="18-coach-blog:title:0:panel" src="/coach-docs/assets/updates/1.94.0/sections/18-coach-blog/03-title-panel.webp?v=c47b0c107a4b" alt="لوحة إعدادات (نسخة مطابقة) — العنوان" loading="lazy" decoding="async"/> | <img data-update-ref="18-coach-blog:title:0:result" src="/coach-docs/assets/updates/1.94.0/sections/18-coach-blog/03-title-result.webp?v=4e3261c189e0" alt="معاينة — العنوان" loading="lazy" decoding="async"/> | مكانه في القسم محاط بإطار برتقالي |
 
 ### «مصدر المقالات»
 
@@ -77,8 +78,8 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/18-coach-blog/04-source-latest-panel.webp" alt="لوحة إعدادات — مصدر المقالات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/18-coach-blog/00-desktop.webp" alt="معاينة — مصدر المقالات" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | «أحدث مقالات المدوّنة (تلقائي)» |
-| <img src="/coach-docs/assets/sections/18-coach-blog/04-source-manual-panel.webp" alt="لوحة إعدادات — مصدر المقالات" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/18-coach-blog/04-source-manual-result.webp" alt="معاينة — مصدر المقالات" loading="lazy" decoding="async"/> | «مقالات أكتبها وأختارها» |
+| <img data-update-ref="18-coach-blog:source:0:panel" src="/coach-docs/assets/updates/1.94.0/sections/18-coach-blog/04-source-latest-panel.webp?v=eeeb2c118020" alt="لوحة إعدادات (نسخة مطابقة) — مصدر المقالات" loading="lazy" decoding="async"/> | <img data-update-ref="18-coach-blog:source:0:result" src="/coach-docs/assets/updates/1.94.0/sections/18-coach-blog/01-layout-plain-result.webp?v=0470613c1829" alt="معاينة — مصدر المقالات" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة؛ لا تثبت أثر كل خيار بصورة مستقلة.</small> | «أحدث مقالات المدوّنة (تلقائي)» |
+| <img data-update-ref="18-coach-blog:source:1:panel" src="/coach-docs/assets/updates/1.94.0/sections/18-coach-blog/04-source-manual-panel.webp?v=580ce126e5c8" alt="لوحة إعدادات (نسخة مطابقة) — مصدر المقالات" loading="lazy" decoding="async"/> | <img data-update-ref="18-coach-blog:source:1:result" src="/coach-docs/assets/updates/1.94.0/sections/18-coach-blog/04-source-manual-result.webp?v=f49836375134" alt="معاينة — مصدر المقالات" loading="lazy" decoding="async"/> | «مقالات أكتبها وأختارها» |
 
 ### «عدد المقالات (١–٦)»
 
@@ -89,7 +90,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/18-coach-blog/05-limit-panel.webp" alt="لوحة إعدادات — عدد المقالات (١–٦)" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/18-coach-blog/00-desktop.webp" alt="معاينة — عدد المقالات (١–٦)" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
+| <img data-update-ref="18-coach-blog:limit:0:panel" src="/coach-docs/assets/updates/1.94.0/sections/18-coach-blog/05-limit-panel.webp?v=dadf26729083" alt="لوحة إعدادات (نسخة مطابقة) — عدد المقالات (١–٦)" loading="lazy" decoding="async"/> | <img data-update-ref="18-coach-blog:limit:0:result" src="/coach-docs/assets/updates/1.94.0/sections/18-coach-blog/00-desktop.webp?v=bfd78f8ffff2" alt="معاينة — عدد المقالات (١–٦)" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة؛ لا تثبت أثر كل خيار بصورة مستقلة.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
 ### «المقالات المكتوبة»
 
@@ -101,7 +102,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/18-coach-blog/06-posts-panel.webp" alt="لوحة إعدادات — المقالات المكتوبة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/18-coach-blog/00-desktop.webp" alt="معاينة — المقالات المكتوبة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | أول عنصر محاط بإطار برتقالي |
+| <img data-update-ref="18-coach-blog:posts:0:panel" src="/coach-docs/assets/updates/1.94.0/sections/18-coach-blog/06-posts-panel.webp?v=607aa3a380f8" alt="لوحة إعدادات (نسخة مطابقة) — المقالات المكتوبة" loading="lazy" decoding="async"/> | <img data-update-ref="18-coach-blog:posts:0:result" src="/coach-docs/assets/updates/1.94.0/sections/18-coach-blog/06-posts-result.webp?v=c1a0c752c75d" alt="معاينة — المقالات المكتوبة" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة؛ لا تثبت أثر كل خيار بصورة مستقلة.</small> | أول عنصر محاط بإطار برتقالي |
 
 #### «الصورة»
 
@@ -112,7 +113,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/18-coach-blog/06-posts-image-panel.webp" alt="لوحة إعدادات — المقالات المكتوبة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/18-coach-blog/00-desktop.webp" alt="معاينة — المقالات المكتوبة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
+| <img data-update-ref="18-coach-blog:posts:1:panel" src="/coach-docs/assets/updates/1.94.0/sections/18-coach-blog/06-posts-image-panel.webp?v=39f7db3732f0" alt="لوحة إعدادات (نسخة مطابقة) — المقالات المكتوبة" loading="lazy" decoding="async"/> | <img data-update-ref="18-coach-blog:posts:1:result" src="/coach-docs/assets/updates/1.94.0/sections/18-coach-blog/06-posts-result.webp?v=c1a0c752c75d" alt="معاينة — المقالات المكتوبة" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة؛ لا تثبت أثر كل خيار بصورة مستقلة.</small> |  |
 
 #### «سطر علوي»
 
@@ -122,7 +123,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/18-coach-blog/06-posts-image-panel.webp" alt="لوحة إعدادات — المقالات المكتوبة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/18-coach-blog/00-desktop.webp" alt="معاينة — المقالات المكتوبة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
+| <img data-update-ref="18-coach-blog:posts:2:panel" src="/coach-docs/assets/updates/1.94.0/sections/18-coach-blog/06-posts-image-panel.webp?v=39f7db3732f0" alt="لوحة إعدادات (نسخة مطابقة) — المقالات المكتوبة" loading="lazy" decoding="async"/> | <img data-update-ref="18-coach-blog:posts:2:result" src="/coach-docs/assets/updates/1.94.0/sections/18-coach-blog/06-posts-result.webp?v=c1a0c752c75d" alt="معاينة — المقالات المكتوبة" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة؛ لا تثبت أثر كل خيار بصورة مستقلة.</small> |  |
 
 #### «العنوان»
 
@@ -132,7 +133,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/18-coach-blog/06-posts-image-panel.webp" alt="لوحة إعدادات — المقالات المكتوبة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/18-coach-blog/00-desktop.webp" alt="معاينة — المقالات المكتوبة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
+| <img data-update-ref="18-coach-blog:posts:3:panel" src="/coach-docs/assets/updates/1.94.0/sections/18-coach-blog/06-posts-image-panel.webp?v=39f7db3732f0" alt="لوحة إعدادات (نسخة مطابقة) — المقالات المكتوبة" loading="lazy" decoding="async"/> | <img data-update-ref="18-coach-blog:posts:3:result" src="/coach-docs/assets/updates/1.94.0/sections/18-coach-blog/06-posts-result.webp?v=c1a0c752c75d" alt="معاينة — المقالات المكتوبة" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة؛ لا تثبت أثر كل خيار بصورة مستقلة.</small> |  |
 
 #### «المقالة»
 
@@ -142,7 +143,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/18-coach-blog/06-posts-image-panel.webp" alt="لوحة إعدادات — المقالات المكتوبة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/18-coach-blog/00-desktop.webp" alt="معاينة — المقالات المكتوبة" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> |  |
+| <img data-update-ref="18-coach-blog:posts:4:panel" src="/coach-docs/assets/updates/1.94.0/sections/18-coach-blog/06-posts-image-panel.webp?v=39f7db3732f0" alt="لوحة إعدادات (نسخة مطابقة) — المقالات المكتوبة" loading="lazy" decoding="async"/> | <img data-update-ref="18-coach-blog:posts:4:result" src="/coach-docs/assets/updates/1.94.0/sections/18-coach-blog/06-posts-result.webp?v=c1a0c752c75d" alt="معاينة — المقالات المكتوبة" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة؛ لا تثبت أثر كل خيار بصورة مستقلة.</small> |  |
 
 ### «نص رابط «كل المقالات»»
 
@@ -154,7 +155,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/18-coach-blog/07-all_label-panel.webp" alt="لوحة إعدادات — نص رابط «كل المقالات»" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/18-coach-blog/07-all_label-result.webp" alt="معاينة — نص رابط «كل المقالات»" loading="lazy" decoding="async"/> | مكانه في القسم محاط بإطار برتقالي |
+| <img data-update-ref="18-coach-blog:all_label:0:panel" src="/coach-docs/assets/updates/1.94.0/sections/18-coach-blog/07-all_label-panel.webp?v=f4f9f08a143e" alt="لوحة إعدادات (نسخة مطابقة) — نص رابط «كل المقالات»" loading="lazy" decoding="async"/> | <img data-update-ref="18-coach-blog:all_label:0:result" src="/coach-docs/assets/updates/1.94.0/sections/18-coach-blog/07-all_label-result.webp?v=8d6d331f84c7" alt="معاينة — نص رابط «كل المقالات»" loading="lazy" decoding="async"/> | مكانه في القسم محاط بإطار برتقالي |
 
 ### «زر «اقرأ المزيد» في كل بطاقة»
 
@@ -166,7 +167,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/18-coach-blog/08-read_more-panel.webp" alt="لوحة إعدادات — زر «اقرأ المزيد» في كل بطاقة" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/18-coach-blog/08-read_more-off-result.webp" alt="معاينة — زر «اقرأ المزيد» في كل بطاقة" loading="lazy" decoding="async"/> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
+| <img data-update-ref="18-coach-blog:read_more:0:panel" src="/coach-docs/assets/updates/1.94.0/sections/18-coach-blog/08-read_more-panel.webp?v=51b13c7ab858" alt="لوحة إعدادات (نسخة مطابقة) — زر «اقرأ المزيد» في كل بطاقة" loading="lazy" decoding="async"/> | <img data-update-ref="18-coach-blog:read_more:0:result" src="/coach-docs/assets/updates/1.94.0/sections/18-coach-blog/08-read_more-off-result.webp?v=b4cb1d4d5255" alt="معاينة — زر «اقرأ المزيد» في كل بطاقة" loading="lazy" decoding="async"/> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
 
 ### «نص زر «اقرأ المزيد»»
 
@@ -179,10 +180,29 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/18-coach-blog/09-read_more_label-panel.webp" alt="لوحة إعدادات — نص زر «اقرأ المزيد»" loading="lazy" decoding="async"/> | <img src="/coach-docs/assets/sections/18-coach-blog/00-desktop.webp" alt="معاينة — نص زر «اقرأ المزيد»" loading="lazy" decoding="async"/><small class="image-reference">صورة مرجعية مشتركة؛ ليست لقطة مستقلة لتغيير هذا الإعداد.</small> | النتيجة: القسم بالقيمة الافتراضية |
+| <img data-update-ref="18-coach-blog:read_more_label:0:panel" src="/coach-docs/assets/updates/1.94.0/sections/18-coach-blog/09-read_more_label-panel.webp?v=8ec5e4d2b452" alt="لوحة إعدادات (نسخة مطابقة) — نص زر «اقرأ المزيد»" loading="lazy" decoding="async"/> | <img data-update-ref="18-coach-blog:read_more_label:0:result" src="/coach-docs/assets/updates/1.94.0/sections/18-coach-blog/00-desktop.webp?v=bfd78f8ffff2" alt="معاينة — نص زر «اقرأ المزيد»" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة؛ لا تثبت أثر كل خيار بصورة مستقلة.</small> | النتيجة: القسم بالقيمة الافتراضية |
 
----
-> ملاحظات البناء: لم يُعثر على النص لتمييزه: 00-desktop.webp · لا عنصر: 01-layout-editorial-result.webp
+### «عدد الأعمدة على الحاسوب (٠ تلقائي، عدا التحريري)»
+
+- **النوع:** رقم · **الافتراضي:** 0 · المعرّف `cols`
+- **ماذا يفعل:** عدد الأعمدة على الحاسوب.
+- **متى تستعمله:** مع الشكلين العادي والبطاقات، ولا أثر له في «تحريري».
+- **حين يكون فارغاً:** صفر: تلقائي حسب عرض الشاشة.
+
+| اللوحة (نسخة مطابقة) | النتيجة | |
+|---|---|---|
+| <img data-update-ref="18-coach-blog:cols:0:panel" src="/coach-docs/assets/updates/1.94.0/sections/18-coach-blog/10-cols-panel.webp?v=ae1800c1b668" alt="لوحة إعدادات (نسخة مطابقة) — عدد الأعمدة على الحاسوب (٠ تلقائي، عدا التحريري)" loading="lazy" decoding="async"/> | <img data-update-ref="18-coach-blog:cols:0:result" src="/coach-docs/assets/updates/1.94.0/sections/18-coach-blog/00-desktop.webp?v=bfd78f8ffff2" alt="معاينة — عدد الأعمدة على الحاسوب (٠ تلقائي، عدا التحريري)" loading="lazy" decoding="async"/><small class="image-reference">معاينة مرجعية مشتركة؛ لا تثبت أثر كل خيار بصورة مستقلة.</small> | النتيجة: القسم بالقيمة الافتراضية |
+
+### «كلاسات CSS»
+
+- **النوع:** نص بسطر واحد · **الافتراضي:** فارغ · المعرّف `custom_classes`
+- **ماذا يفعل:** كلمات لاتينية تُضاف لكلاس القسم: كلاسات جاهزة مثل cx-narrow وcx-center وcx-no-head، أو كلاس خاص يُنسَّق من «تخصيص متقدم» في سلة.
+- **متى تستعمله:** لتعديل قسم واحد بلا تغيير الثيم كله. الحروف والأرقام و- و_ فقط، تبدأ الكلمة بحرف، وحتى ثماني كلمات.
+- **حين يكون فارغاً:** فارغ: القسم كما هو.
+
+| اللوحة (نسخة مطابقة) | النتيجة | |
+|---|---|---|
+| <img data-update-ref="18-coach-blog:custom_classes:0:panel" src="/coach-docs/assets/updates/1.94.0/sections/18-coach-blog/11-custom_classes-panel.webp?v=672c81e2801a" alt="لوحة إعدادات (نسخة مطابقة) — كلاسات CSS" loading="lazy" decoding="async"/> | <img data-update-ref="18-coach-blog:custom_classes:0:result" src="/coach-docs/assets/updates/1.94.0/sections/18-coach-blog/11-custom_classes-result.webp?v=4411eb757e1a" alt="معاينة — كلاسات CSS" loading="lazy" decoding="async"/> | النتيجة مع «cx-narrow cx-center» |
 
 
-<div class="source-note">صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>
+<div class="source-note">صور اللوحات تمثيل مطابق لحقول المحرّر، وليست لقطات من محرّر سلة نفسه. صور النتائج ببيانات تجريبية؛ تُفتح الصورة بالضغط عليها لقراءتها بالحجم الأصلي.</div>

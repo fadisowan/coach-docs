@@ -7,13 +7,13 @@ editUrl: false
 
 اسمه في المتجر الإنجليزي: *Trust · Custom testimonials* · مساره `home.custom-testimonials`
 
-**ما يعرضه:** آراء عملاء تُكتب يدوياً، رأي واحد في كل مرة بصورة واسم ونجوم، وتتبدّل وحدها.
+**ما يعرضه:** آراء عملاء تُكتب يدوياً، رأي واحد في كل مرة بصورة واسم ونجوم، وتتبدّل وحدها أو بالأسهم.
 
 | كمبيوتر (1440) | جوال (390) |
 |---|---|
-| <span class="uncaptured-preview">لم تُلتقط هذه المعاينة في الحزمة المرفقة؛ عرضها يتطلب بيانات متجر في سلة.</span> | <span class="uncaptured-preview">لم تُلتقط هذه المعاينة في الحزمة المرفقة؛ عرضها يتطلب بيانات متجر في سلة.</span> |
+| <span class="uncaptured-preview">معاينة النتيجة غير متوفرة في المصدر؛ تظهر لوحة الإعداد والشرح المتاح.</span> | <span class="uncaptured-preview">معاينة النتيجة غير متوفرة في المصدر؛ تظهر لوحة الإعداد والشرح المتاح.</span> |
 
-خيارات مشتركة في هذا القسم، مشروحة مرة واحدة في [الخيارات المشتركة](/coach-docs/docs/01-shared/): «حجم العنوان»، «خلفية القسم»، «لون الخلفية المخصص»، «صورة خلفية القسم»، «قوة طبقة اللون فوق الصورة»، «تمديد الخلفية بعرض الشاشة»، «المسافة العلوية (بكسل)»، «المسافة السفلية (بكسل)».
+خيارات مشتركة في هذا القسم، ومنها [كلاسات CSS الجاهزة](/coach-docs/docs/01-shared/#custom-classes)، مشروحة مرة واحدة في [الخيارات المشتركة](/coach-docs/docs/01-shared/): «حجم العنوان»، «خلفية القسم»، «لون الخلفية المخصص»، «صورة خلفية القسم»، «قوة طبقة اللون فوق الصورة»، «تمديد الخلفية بعرض الشاشة»، «المسافة العلوية (بكسل)»، «المسافة السفلية (بكسل)».
 
 <details><summary>من دليل التاجر</summary>
 
@@ -21,6 +21,7 @@ editUrl: false
 
 - **أهم الإعدادات:** «التقييمات» حتى ٣٠ (اسم العميل، وصورته اختيارية، وعدد النجوم، ونص التقييم).
 - **مهم:** بلا تقييمات لا يظهر القسم للزوار. تُكتب آراء حقيقية فقط.
+- **خيارات إضافية:** «تحريك تلقائي» (مفعّل)، و«مدة كل رأي (٤–١٠ ثوانٍ)» (الافتراضي ٦)، و«نجوم التقييم» (مفعّل).
 
 </details>
 
@@ -29,14 +30,14 @@ editUrl: false
 ### «العنوان»
 
 - **النوع:** نص بسطر واحد · **الافتراضي:** آراء العملاء · المعرّف `title`
-- **ماذا يفعل:** عنوان القسم. ضع كلمة بين [[ ]] لتظهر مميّزة بالشكل المختار في «تخصيص الثيم».
+- **ماذا يفعل:** عنوان القسم. ضع كلمة بين [[ ]] لتظهر مميّزة بالشكل المختار في «الخيارات العامة».
 - **متى تستعمله:** جملة قصيرة تقول ما يجده الزائر في القسم.
 - **حين يكون فارغاً:** فارغاً باللغتين لا يظهر. إن مسحته بالعربية وحدها ظهر النص الإنجليزي.
 - شرحه تحت الحقل في المحرّر: فارغاً باللغتين يُخفى. [[كلمة]] بلون المتجر.
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/16-custom-testimonials/01-title-panel.webp" alt="لوحة إعدادات — العنوان" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">لم تُلتقط هذه المعاينة في الحزمة المرفقة؛ عرضها يتطلب بيانات متجر في سلة.</span> | مكانه في القسم محاط بإطار برتقالي |
+| <img data-update-ref="16-custom-testimonials:title:0:panel" src="/coach-docs/assets/updates/1.94.0/sections/16-custom-testimonials/01-title-panel.webp?v=5a330a08d8e9" alt="لوحة إعدادات (نسخة مطابقة) — العنوان" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">معاينة النتيجة غير متوفرة في المصدر؛ تظهر لوحة الإعداد والشرح المتاح.</span> | مكانه في القسم محاط بإطار برتقالي |
 
 ### «التقييمات»
 
@@ -46,7 +47,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/16-custom-testimonials/02-items-panel.webp" alt="لوحة إعدادات — التقييمات" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">لم تُلتقط هذه المعاينة في الحزمة المرفقة؛ عرضها يتطلب بيانات متجر في سلة.</span> |  |
+| <img data-update-ref="16-custom-testimonials:items:0:panel" src="/coach-docs/assets/updates/1.94.0/sections/16-custom-testimonials/02-items-panel.webp?v=9e064de2147f" alt="لوحة إعدادات (نسخة مطابقة) — التقييمات" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">معاينة النتيجة غير متوفرة في المصدر؛ تظهر لوحة الإعداد والشرح المتاح.</span> |  |
 
 #### «اسم العميل»
 
@@ -54,7 +55,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/16-custom-testimonials/02-items-name-panel.webp" alt="لوحة إعدادات — التقييمات" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">لم تُلتقط هذه المعاينة في الحزمة المرفقة؛ عرضها يتطلب بيانات متجر في سلة.</span> |  |
+| <img data-update-ref="16-custom-testimonials:items:1:panel" src="/coach-docs/assets/updates/1.94.0/sections/16-custom-testimonials/02-items-name-panel.webp?v=568834e79e31" alt="لوحة إعدادات (نسخة مطابقة) — التقييمات" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">معاينة النتيجة غير متوفرة في المصدر؛ تظهر لوحة الإعداد والشرح المتاح.</span> |  |
 
 #### «صورة العميل (اختيارية)»
 
@@ -64,7 +65,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/16-custom-testimonials/02-items-avatar-panel.webp" alt="لوحة إعدادات — التقييمات" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">لم تُلتقط هذه المعاينة في الحزمة المرفقة؛ عرضها يتطلب بيانات متجر في سلة.</span> |  |
+| <img data-update-ref="16-custom-testimonials:items:2:panel" src="/coach-docs/assets/updates/1.94.0/sections/16-custom-testimonials/02-items-avatar-panel.webp?v=a80978d30b41" alt="لوحة إعدادات (نسخة مطابقة) — التقييمات" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">معاينة النتيجة غير متوفرة في المصدر؛ تظهر لوحة الإعداد والشرح المتاح.</span> |  |
 
 #### «عدد النجوم (١–٥)»
 
@@ -72,7 +73,7 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/16-custom-testimonials/02-items-stars-panel.webp" alt="لوحة إعدادات — التقييمات" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">لم تُلتقط هذه المعاينة في الحزمة المرفقة؛ عرضها يتطلب بيانات متجر في سلة.</span> |  |
+| <img data-update-ref="16-custom-testimonials:items:3:panel" src="/coach-docs/assets/updates/1.94.0/sections/16-custom-testimonials/02-items-stars-panel.webp?v=1d72c32d7a86" alt="لوحة إعدادات (نسخة مطابقة) — التقييمات" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">معاينة النتيجة غير متوفرة في المصدر؛ تظهر لوحة الإعداد والشرح المتاح.</span> |  |
 
 #### «نص التقييم»
 
@@ -80,10 +81,59 @@ editUrl: false
 
 | اللوحة (نسخة مطابقة) | النتيجة | |
 |---|---|---|
-| <img src="/coach-docs/assets/sections/16-custom-testimonials/02-items-text-panel.webp" alt="لوحة إعدادات — التقييمات" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">لم تُلتقط هذه المعاينة في الحزمة المرفقة؛ عرضها يتطلب بيانات متجر في سلة.</span> |  |
+| <img data-update-ref="16-custom-testimonials:items:4:panel" src="/coach-docs/assets/updates/1.94.0/sections/16-custom-testimonials/02-items-text-panel.webp?v=77b41aee2225" alt="لوحة إعدادات (نسخة مطابقة) — التقييمات" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">معاينة النتيجة غير متوفرة في المصدر؛ تظهر لوحة الإعداد والشرح المتاح.</span> |  |
+
+### «تحريك تلقائي»
+
+- **النوع:** مفتاح تشغيل وإطفاء · **الافتراضي:** مفعّل · المعرّف `autoplay`
+- **ماذا يفعل:** تبديل الآراء وحده، ويتوقف تحت المؤشر ومع تقليل الحركة.
+- **متى تستعمله:** مطفأ ليقلّب الزائر بالأسهم.
+- **حين يكون فارغاً:** مفعّل افتراضياً.
+
+| اللوحة (نسخة مطابقة) | النتيجة | |
+|---|---|---|
+| <img data-update-ref="16-custom-testimonials:autoplay:0:panel" src="/coach-docs/assets/updates/1.94.0/sections/16-custom-testimonials/03-autoplay-panel.webp?v=103980da2a28" alt="لوحة إعدادات (نسخة مطابقة) — تحريك تلقائي" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">معاينة النتيجة غير متوفرة في المصدر؛ تظهر لوحة الإعداد والشرح المتاح.</span> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
+
+### «مدة كل رأي (٤–١٠ ثوانٍ)»
+
+- **النوع:** رقم · **الافتراضي:** 6 · المعرّف `interval`
+- **ماذا يفعل:** مدة كل رأي بالثواني، من ٤ إلى ١٠.
+- **متى تستعمله:** مع التبديل التلقائي فقط.
+- **حين يكون فارغاً:** ٦ ثوانٍ افتراضياً.
+- **يظهر في اللوحة فقط حين:** «تحريك تلقائي» هو «مفعّل»
+
+| اللوحة (نسخة مطابقة) | النتيجة | |
+|---|---|---|
+| <img data-update-ref="16-custom-testimonials:interval:0:panel" src="/coach-docs/assets/updates/1.94.0/sections/16-custom-testimonials/04-interval-panel.webp?v=12bf658d4ceb" alt="لوحة إعدادات (نسخة مطابقة) — مدة كل رأي (٤–١٠ ثوانٍ)" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">معاينة النتيجة غير متوفرة في المصدر؛ تظهر لوحة الإعداد والشرح المتاح.</span> | النتيجة: القسم بالقيمة الافتراضية |
+
+### «نجوم التقييم»
+
+- **النوع:** مفتاح تشغيل وإطفاء · **الافتراضي:** مفعّل · المعرّف `show_stars`
+- **ماذا يفعل:** نجوم التقييم مع كل رأي.
+- **متى تستعمله:** مطفأة للآراء بلا تقييم رقمي.
+- **حين يكون فارغاً:** مفعّلة افتراضياً.
+
+| اللوحة (نسخة مطابقة) | النتيجة | |
+|---|---|---|
+| <img data-update-ref="16-custom-testimonials:show_stars:0:panel" src="/coach-docs/assets/updates/1.94.0/sections/16-custom-testimonials/05-show_stars-panel.webp?v=4ca57d02ed5b" alt="لوحة إعدادات (نسخة مطابقة) — نجوم التقييم" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">معاينة النتيجة غير متوفرة في المصدر؛ تظهر لوحة الإعداد والشرح المتاح.</span> | النتيجة بعد إطفائه (الافتراضي مفعّل) |
+
+### «كلاسات CSS»
+
+- **النوع:** نص بسطر واحد · **الافتراضي:** فارغ · المعرّف `custom_classes`
+- **ماذا يفعل:** كلمات لاتينية تُضاف لكلاس القسم: كلاسات جاهزة مثل cx-narrow وcx-center وcx-no-head، أو كلاس خاص يُنسَّق من «تخصيص متقدم» في سلة.
+- **متى تستعمله:** لتعديل قسم واحد بلا تغيير الثيم كله. الحروف والأرقام و- و_ فقط، تبدأ الكلمة بحرف، وحتى ثماني كلمات.
+- **حين يكون فارغاً:** فارغ: القسم كما هو.
+
+| اللوحة (نسخة مطابقة) | النتيجة | |
+|---|---|---|
+| <img data-update-ref="16-custom-testimonials:custom_classes:0:panel" src="/coach-docs/assets/updates/1.94.0/sections/16-custom-testimonials/06-custom_classes-panel.webp?v=0214ed6156f7" alt="لوحة إعدادات (نسخة مطابقة) — كلاسات CSS" loading="lazy" decoding="async"/> | <span class="uncaptured-preview">معاينة النتيجة غير متوفرة في المصدر؛ تظهر لوحة الإعداد والشرح المتاح.</span> | النتيجة مع «cx-narrow cx-center» |
 
 ---
-> ملاحظات البناء: لا عنصر: 00-desktop.webp · لا عنصر: 01-title-result.webp · لا عنصر: 00-mobile.webp
+> ملاحظات البناء: لا عنصر: 00-desktop.webp · لا عنصر: 01-title-result.webp · لا عنصر: 00-mobile.webp · لا عنصر: 03-autoplay-off-result.webp · لا عنصر: 05-show_stars-off-result.webp · لا عنصر: 06-custom_classes-result.webp
 
 
-<div class="source-note">صور لوحات الإعدادات مرسومة من تعريفات الثيم؛ صور النتائج من المعاينة. اضغط على الصورة لتكبيرها.</div>
+<div class="source-note">صور اللوحات تمثيل مطابق لحقول المحرّر، وليست لقطات من محرّر سلة نفسه. صور النتائج ببيانات تجريبية؛ تُفتح الصورة بالضغط عليها لقراءتها بالحجم الأصلي.</div>
+
+:::note[البيانات الافتراضية]
+الأرقام والتقييمات والآراء الافتراضية أمثلة، تُعدَّل قبل النشر.
+:::
